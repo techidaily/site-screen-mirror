@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple iPhone 6 Screen Mirroring You Must Know | Dr.fone
-date: 2024-03-30 21:32:37
-updated: 2024-03-31 11:52:50
+date: 2024-04-01T07:29:58.644Z
+updated: 2024-04-02T07:29:58.644Z
 tags: 
   - screen-mirror
   - mirror-phone

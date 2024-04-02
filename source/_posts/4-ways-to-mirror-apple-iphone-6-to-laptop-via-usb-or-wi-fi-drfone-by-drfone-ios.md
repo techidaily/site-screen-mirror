@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Mirror Apple iPhone 6 to Laptop via USB or Wi-Fi | Dr.fone
-date: 2024-03-28 12:22:17
-updated: 2024-03-31 21:21:24
+date: 2024-04-01T07:29:58.615Z
+updated: 2024-04-02T07:29:58.615Z
 tags: 
   - screen-mirror
   - mirror-phone

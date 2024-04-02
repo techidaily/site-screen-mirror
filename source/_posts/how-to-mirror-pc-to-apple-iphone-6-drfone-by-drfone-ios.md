@@ -1,7 +1,7 @@
 ---
 title: How to Mirror PC to Apple iPhone 6? | Dr.fone
-date: 2024-03-30 17:17:36
-updated: 2024-03-31 23:31:24
+date: 2024-04-01T07:29:58.620Z
+updated: 2024-04-02T07:29:58.620Z
 tags: 
   - screen-mirror
   - mirror-phone

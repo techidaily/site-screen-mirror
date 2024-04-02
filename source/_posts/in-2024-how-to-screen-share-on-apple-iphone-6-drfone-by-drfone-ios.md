@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Screen Share on Apple iPhone 6? | Dr.fone
-date: 2024-03-29 23:54:48
-updated: 2024-03-31 18:47:29
+date: 2024-04-01T07:29:58.639Z
+updated: 2024-04-02T07:29:58.639Z
 tags: 
   - screen-mirror
   - mirror-phone

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Apple iPhone 6 to Roku? | Dr.fone
-date: 2024-03-30 11:42:49
-updated: 2024-03-31 21:34:34
+date: 2024-04-01T07:29:58.652Z
+updated: 2024-04-02T07:29:58.652Z
 tags: 
   - screen-mirror
   - mirror-phone

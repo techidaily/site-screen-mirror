@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Can You Cast Your Apple iPhone 6 to Windows PC With Ease? | Dr.fone
-date: 2024-03-29 20:14:48
-updated: 2024-03-31 20:34:18
+date: 2024-04-01T07:29:58.632Z
+updated: 2024-04-02T07:29:58.632Z
 tags: 
   - screen-mirror
   - mirror-phone

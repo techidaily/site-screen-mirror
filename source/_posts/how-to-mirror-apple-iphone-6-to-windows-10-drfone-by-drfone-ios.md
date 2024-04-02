@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone 6 to Windows 10? | Dr.fone
-date: 2024-03-28 18:43:38
-updated: 2024-03-31 11:44:31
+date: 2024-04-01T07:29:58.619Z
+updated: 2024-04-02T07:29:58.619Z
 tags: 
   - screen-mirror
   - mirror-phone

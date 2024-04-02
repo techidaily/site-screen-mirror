@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple iPhone 6 Mirror to PC? Top Apps You Must Know | Dr.fone
-date: 2024-03-30 10:47:11
-updated: 2024-03-31 17:47:24
+date: 2024-04-01T07:29:58.640Z
+updated: 2024-04-02T07:29:58.640Z
 tags: 
   - screen-mirror
   - mirror-phone

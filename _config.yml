@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechiDaily
+title: Screen Mirror
 subtitle: 'Enjoy life easier but more creative!'
-description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
-keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
-author: TechiDaily
+description: 'Screen Mirror is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
+keywords: 'screen mirror, android screen mirror, ios screen mirror, iphone screen mirror, ipad screen mirror, pc screen mirror, mac screen mirror,Tools, File explorer, Convert, Repair tools, data recovery'
+author: Seraphina
 language: en
 timezone: ''
 
@@ -102,6 +102,7 @@ theme: redefine
 sitemap:
   path: 
     - sitemap.txt
+    - sitemap.xml
   rel: false
   tags: false
   categories: false

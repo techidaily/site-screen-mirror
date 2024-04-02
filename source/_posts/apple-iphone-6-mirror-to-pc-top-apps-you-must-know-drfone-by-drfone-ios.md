@@ -1,7 +1,7 @@
 ---
 title: Apple iPhone 6 Mirror to PC? Top Apps You Must Know | Dr.fone
-date: 2024-03-30 11:59:12
-updated: 2024-03-31 12:28:40
+date: 2024-04-01T07:29:58.600Z
+updated: 2024-04-02T07:29:58.600Z
 tags: 
   - screen-mirror
   - mirror-phone

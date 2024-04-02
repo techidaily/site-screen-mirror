@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirror your Apple iPhone 6 Display? | Dr.fone
-date: 2024-03-28 11:13:42
-updated: 2024-03-31 17:39:49
+date: 2024-04-01T07:29:58.621Z
+updated: 2024-04-02T07:29:58.621Z
 tags: 
   - screen-mirror
   - mirror-phone

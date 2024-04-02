@@ -1,7 +1,7 @@
 ---
 title: How to Screen Share Mac to Apple iPhone 6? | Dr.fone
-date: 2024-03-30 23:50:43
-updated: 2024-03-31 23:54:26
+date: 2024-04-01T07:29:58.626Z
+updated: 2024-04-02T07:29:58.626Z
 tags: 
   - screen-mirror
   - mirror-phone

@@ -1,7 +1,7 @@
 ---
 title: Is it Possible to Use Miracast with Apple iPhone 6? | Dr.fone
-date: 2024-03-30 16:51:19
-updated: 2024-03-31 12:26:22
+date: 2024-04-01T07:29:58.601Z
+updated: 2024-04-02T07:29:58.601Z
 tags: 
   - screen-mirror
   - mirror-phone
