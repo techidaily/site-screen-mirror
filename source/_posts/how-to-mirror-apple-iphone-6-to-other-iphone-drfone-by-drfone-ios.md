@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone 6 to Other iPhone? | Dr.fone
-date: 2024-04-01T07:29:58.614Z
-updated: 2024-04-02T07:29:58.614Z
+date: 2024-04-01T13:27:45.099Z
+updated: 2024-04-02T13:27:45.099Z
 tags: 
   - screen-mirror
   - mirror-phone

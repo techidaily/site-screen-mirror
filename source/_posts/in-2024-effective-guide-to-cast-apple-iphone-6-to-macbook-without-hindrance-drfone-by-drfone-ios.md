@@ -1,7 +1,7 @@
 ---
 title: In 2024, Effective Guide to Cast Apple iPhone 6 to MacBook without Hindrance | Dr.fone
-date: 2024-04-01T07:29:58.632Z
-updated: 2024-04-02T07:29:58.632Z
+date: 2024-04-01T13:27:45.126Z
+updated: 2024-04-02T13:27:45.126Z
 tags: 
   - screen-mirror
   - mirror-phone

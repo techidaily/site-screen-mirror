@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Apple iPhone 6 to Chromecast? | Dr.fone
-date: 2024-04-01T07:29:58.630Z
-updated: 2024-04-02T07:29:58.630Z
+date: 2024-04-01T13:27:45.123Z
+updated: 2024-04-02T13:27:45.123Z
 tags: 
   - screen-mirror
   - mirror-phone

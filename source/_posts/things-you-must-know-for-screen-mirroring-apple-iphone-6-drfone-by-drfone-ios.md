@@ -1,7 +1,7 @@
 ---
 title: Things You Must Know for Screen Mirroring Apple iPhone 6 | Dr.fone
-date: 2024-04-01T07:29:58.623Z
-updated: 2024-04-02T07:29:58.623Z
+date: 2024-04-01T13:27:45.108Z
+updated: 2024-04-02T13:27:45.108Z
 tags: 
   - screen-mirror
   - mirror-phone

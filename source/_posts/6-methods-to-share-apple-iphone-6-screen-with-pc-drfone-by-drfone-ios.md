@@ -1,7 +1,7 @@
 ---
 title: 6 Methods to Share Apple iPhone 6 Screen with PC | Dr.fone
-date: 2024-04-01T07:29:58.627Z
-updated: 2024-04-02T07:29:58.627Z
+date: 2024-04-01T13:27:45.112Z
+updated: 2024-04-02T13:27:45.112Z
 tags: 
   - screen-mirror
   - mirror-phone

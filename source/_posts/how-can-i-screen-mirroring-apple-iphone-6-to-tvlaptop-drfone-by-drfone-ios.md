@@ -1,7 +1,7 @@
 ---
 title: How Can I Screen Mirroring Apple iPhone 6 to TV/Laptop? | Dr.fone
-date: 2024-04-01T07:29:58.625Z
-updated: 2024-04-02T07:29:58.625Z
+date: 2024-04-01T13:27:45.110Z
+updated: 2024-04-02T13:27:45.110Z
 tags: 
   - screen-mirror
   - mirror-phone

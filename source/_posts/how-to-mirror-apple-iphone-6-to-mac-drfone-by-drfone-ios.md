@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone 6 to Mac? | Dr.fone
-date: 2024-04-01T07:29:58.604Z
-updated: 2024-04-02T07:29:58.604Z
+date: 2024-04-01T13:27:45.097Z
+updated: 2024-04-02T13:27:45.097Z
 tags: 
   - screen-mirror
   - mirror-phone

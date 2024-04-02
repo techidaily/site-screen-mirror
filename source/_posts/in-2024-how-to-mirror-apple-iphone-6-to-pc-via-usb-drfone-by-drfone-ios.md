@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Apple iPhone 6 to PC via USB? | Dr.fone
-date: 2024-04-01T07:29:58.650Z
-updated: 2024-04-02T07:29:58.650Z
+date: 2024-04-01T13:27:45.153Z
+updated: 2024-04-02T13:27:45.153Z
 tags: 
   - screen-mirror
   - mirror-phone

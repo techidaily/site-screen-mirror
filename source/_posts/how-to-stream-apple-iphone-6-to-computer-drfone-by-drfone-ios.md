@@ -1,7 +1,7 @@
 ---
 title: How to Stream Apple iPhone 6 to Computer? | Dr.fone
-date: 2024-04-01T07:29:58.628Z
-updated: 2024-04-02T07:29:58.628Z
+date: 2024-04-01T13:27:45.113Z
+updated: 2024-04-02T13:27:45.113Z
 tags: 
   - screen-mirror
   - mirror-phone

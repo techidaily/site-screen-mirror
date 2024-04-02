@@ -1,7 +1,7 @@
 ---
 title: How to Display Apple iPhone 6 Screen on PC Easily? | Dr.fone
-date: 2024-04-01T07:29:58.579Z
-updated: 2024-04-02T07:29:58.579Z
+date: 2024-04-01T13:27:45.047Z
+updated: 2024-04-02T13:27:45.047Z
 tags: 
   - screen-mirror
   - mirror-phone

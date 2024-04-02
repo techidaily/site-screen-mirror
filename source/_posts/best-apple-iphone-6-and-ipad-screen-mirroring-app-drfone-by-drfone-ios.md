@@ -1,7 +1,7 @@
 ---
 title: Best Apple iPhone 6 & iPad Screen Mirroring App | Dr.fone
-date: 2024-04-01T07:29:58.603Z
-updated: 2024-04-02T07:29:58.603Z
+date: 2024-04-01T13:27:45.096Z
+updated: 2024-04-02T13:27:45.096Z
 tags: 
   - screen-mirror
   - mirror-phone
