@@ -1,7 +1,7 @@
 ---
 title: How Can You Cast Your Apple iPhone 6 Plus to Windows PC With Ease? | Dr.fone
-date: 2024-04-07T19:11:15.167Z
-updated: 2024-04-08T19:11:15.167Z
+date: 2024-04-09T04:19:12.259Z
+updated: 2024-04-10T04:19:12.259Z
 tags: 
   - screen-mirror
   - mirror-phone

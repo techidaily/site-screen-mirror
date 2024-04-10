@@ -1,7 +1,7 @@
 ---
 title: The Top 10 Apple iPhone 6 Emualtors for Windows, Mac and Android | Dr.fone
-date: 2024-04-07T19:11:14.987Z
-updated: 2024-04-08T19:11:14.987Z
+date: 2024-04-09T04:19:12.147Z
+updated: 2024-04-10T04:19:12.147Z
 tags: 
   - screen-mirror
   - mirror-phone

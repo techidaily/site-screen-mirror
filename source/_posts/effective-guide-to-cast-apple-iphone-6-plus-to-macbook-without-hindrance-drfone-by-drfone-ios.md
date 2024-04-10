@@ -1,7 +1,7 @@
 ---
 title: Effective Guide to Cast Apple iPhone 6 Plus to MacBook without Hindrance | Dr.fone
-date: 2024-04-07T19:11:15.148Z
-updated: 2024-04-08T19:11:15.148Z
+date: 2024-04-09T04:19:12.259Z
+updated: 2024-04-10T04:19:12.259Z
 tags: 
   - screen-mirror
   - mirror-phone

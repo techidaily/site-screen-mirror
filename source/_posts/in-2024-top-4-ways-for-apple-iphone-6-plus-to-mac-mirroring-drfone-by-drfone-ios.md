@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 4 Ways for Apple iPhone 6 Plus to Mac Mirroring | Dr.fone
-date: 2024-04-07T19:11:15.242Z
-updated: 2024-04-08T19:11:15.242Z
+date: 2024-04-09T04:19:12.302Z
+updated: 2024-04-10T04:19:12.302Z
 tags: 
   - screen-mirror
   - mirror-phone

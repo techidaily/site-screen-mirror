@@ -1,7 +1,7 @@
 ---
 title: Is it Possible to Use Miracast with Apple iPhone 6s? | Dr.fone
-date: 2024-04-07T19:11:15.285Z
-updated: 2024-04-08T19:11:15.285Z
+date: 2024-04-09T04:19:12.352Z
+updated: 2024-04-10T04:19:12.352Z
 tags: 
   - screen-mirror
   - mirror-phone

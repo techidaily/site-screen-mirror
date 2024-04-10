@@ -1,7 +1,7 @@
 ---
 title: Wireless Methods to MirrorApple iPhone 6s & iPad to Fire Stick With Ease | Dr.fone
-date: 2024-04-07T19:11:15.278Z
-updated: 2024-04-08T19:11:15.278Z
+date: 2024-04-09T04:19:12.346Z
+updated: 2024-04-10T04:19:12.346Z
 tags: 
   - screen-mirror
   - mirror-phone

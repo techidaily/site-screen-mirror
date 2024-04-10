@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Apple iPhone 6 to iPad? | Dr.fone
-date: 2024-04-07T19:11:15.126Z
-updated: 2024-04-08T19:11:15.126Z
+date: 2024-04-09T04:19:12.196Z
+updated: 2024-04-10T04:19:12.196Z
 tags: 
   - screen-mirror
   - mirror-phone
