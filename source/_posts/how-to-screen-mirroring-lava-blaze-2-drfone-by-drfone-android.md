@@ -246,6 +246,12 @@ Chromecast has some advance features that every user should definitely know and 
 - •Chromecast is also compatible with IOS mobile devices and tablets – A lot of persons find this feature very hand since they have IOS devices. No need to worry as these devices are fully compatible with Chromecast.
 - • You can cast a website to your TV from a laptop or mobile device – Advanced features of Chromecast allows easy casting of webpages to your laptop or even a television from a mobile device.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

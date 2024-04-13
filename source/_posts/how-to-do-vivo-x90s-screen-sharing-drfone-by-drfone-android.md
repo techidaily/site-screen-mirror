@@ -309,6 +309,12 @@ Did you know that you could mirror your android screen to a PC and then control 
 
 The methods explained above will help you to mirror the android screen to Roku effortlessly. Each method has its cons and pros; however, if you do not own a tv and want to share your android screen on a larger screen with your friends. For this purpose, MirrorGo is the finest option as it permits users to cast an android screen to the laptop and allows users to control their android device through a keyboard and mouse attached to the computer.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

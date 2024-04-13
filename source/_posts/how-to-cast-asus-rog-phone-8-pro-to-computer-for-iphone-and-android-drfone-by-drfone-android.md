@@ -472,6 +472,12 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/andy.jpg)
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
