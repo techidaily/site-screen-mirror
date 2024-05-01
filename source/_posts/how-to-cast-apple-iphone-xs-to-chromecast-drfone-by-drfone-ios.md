@@ -1,7 +1,7 @@
 ---
 title: How to Cast Apple iPhone XS to Chromecast? | Dr.fone
-date: 2024-04-12T03:31:42.394Z
-updated: 2024-04-13T03:31:42.394Z
+date: 2024-04-30T08:49:42.213Z
+updated: 2024-05-01T08:49:42.213Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -436,3 +436,4 @@ The provided solutions for mirroring your Apple iPhone XS to a laptop are pretty
 <li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 5G Phone FRP Lock</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone SE to Roku? | Dr.fone
-date: 2024-04-12T03:30:42.098Z
-updated: 2024-04-13T03:30:42.098Z
+date: 2024-04-30T08:49:41.565Z
+updated: 2024-05-01T08:49:41.565Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -425,3 +425,4 @@ Screen mirroring Apple iPhone SE is easy to be carried out. You can project your
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia G42 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Huawei Nova Y91 | Dr.fone</u></a></li>
 </ul></div>
+

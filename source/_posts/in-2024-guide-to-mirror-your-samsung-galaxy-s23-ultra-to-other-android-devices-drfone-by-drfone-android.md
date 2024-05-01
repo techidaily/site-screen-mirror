@@ -305,3 +305,4 @@ Screen mirroring Samsung Galaxy S23 Ultra  to TV or PC is as easy as casting you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

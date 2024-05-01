@@ -328,3 +328,4 @@ Screen mirroring Infinix Smart 7 HD  to TV or PC is as easy as casting your iPho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

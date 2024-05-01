@@ -371,3 +371,4 @@ Screen Mirroring Samsung Galaxy A05 to any TV or PC is a piece of exciting news 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

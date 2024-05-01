@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone 6 to PC via USB? | Dr.fone
-date: 2024-04-12T03:30:21.584Z
-updated: 2024-04-13T03:30:21.584Z
+date: 2024-04-30T08:49:41.170Z
+updated: 2024-05-01T08:49:41.170Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -337,3 +337,4 @@ If you want to mirror your Apple iPhone 6 to a PC, [Dr.Fone](https://tools.techi
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-f23-5g-drfone-by-drfone-android/" ><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo F23 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-c210-to-mac-drfone-by-drfone-android/" ><u>In 2024, How to Mirror Nokia C210 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+

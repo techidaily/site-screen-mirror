@@ -392,3 +392,4 @@ Screen mirroring Samsung Galaxy XCover 6 Pro Tactical Edition  to TV or PC is as
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+
