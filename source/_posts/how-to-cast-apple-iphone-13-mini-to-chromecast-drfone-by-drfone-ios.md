@@ -1,7 +1,7 @@
 ---
 title: How to Cast Apple iPhone 13 mini to Chromecast? | Dr.fone
-date: 2024-04-30T08:52:01.006Z
-updated: 2024-05-01T08:52:01.006Z
+date: 2024-05-20T08:34:11.235Z
+updated: 2024-05-21T08:34:11.235Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -513,4 +513,5 @@ As the two makers are front runners in the smartphone markets, there are not man
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-infinix-hot-40-frp-by-drfone-android/"><u>Full Guide to Bypass Infinix Hot 40 FRP</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>Updated Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
 </ul></div>
+
 

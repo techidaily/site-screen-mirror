@@ -1,7 +1,7 @@
 ---
 title: How to Cast HTC U23 Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:56:03.380Z
-updated: 2024-05-01T08:56:03.380Z
+date: 2024-05-20T08:34:25.738Z
+updated: 2024-05-21T08:34:25.738Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -758,4 +758,5 @@ Different types of users can benefit from Dr.Fone Air - Online Screen Mirror, wh
 <li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-motorola-moto-g24-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Motorola Moto G24</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nokia-c300-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nokia C300 without App | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone 6 to Mac? | Dr.fone
-date: 2024-04-30T08:49:41.166Z
-updated: 2024-05-01T08:49:41.166Z
+date: 2024-05-20T08:33:54.864Z
+updated: 2024-05-21T08:33:54.864Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -499,4 +499,5 @@ Screen mirroring Apple iPhone 6 is easy to be carried out. You can project your 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-edge-40-pro-phones-drfone-by-drfone-android/" ><u>How to Mirror PC Screen to Motorola Edge 40 Pro Phones? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-xr21-to-pc-drfone-by-drfone-android/" ><u>How to Screen Mirroring Nokia XR21 to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

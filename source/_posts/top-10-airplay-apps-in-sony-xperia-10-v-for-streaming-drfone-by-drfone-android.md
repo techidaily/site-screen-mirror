@@ -1,7 +1,7 @@
 ---
 title: Top 10 AirPlay Apps in Sony Xperia 10 V for Streaming | Dr.fone
-date: 2024-04-30T08:54:45.984Z
-updated: 2024-05-01T08:54:45.984Z
+date: 2024-05-20T08:34:20.903Z
+updated: 2024-05-21T08:34:20.903Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -398,4 +398,5 @@ While ScreenShare has been used as an example here, there are many other tools y
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-huawei-nova-y91-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Huawei Nova Y91 Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-t2x-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo T2x 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

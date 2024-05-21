@@ -1,7 +1,7 @@
 ---
 title: Full Guide on Mirroring Your OnePlus 11R to Your PC/Mac | Dr.fone
-date: 2024-04-30T09:06:17.646Z
-updated: 2024-05-01T09:06:17.646Z
+date: 2024-05-20T08:35:06.960Z
+updated: 2024-05-21T08:35:06.960Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -426,4 +426,5 @@ This article has introduced several screens mirroring platforms that can be used
 <li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-14-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 14?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Note 30 VIP | Dr.fone</u></a></li>
 </ul></div>
+
 

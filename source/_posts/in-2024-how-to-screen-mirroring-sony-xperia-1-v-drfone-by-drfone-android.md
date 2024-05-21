@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Screen Mirroring Sony Xperia 1 V? | Dr.fone
-date: 2024-04-30T08:54:44.551Z
-updated: 2024-05-01T08:54:44.551Z
+date: 2024-05-20T08:34:20.842Z
+updated: 2024-05-21T08:34:20.842Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -466,4 +466,5 @@ Mirror your Sony Xperia 1 V deviceto your Windows computer!
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a24-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A24 FRP</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

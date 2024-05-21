@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide to Mirror Your Sony Xperia 1 V to Other Android devices | Dr.fone
-date: 2024-04-30T08:54:42.772Z
-updated: 2024-05-01T08:54:42.772Z
+date: 2024-05-20T08:34:20.774Z
+updated: 2024-05-21T08:34:20.774Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -610,4 +610,5 @@ Different types of users can benefit from Dr.Fone Air - Online Screen Mirror, wh
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-avatar/"><u>Updated In 2024, What Is an AI Avatar?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-how-to-find-the-picture-ratio-calculator/"><u>New 2024 Approved How to Find the Picture Ratio Calculator</u></a></li>
 </ul></div>
+
 

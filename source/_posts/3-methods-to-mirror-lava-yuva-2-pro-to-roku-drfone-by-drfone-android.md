@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Lava Yuva 2 Pro to Roku | Dr.fone
-date: 2024-04-30T08:57:00.474Z
-updated: 2024-05-01T08:57:00.474Z
+date: 2024-05-20T08:34:29.319Z
+updated: 2024-05-21T08:34:29.319Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -372,4 +372,5 @@ Chromecast has some advance features that every user should definitely know and 
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-convert-audio-files-with-ease-top-mac-mp3-converter-options/"><u>Updated Convert Audio Files with Ease Top Mac MP3 Converter Options</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-itel-s23-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Itel S23 to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

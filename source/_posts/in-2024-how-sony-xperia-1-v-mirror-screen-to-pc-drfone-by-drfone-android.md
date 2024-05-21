@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Sony Xperia 1 V Mirror Screen to PC? | Dr.fone
-date: 2024-04-30T08:54:44.119Z
-updated: 2024-05-01T08:54:44.119Z
+date: 2024-05-20T08:34:20.823Z
+updated: 2024-05-21T08:34:20.823Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -460,4 +460,5 @@ Mirror your Sony Xperia 1 V deviceto your computer!
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-hot-40-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Hot 40 Pro</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

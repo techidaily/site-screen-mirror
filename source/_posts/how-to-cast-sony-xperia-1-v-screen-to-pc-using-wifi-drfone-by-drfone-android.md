@@ -1,7 +1,7 @@
 ---
 title: How to Cast Sony Xperia 1 V Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:54:36.080Z
-updated: 2024-05-01T08:54:36.080Z
+date: 2024-05-20T08:34:20.138Z
+updated: 2024-05-21T08:34:20.138Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -642,4 +642,5 @@ Thus, we have compiled a list of a few applications that can come in handy if yo
 <li><a href="https://review-topics.techidaily.com/remove-a05s-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove A05s unlock screen</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-the-wax-way-a-comprehensive-guide-to-free-video-editing/"><u>New The Wax Way A Comprehensive Guide to Free Video Editing</u></a></li>
 </ul></div>
+
 

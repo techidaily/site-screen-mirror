@@ -1,7 +1,7 @@
 ---
 title: How OnePlus 11R Mirror Screen to PC? | Dr.fone
-date: 2024-04-30T09:06:20.464Z
-updated: 2024-05-01T09:06:20.464Z
+date: 2024-05-20T08:35:07.170Z
+updated: 2024-05-21T08:35:07.170Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -424,4 +424,5 @@ Mirror your OnePlus 11R deviceto your computer!
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-luts-with-luts-generator-for-2024/"><u>How to Create LUTs with LUTs Generator for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-google-pixel-fold-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Google Pixel Fold to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

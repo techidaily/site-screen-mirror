@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Apple iPhone 6 to PC via USB? | Dr.fone
-date: 2024-04-30T08:49:41.222Z
-updated: 2024-05-01T08:49:41.222Z
+date: 2024-05-20T08:33:55.255Z
+updated: 2024-05-21T08:33:55.255Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -443,4 +443,5 @@ Apple iPhone 6 screen mirroring is not a difficult task. You have to follow some
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-pro-max-to-windows-10-drfone-by-drfone-ios/" ><u>How to Mirror Apple iPhone 15 Pro Max to Windows 10? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-lava-blaze-curve-5g-to-other-android-devices-drfone-by-drfone-android/" ><u>In 2024, Guide to Mirror Your Lava Blaze Curve 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

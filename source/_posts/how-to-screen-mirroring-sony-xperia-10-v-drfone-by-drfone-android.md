@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Sony Xperia 10 V? | Dr.fone
-date: 2024-04-30T08:54:50.055Z
-updated: 2024-05-01T08:54:50.055Z
+date: 2024-05-20T08:34:21.194Z
+updated: 2024-05-21T08:34:21.194Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -412,4 +412,5 @@ Furthermore, Wondershare introduces us to software like MirrorGo. It helps us to
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-edge-40-neo-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Edge 40 Neo Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-top-free-dvd-players-for-windows-10/"><u>Updated In 2024, Discover the Top Free DVD Players for Windows 10</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast | Dr.fone
-date: 2024-04-30T08:54:37.148Z
-updated: 2024-05-01T08:54:37.148Z
+date: 2024-05-20T08:34:20.211Z
+updated: 2024-05-21T08:34:20.211Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -592,4 +592,5 @@ This article has provided a comprehensive overview of some of the best screen mi
 <li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-8-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 8 to Use USB Accessories Without Passcode</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23 Ultra</u></a></li>
 </ul></div>
+
 

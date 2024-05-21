@@ -1,7 +1,7 @@
 ---
 title: How To Stream Anything From Sony Xperia 10 V to Apple TV | Dr.fone
-date: 2024-04-30T08:54:50.481Z
-updated: 2024-05-01T08:54:50.481Z
+date: 2024-05-20T08:34:21.203Z
+updated: 2024-05-21T08:34:21.203Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -266,4 +266,5 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-14-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 14 to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-13t-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi 13T Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

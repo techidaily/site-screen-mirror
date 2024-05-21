@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Sony Xperia 1 V to Roku | Dr.fone
-date: 2024-04-30T08:54:38.038Z
-updated: 2024-05-01T08:54:38.038Z
+date: 2024-05-20T08:34:20.294Z
+updated: 2024-05-21T08:34:20.294Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -417,4 +417,5 @@ While ScreenShare has been used as an example here, there are many other tools y
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-12-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 12? How to Fix it?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-c12-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia C12 Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+
 

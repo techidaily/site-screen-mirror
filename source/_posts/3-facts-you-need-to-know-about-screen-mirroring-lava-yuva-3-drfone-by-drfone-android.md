@@ -1,7 +1,7 @@
 ---
 title: 3 Facts You Need to Know about Screen Mirroring Lava Yuva 3 | Dr.fone
-date: 2024-04-30T08:58:38.543Z
-updated: 2024-05-01T08:58:38.543Z
+date: 2024-05-20T08:34:35.947Z
+updated: 2024-05-21T08:34:35.947Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -490,4 +490,5 @@ This article has provided a comprehensive overview of how one can mirror their L
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to an Older iOS System Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

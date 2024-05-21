@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Methods to Mirror Sony Xperia 1 V to Roku | Dr.fone
-date: 2024-04-30T08:54:43.680Z
-updated: 2024-05-01T08:54:43.680Z
+date: 2024-05-20T08:34:20.794Z
+updated: 2024-05-21T08:34:20.794Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -747,4 +747,5 @@ This article has provided a comprehensive overview of some of the best screen mi
 <li><a href="https://review-topics.techidaily.com/motorola-moto-g84-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Motorola Moto G84 5G support - Forgotten screen lock.</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

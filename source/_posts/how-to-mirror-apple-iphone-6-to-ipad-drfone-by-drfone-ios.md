@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone 6 to iPad? | Dr.fone
-date: 2024-04-30T08:49:41.167Z
-updated: 2024-05-01T08:49:41.167Z
+date: 2024-05-20T08:33:54.872Z
+updated: 2024-05-21T08:33:54.872Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -468,4 +468,5 @@ As the two makers are front runners in the smartphone markets, there are not man
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6-plus-to-ipad-drfone-by-drfone-ios/" ><u>How to Mirror Apple iPhone 6 Plus to iPad? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-sony-xperia-1-v-to-roku-drfone-by-drfone-android/" ><u>In 2024, 3 Methods to Mirror Sony Xperia 1 V to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

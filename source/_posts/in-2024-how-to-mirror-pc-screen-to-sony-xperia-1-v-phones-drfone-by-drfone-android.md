@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror PC Screen to Sony Xperia 1 V Phones? | Dr.fone
-date: 2024-04-30T08:54:43.900Z
-updated: 2024-05-01T08:54:43.900Z
+date: 2024-05-20T08:34:20.804Z
+updated: 2024-05-21T08:34:20.804Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -465,4 +465,5 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-xs-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone XS Max When Its Locked Within Seconds</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix GT 10 Pro</u></a></li>
 </ul></div>
+
 

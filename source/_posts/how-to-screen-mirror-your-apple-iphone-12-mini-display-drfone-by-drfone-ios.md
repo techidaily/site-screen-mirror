@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirror your Apple iPhone 12 mini Display? | Dr.fone
-date: 2024-04-30T08:51:12.101Z
-updated: 2024-05-01T08:51:12.101Z
+date: 2024-05-20T08:34:08.398Z
+updated: 2024-05-21T08:34:08.398Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -410,4 +410,5 @@ If you want to mirror your Apple iPhone 12 mini to a PC, [Dr.Fone](https://tools
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Google Pixel Fold? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-oneplus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked OnePlus Phone</u></a></li>
 </ul></div>
+
 

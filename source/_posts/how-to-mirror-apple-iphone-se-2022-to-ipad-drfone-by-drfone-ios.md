@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Apple iPhone SE (2022) to iPad? | Dr.fone
-date: 2024-04-30T08:52:42.255Z
-updated: 2024-05-01T08:52:42.255Z
+date: 2024-05-20T08:34:13.555Z
+updated: 2024-05-21T08:34:13.555Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -467,4 +467,5 @@ To screen mirror on Apple iPhone SE (2022) is not a difficult task. You need jus
 <li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-8-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 8 After Forgetting my PIN Code?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-zte-axon-40-lite-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of ZTE Axon 40 Lite Phone</u></a></li>
 </ul></div>
+
 

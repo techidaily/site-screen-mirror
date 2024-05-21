@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Facts You Need to Know about Screen Mirroring Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:54:53.419Z
-updated: 2024-05-01T08:54:53.419Z
+date: 2024-05-20T08:34:21.360Z
+updated: 2024-05-21T08:34:21.360Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -369,4 +369,5 @@ Screen Mirroring Sony Xperia 10 V to any TV or PC is a piece of exciting news fo
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/looking-for-a-full-guide-on-removing-the-background-from-png-images-do-you-want-to-transform-jpg-to-png-transparent-if-so-take-some-time-to-read-this-articl/"><u>Looking for a Full Guide on Removing the Background From PNG Images? Do You Want to Transform JPG to PNG Transparent? If so, Take some Time to Read This Article</u></a></li>
 </ul></div>
+
 

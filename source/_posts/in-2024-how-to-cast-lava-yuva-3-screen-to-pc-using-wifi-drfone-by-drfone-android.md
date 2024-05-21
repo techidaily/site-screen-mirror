@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Lava Yuva 3 Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:58:43.437Z
-updated: 2024-05-01T08:58:43.437Z
+date: 2024-05-20T08:34:36.237Z
+updated: 2024-05-21T08:34:36.237Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -591,4 +591,5 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-google-pixel-8-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Google Pixel 8 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On OnePlus 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

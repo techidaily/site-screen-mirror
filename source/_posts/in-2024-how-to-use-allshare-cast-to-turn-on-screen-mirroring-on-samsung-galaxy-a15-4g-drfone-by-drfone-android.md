@@ -587,3 +587,4 @@ Screen mirroring Samsung Galaxy A15 4G  to TV or PC is as easy as casting your i
      data-full-width-responsive="true"></ins>
 
 
+

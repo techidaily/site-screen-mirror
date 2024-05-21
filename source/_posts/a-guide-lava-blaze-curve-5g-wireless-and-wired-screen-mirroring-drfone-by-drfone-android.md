@@ -1,7 +1,7 @@
 ---
 title: A Guide Lava Blaze Curve 5G Wireless and Wired Screen Mirroring | Dr.fone
-date: 2024-04-30T08:58:50.077Z
-updated: 2024-05-01T08:58:50.077Z
+date: 2024-05-20T08:34:36.688Z
+updated: 2024-05-21T08:34:36.688Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -413,4 +413,5 @@ Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wonde
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-11-proplus-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on 11 Pro+</u></a></li>
 </ul></div>
+
 

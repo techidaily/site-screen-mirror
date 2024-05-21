@@ -1,7 +1,7 @@
 ---
 title: How To Do Sony Xperia 10 V Screen Sharing | Dr.fone
-date: 2024-04-30T08:54:47.314Z
-updated: 2024-05-01T08:54:47.314Z
+date: 2024-05-20T08:34:21.008Z
+updated: 2024-05-21T08:34:21.008Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -364,4 +364,5 @@ Mirror your Sony Xperia 10 V deviceto your Windows computer!
 <li><a href="https://techidaily.com/sony-data-recovery-recover-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Sony Data Recovery – recover lost data from Sony Xperia 5 V</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

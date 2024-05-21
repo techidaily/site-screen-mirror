@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Lava Blaze Curve 5G to Mac? | Dr.fone
-date: 2024-04-30T08:58:50.883Z
-updated: 2024-05-01T08:58:50.883Z
+date: 2024-05-20T08:34:36.747Z
+updated: 2024-05-21T08:34:36.747Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -525,4 +525,5 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus 12R | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-ace-2-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus Ace 2 Pro Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

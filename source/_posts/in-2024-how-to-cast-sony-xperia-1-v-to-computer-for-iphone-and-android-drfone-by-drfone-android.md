@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Sony Xperia 1 V to Computer for iPhone and Android? | Dr.fone
-date: 2024-04-30T08:54:40.980Z
-updated: 2024-05-01T08:54:40.980Z
+date: 2024-05-20T08:34:20.457Z
+updated: 2024-05-21T08:34:20.457Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -620,4 +620,5 @@ This article has provided some great options that can be used to **screen share 
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-find-x7-ultra-by-drfone-android/"><u>How to Bypass FRP from Oppo Find X7 Ultra?</u></a></li>
 </ul></div>
+
 

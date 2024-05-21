@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Lava Agni 2 5G Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:57:25.906Z
-updated: 2024-05-01T08:57:25.906Z
+date: 2024-05-20T08:34:31.295Z
+updated: 2024-05-21T08:34:31.295Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -451,4 +451,5 @@ Mirror your Lava Agni 2 5G deviceto your computer!
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-lumafusion-color-grading-achieving-it-through-luts/"><u>New 2024 Approved LumaFusion Color Grading Achieving It Through LUTs</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-redmi-a2-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi A2 won’t play MP4 files</u></a></li>
 </ul></div>
+
 

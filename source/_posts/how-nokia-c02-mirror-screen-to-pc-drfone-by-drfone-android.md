@@ -1,7 +1,7 @@
 ---
 title: How Nokia C02 Mirror Screen to PC? | Dr.fone
-date: 2024-04-30T09:02:55.575Z
-updated: 2024-05-01T09:02:55.575Z
+date: 2024-05-20T08:34:52.930Z
+updated: 2024-05-21T08:34:52.930Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -495,4 +495,5 @@ Screen mirroring Nokia C02  to TV or PC is as easy as casting your iPhone screen
 <li><a href="https://ai-topics.techidaily.com/new-what-are-ai-tools-for-2024/"><u>New What Are AI Tools for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-s17t-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo S17t to New Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

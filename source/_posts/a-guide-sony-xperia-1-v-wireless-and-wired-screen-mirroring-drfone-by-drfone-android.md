@@ -1,7 +1,7 @@
 ---
 title: A Guide Sony Xperia 1 V Wireless and Wired Screen Mirroring | Dr.fone
-date: 2024-04-30T08:54:36.934Z
-updated: 2024-05-01T08:54:36.934Z
+date: 2024-05-20T08:34:20.194Z
+updated: 2024-05-21T08:34:20.194Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -416,4 +416,5 @@ This article has provided a diversity of solutions for screencasting your phone 
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-poco-x5-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Poco X5 Pro Black and White | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

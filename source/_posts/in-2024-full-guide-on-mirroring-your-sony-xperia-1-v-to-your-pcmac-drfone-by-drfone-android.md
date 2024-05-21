@@ -1,7 +1,7 @@
 ---
 title: In 2024, Full Guide on Mirroring Your Sony Xperia 1 V to Your PC/Mac | Dr.fone
-date: 2024-04-30T08:54:41.219Z
-updated: 2024-05-01T08:54:41.219Z
+date: 2024-05-20T08:34:20.469Z
+updated: 2024-05-21T08:34:20.469Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -582,4 +582,5 @@ This article has provided a diversity of solutions for screencasting your phone 
 <li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-pro-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 Pro activation lock without previous owner</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12R</u></a></li>
 </ul></div>
+
 

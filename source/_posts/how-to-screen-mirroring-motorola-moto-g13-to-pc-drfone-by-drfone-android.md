@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Motorola Moto G13 to PC? | Dr.fone
-date: 2024-04-30T08:59:46.796Z
-updated: 2024-05-01T08:59:46.796Z
+date: 2024-05-20T08:34:40.275Z
+updated: 2024-05-21T08:34:40.275Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -436,4 +436,5 @@ This article has provided a comprehensive overview of how one can mirror their M
 <li><a href="https://ai-video-editing.techidaily.com/creating-video-testimonials/"><u>Creating Video Testimonials</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Asus ROG Phone 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

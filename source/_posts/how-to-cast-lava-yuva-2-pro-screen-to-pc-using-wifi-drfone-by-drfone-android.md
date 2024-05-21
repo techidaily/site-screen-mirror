@@ -1,7 +1,7 @@
 ---
 title: How to Cast Lava Yuva 2 Pro Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:56:58.356Z
-updated: 2024-05-01T08:56:58.356Z
+date: 2024-05-20T08:34:29.154Z
+updated: 2024-05-21T08:34:29.154Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -511,4 +511,5 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-a1-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo A1 5G FRP Bypass</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-split-trim-and-merge-avi-videos-top-video-cutting-tools-reviewed/"><u>2024 Approved Split, Trim, and Merge AVI Videos Top Video Cutting Tools Reviewed</u></a></li>
 </ul></div>
+
 

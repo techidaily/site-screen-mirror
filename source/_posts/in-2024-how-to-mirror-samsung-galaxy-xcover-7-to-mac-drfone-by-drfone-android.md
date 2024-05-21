@@ -312,3 +312,4 @@ Screen Mirroring Samsung Galaxy XCover 7 to any TV or PC is a piece of exciting 
      data-full-width-responsive="true"></ins>
 
 
+

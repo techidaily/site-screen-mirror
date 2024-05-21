@@ -1,7 +1,7 @@
 ---
 title: Guide to Mirror Your Sony Xperia 10 V to Other Android devices | Dr.fone
-date: 2024-04-30T08:54:48.532Z
-updated: 2024-05-01T08:54:48.532Z
+date: 2024-05-20T08:34:21.074Z
+updated: 2024-05-21T08:34:21.074Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -296,4 +296,5 @@ Thus, we have compiled a list of a few applications that can come in handy if yo
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-c67-4g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from C67 4G</u></a></li>
 </ul></div>
+
 

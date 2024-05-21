@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirror on Apple iPhone 11? | Dr.fone
-date: 2024-04-30T08:50:05.015Z
-updated: 2024-05-01T08:50:05.015Z
+date: 2024-05-20T08:34:04.673Z
+updated: 2024-05-21T08:34:04.673Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -439,4 +439,5 @@ If you want to mirror your Apple iPhone 11 to a PC, [Dr.Fone](https://tools.tech
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-find-x6-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Find X6 Pro Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Razr 40 Ultra</u></a></li>
 </ul></div>
+
 

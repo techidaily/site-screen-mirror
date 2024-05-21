@@ -1,7 +1,7 @@
 ---
 title: How Lava Blaze Curve 5G Mirror Screen to PC? | Dr.fone
-date: 2024-04-30T08:58:51.759Z
-updated: 2024-05-01T08:58:51.759Z
+date: 2024-05-20T08:34:36.810Z
+updated: 2024-05-21T08:34:36.810Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -486,4 +486,5 @@ Mirror your Lava Blaze Curve 5G deviceto your Windows computer!
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-sony-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Sony</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

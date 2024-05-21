@@ -1,7 +1,7 @@
 ---
 title: How Sony Xperia 10 V Mirror Screen to PC? | Dr.fone
-date: 2024-04-30T08:54:49.619Z
-updated: 2024-05-01T08:54:49.619Z
+date: 2024-05-20T08:34:21.156Z
+updated: 2024-05-21T08:34:21.156Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -502,4 +502,5 @@ While ScreenShare has been used as an example here, there are many other tools y
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y27 4G? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-x50-gt-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on X50 GT</u></a></li>
 </ul></div>
+
 

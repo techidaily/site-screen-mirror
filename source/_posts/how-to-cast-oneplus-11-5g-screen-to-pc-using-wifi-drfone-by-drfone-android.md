@@ -1,7 +1,7 @@
 ---
 title: How to Cast OnePlus 11 5G Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T09:06:06.850Z
-updated: 2024-05-01T09:06:06.850Z
+date: 2024-05-20T08:35:06.261Z
+updated: 2024-05-21T08:35:06.261Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -471,4 +471,5 @@ Chromecast has some advance features that every user should definitely know and 
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-top-android-video-editing-apps-for-chromebook/"><u>New In 2024, The Ultimate List Top Android Video Editing Apps for Chromebook</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-6-lite-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 6 Lite to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

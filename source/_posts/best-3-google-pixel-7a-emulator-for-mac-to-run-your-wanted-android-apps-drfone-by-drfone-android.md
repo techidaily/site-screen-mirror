@@ -294,3 +294,4 @@ Screen mirroring Google Pixel 7a  to TV or PC is as easy as casting your iPhone 
      data-full-width-responsive="true"></ins>
 
 
+

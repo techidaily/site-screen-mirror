@@ -1,7 +1,7 @@
 ---
 title: How To Do Nokia C02 Screen Sharing | Dr.fone
-date: 2024-04-30T09:02:53.405Z
-updated: 2024-05-01T09:02:53.405Z
+date: 2024-05-20T08:34:52.754Z
+updated: 2024-05-21T08:34:52.754Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -329,4 +329,5 @@ Mirror your Nokia C02 deviceto your computer!
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-v30-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo V30 Devices | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-realme-gt-neo-5-se-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Realme GT Neo 5 SE Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

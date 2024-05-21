@@ -1,7 +1,7 @@
 ---
 title: A Guide Lava Yuva 3 Pro Wireless and Wired Screen Mirroring | Dr.fone
-date: 2024-04-30T08:58:16.846Z
-updated: 2024-05-01T08:58:16.846Z
+date: 2024-05-20T08:34:34.389Z
+updated: 2024-05-21T08:34:34.389Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -312,4 +312,5 @@ Thus, we have compiled a list of a few applications that can come in handy if yo
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-12plus-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme 12+ 5G Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

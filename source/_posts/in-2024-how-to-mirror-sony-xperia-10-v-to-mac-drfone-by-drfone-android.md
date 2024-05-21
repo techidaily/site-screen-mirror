@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Sony Xperia 10 V to Mac? | Dr.fone
-date: 2024-04-30T08:54:54.350Z
-updated: 2024-05-01T08:54:54.350Z
+date: 2024-05-20T08:34:21.413Z
+updated: 2024-05-21T08:34:21.413Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -408,4 +408,5 @@ This article has provided some great options that can be used to **screen share 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

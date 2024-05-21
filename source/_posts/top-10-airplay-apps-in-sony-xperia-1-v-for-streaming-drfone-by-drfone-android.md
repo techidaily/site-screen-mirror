@@ -1,7 +1,7 @@
 ---
 title: Top 10 AirPlay Apps in Sony Xperia 1 V for Streaming | Dr.fone
-date: 2024-04-30T08:54:35.006Z
-updated: 2024-05-01T08:54:35.006Z
+date: 2024-05-20T08:34:20.045Z
+updated: 2024-05-21T08:34:20.045Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -375,4 +375,5 @@ Furthermore, Wondershare introduces us to software like MirrorGo. It helps us to
 <li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-f04-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy F04</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y100t | Dr.fone</u></a></li>
 </ul></div>
+
 

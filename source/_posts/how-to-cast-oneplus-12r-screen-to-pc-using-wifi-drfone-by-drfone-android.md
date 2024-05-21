@@ -1,7 +1,7 @@
 ---
 title: How to Cast OnePlus 12R Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T09:05:56.332Z
-updated: 2024-05-01T09:05:56.332Z
+date: 2024-05-20T08:35:05.201Z
+updated: 2024-05-21T08:35:05.201Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -497,4 +497,5 @@ This article has provided a diversity of solutions for screencasting your phone 
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-a60s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel A60s Quickly | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-premiere-elements-not-for-you-try-these-10-alternatives-instead/"><u>In 2024, Premiere Elements Not for You? Try These 10 Alternatives Instead</u></a></li>
 </ul></div>
+
 

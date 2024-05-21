@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Sony Xperia 5 V to Roku | Dr.fone
-date: 2024-04-30T08:54:59.918Z
-updated: 2024-05-01T08:54:59.918Z
+date: 2024-05-20T08:34:21.770Z
+updated: 2024-05-21T08:34:21.770Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -402,4 +402,5 @@ Screen mirroring Sony Xperia 5 V  to TV or PC is as easy as casting your iPhone 
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-erase-apple-iphone-13-mini-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 13 mini Data Permanently | Dr.fone</u></a></li>
 </ul></div>
+
 

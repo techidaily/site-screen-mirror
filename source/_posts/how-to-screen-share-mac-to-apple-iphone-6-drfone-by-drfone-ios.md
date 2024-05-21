@@ -1,7 +1,7 @@
 ---
 title: How to Screen Share Mac to Apple iPhone 6? | Dr.fone
-date: 2024-04-30T08:49:41.198Z
-updated: 2024-05-01T08:49:41.198Z
+date: 2024-05-20T08:33:55.009Z
+updated: 2024-05-21T08:33:55.009Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -508,4 +508,5 @@ Apple iPhone 6 screen mirroring is not a difficult task. You have to follow some
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-15-plus-to-computer-drfone-by-drfone-ios/" ><u>In 2024, How to Stream Apple iPhone 15 Plus to Computer? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-12-pro-to-your-windows-pc-drfone-by-drfone-ios/" ><u>6 Methods to Mirror Apple iPhone 12 Pro to your Windows PC | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Use Allshare Cast To Turn On Screen Mirroring On Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T08:54:39.797Z
-updated: 2024-05-01T08:54:39.797Z
+date: 2024-05-20T08:34:20.387Z
+updated: 2024-05-21T08:34:20.387Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -373,4 +373,5 @@ Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wonde
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-lava-blaze-curve-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Lava Blaze Curve 5G Location | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme Note 50? | Dr.fone</u></a></li>
 </ul></div>
+
 

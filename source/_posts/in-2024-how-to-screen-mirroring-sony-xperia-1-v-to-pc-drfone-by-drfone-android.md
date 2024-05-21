@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Screen Mirroring Sony Xperia 1 V to PC? | Dr.fone
-date: 2024-04-30T08:54:44.755Z
-updated: 2024-05-01T08:54:44.755Z
+date: 2024-05-20T08:34:20.850Z
+updated: 2024-05-21T08:34:20.850Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -380,4 +380,5 @@ While ScreenShare has been used as an example here, there are many other tools y
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Motorola Moto G24 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-xcover-6-pro-tactical-edition-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy XCover 6 Pro Tactical Edition Lock Screen Password</u></a></li>
 </ul></div>
+
 

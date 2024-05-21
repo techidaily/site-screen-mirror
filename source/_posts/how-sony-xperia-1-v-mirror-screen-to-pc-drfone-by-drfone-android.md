@@ -1,7 +1,7 @@
 ---
 title: How Sony Xperia 1 V Mirror Screen to PC? | Dr.fone
-date: 2024-04-30T08:54:38.592Z
-updated: 2024-05-01T08:54:38.592Z
+date: 2024-05-20T08:34:20.314Z
+updated: 2024-05-21T08:34:20.314Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -472,4 +472,5 @@ Mirror your Sony Xperia 1 V deviceto your Windows computer!
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-pencil2d-animation-tutorial-overview/"><u>New In 2024, Pencil2D Animation Tutorial Overview</u></a></li>
 <li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Full Guide on Mirroring Your Sony Xperia 10 V to Your PC/Mac | Dr.fone
-date: 2024-04-30T08:54:46.885Z
-updated: 2024-05-01T08:54:46.885Z
+date: 2024-05-20T08:34:20.972Z
+updated: 2024-05-21T08:34:20.972Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -675,4 +675,5 @@ Chromecast has some advance features that every user should definitely know and 
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-itel-a05s-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel A05s Find My Friends No Location Found? | Dr.fone</u></a></li>
 </ul></div>
+
 

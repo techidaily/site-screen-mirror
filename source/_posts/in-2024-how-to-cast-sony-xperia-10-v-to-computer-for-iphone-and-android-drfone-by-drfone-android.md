@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Sony Xperia 10 V to Computer for iPhone and Android? | Dr.fone
-date: 2024-04-30T08:54:51.957Z
-updated: 2024-05-01T08:54:51.957Z
+date: 2024-05-20T08:34:21.291Z
+updated: 2024-05-21T08:34:21.291Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -745,4 +745,5 @@ Chromecast has some advance features that every user should definitely know and 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-c67-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme C67 5G Devices</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

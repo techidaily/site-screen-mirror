@@ -1,7 +1,7 @@
 ---
 title: Overview of the Best Sony Xperia 10 V Screen Mirroring App | Dr.fone
-date: 2024-04-30T08:54:49.835Z
-updated: 2024-05-01T08:54:49.835Z
+date: 2024-05-20T08:34:21.182Z
+updated: 2024-05-21T08:34:21.182Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -723,4 +723,5 @@ This article has provided a comprehensive overview of how one can mirror their S
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-x-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone X After Forgetting the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-create-emoji-on-mac-that-take-less-than-10-mins/"><u>How to Create Emoji on Mac That Take Less Than 10 Mins</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Stream Anything From Lava Agni 2 5G to Apple TV | Dr.fone
-date: 2024-04-30T08:57:23.671Z
-updated: 2024-05-01T08:57:23.671Z
+date: 2024-05-20T08:34:31.175Z
+updated: 2024-05-21T08:34:31.175Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -259,4 +259,5 @@ Chromecast has some advance features that every user should definitely know and 
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-infinix-note-30i-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Infinix Note 30i Devices | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/infinix-hot-40-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40 Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

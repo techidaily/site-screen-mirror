@@ -1,7 +1,7 @@
 ---
 title: 3 Facts You Need to Know about Screen Mirroring Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T08:54:47.854Z
-updated: 2024-05-01T08:54:47.854Z
+date: 2024-05-20T08:34:21.025Z
+updated: 2024-05-21T08:34:21.025Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -395,4 +395,5 @@ Furthermore, Wondershare introduces us to software like MirrorGo. It helps us to
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo S18 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-google-pixel-7a-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Google Pixel 7a by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

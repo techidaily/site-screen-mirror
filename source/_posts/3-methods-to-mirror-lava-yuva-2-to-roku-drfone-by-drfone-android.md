@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Lava Yuva 2 to Roku | Dr.fone
-date: 2024-04-30T08:57:33.736Z
-updated: 2024-05-01T08:57:33.736Z
+date: 2024-05-20T08:34:31.762Z
+updated: 2024-05-21T08:34:31.762Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -505,4 +505,5 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-nord-ce-3-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus Nord CE 3 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Moto G84 5G</u></a></li>
 </ul></div>
+
 

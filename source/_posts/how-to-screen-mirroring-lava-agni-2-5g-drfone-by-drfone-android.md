@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Lava Agni 2 5G? | Dr.fone
-date: 2024-04-30T08:57:23.253Z
-updated: 2024-05-01T08:57:23.253Z
+date: 2024-05-20T08:34:31.169Z
+updated: 2024-05-21T08:34:31.169Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -348,4 +348,5 @@ Mirror your Lava Agni 2 5G deviceto your computer!
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme V30? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-14-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 14 Plus How to Bypass?</u></a></li>
 </ul></div>
+
 

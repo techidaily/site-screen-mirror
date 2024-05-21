@@ -1,7 +1,7 @@
 ---
 title: How to Mirror OnePlus 11R to Mac? | Dr.fone
-date: 2024-04-30T09:06:19.477Z
-updated: 2024-05-01T09:06:19.477Z
+date: 2024-05-20T08:35:07.114Z
+updated: 2024-05-21T08:35:07.114Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -577,4 +577,5 @@ This article has provided a diversity of solutions for screencasting your phone 
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A18 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
+
 

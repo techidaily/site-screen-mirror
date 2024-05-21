@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Sony Xperia 10 V to Roku | Dr.fone
-date: 2024-04-30T08:54:49.183Z
-updated: 2024-05-01T08:54:49.183Z
+date: 2024-05-20T08:34:21.136Z
+updated: 2024-05-21T08:34:21.136Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -383,4 +383,5 @@ Screen mirroring Sony Xperia 10 V  to TV or PC is as easy as casting your iPhone
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-14-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 14 Pro Max Apple ID and Apple Pay</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/video-course-and-online-learning-are-very-popular-nowadays-here-we-are-going-to-recommend-some-of-the-best-video-websites-for-teachers-to-use/"><u>Video Course and Online Learning Are Very Popular Nowadays. Here We Are Going to Recommend some of the Best Video Websites for Teachers to Use</u></a></li>
 </ul></div>
+
 

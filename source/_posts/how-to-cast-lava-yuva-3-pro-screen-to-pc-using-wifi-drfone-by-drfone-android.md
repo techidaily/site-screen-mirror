@@ -1,7 +1,7 @@
 ---
 title: How to Cast Lava Yuva 3 Pro Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:58:15.738Z
-updated: 2024-05-01T08:58:15.738Z
+date: 2024-05-20T08:34:34.321Z
+updated: 2024-05-21T08:34:34.321Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -650,4 +650,5 @@ Different types of users can benefit from Dr.Fone Air - Online Screen Mirror, wh
 <li><a href="https://ai-editing-video.techidaily.com/1713954068781-new-2024-approved-change-speed-of-a-video-on-iphone/"><u>New 2024 Approved | Change Speed of a Video on iPhone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-turn-text-into-a-podcast/"><u>2024 Approved How to Turn Text Into a Podcast</u></a></li>
 </ul></div>
+
 

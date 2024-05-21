@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Nokia C02 to Roku | Dr.fone
-date: 2024-04-30T09:02:55.133Z
-updated: 2024-05-01T09:02:55.133Z
+date: 2024-05-20T08:34:52.904Z
+updated: 2024-05-21T08:34:52.904Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -398,4 +398,5 @@ Screen mirroring Nokia C02  to TV or PC is as easy as casting your iPhone screen
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi 14 Ultra</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-15-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 15 Stuck On Activation Lock?</u></a></li>
 </ul></div>
+
 

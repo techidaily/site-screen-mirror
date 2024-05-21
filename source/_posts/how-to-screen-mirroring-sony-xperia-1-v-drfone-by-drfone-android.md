@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Sony Xperia 1 V? | Dr.fone
-date: 2024-04-30T08:54:39.136Z
-updated: 2024-05-01T08:54:39.136Z
+date: 2024-05-20T08:34:20.368Z
+updated: 2024-05-21T08:34:20.368Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -535,4 +535,5 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-troubleshoot-avidemux-sound-problems-expert-advice/"><u>In 2024, Troubleshoot Avidemux Sound Problems Expert Advice</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-boost-your-workflow-10-free-fcpx-plugin-favorites/"><u>New In 2024, Boost Your Workflow 10 Free FCPX Plugin Favorites</u></a></li>
 </ul></div>
+
 

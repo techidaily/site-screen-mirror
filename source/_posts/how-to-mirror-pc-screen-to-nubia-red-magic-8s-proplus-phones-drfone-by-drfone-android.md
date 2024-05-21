@@ -362,3 +362,4 @@ Screen Mirroring Nubia Red Magic 8S Pro+ to any TV or PC is a piece of exciting 
      data-full-width-responsive="true"></ins>
 
 
+

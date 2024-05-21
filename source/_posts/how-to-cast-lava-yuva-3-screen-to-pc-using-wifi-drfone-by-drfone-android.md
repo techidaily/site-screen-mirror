@@ -1,7 +1,7 @@
 ---
 title: How to Cast Lava Yuva 3 Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:58:37.769Z
-updated: 2024-05-01T08:58:37.769Z
+date: 2024-05-20T08:34:35.902Z
+updated: 2024-05-21T08:34:35.902Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -421,4 +421,5 @@ Mirror your Lava Yuva 3 deviceto your computer!
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-make-first-impression-review-video/"><u>In 2024, How to Make First Impression Review Video</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-htc-u23-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track HTC U23 Pro without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

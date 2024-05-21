@@ -364,3 +364,4 @@ Screen mirroring Vivo Y27s  to TV or PC is as easy as casting your iPhone screen
      data-full-width-responsive="true"></ins>
 
 
+

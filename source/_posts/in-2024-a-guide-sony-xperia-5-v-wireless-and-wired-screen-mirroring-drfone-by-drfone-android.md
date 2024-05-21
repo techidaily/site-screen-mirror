@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Guide Sony Xperia 5 V Wireless and Wired Screen Mirroring | Dr.fone
-date: 2024-04-30T08:55:04.486Z
-updated: 2024-05-01T08:55:04.486Z
+date: 2024-05-20T08:34:22.020Z
+updated: 2024-05-21T08:34:22.020Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -467,4 +467,5 @@ This article has provided a comprehensive overview of how one can mirror their S
 <li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-7-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 7 Parental Restrictions With/Without Password</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-15-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 15 without Apple ID?</u></a></li>
 </ul></div>
+
 

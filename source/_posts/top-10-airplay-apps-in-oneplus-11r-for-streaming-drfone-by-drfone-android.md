@@ -1,7 +1,7 @@
 ---
 title: Top 10 AirPlay Apps in OnePlus 11R for Streaming | Dr.fone
-date: 2024-04-30T09:06:16.789Z
-updated: 2024-05-01T09:06:16.789Z
+date: 2024-05-20T08:35:06.893Z
+updated: 2024-05-21T08:35:06.893Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -398,4 +398,5 @@ Screen mirroring OnePlus 11R  to TV or PC is as easy as casting your iPhone scre
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-t2x-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo T2x 5G by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y28 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

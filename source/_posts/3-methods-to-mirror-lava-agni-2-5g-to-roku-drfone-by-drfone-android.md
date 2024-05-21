@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Lava Agni 2 5G to Roku | Dr.fone
-date: 2024-04-30T08:57:22.375Z
-updated: 2024-05-01T08:57:22.375Z
+date: 2024-05-20T08:34:31.093Z
+updated: 2024-05-21T08:34:31.093Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -429,4 +429,5 @@ This article has provided a comprehensive overview of how one can mirror their L
 <li><a href="https://ai-topics.techidaily.com/updated-the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>Updated The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2 Prowith/without a PC</u></a></li>
 </ul></div>
+
 

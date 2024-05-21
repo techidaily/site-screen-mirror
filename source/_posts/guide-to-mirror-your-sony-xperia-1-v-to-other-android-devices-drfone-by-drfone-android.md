@@ -1,7 +1,7 @@
 ---
 title: Guide to Mirror Your Sony Xperia 1 V to Other Android devices | Dr.fone
-date: 2024-04-30T08:54:37.395Z
-updated: 2024-05-01T08:54:37.395Z
+date: 2024-05-20T08:34:20.232Z
+updated: 2024-05-21T08:34:20.232Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -333,4 +333,5 @@ TeamViewer is one of the best solutions users can use for professional remote te
 <li><a href="https://techidaily.com/is-your-vivo-x90s-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo X90S working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a05-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A05 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

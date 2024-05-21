@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Your Nokia C300 Screen to PC with Chromecast | Dr.fone
-date: 2024-04-30T09:04:19.603Z
-updated: 2024-05-01T09:04:19.603Z
+date: 2024-05-20T08:34:58.965Z
+updated: 2024-05-21T08:34:58.965Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -716,4 +716,5 @@ This article has provided a comprehensive overview of some of the best screen mi
 <li><a href="https://techidaily.com/things-you-dont-know-about-realme-v30-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme V30 Reset Code | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-editor-wondershare-virbo-glossary/"><u>New What Is an AI Editor? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Your Motorola Moto G13 Screen to PC with Chromecast | Dr.fone
-date: 2024-04-30T08:59:44.465Z
-updated: 2024-05-01T08:59:44.465Z
+date: 2024-05-20T08:34:40.123Z
+updated: 2024-05-21T08:34:40.123Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -364,4 +364,5 @@ Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wonde
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-samsung-galaxy-a34-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Samsung Galaxy A34 5G</u></a></li>
 <li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-8-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 8</u></a></li>
 </ul></div>
+
 

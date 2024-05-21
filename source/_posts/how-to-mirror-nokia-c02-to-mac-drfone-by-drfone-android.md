@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Nokia C02 to Mac? | Dr.fone
-date: 2024-04-30T09:02:54.704Z
-updated: 2024-05-01T09:02:54.704Z
+date: 2024-05-20T08:34:52.866Z
+updated: 2024-05-21T08:34:52.866Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -481,4 +481,5 @@ Mirror your Nokia C02 deviceto your computer!
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-poco-c51-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Poco C51 to Another | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-oppo-a78-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A78 5G in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

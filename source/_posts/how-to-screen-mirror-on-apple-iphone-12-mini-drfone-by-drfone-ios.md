@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirror on Apple iPhone 12 mini? | Dr.fone
-date: 2024-04-30T08:51:12.321Z
-updated: 2024-05-01T08:51:12.321Z
+date: 2024-05-20T08:34:08.408Z
+updated: 2024-05-21T08:34:08.408Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -439,4 +439,5 @@ This article has provided a complete guide to **cast Apple iPhone 12 mini to Mac
 <li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-14-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 14 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-poco-c50-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Poco C50 Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

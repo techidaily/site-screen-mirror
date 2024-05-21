@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Screen Mirroring Sony Xperia 10 V? | Dr.fone
-date: 2024-04-30T08:54:55.662Z
-updated: 2024-05-01T08:54:55.662Z
+date: 2024-05-20T08:34:21.476Z
+updated: 2024-05-21T08:34:21.476Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -511,4 +511,5 @@ This article has provided a diversity of solutions for screencasting your phone 
 <li><a href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-15-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 15 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel</u></a></li>
 </ul></div>
+
 

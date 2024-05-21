@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Guide Sony Xperia 1 V Wireless and Wired Screen Mirroring | Dr.fone
-date: 2024-04-30T08:54:42.307Z
-updated: 2024-05-01T08:54:42.307Z
+date: 2024-05-20T08:34:20.742Z
+updated: 2024-05-21T08:34:20.742Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -512,4 +512,5 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-top-video-editing-software-replacing-windows-movie-maker/"><u>2024 Approved Top Video Editing Software Replacing Windows Movie Maker</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-8-plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Smart 8 Plus</u></a></li>
 </ul></div>
+
 

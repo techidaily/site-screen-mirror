@@ -1,7 +1,7 @@
 ---
 title: How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 11R | Dr.fone
-date: 2024-04-30T09:06:21.664Z
-updated: 2024-05-01T09:06:21.664Z
+date: 2024-05-20T08:35:07.221Z
+updated: 2024-05-21T08:35:07.221Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -548,4 +548,5 @@ The provided solutions have been quite comprehensive in showing you how to **cas
 <li><a href="https://blog-min.techidaily.com/how-to-g24-power-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to G24 Power Get Deleted Pictures Back with Ease and Safety?</u></a></li>
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oneplus-11-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your OnePlus 11 5G Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
+
 

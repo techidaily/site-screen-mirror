@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Lava Agni 2 5G to PC? | Dr.fone
-date: 2024-04-30T08:57:23.456Z
-updated: 2024-05-01T08:57:23.456Z
+date: 2024-05-20T08:34:31.170Z
+updated: 2024-05-21T08:34:31.170Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -687,4 +687,5 @@ Screen mirroring Lava Agni 2 5G  to TV or PC is as easy as casting your iPhone s
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-note-30-vip-racing-edition-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Note 30 VIP Racing Edition FRP Bypass</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y200e 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: A Guide OnePlus 11R Wireless and Wired Screen Mirroring | Dr.fone
-date: 2024-04-30T09:06:18.832Z
-updated: 2024-05-01T09:06:18.832Z
+date: 2024-05-20T08:35:07.055Z
+updated: 2024-05-21T08:35:07.055Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -281,4 +281,5 @@ Chromecast has some advance features that every user should definitely know and 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y100-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y100 5G</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-register-online/"><u>In 2024, Register | Online</u></a></li>
 </ul></div>
+
 

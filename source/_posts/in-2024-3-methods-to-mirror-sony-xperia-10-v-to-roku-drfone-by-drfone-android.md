@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Methods to Mirror Sony Xperia 10 V to Roku | Dr.fone
-date: 2024-04-30T08:54:54.791Z
-updated: 2024-05-01T08:54:54.791Z
+date: 2024-05-20T08:34:21.428Z
+updated: 2024-05-21T08:34:21.428Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -759,4 +759,5 @@ This article has provided a comprehensive overview of some of the best screen mi
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y78 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-c12-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia C12 Pro Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

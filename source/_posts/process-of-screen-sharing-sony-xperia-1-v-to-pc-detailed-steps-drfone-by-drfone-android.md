@@ -1,7 +1,7 @@
 ---
 title: Process of Screen Sharing Sony Xperia 1 V to PC- Detailed Steps | Dr.fone
-date: 2024-04-30T08:54:40.011Z
-updated: 2024-05-01T08:54:40.011Z
+date: 2024-05-20T08:34:20.396Z
+updated: 2024-05-21T08:34:20.396Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -428,4 +428,5 @@ Screen mirroring Sony Xperia 1 V  to TV or PC is as easy as casting your iPhone 
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sony-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sony Phones with/without a PC</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Ace 2V | Dr.fone</u></a></li>
 </ul></div>
+
 

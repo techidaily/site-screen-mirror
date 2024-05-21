@@ -1,7 +1,7 @@
 ---
 title: How to Cast OnePlus 11R Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T09:06:17.851Z
-updated: 2024-05-01T09:06:17.851Z
+date: 2024-05-20T08:35:06.978Z
+updated: 2024-05-21T08:35:06.978Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -499,4 +499,5 @@ This article has featured a list of different screen mirroring solutions you can
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme Narzo N53 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x50-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 

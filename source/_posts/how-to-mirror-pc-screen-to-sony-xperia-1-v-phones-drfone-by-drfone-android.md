@@ -1,7 +1,7 @@
 ---
 title: How to Mirror PC Screen to Sony Xperia 1 V Phones? | Dr.fone
-date: 2024-04-30T08:54:38.259Z
-updated: 2024-05-01T08:54:38.259Z
+date: 2024-05-20T08:34:20.301Z
+updated: 2024-05-21T08:34:20.301Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -368,4 +368,5 @@ Screen Mirroring Sony Xperia 1 V to any TV or PC is a piece of exciting news for
 <li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo F25 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-oppo-reno-8t-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Oppo Reno 8T 5G</u></a></li>
 </ul></div>
+
 

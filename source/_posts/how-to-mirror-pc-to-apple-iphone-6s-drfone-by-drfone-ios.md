@@ -1,7 +1,7 @@
 ---
 title: How to Mirror PC to Apple iPhone 6s? | Dr.fone
-date: 2024-04-30T08:49:41.381Z
-updated: 2024-05-01T08:49:41.381Z
+date: 2024-05-20T08:33:56.449Z
+updated: 2024-05-21T08:33:56.449Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -384,4 +384,5 @@ We learnt different ways of screen mirroring in this article. You can use any on
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-drfone-by-drfone-ios/" ><u>How to Unlock iPhone 15? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-s18e-drfone-by-drfone-virtual-android/" ><u>How to share/fake gps on Uber for Vivo S18e | Dr.fone</u></a></li>
 </ul></div>
+
 

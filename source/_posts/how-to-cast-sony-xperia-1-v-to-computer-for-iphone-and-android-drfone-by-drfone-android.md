@@ -1,7 +1,7 @@
 ---
 title: How to Cast Sony Xperia 1 V to Computer for iPhone and Android? | Dr.fone
-date: 2024-04-30T08:54:35.655Z
-updated: 2024-05-01T08:54:35.655Z
+date: 2024-05-20T08:34:20.096Z
+updated: 2024-05-21T08:34:20.096Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -567,4 +567,5 @@ The methods explained above will help you to mirror the android screen to Roku e
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi Redmi Note 12T Pro</u></a></li>
 <li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
 </ul></div>
+
 

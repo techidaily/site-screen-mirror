@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast | Dr.fone
-date: 2024-04-30T08:54:42.552Z
-updated: 2024-05-01T08:54:42.552Z
+date: 2024-05-20T08:34:20.768Z
+updated: 2024-05-21T08:34:20.768Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -429,4 +429,5 @@ This article has provided a diversity of solutions for screencasting your phone 
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y100 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

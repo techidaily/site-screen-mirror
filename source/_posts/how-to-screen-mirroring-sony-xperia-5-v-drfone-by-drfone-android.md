@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Sony Xperia 5 V? | Dr.fone
-date: 2024-04-30T08:55:01.049Z
-updated: 2024-05-01T08:55:01.049Z
+date: 2024-05-20T08:34:21.836Z
+updated: 2024-05-21T08:34:21.836Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -702,4 +702,5 @@ This article has provided a comprehensive overview of some of the best screen mi
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone XR? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-smart-8-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Smart 8</u></a></li>
 </ul></div>
+
 

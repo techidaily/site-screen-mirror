@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 AirPlay Apps in Sony Xperia 10 V for Streaming | Dr.fone
-date: 2024-04-30T08:54:51.285Z
-updated: 2024-05-01T08:54:51.285Z
+date: 2024-05-20T08:34:21.239Z
+updated: 2024-05-21T08:34:21.239Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -336,4 +336,5 @@ Chromecast has some advance features that every user should definitely know and 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Tecno Pova 5 | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-moto-g34-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Moto G34 5G FRP</u></a></li>
 </ul></div>
+
 

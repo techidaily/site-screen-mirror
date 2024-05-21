@@ -1,7 +1,7 @@
 ---
 title: How to Screen Share Mac to Apple iPhone 11? | Dr.fone
-date: 2024-04-30T08:50:06.028Z
-updated: 2024-05-01T08:50:06.028Z
+date: 2024-05-20T08:34:04.724Z
+updated: 2024-05-21T08:34:04.724Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -488,4 +488,5 @@ Moreover, you will be able to control the computer through the smartphone fully.
 <li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-camtasia-vs-captivate-which-is-better/"><u>In 2024, Camtasia Vs Captivate Which Is Better</u></a></li>
 </ul></div>
+
 

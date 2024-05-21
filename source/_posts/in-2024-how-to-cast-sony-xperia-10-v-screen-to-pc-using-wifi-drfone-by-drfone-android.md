@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Sony Xperia 10 V Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:54:52.399Z
-updated: 2024-05-01T08:54:52.399Z
+date: 2024-05-20T08:34:21.305Z
+updated: 2024-05-21T08:34:21.305Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -455,4 +455,5 @@ Screen Mirroring Sony Xperia 10 V to any TV or PC is a piece of exciting news fo
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 to Android? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-8-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 8</u></a></li>
 </ul></div>
+
 

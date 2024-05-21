@@ -1,7 +1,7 @@
 ---
 title: How to Cast Apple iPhone XR to Chromecast? | Dr.fone
-date: 2024-04-30T08:49:47.006Z
-updated: 2024-05-01T08:49:47.006Z
+date: 2024-05-20T08:34:03.730Z
+updated: 2024-05-21T08:34:03.730Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -392,4 +392,5 @@ To screen mirror on Apple iPhone XR is not a difficult task. You need just a pro
 <li><a href="https://fix-guide.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-ace-2-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus Ace 2 FRP?</u></a></li>
 </ul></div>
+
 

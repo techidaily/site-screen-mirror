@@ -587,3 +587,4 @@ Mirror your Samsung Galaxy XCover 6 Pro Tactical Edition deviceto your Windows c
      data-full-width-responsive="true"></ins>
 
 
+

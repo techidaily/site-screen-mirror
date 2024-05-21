@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Sony Xperia 10 V to PC? | Dr.fone
-date: 2024-04-30T08:54:50.260Z
-updated: 2024-05-01T08:54:50.260Z
+date: 2024-05-20T08:34:21.196Z
+updated: 2024-05-21T08:34:21.196Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -602,4 +602,5 @@ This article has provided some great options that can be used to **screen share 
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y27-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y27 5G Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

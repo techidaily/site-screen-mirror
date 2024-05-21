@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Sony Xperia 10 V Mirror Screen to PC? | Dr.fone
-date: 2024-04-30T08:54:55.229Z
-updated: 2024-05-01T08:54:55.229Z
+date: 2024-05-20T08:34:21.456Z
+updated: 2024-05-21T08:34:21.456Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -463,4 +463,5 @@ Mirror your Sony Xperia 10 V deviceto your Windows computer!
 <li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-ai-api/"><u>New 2024 Approved What Is AI API?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/top-31-video-trimmers-that-will-save-you-time-in-ediitng/"><u>Top 31 Video Trimmers That Will Save You Time in Ediitng</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Sony Xperia 1 V to Mac? | Dr.fone
-date: 2024-04-30T08:54:37.613Z
-updated: 2024-05-01T08:54:37.613Z
+date: 2024-05-20T08:34:20.256Z
+updated: 2024-05-21T08:34:20.256Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -433,4 +433,5 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 <li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Huawei Nova Y71 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-y27-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo Y27 5G FRP</u></a></li>
 </ul></div>
+
 

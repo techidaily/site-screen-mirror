@@ -1,7 +1,7 @@
 ---
 title: How to Cast Apple iPhone 13 to Chromecast? | Dr.fone
-date: 2024-04-30T08:51:47.420Z
-updated: 2024-05-01T08:51:47.420Z
+date: 2024-05-20T08:34:10.252Z
+updated: 2024-05-21T08:34:10.252Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -450,4 +450,5 @@ Roku is fast becoming an essential app, and mirroring is just one of the many fe
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A78 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/does-edgeplus-2023-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Edge+ (2023) support AVCHD video?</u></a></li>
 </ul></div>
+
 

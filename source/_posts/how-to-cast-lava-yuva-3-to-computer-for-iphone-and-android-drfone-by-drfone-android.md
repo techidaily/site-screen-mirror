@@ -1,7 +1,7 @@
 ---
 title: How to Cast Lava Yuva 3 to Computer for iPhone and Android? | Dr.fone
-date: 2024-04-30T08:58:37.310Z
-updated: 2024-05-01T08:58:37.310Z
+date: 2024-05-20T08:34:35.869Z
+updated: 2024-05-21T08:34:35.869Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -501,4 +501,5 @@ The provided solutions have been quite comprehensive in showing you how to **cas
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Lava Yuva 3 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-narzo-n55-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme Narzo N55? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

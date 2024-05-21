@@ -651,3 +651,4 @@ Mirror your Infinix Smart 7 HD deviceto your Windows computer!
      data-full-width-responsive="true"></ins>
 
 
+

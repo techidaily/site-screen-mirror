@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirror on Apple iPhone 6? | Dr.fone
-date: 2024-04-30T08:49:41.194Z
-updated: 2024-05-01T08:49:41.194Z
+date: 2024-05-20T08:33:54.950Z
+updated: 2024-05-21T08:33:54.950Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -386,4 +386,5 @@ Moreover, you will be able to control the computer through the smartphone fully.
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lenovo-thinkphone-for-streaming-drfone-by-drfone-android/" ><u>In 2024, Top 10 AirPlay Apps in Lenovo ThinkPhone for Streaming | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oneplus-nord-n30-5g-to-other-android-devices-drfone-by-drfone-android/" ><u>Guide to Mirror Your OnePlus Nord N30 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

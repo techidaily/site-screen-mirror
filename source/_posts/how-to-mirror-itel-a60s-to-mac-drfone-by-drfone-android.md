@@ -595,3 +595,4 @@ Mirror your Itel A60s deviceto your computer!
      data-full-width-responsive="true"></ins>
 
 
+

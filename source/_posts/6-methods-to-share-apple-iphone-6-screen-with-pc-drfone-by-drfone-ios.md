@@ -1,7 +1,7 @@
 ---
 title: 6 Methods to Share Apple iPhone 6 Screen with PC | Dr.fone
-date: 2024-04-30T08:49:41.199Z
-updated: 2024-05-01T08:49:41.199Z
+date: 2024-05-20T08:33:55.025Z
+updated: 2024-05-21T08:33:55.025Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -437,4 +437,5 @@ This article has provided you with several mechanisms that can be adapted for sc
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-xcover-7-screen-sharing-drfone-by-drfone-android/" ><u>In 2024, How To Do Samsung Galaxy XCover 7 Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-se-drfone-by-drfone-ios/" ><u>In 2024, How to Screen Share on Apple iPhone SE? | Dr.fone</u></a></li>
 </ul></div>
+
 

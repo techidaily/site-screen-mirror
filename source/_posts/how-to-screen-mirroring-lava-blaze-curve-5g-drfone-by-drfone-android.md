@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Lava Blaze Curve 5G? | Dr.fone
-date: 2024-04-30T08:58:52.231Z
-updated: 2024-05-01T08:58:52.231Z
+date: 2024-05-20T08:34:36.829Z
+updated: 2024-05-21T08:34:36.829Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -507,4 +507,5 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nubia-red-magic-9-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nubia Red Magic 9 Pro</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/read-on-to-learn-about-opencv-object-tracking-what-it-is-and-how-to-implement-it-in-python-and-opencv-for-2024/"><u>Read on to Learn About OpenCV Object Tracking, What It Is, and How to Implement It in Python, and OpenCV for 2024</u></a></li>
 </ul></div>
+
 

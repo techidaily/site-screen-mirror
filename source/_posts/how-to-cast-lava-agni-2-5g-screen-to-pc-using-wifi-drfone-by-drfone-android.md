@@ -1,7 +1,7 @@
 ---
 title: How to Cast Lava Agni 2 5G Screen to PC Using WiFi | Dr.fone
-date: 2024-04-30T08:57:20.125Z
-updated: 2024-05-01T08:57:20.125Z
+date: 2024-05-20T08:34:30.516Z
+updated: 2024-05-21T08:34:30.516Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -439,4 +439,5 @@ Thus, we have compiled a list of a few applications that can come in handy if yo
 <li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-13-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 13 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-v29-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo V29 Pro Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

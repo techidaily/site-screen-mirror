@@ -1,7 +1,7 @@
 ---
 title: How to Cast Nokia C02 to Computer for iPhone and Android? | Dr.fone
-date: 2024-04-30T09:02:52.582Z
-updated: 2024-05-01T09:02:52.582Z
+date: 2024-05-20T08:34:52.702Z
+updated: 2024-05-21T08:34:52.702Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -544,4 +544,5 @@ Screen mirroring Nokia C02  to TV or PC is as easy as casting your iPhone screen
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-create-an-awesome-logo-reveal-with-logo-intro-templates/"><u>2024 Approved Create an Awesome Logo Reveal with Logo Intro Templates</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-8-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 8 to other iPhone 12 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

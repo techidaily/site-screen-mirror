@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirror on Apple iPhone 13? | Dr.fone
-date: 2024-04-30T08:51:52.363Z
-updated: 2024-05-01T08:51:52.363Z
+date: 2024-05-20T08:34:10.492Z
+updated: 2024-05-21T08:34:10.492Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -700,4 +700,5 @@ Moreover, you will be able to control the computer through the smartphone fully.
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Tecno ?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-c65-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco C65 to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

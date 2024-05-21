@@ -1,7 +1,7 @@
 ---
 title: How To Do Sony Xperia 5 V Screen Sharing | Dr.fone
-date: 2024-04-30T08:54:58.174Z
-updated: 2024-05-01T08:54:58.174Z
+date: 2024-05-20T08:34:21.641Z
+updated: 2024-05-21T08:34:21.641Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -493,4 +493,5 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-xiaomi-redmi-k70e-easily-by-drfone-android/"><u>In 2024, How To Unlock a Xiaomi Redmi K70E Easily?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-x-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone X Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
 </ul></div>
+
 
