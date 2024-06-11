@@ -1,7 +1,7 @@
 ---
 title: 3 Facts You Need to Know about Screen Mirroring Nokia C12 Plus | Dr.fone
-date: 2024-05-20T08:34:57.249Z
-updated: 2024-05-21T08:34:57.249Z
+date: 2024-06-10T19:19:22.457Z
+updated: 2024-06-11T19:19:22.457Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Facts You Need to Know about Screen Mirroring Nokia C12 Plus
 excerpt: This article describes 3 Facts You Need to Know about Screen Mirroring Nokia C12 Plus
 keywords: screen mirroring to apple tv,screen mirroring to lg tv,screen mirroring to android,screen mirroring to roku,screen mirroring app,screen mirroring to tv,screen mirroring to iphone,screen mirroring to ipad,screen mirroring to pc,screen mirroring to smart tv
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## 3 Facts You Need to Know about Screen Mirroring Nokia C12 Plus 

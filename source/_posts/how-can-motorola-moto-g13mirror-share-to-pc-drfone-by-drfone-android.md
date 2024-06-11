@@ -1,7 +1,7 @@
 ---
 title: How Can Motorola Moto G13Mirror Share to PC? | Dr.fone
-date: 2024-05-20T08:34:40.082Z
-updated: 2024-05-21T08:34:40.082Z
+date: 2024-06-10T19:19:33.507Z
+updated: 2024-06-11T19:19:33.507Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Can Motorola Moto G13Mirror Share to PC?
 excerpt: This article describes How Can Motorola Moto G13Mirror Share to PC?
 keywords: screen mirroring to android,screen mirroring to roku,screen mirroring,screen mirroring to chromecast,screen mirroring to tv,screen mirroring to samsung tv
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## How Can Motorola Moto G13Mirror Share to PC?

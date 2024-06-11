@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Screen Mirror on Apple iPhone 11? | Dr.fone
-date: 2024-05-20T08:34:05.004Z
-updated: 2024-05-21T08:34:05.004Z
+date: 2024-06-10T19:18:19.496Z
+updated: 2024-06-11T19:18:19.496Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Screen Mirror on Apple iPhone 11?
 excerpt: This article describes How to Screen Mirror on Apple iPhone 11?
 keywords: 
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## How to Screen Mirror on Apple iPhone 11?

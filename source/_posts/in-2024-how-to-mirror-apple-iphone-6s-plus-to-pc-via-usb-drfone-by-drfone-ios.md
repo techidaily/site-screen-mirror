@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Apple iPhone 6s Plus to PC via USB? | Dr.fone
-date: 2024-05-20T08:33:57.538Z
-updated: 2024-05-21T08:33:57.538Z
+date: 2024-06-10T19:18:04.548Z
+updated: 2024-06-11T19:18:04.548Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Mirror Apple iPhone 6s Plus to PC via USB?
 excerpt: This article describes How to Mirror Apple iPhone 6s Plus to PC via USB?
 keywords: 
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## How to Mirror Apple iPhone 6s Plus to PC via USB?

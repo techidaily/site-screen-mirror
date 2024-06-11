@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Your Nokia C12 Screen to PC with Chromecast | Dr.fone
-date: 2024-05-20T08:34:55.896Z
-updated: 2024-05-21T08:34:55.896Z
+date: 2024-06-10T19:17:28.507Z
+updated: 2024-06-11T19:17:28.507Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Mirror Your Nokia C12 Screen to PC with Chromecast
 excerpt: This article describes How to Mirror Your Nokia C12 Screen to PC with Chromecast
 keywords: screen mirroring to lg tv,screen mirroring to ipad,screen mirroring app,screen mirroring to firestick,screen mirroring to samsung tv,screen mirroring to apple tv
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## How to Mirror Your Nokia C12 Screen to PC with Chromecast

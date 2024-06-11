@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Apple iPhone 6s Plus to Chromecast? | Dr.fone
-date: 2024-05-20T08:33:57.353Z
-updated: 2024-05-21T08:33:57.353Z
+date: 2024-06-10T19:18:30.664Z
+updated: 2024-06-11T19:18:30.664Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Cast Apple iPhone 6s Plus to Chromecast?
 excerpt: This article describes How to Cast Apple iPhone 6s Plus to Chromecast?
 keywords: 
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## How to Cast Apple iPhone 6s Plus to Chromecast?

@@ -1,7 +1,7 @@
 ---
 title: Process of Screen Sharing Lava Agni 2 5G to PC- Detailed Steps | Dr.fone
-date: 2024-05-20T08:34:31.201Z
-updated: 2024-05-21T08:34:31.201Z
+date: 2024-06-10T19:17:52.770Z
+updated: 2024-06-11T19:17:52.770Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes Process of Screen Sharing Lava Agni 2 5G to PC- Detailed Steps
 excerpt: This article describes Process of Screen Sharing Lava Agni 2 5G to PC- Detailed Steps
 keywords: screen mirroring to lg tv,screen mirroring app,screen mirroring to sony tv,screen mirroring to apple tv,screen mirroring to samsung tv,screen mirroring to ipad,screen mirroring to chromecast,screen mirroring to smart tv
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Process of Screen Sharing Lava Agni 2 5G to PC- Detailed Steps

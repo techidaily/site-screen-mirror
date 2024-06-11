@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Can I Screen Mirroring Apple iPhone SE (2022) to TV/Laptop? | Dr.fone
-date: 2024-05-20T08:34:14.038Z
-updated: 2024-05-21T08:34:14.038Z
+date: 2024-06-10T19:19:21.529Z
+updated: 2024-06-11T19:19:21.529Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Can I Screen Mirroring Apple iPhone SE (2022) to TV/Laptop?
 excerpt: This article describes How Can I Screen Mirroring Apple iPhone SE (2022) to TV/Laptop?
 keywords: 
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## How Can I Screen Mirroring Apple iPhone SE (2022) to TV/Laptop?

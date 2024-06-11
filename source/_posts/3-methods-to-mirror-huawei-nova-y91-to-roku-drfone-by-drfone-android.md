@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Huawei Nova Y91 to Roku | Dr.fone
-date: 2024-05-20T08:34:27.938Z
-updated: 2024-05-21T08:34:27.938Z
+date: 2024-06-10T19:18:35.405Z
+updated: 2024-06-11T19:18:35.405Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Methods to Mirror Huawei Nova Y91 to Roku
 excerpt: This article describes 3 Methods to Mirror Huawei Nova Y91 to Roku
 keywords: screen mirroring to android,screen mirroring,screen mirroring to mac,screen mirroring to tv,screen mirroring app,screen mirroring tool,screen mirroring to apple tv,screen mirroring to pc,screen mirroring to firestick,screen mirroring to roku
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## 3 Methods to Mirror Huawei Nova Y91 to Roku

@@ -1,7 +1,7 @@
 ---
 title: A Guide Nokia C12 Pro Wireless and Wired Screen Mirroring | Dr.fone
-date: 2024-05-20T08:34:56.557Z
-updated: 2024-05-21T08:34:56.557Z
+date: 2024-06-10T19:19:22.568Z
+updated: 2024-06-11T19:19:22.568Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes A Guide Nokia C12 Pro Wireless and Wired Screen Mirroring
 excerpt: This article describes A Guide Nokia C12 Pro Wireless and Wired Screen Mirroring
 keywords: screen mirroring to iphone,screen mirroring to roku,screen mirroring to sony tv,screen mirroring to tv,screen mirroring to smart tv,screen mirroring to apple tv,screen mirroring to android,screen mirroring to ipad
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## A Guide Nokia C12 Pro Wireless and Wired Screen Mirroring

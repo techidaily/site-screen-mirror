@@ -1,7 +1,7 @@
 ---
 title: 6 Methods to Mirror Apple iPhone 11 Pro to your Windows PC | Dr.fone
-date: 2024-05-20T08:34:06.249Z
-updated: 2024-05-21T08:34:06.249Z
+date: 2024-06-10T19:18:22.358Z
+updated: 2024-06-11T19:18:22.358Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes 6 Methods to Mirror Apple iPhone 11 Pro to your Windows PC
 excerpt: This article describes 6 Methods to Mirror Apple iPhone 11 Pro to your Windows PC
 keywords: 
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## 6 Methods to Mirror Apple iPhone 11 Pro  to your Windows PC

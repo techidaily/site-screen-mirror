@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Motorola Defy 2? | Dr.fone
-date: 2024-05-20T08:34:41.816Z
-updated: 2024-05-21T08:34:41.817Z
+date: 2024-06-10T19:17:27.559Z
+updated: 2024-06-11T19:17:27.559Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Screen Mirroring Motorola Defy 2?
 excerpt: This article describes How to Screen Mirroring Motorola Defy 2?
 keywords: screen mirroring app,screen mirroring to firestick,screen mirroring to apple tv,screen mirroring to iphone,screen mirroring tool,screen mirroring to lg tv,screen mirroring software,screen mirroring,screen mirroring to ipad,screen mirroring to mac,screen mirroring to roku,screen mirroring to chromecast
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## How to Screen Mirroring Motorola Defy 2 to PC?

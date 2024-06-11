@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Nokia G22 to Roku | Dr.fone
-date: 2024-05-20T08:34:54.348Z
-updated: 2024-05-21T08:34:54.348Z
+date: 2024-06-10T19:18:23.328Z
+updated: 2024-06-11T19:18:23.328Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Methods to Mirror Nokia G22 to Roku
 excerpt: This article describes 3 Methods to Mirror Nokia G22 to Roku
 keywords: screen mirroring to smart tv,screen mirroring to chromecast,screen mirroring to ipad,screen mirroring to sony tv,screen mirroring to iphone,screen mirroring tool,screen mirroring to tv,screen mirroring app
-thumbnail: https://www.lifewire.com/thmb/qNtT0Vit1jn8RftUFX6Xcsv5x4o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-best-texting-apps-for-android-tablets-in-2023-a5a6329d6b744167acf0a02f6a413ff2.jpg
+thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg
 ---
 
 ## 3 Methods to Mirror Nokia G22 to Roku

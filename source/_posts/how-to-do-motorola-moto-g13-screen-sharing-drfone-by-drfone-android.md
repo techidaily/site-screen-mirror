@@ -1,7 +1,7 @@
 ---
 title: How To Do Motorola Moto G13 Screen Sharing | Dr.fone
-date: 2024-05-20T08:34:40.066Z
-updated: 2024-05-21T08:34:40.066Z
+date: 2024-06-10T19:18:21.300Z
+updated: 2024-06-11T19:18:21.300Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Do Motorola Moto G13 Screen Sharing
 excerpt: This article describes How To Do Motorola Moto G13 Screen Sharing
 keywords: screen mirroring to ipad,screen mirroring to windows,screen mirroring to android,screen mirroring to chromecast,screen mirroring to smart tv,screen mirroring to iphone,screen mirroring to pc,screen mirroring to sony tv,screen mirroring to lg tv
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## How To Do Motorola Moto G13  Screen Sharing

@@ -1,7 +1,7 @@
 ---
 title: How to Mirror Sony Xperia 1 V to Mac? | Dr.fone
-date: 2024-05-20T08:34:20.256Z
-updated: 2024-05-21T08:34:20.256Z
+date: 2024-06-10T19:17:55.473Z
+updated: 2024-06-11T19:17:55.473Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Mirror Sony Xperia 1 V to Mac?
 excerpt: This article describes How to Mirror Sony Xperia 1 V to Mac?
 keywords: screen mirroring app,screen mirroring to samsung tv,screen mirroring to tv,screen mirroring to iphone,screen mirroring to pc,screen mirroring to windows
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## How to Mirror Sony Xperia 1 V to Mac?
