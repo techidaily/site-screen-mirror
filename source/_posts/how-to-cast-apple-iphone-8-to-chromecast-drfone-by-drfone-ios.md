@@ -1,7 +1,7 @@
 ---
 title: How to Cast Apple iPhone 8 to Chromecast? | Dr.fone
-date: 2024-05-20T08:34:01.529Z
-updated: 2024-05-21T08:34:01.529Z
+date: 2024-06-19T18:38:49.539Z
+updated: 2024-06-20T18:38:49.539Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Cast Apple iPhone 8 to Chromecast?
 excerpt: This article describes How to Cast Apple iPhone 8 to Chromecast?
 keywords: 
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## How to Cast Apple iPhone 8 to Chromecast?
