@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast | Dr.fone
-date: 2024-05-20T08:34:20.768Z
-updated: 2024-05-21T08:34:20.768Z
+date: 2024-06-27T19:11:42.515Z
+updated: 2024-06-28T19:11:42.515Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast
 excerpt: This article describes How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast
 keywords: screen mirroring to lg tv,screen mirroring to iphone,screen mirroring to ipad,screen mirroring to chromecast,screen mirroring to roku,screen mirroring to samsung tv
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## How to Mirror Your Sony Xperia 1 V Screen to PC with Chromecast
