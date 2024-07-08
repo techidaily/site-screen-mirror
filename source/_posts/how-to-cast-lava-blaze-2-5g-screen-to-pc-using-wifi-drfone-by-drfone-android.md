@@ -1,7 +1,7 @@
 ---
 title: How to Cast Lava Blaze 2 5G Screen to PC Using WiFi | Dr.fone
-date: 2024-05-20T08:34:33.676Z
-updated: 2024-05-21T08:34:33.676Z
+date: 2024-07-07T00:40:31.344Z
+updated: 2024-07-08T00:40:31.344Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Cast Lava Blaze 2 5G Screen to PC Using WiFi
 excerpt: This article describes How to Cast Lava Blaze 2 5G Screen to PC Using WiFi
 keywords: screen mirroring to lg tv,screen mirroring to apple tv,screen mirroring to firestick,screen mirroring to chromecast,screen mirroring,screen mirroring to ipad,screen mirroring to samsung tv,screen mirroring to roku
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## How to Cast Lava Blaze 2 5G Screen to PC Using WiFi
@@ -398,7 +398,7 @@ The app provides an intuitive interface to connect an Android or iOS device and 
 
 
 
-### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/ "Wondershare Dr.Fone")
+### Wondershare Dr.Fone
 
 Mirror your Lava Blaze 2 5G deviceto your computer!
 

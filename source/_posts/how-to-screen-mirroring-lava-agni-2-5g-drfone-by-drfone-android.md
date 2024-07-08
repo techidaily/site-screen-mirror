@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Lava Agni 2 5G? | Dr.fone
-date: 2024-05-20T08:34:31.169Z
-updated: 2024-05-21T08:34:31.169Z
+date: 2024-07-07T00:38:49.611Z
+updated: 2024-07-08T00:38:49.611Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Screen Mirroring Lava Agni 2 5G?
 excerpt: This article describes How to Screen Mirroring Lava Agni 2 5G?
 keywords: screen mirroring to iphone,screen mirroring to windows,screen mirroring to sony tv,screen mirroring to pc,screen mirroring tool,screen mirroring to android
-thumbnail: https://www.lifewire.com/thmb/medNi2-ezQAi4chkGlIzs91_k0o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Ultra-2-23e8ec3e4ee04c6e98c9d654a35f59ec.jpg
+thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a369ed52226c792a6ec4885ea2.jpg
 ---
 
 ## How to Screen Mirroring Lava Agni 2 5G?
@@ -262,7 +262,7 @@ You might also want to mirror your Android to the computer. [Wondershare Dr.Fone
 
 
 
-### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/ "Wondershare Dr.Fone")
+### Wondershare Dr.Fone
 
 Mirror your Lava Agni 2 5G deviceto your computer!
 
