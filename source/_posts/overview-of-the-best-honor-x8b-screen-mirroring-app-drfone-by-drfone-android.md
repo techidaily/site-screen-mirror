@@ -1,7 +1,7 @@
 ---
 title: Overview of the Best Honor X8b Screen Mirroring App | Dr.fone
-date: 2024-03-30 14:10:35
-updated: 2024-03-31 17:30:58
+date: 2024-07-26T10:07:51.182Z
+updated: 2024-07-27T10:07:51.182Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes Overview of the Best Honor X8b Screen Mirroring App
 excerpt: This article describes Overview of the Best Honor X8b Screen Mirroring App
 keywords: screen mirroring app,screen mirroring to firestick,screen mirroring,screen mirroring to ipad,screen mirroring to smart tv,screen mirroring to android,screen mirroring software
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## Overview of the Best Honor X8b Screen Mirroring App
@@ -19,6 +19,9 @@ Screen mirroring has turned out to be extremely helpful for many users in the ma
 
 For this article, we will be working on some of the best screen mirroring applications that you can find in the market. For more diversity, a collection of free and paid tools has been offered for better decision-making. Let's look into this list and find the most workable situation for 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Android Screen Mirroring App: Which Tool is Best?
 
 Although you might be searching for an **Android mirroring app** for your work, you are never bound to restrict yourselves to the requirement. Finding the most suitable application does not necessarily mean that you have to have a tool that only supports Android devices. [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) provides the perfect environment for screen mirroring on Android devices.
@@ -47,6 +50,9 @@ Initiate by opening the official website of Dr.Fone Air on the browser of the Ho
 
 Following this, you will have to install Dr.Fone Link on your Android device to scan the QR code or add the cast code displayed on the browser screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![use qr or screencast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
 **Step 3: Successfully Mirror Android Screen**
@@ -55,10 +61,17 @@ On adding or scanning the code, your Android device is easily mirrored to the sc
 
 ![android device screen mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: The Best Android Screen Mirroring App of 2023: Our Top Picks
 
 We will now work on the best **screen mirroring app for Android** that you can use in 2023. These top picks would be quite prominent in helping you find the best option that will essentially suit your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 1\. [Dr.Fone Air - Online Screen Mirror Tool](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/)
 
 Wondershare Dr.Fone Air is an online wonder for mirroring Android devices to a bigger screen that has access to a browser and the internet. Whether it be a TV stick or a Windows PC, it is easy for you to mirror your Android device in no time.
@@ -89,6 +102,9 @@ If you intend to mirror your Android screen onto Smart TVs, the Screen Mirroring
 
 While being a wireless solution, the Screen Mirroring app provides support for a variety of Smart TVs with perfect performance. Users can also enjoy the sound of the files that are being shared if the Honor X8b devices used are above Android 10 OS.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen mirroring android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-5.jpg)
 
 **Pros**
@@ -106,6 +122,9 @@ While being a wireless solution, the Screen Mirroring app provides support for a
 
 **Review**: "The app is extremely slow when mirroring. You'll have to lower the resolution and picture quality to be fast enough to watch. Yet, the picture quality is miserable. Buy a chrome cast, and don't waste your money on this app."
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [LetsView - All Platform Compatible Screening for Android](https://play.google.com/store/apps/details?id=com.apowersoft.letsview&hl=en&gl=US)
 
 If you seek a better option in the market for screen mirroring your Android device, LetsView provides a diversely compatible system that can easily help you execute the process. While it is available on Android, it features more compatibility options to work with. It helps connect multiple platforms and devices together while providing you with a high-quality result.
@@ -135,6 +154,9 @@ Those who feel issues in their screen mirroring results can consider using Mirro
 
 Mirroring360 provides a separate Sender and Receiver application for devices that are involved in the screening process. If you feel the need to showcase the best results to other viewers, this tool is perfect to work with.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![mirroring360 android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-7.jpg)
 
 **Pros**
@@ -152,6 +174,9 @@ Mirroring360 provides a separate Sender and Receiver application for devices tha
 
 **Review**: "Great app. Works perfectly. The only two things I have to say is, for some reason, it might be my internet connection, but it won't stream Hulu. The second thing, and it's something that's already been talked about, is audio streaming. I love the app otherwise."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### 5\. [ApowerMirror - Cast Screen of Android to PC with Audio](https://play.google.com/store/apps/details?id=com.apowersoft.mirror&hl=en&gl=US)
 
 If you wish to cast the screen of your Android device to a Smart TV or a computer with sound, ApowerMirror turns out to be quite useful. With the provision of casting the screen of your Android device to the PC, you can remotely control the Honor X8b device's screen with the help of the peripherals of the computer. Mirroring through ApowerMirror gets quite simple and exquisite.
@@ -198,12 +223,18 @@ Those who are not comfortable with using Wi-Fi or other network connections for 
 
 **Review**: "I like the app and how it functions. My only complaint is it stays on my notification screen and won't come off. I tried disabling the app, but nothing worked. I wish they would fix that. It's very annoying to have to sign out or even uninstall the app just to close out the application and not have it on my notification screen on my phone."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### 7\. [AnyDesk - A Powerful, Secure Screen Mirroring Tool for Android](https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid&hl=en&gl=US)
 
 This screen mirroring tool for Android devices is a powerful, strong, and diverse option when it comes to specific functions. AnyDesk is used for many other purposes, which include many remote functions and procedures. The diversity of this tool is commendable, which comes with support for many devices that can be used in mirroring screens.
 
 Its banking-standard encryption is another prominent functionality that makes it quite common among users. While providing outstanding results, the tool also keeps a simple process for mirroring devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![anydesk android app features](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-10.jpg)
 
 **Pros**
@@ -221,6 +252,9 @@ Its banking-standard encryption is another prominent functionality that makes it
 
 **Review**: "AnyDesk is having some real issues with Windows 11. Work perfectly prior to changing the OS, and now it's a struggle to use. The start menu is not reliably displayed, and certain windows do not update, open, or close correctly after remote interaction. The screen freezes while input does not."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. [iMyFone MirrorTo - Good Android Screen Mirroring on PC](https://www.imyfone.com/screen-mirror/)
 
 iMyFone MirrorTo can be a great mirroring option for users who prefer working with wired connections. While you are not required to install any application on your Android device, iMyFone MirrorTo executes the complete mirroring process in no time. With simple usability, the tool gives some great experiences of mirroring Android devices to Windows and Mac.
@@ -273,6 +307,9 @@ Wondershare Dr.Fone is another considerate and effective option for mirroring An
 
 This **screen mirroring app for Android** gives a good mirroring experience under different circumstances. You should indeed consider going for this solution under different conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare mirrorgo android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-13.jpg)
 
 **Pros**
@@ -317,6 +354,9 @@ While you can execute the process through a simple Wi-Fi connection, it is easy 
 
 This is another screen mirroring solution that can be quickly accessed for screen sharing. You can securely access your computer using this Google-integrated solution. While this is a free solution, it is a simple option to go with. Those not interested in long solutions and high-quality options can surely try using these services.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chrome remote desktop android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-15.jpg)
 
 **Pros**
@@ -376,10 +416,16 @@ This particular screen mirroring tool has been on the market for a while. With m
 
 **Review**: "The app does not allow you to prep/set up a phone share prior to the exact moment its needed. Even if you have two monitors and set up a reflector in advance, you have to maintain the connection. It can also be glitchy and does not always connect as needed."
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 15\. [Microsoft Remote Desktop - Easily Screen Mirror Android to Windows](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx&hl=en&gl=US)
 
 In situations where you have to screen mirror your Android device to the Windows PC, you can try using the dedicated Microsoft Remote Desktop service. This application allows users to mirror their Android devices to Windows PC and configure them according to the conditions. It also comes with support for different Windows gestures and audio and video streaming.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![microsoft remote desktop android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-18.jpg)
 
 **Pros**
@@ -397,6 +443,9 @@ In situations where you have to screen mirror your Android device to the Windows
 
 **Review**: "Works, but having issues with the remote session's scaling after pulling down the keyboard for remote input. When you collapse the virtual keyboard and try to use the mouse to click on things, the cursor is offset from what is shown on the screen. So you have to aim off by some degree to click on things you intend to click on. Rather annoying. Need to disconnect and reconnect every time to restore functionality."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: FAQs about Android Screen Mirroring App
 
 1. **Why do you need to use Screen Mirroring Apps for Android?**
@@ -411,6 +460,9 @@ The major issues with screen mirroring, which is basically and majorly wireless,
 
 Whenever you choose a **screen mirroring app for Android,** you should always look at its price, features, and reviews. The perfect application is not costly or should be free to use. It should also provide features that can help make screen mirroring easier.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 This article has provided a comprehensive overview of some of the best screen mirroring applications available for Android devices. While you wish to mirror your Android screen without any lagging, the urge to find the best tool can get complicated. However, with this overview, you might have discovered Wondershare Dr.Fone Air as the best **mirror app for Android,** as it provides an online, free, and secure option for screen mirroring.
@@ -427,6 +479,9 @@ If we consider the traditional and conventional methods of connecting AV cables,
 
 Screen mirroring can be covered through wired and wireless connections. If you are willing to work on a wireless solution, there are several options to come by. In this part, we will be analyzing the multiple options that can be used for *Honor X8b mirroring to a PC.**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Honor X8b View in Honor X8b Flow
 
 Honor X8b Flow is known for providing multiple device solutions for Honor X8b smartphone users. For people who are searching for an option to perform screen mirroring on their PC, they can try this official approach of mirroring Honor X8b devices to their PC.
@@ -437,6 +492,9 @@ With the option of providing seamless access to Honor X8b users, the Honor X8b V
 
 **Step 2:** Following this, you must go through the PC version of Honor X8b Flow and find your phone name to generate the credentials to connect the Honor X8b device to the PC. This pairing process will generate a passcode that needs to be entered into the phone to initiate a connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch the Honor X8b flow app](https://images.wondershare.com/drfone/article/2022/12/Honor X8b-mirror-screen-to-pc-1.jpg)
 
 **Step 3:** As the pairing process succeeds, you can click on the "Smart View" button on the PC to mirror the Honor X8b to your PC.
@@ -463,12 +521,18 @@ You must open the Dr.Fone Air platform on the web browser of your PC. Continue w
 
 Following this, you must install the Dr.Fone Link on your device and continue connecting both devices. You can make use of the QR code or cast code for connecting both devices.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use qr or screencast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
 **Step 3: Mirror Honor X8b Device to PC**
 
 On scanning the code, the Honor X8b devices connect with each other, and the Honor X8b screen successfully mirrors the PC.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![drfone mirroring Honor X8b](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
 ### 3\. Connect App on Windows
@@ -477,6 +541,9 @@ Windows devices come with another great option of screen mirroring a device onto
 
 **Step 1:** You need to access the "Action Center" on the bottom-right of the screen and proceed to activate "Bluetooth" from the available options. Afterward, select the "Connect" option.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the bluetooth option](https://images.wondershare.com/drfone/article/2022/12/Honor X8b-mirror-screen-to-pc-6.jpg)
 
 **Step 2:** Afterward, open the "Quick Menu" of your Honor X8b device and enable the option of "Smart View." You will see all the available options on your Honor X8b screen with whom you can create a connection. Select your device from the list and press the "Start Now" button to start the mirroring process.
@@ -485,6 +552,9 @@ Windows devices come with another great option of screen mirroring a device onto
 
 **Step 3:** Following this, you will receive a confirmation pop-up notification on your PC. You have to hit the "OK" button to mirror your Honor X8b phone to your PC successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the ok button](https://images.wondershare.com/drfone/article/2022/12/Honor X8b-mirror-screen-to-pc-8.jpg)
 
 ### 4\. Mirror Honor X8b Phone to PC with MirrorGo
@@ -524,8 +594,14 @@ Tap on the About Phone button from Settings and tap on Build Number 7 times to a
 
 Now, look over to the MirrorGo’s interface, and you will see the main screen of your Honor X8b device there. The mirroring will be enabled on the Honor X8b device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![mirror android to a PC](https://images.wondershare.com/drfone/drfone/mirror-android-screen-to-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Part 3: How to Mirror Android to PC without Root via USB
 
 While there are many wireless solutions that you can come across for mirroring your Android device to the PC, you can also try using the wired methods. If you are not finding the right platform to establish a wireless connection, you will have to mirror the Android device to the PC through a USB connection. There are many options available, out of which we have highlighted the following tools for you:
@@ -538,16 +614,44 @@ AirDroid Cast is a renowned method available for users who seek to mirror their 
 
 **Step 2:** In the "Available Device" list, select the Honor X8b device you want to cast.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the usb function](https://images.wondershare.com/drfone/article/2022/12/Honor X8b-mirror-screen-to-pc-9.jpg)
 
 **Step 3:** You might have to enable USB debugging on your Honor X8b device. For this, access "Settings" and look for the "About phone" option. Proceed into the "Software information" section and look for "Build number" on the next screen. Tap it seven times until you become a developer, which will allow you to enable USB debugging.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![tap on the build number](https://images.wondershare.com/drfone/article/2022/12/Honor X8b-mirror-screen-to-pc-10.jpg)
 
 **Step 4:** Redirect into the "Settings" of your Honor X8b device and find the "Developer options." Look for the "USB Debugging" option on the next screen and turn on the toggle. As the process is concluded successfully, the Honor X8b screen is cast onto the PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![enable usb debugging](https://images.wondershare.com/drfone/article/2022/12/Honor X8b-mirror-screen-to-pc-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Vysor
 
 If you are looking to mirror your Honor X8b screen to the PC with another option, [Vysor](https://www.vysor.io/) is a good option to work with without rooting your device. This process requires you to utilize the USB connection for establishing the screen mirroring environment. Following this, Vysor provides a diversity of options to set, which acts as the parameters of the final product being obtained. Let's look at how you can screen mirror your Honor X8b device on Vysor:
@@ -562,6 +666,10 @@ If you are looking to mirror your Honor X8b screen to the PC with another option
 
 ![hit the view button](https://images.wondershare.com/drfone/article/2022/12/Honor X8b-mirror-screen-to-pc-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 This article has provided a comprehensive overview of how one can mirror their Honor X8b device with the right set of methods. As you have the option of adopting both wireless and wired methods, this article helps you out in making proper decisions. Wondershare Dr.Fone Air provides one of the simplest options for mirroring the Honor X8b device to the PC in no time. Try this free wireless option for the perfect *Honor X8b screen mirroring to a PC.**
@@ -571,6 +679,9 @@ This article has provided a comprehensive overview of how one can mirror their H
 Today most people are using smartphones with an android operating system which actually has become the first choice for so many people. Although you can enjoy so many brilliant and advanced features on the android platform, the thing which makes people sometimes annoyed and uneasy at the same time is an inferior visual experience on a small screen. People often miss their good experiences on large screens when they watch their favorite videos and movies even while they are making video calls to their favorite persons. But now the time has changed and so has the technology which literally allows you to enjoy the benefit of a large screen with your same small android device. This is called screen mirroring. So, let's discuss what screen mirroring and casting is actually and how to cast android screen to PC using WiFi.
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Part 1: What is Screen Mirroring Android and Casting
 
 Today, most android devices are coming with a built-in screen mirroring feature which simply allows you to upgrade and enhance your viewing experience. With this, you can simply mirror the android screen on a PC via WiFi. And for this, all you just need is the right platform for both of your devices which means your PC, as well as your smartphone, must have some built-in cast screen or screen mirror feature or software as well.
@@ -585,6 +696,9 @@ Thereafter, all you need to do is operate your Honor X8b devicefor changing the 
 
 In this given post, here we are going to provide you with the different choices where you can easily view phone screens on PC via WiFi. So, let's try all of the options and choose one best!
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen mirroring android and casting](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-1.jpg)
 
 ## Part 2: Casting Android Screen to PC with ChromeCast
@@ -623,6 +737,9 @@ With this, you will be able to cast the screen of one device to another.
 
 ![casting android screen to pc with chromecast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 3: Casting Android Screen to PC with MiraCast
 
 The next method which you can possibly consider using is MiraCast for mirroring your screen over the internet.
@@ -639,8 +756,23 @@ Now when you open the 'connect' app, it will display a message regarding your sy
 
 Here you are absolutely not required to interact with any network server settings or any firewall as well. So, simply tap to open the app every time you need this.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![casting android screen to pc with miracast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Casting Android Screen To PC with Screen Mirroring Tool - Mirror Go
 
 To fulfill your requirement of mirroring your Android device with your PC in the best possible manner, you can certainly choose [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) which is absolutely powerful enough in providing you an intelligent solution with advanced experience as well.
@@ -679,6 +811,10 @@ With all the casting solutions provided above, it might make your experience bet
 
 As it is a wireless solution, you have to cover the complete process with the help of a Wi-Fi connection. Rather than **casting the Android screen to a PC,** you can realize this solution as a perfect option for covering lectures, meetings, and other uses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Key Features Provided by the Online Screen Mirroring Solution
 
 There are some prominent features of this online mirroring solution that makes it a special choice in the market. Let's find out more about these features below:
@@ -687,6 +823,9 @@ There are some prominent features of this online mirroring solution that makes i
 - The tool is completely free and does not have any ads associated with it.
 - You can adjust the mirrored screen by zooming, rotating, or taking screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is the Disadvantage of Screen Casting?
 
 Screen casting, as a process, is not better than screen mirroring. Essentially, this process does not allow you to use the mobile when it is connected to the computer. If you have connected your Android to the PC through screencasting, you will have to disconnect it to use the mobile phone.
@@ -699,6 +838,9 @@ If you wish to know how to screen mirror your Android to a PC, find out how to p
 
 Start by opening Wondershare Dr.Fone Air on the browser. Proceed to connect your Android and PC under the same Wi-Fi connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access drfone air tool](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
 **Step 2: Use QR Code or Cast Code**
@@ -711,6 +853,9 @@ As you connect the Honor X8b devices, you must install Dr.Fone Link to connect t
 
 On successfully scanning or entering the code, the Android will be mirrored to the PC with Dr.Fone Air.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android device mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
 ### Conclusion
@@ -734,3 +879,43 @@ The provided solutions have been quite comprehensive in showing you how to **cas
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-5-factors-to-master-when-using-tiktok-web-mac/"><u>[New] Top 5 Factors to Master When Using TikTok Web (Mac)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-immaculatecapture-the-best-w10-recorder/"><u>[Updated] 2024 Approved  ImmaculateCapture  The Best W10 Recorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-idea-to-execution-an-essential-guide-to-youtube-shorts-template-design-for-2024/"><u>[Updated] From Idea to Execution  An Essential Guide to YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-a-complete-resource-for-aspiring-xbox-streaming-pros/"><u>[Updated] In 2024, A Complete Resource for Aspiring Xbox Streaming Pros</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laughter-ledger-ranking-the-highest-viral-jokes/"><u>[Updated] Laughter Ledger  Ranking the Highest Viral Jokes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-streamlining-photo-editing-processes-a-guide/"><u>2024 Approved  Streamlining Photo Editing Processes  A Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-troubleshooting-common-obs-issues/"><u>2024 Approved  Troubleshooting Common OBS Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-g54-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Motorola G54 5G PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-realme-c53-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Realme C53</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-note-30-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Note 30 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-play-7t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Play 7T to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-f14-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy F14 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-htc-u23-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast HTC U23 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-asus-rog-phone-8-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Asus ROG Phone 8 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-defy-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Defy 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-tecno-pop-8-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Pop 8 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-magic-6-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor Magic 6 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c300-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C300 PC | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-best-mouse-recorders-to-use/"><u>In 2024, Best Mouse Recorders to Use</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-itel-p55-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Itel P55 FRP?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-a60-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel A60 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-12-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 12 Display? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y27-4g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y27 4G to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-note-30i-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Note 30i to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-m6-pro-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco M6 Pro 4G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-xcover-7-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy XCover 7 Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oppo-a78-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Oppo A78 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-y100i-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo Y100i for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-civi-3-disney-100th-anniversary-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Civi 3 Disney 100th Anniversary Edition to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-k70e-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi K70E to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-lava-yuva-2-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Lava Yuva 2 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comedy-codex-a-practical-tutorial-for-gif-creation-for-2024/"><u>The Comedy Codex  A Practical Tutorial for GIF Creation for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hiest-webcast-wonders/"><u>Wealthiest Webcast Wonders</u></a></li>
+</ul></div>

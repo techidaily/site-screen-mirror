@@ -1,7 +1,7 @@
 ---
 title: How To Do Honor V Purse Screen Sharing | Dr.fone
-date: 2024-03-28 18:50:11
-updated: 2024-03-31 12:21:35
+date: 2024-07-26T10:00:45.260Z
+updated: 2024-07-27T10:00:45.260Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Do Honor V Purse Screen Sharing
 excerpt: This article describes How To Do Honor V Purse Screen Sharing
 keywords: screen mirroring to samsung tv,screen mirroring to apple tv,screen mirroring to windows,screen mirroring to mac,screen mirroring tool,screen mirroring,screen mirroring to roku,screen mirroring to sony tv,screen mirroring to firestick,screen mirroring to lg tv,screen mirroring to smart tv,screen mirroring to pc
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## How To Do Honor V Purse  Screen Sharing
@@ -23,12 +23,21 @@ Whether there is a need to show unique clicks or videos on a bigger screen or wa
 
 So today, let us go through a detailed guide on **how to screen share in Honor V Purse ** to smart TVs and computers.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![samsung devices featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-share-screen-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Does Screen Sharing Use Bluetooth?
 
 Bluetooth is not used for screen sharing as it does not have the bandwidth required to stream heavy media. Although it is commonly used for wireless data transfer, it is not suited for screen sharing. A major reason behind this is the slowness of Bluetooth, as its maximum speed for data sharing is up to 50MB/s. That makes it unreliable for screen sharing, making Wi-Fi the default choice.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Share Screen From Honor V Purse  Phone to  Honor TV Using Smart View?
 
 Samsung Smart View is a feature in Honor V Purse  devices that allows you to **screen share on Honor V Purse ** Smart TV. First introduced as an app, it is now an in-built feature of One UI.
@@ -54,6 +63,9 @@ All the Samsung Smart TVs after 2015 are compatible with Samsung Smart View. Bel
 - 2015 J4500, J5500 and above (except J6203).
 - 2016 K4300, K5300 and above.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Samsung Devices with Smart View Feature
 
 With the introduction of One UI in Samsung devices, the Smart View was added as an in-built feature. All Samsung devices launched with One UI can use the Smart View feature to share their device's screen with  Honor TV. The Samsung devices that support the Smart View feature include Galaxy S Series, Galaxy Z Series, Galaxy Note Series, Galaxy A Series, Galaxy M Series, and Galaxy F Series.
@@ -68,6 +80,9 @@ Ensure that your Samsung device and Smart TV are connected to the same network, 
 
 **Step 2:** Select your  Honor TV among the available devices when Smart View is enabled. Once connected, choose the content you want to share on the TV screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enable the smart view feature](https://images.wondershare.com/drfone/article/2022/12/how-to-share-screen-on-samsung-2.jpg)
 
 **Step 3:** You can select your desired content through options like My Photos, My Videos, or My Music. When the desired content is selected, you can enjoy it on a bigger screen.
@@ -84,6 +99,10 @@ After learning about screen sharing to TVs, it is about sharing a Samsung phone 
 
 Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharing in Samsung** to any computer. It can quickly mirror a Samsung phone to any web browser using a Wi-Fi connection only. Further, it is easy to download [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) from its official website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Key Features of Dr.Fone Air
 
 - It provides great cross-platform support for screen sharing and casting. You can easily share screens from Android or iOS to Windows or Mac.
@@ -96,10 +115,16 @@ Sharing your Samsung phone screen with your  Honor TV using Dr.Fone Air is a sim
 
 1. **Downloading and launching Dr.Fone Air:** The first step is to download and launch Dr.Fone Air from the official website. The next step is to connect the Samsung phone and computer with the same Wi-Fi connection.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![launching drfone air](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
 2. **Using QR or Cast code:** The second step is to use the QR or Cast code as shown on the screen of the browser.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using qr or cast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
 3. **Mirroring Samsung phone to computer:** The Samsung phone will be automatically mirrored to the computer on successful scanning or code entering.
@@ -112,6 +137,9 @@ Hope everything is clear to our readers about the different methods to share the
 
 Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) for sharing screens from Samsung phones to computers directly. It is a reliable, secure, and quick method to wirelessly mirror any mobile phone screen to any web browser.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Honor V Purse Mirror Screen to PC?
 
 Mirror Screening has been devised as one of the most exquisite and simplest features in sharing data that provides you with the ability to share your smaller screens onto larger ones for people to observe the information presented easily. Many mirror screening applications have been introduced and have been brought on the front to filter out the best in the market; however, the method involving sharing the screen to the PC or other associated devices have been recognized as quite simple and effective in performance. This article provides Honor V Purse users, in specific, a list of solutions that can act as the easiest and the most convenient in allowing them to share their screen with a PC.
@@ -134,10 +162,16 @@ With the option of providing seamless access to Honor V Purse users, the Honor V
 
 **Step 2:** Following this, you must go through the PC version of Honor V Purse Flow and find your phone name to generate the credentials to connect the Honor V Purse device to the PC. This pairing process will generate a passcode that needs to be entered into the phone to initiate a connection.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![launch the Honor V Purse flow app](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-1.jpg)
 
 **Step 3:** As the pairing process succeeds, you can click on the "Smart View" button on the PC to mirror the Honor V Purse to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on smart view](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-2.jpg)
 
 ### 2\. Wondershare Dr.Fone Air – Online Screen Mirror
@@ -154,12 +188,18 @@ We will now shift towards mirroring the Honor V Purse screen to the PC with the 
 
 You must open the Dr.Fone Air platform on the web browser of your PC. Continue with connecting the Honor V Purse and computer with the same Wi-Fi connection.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![launch the drfone air tool](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
 **Step 2: Scan or Add Code for Connection**
 
 Following this, you must install the Dr.Fone Link on your device and continue connecting both devices. You can make use of the QR code or cast code for connecting both devices.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use qr or screencast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
 **Step 3: Mirror Honor V Purse Device to PC**
@@ -168,12 +208,18 @@ On scanning the code, the Honor V Purse devices connect with each other, and the
 
 ![drfone mirroring Honor V Purse](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Connect App on Windows
 
 Windows devices come with another great option of screen mirroring a device onto the screen without requiring downloading any tool. This feature was made available on Windows 10 devices and continues to provide users with a quick solution to *Honor V Purse screen mirroring to PC.** The Connect App can be considered to connect your Honor V Purse device with the PC by following a set of steps, which are discussed as follows:
 
 **Step 1:** You need to access the "Action Center" on the bottom-right of the screen and proceed to activate "Bluetooth" from the available options. Afterward, select the "Connect" option.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the bluetooth option](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-6.jpg)
 
 **Step 2:** Afterward, open the "Quick Menu" of your Honor V Purse device and enable the option of "Smart View." You will see all the available options on your Honor V Purse screen with whom you can create a connection. Select your device from the list and press the "Start Now" button to start the mirroring process.
@@ -182,6 +228,9 @@ Windows devices come with another great option of screen mirroring a device onto
 
 **Step 3:** Following this, you will receive a confirmation pop-up notification on your PC. You have to hit the "OK" button to mirror your Honor V Purse phone to your PC successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![press the ok button](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-8.jpg)
 
 ### 4\. Mirror Honor V Purse Phone to PC with MirrorGo
@@ -223,6 +272,9 @@ Now, look over to the MirrorGo’s interface, and you will see the main screen o
 
 ![mirror android to a PC](https://images.wondershare.com/drfone/drfone/mirror-android-screen-to-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Part 3: How to Mirror Android to PC without Root via USB
 
 While there are many wireless solutions that you can come across for mirroring your Android device to the PC, you can also try using the wired methods. If you are not finding the right platform to establish a wireless connection, you will have to mirror the Android device to the PC through a USB connection. There are many options available, out of which we have highlighted the following tools for you:
@@ -235,14 +287,23 @@ AirDroid Cast is a renowned method available for users who seek to mirror their 
 
 **Step 2:** In the "Available Device" list, select the Honor V Purse device you want to cast.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![access the usb function](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-9.jpg)
 
 **Step 3:** You might have to enable USB debugging on your Honor V Purse device. For this, access "Settings" and look for the "About phone" option. Proceed into the "Software information" section and look for "Build number" on the next screen. Tap it seven times until you become a developer, which will allow you to enable USB debugging.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![tap on the build number](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-10.jpg)
 
 **Step 4:** Redirect into the "Settings" of your Honor V Purse device and find the "Developer options." Look for the "USB Debugging" option on the next screen and turn on the toggle. As the process is concluded successfully, the Honor V Purse screen is cast onto the PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable usb debugging](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-11.jpg)
 
 ### 2\. Vysor
@@ -259,12 +320,20 @@ If you are looking to mirror your Honor V Purse screen to the PC with another op
 
 ![hit the view button](https://images.wondershare.com/drfone/article/2022/12/Honor V Purse-mirror-screen-to-pc-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 This article has provided a comprehensive overview of how one can mirror their Honor V Purse device with the right set of methods. As you have the option of adopting both wireless and wired methods, this article helps you out in making proper decisions. Wondershare Dr.Fone Air provides one of the simplest options for mirroring the Honor V Purse device to the PC in no time. Try this free wireless option for the perfect *Honor V Purse screen mirroring to a PC.**
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## How to Cast Honor V Purse to Computer for iPhone and Android?
 
 Screen Mirroring is a very common feature that is being adopted by many users as a cheap alternative to big, large screens. People have been managing to mirror their smartphone onto the screen of their PCs for viewing the content present on their phone with more detailing and precision. At times, people find the need to enjoy the contents present on their phones with their family, leading to the requirement of bigger screens. This article discusses various screencasting software providing the services to cast your Android or iPhones to PC that would help you in deciding what and how to use a specific software effortlessly.
@@ -289,6 +358,10 @@ To enable casting with an Android device, you need to tap on the Developer Optio
 
 If you are using an iPhone, simply locate the Screen Mirroring option. After the scan, tap on MirrorGo before proceeding to Step 3.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![connect iPhone to MirrorGo](https://images.wondershare.com/drfone/drfone/connect-iphone-to-computer-via-airplay.jpg)
 
 **Step 3: Cast the Phone to Computer**
@@ -313,6 +386,9 @@ For effectively mirroring your phone onto the PC screen, you are required to log
 
 Select the “Screen Mirroring” button present on the window after you access the “Remote Control” tab on the sidebar of the platform. The screen is now mirrored onto the PC and can be viewed with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select screen mirroring option](https://images.wondershare.com/drfone/article/2020/08/select-screen-mirroring-option1.jpg)
 
 ## Part 3: How to Cast Honor V Purse to PC by Reflector 3?
@@ -365,10 +441,16 @@ With a list of Airplay-enabled receivers on the front, you have to tap on the ri
 
 ![select your computer from the list](https://images.wondershare.com/drfone/article/2020/08/select-your-computer-from-the-list.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Part 4: How to Cast Honor V Purse to Computer by LetsView?
 
 LetsView is another compelling and attractive platform that provides you the state-of-the-art environment for screen mirroring your phone to computer. This platform is available both on Google Play Store and App Store, making it an easy option for any kind of smartphone users.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### For Android
 
 To understand the method of screening your Android phone onto a PC screen, you need to follow the step-by-step guide provided below.
@@ -381,14 +463,23 @@ Ensure that the applications are downloaded on both applications, and both devic
 
 While using LetsView on your phone, you need to detect your PC where you wish to mirror your screen and select it.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![detect your pc](https://images.wondershare.com/drfone/article/2020/08/detect-your-pc.jpg)
 
 **Step 3: Select the Appropriate Option**
 
 You'll be led to another screen containing two options to select from. Since our objective is to mirror the screen of our Android phone to the computer, you need to select the option stating, Phone Screen Mirroring.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select the phone screen mirroring option](https://images.wondershare.com/drfone/article/2020/08/select-the-phone-screen-mirroring-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### For iOS
 
 **Step 1: Download and Connect**
@@ -415,12 +506,18 @@ While you have looked into some great solutions **to cast your phone to a PC,** 
 - You are not required to use Bluetooth and NFC for connecting devices in the process.
 - It is a simple and quick process to screen mirror devices onto another screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Screen Casting vs. Screen Mirroring: What's the Difference?
 
 You might have heard of screencasting and screen mirroring together many times. It may come as a surprise to you that these two terminologies hold considerable differences from each other. To simplify the difference, screencasting is performed with the motive of displaying the content of the screen on another output display in the same room.
 
 For screen mirroring, you display the content of the screen on another display while showing all the movements of the screen. Screen mirroring gives you the leverage to use the smartphone without any interruption.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Use Dr.Fone Air to Mirror Phone to Computer
 
 If you are looking forward to mirroring your phone screen to a PC using Dr.Fone Air, you must use the following steps:
@@ -429,6 +526,9 @@ If you are looking forward to mirroring your phone screen to a PC using Dr.Fone 
 
 Open the official website of Wondershare Dr.Fone Air and proceed to connect your phone and PC to the same Wi-Fi connection.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![activate drfone air tool](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
 **Step 2: Choose the Option for Connecting**
@@ -441,8 +541,14 @@ As you connect these devices, proceed to install Dr.Fone Link on your phone. Onc
 
 This will successfully execute the process and mirror the screen of your phone with the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![phone mirrored on the computer](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 This article has provided a diversity of solutions for screencasting your phone to the computer. With the help of these solutions, you can quickly **cast your phone to a PC** without making it difficult for you. However, if you wish to have a better experience with screen mirroring your phone to a PC, you can consider using Wondershare Dr.Fone Air for effective results. This online solution won't disappoint in providing a proper screen mirroring solution for your phone.
@@ -462,3 +568,73 @@ This article has provided a diversity of solutions for screencasting your phone 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/raphic-social-video-marketing-tips-for-small-business-for-2024/"><u>[Infographic] Social Video Marketing Tips for Small Business for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-analyzing-the-updated-sony-s6500-blu-ray-player/"><u>[New] Analyzing the Updated Sony S6500 Blu-Ray Player</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-connecting-in-real-time-advanced-tips-for-streaming-screens-via-fb-for-2024/"><u>[New] Connecting in Real Time  Advanced Tips for Streaming Screens via Fb for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-frameworks-amplify-your-youtube-vision-for-2024/"><u>[New] Free Frameworks  Amplify Your YouTube Vision for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-highlighted-visions-is-intensified-lighting-the-future-of-hd-in-hdr/"><u>[New] Highlighted Visions  Is Intensified Lighting the Future of HD in HDR?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-a-comprehensive-guide-to-mac-screenshot-conversion/"><u>[New] In 2024, A Comprehensive Guide to Mac Screenshot Conversion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fresh-off-the-press-film-review-and-complementary-options/"><u>[New] In 2024, Fresh-Off-the-Press Film Review and Complementary Options</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-secure-your-fb-story-views-with-these-5-techniques-for-2024/"><u>[New] Secure Your FB Story Views with These 5 Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-practices-for-laptop-based-ppt-presentations-on-google-meet/"><u>[Updated] 2024 Approved  Best Practices for Laptop-Based PPT Presentations on Google Meet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-streamline-your-youtube-experience-shareable-playlists/"><u>[Updated] 2024 Approved  Streamline Your YouTube Experience  Shareable Playlists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-tips-for-saving-your-favorite-screened-events/"><u>[Updated] In 2024, Expert Tips for Saving Your Favorite Screened Events</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-leveraging-adobe-cloud-for-enhanced-data-management/"><u>2024 Approved  Comprehensive Guide to Leveraging Adobe Cloud for Enhanced Data Management</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-discover-these-6-must-have-instagram-reel-tools/"><u>2024 Approved  Discover These 6 Must-Have Instagram Reel Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-headset-havens-weighing-google-cardboard-against-samsung-gear/"><u>2024 Approved  Headset Havens  Weighing Google Cardboard Against Samsung Gear</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-stop-the-void-in-live-gaming-recordings-5-ways-to-avoid-black-screens-with-obs/"><u>2024 Approved  Stop the Void in Live Gaming Recordings  5 Ways to Avoid Black Screens with OBS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-xr21-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia XR21 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-narzo-60-pro-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme Narzo 60 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/alert-system-for-unsolicited-pcemail-activity/"><u>Alert System for Unsolicited PC/Email Activity</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-new-era-breaking-down-2023s-sneak-peek-into-short-video-trends-for-2024/"><u>Facebook's New Era  Breaking Down 2023'S Sneak Peek Into Short Video Trends for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-x50-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Honor X50 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gear-360-vs-lgcam-determining-best-in-3d-capture-for-2024/"><u>Gear 360 vs LGCam  Determining Best in 3D Capture for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-m14-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy M14 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y56-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y56 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-find-x6-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Find X6 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-x6-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Poco X6 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-x50-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor X50 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-reno-8t-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo Reno 8T 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-narzo-60-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nubia-red-magic-9-proplus-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nubia Red Magic 9 Pro+ to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-s23-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Itel S23 Without Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-yuva-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-lava-yuva-2-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-pova-5-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nokia-105-classic-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nokia 105 Classic to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-huawei-nova-y71-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Huawei Nova Y71 PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-13t-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi 13T Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-glowing-with-hd-does-it-serve-the-scope-of-hdr-well/"><u>In 2024, Glowing with HD  Does It Serve the Scope of HDR Well?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-create-a-successful-live-stream/"><u>In 2024, How to Create A Successful Live Stream</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v29e-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V29e Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-k70e-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi K70E Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xr-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XR to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a34-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A34 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-note-13-proplus-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi Note 13 Pro+ 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-v27-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo V27 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-narzo-n55-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a15-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-a78-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo A78 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-number-changes-on-tiktok-with-precision/"><u>In 2024, Navigating Number Changes on TikTok with Precision</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-meizu-21-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Meizu 21 Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-12-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi 12 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-edge-of-av1-in-video-encoding/"><u>In 2024, Understanding the Edge of AV1 in Video Encoding</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-vidvault-prodigies-mastering-the-download-of-tweeted-videos/"><u>In 2024, VidVault Prodigies  Mastering the Download of Tweeted Videos</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-ken-burns-effect-in-final-cut-pro-a-comprehensive-guide-with-examples-and-tutorials/"><u>New 2024 Approved Ken Burns Effect in Final Cut Pro A Comprehensive Guide with Examples and Tutorials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas-for-2024/"><u>Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nubia-z50s-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nubia Z50S Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-f34-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy F34 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-a14-4g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy A14 4G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-unleashed-a-creators-guide-to-greatness-for-2024/"><u>YouTube Unleashed  A Creator's Guide to Greatness for 2024</u></a></li>
+</ul></div>

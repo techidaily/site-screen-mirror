@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best 3 Motorola Razr 40 Ultra Emulator for Mac to Run Your Wanted Android Apps | Dr.fone
-date: 2024-05-20T08:34:46.067Z
-updated: 2024-05-21T08:34:46.067Z
+date: 2024-07-26T06:23:10.550Z
+updated: 2024-07-27T06:23:10.550Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,13 +10,16 @@ categories:
 description: This article describes Best 3 Motorola Razr 40 Ultra Emulator for Mac to Run Your Wanted Android Apps
 excerpt: This article describes Best 3 Motorola Razr 40 Ultra Emulator for Mac to Run Your Wanted Android Apps
 keywords: screen mirroring to roku,screen mirroring to android,screen mirroring to lg tv,screen mirroring to pc,screen mirroring to ipad,screen mirroring to smart tv,screen mirroring to tv,screen mirroring to apple tv,screen mirroring to samsung tv,screen mirroring software,screen mirroring tool,screen mirroring to chromecast
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Best 3 Motorola Razr 40 Ultra Emulator for Mac to Run Your Wanted Android Apps
 
 Mac OS, on the other hand, is a wonderful operating system used by Apple Inc. on it's Mac PC and MacBook. It has a marvelous user interface and great features. It will be fantastic if we were able to use Android apps on Mac PC. Luckily, it is possible by using an emulator. In this article, we will learn about the five best Android Emulators for Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Why You Would Run Android Apps on Mac
 
 - • To run around 1.2 million apps on Mac from Google Play Store.
@@ -25,6 +28,9 @@ Mac OS, on the other hand, is a wonderful operating system used by Apple Inc. on
 - • App developer can test their apps on the desktop before sending it to the Google Play Store for user reviewing.
 - • Some Emulator supports battery and GPS widgets. So, developers can test their apps based on the battery performance and can also test how their apps will work on different geographical locations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Part 2. Top 3 Android Emulator for Mac
 
 ### 1\. BlueStacks
@@ -91,6 +97,9 @@ Genymotion is a fast and wonderful third party emulator that can be used to crea
 - 10\. Your virtual device will be now be downloaded and deployed. Click on the Finish button after successful deployment of your virtual machine.
 - 11\. Click on the Play button to start the new virtual machine and enjoy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/genymotion.jpg)
 
 ### 3\. Andy
@@ -120,16 +129,25 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 - 2\. Launch Andy. It will take about a minute to boot and then it should see a welcome screen.
 - 3\. Sign into your Google Account and complete the rest of the setup screen. You will be asked to provide your Google Account Information to 1ClickSync, the app that let's you sync between Andy and the mobile device
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/andy.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Guide Motorola Razr 40 Ultra Wireless and Wired Screen Mirroring
 
 In simple words, screen mirroring is an approach to mirror the screens of two devices with one another. For instance, you can mirror your Android phone screen on the computer and the other way round. In this article, viewers will get to know how to mirror an Android screen on PC wirelessly or through a USB cable.
 
 Screen Mirroring is quite useful in many ways. It allows you to display the screen of your Android phone, tablet, or PC on another device through a wired or wireless connection between both devices. In today’s life, not everyone is familiar with screen mirroring technology.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Part 1: What is Screen Mirroring?
 
 Screen Mirroring is such technology that permits you to display your content from your device to another device. In the case of screen mirroring Motorola Razr 40 Ultra PC, this could be done through both wireless and wired connections. At the same time, screen mirroring can be done when one device continuously sends the copy of its screen to another targeted device simultaneously.
@@ -154,6 +172,9 @@ To successfully cast Android screen to PC, the screen mirroring apps should work
 
 **Step 2:** Now go down and turn on the “USB Debugging” option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![enable usb debugging](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-2.jpg)
 
 ## Part 4: Efficient and Fast Wireless Android Screen Mirroring Tool - MirrorGo
@@ -162,6 +183,9 @@ If you are looking for an advanced experience of mirroring your Android device w
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Motorola Razr 40 Ultra deviceto your computer!
@@ -187,6 +211,9 @@ The user needs to ensure that the PC and Android device are connected across the
 
 If the user fails to mirror the Motorola Razr 40 Ultra device directly through Wi-Fi, they can connect their Android device with the PC via USB. Before that, it is important to turn on USB Debugging across the Android device for successful connection. Once the phone appears under "Select a device to connect," you can remove the Android phone from the USB connection.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable usb debugging for connection](https://images.wondershare.com/drfone/article/2021/07/mirror-android-to-pc-with-wifi-2.jpg)
 
 **Step 4: Mirror and Control**
@@ -207,6 +234,9 @@ Well, the advantages of this screen mirroring application include a bigger scree
 
 **Step 1:** Simply download the Vysor application from your “Google Play Store” application on your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install vysor on android ](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-3.jpg)
 
 **Step 2:** Now, you need to download the Vysor application for your PC or laptop in order to access screen mirroring. Vysor is available for all Mac, Chrome, Windows, and Linux.
@@ -217,10 +247,16 @@ Well, the advantages of this screen mirroring application include a bigger scree
 
 **Step 5:** You need to allow USB debugging for your PC after opening Vysor. You just have to select “Ok” from the box that appears on the screen of your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![tap on ok button](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-6.jpg)
 
 **Step 6:** You can now see your Android device name on your PC on the Vysor app. You just need to click on the “View” option to see your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![view your android screen on pc](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-7.jpg)
 
 **3.2 Control Android Screen Using ApowerMirror**
@@ -239,16 +275,26 @@ ApowerMirror counts as one of the best screen mirroring applications among all t
 
 **Step 4:** At last, you can now entertain yourself on a much bigger screen by controlling your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Final Words
 
 This article covers everything about screen mirroring and its working with the need to cast Android screen to PC. We have discussed the concept of screen mirroring both by wired or wireless connection. With the help of this article, you can now share your Android screen on a laptop or PC and can share data like documents, images, games, etc.
 
 Furthermore, Wondershare introduces us to software like MirrorGo. It helps us to build a wireless connection between devices that we want to connect for screen mirroring purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 3 Methods to Mirror Motorola Razr 40 Ultra to Roku
 
 Back from vacation and want your family members or friends to see your pictures and videos? Instead of showing these pics on a small android screen, it would be more mesmerizing if you showed them on a big Roku screen. But the question arises, is it possible to mirror Motorola Razr 40 Ultra to Roku? Yes, you can! With technology evolving, there are now many ways that allow individuals to effortlessly mirror Motorola Razr 40 Ultra to Roku and share whatever is going on a small android screen on a big Roku screen. Just imagine playing counter-strike on a big TV screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 Methods to Mirror Motorola Razr 40 Ultra to Roku
 
 ### Method 1 Use Android Mirroring Feature to Mirror
@@ -274,6 +320,9 @@ The most genuine and reliable way is to use the Android Mirroring Feature of the
 
 - Swipe down the notification panel; here, you will find an option of "Smart View" or "Screen Mirroring". Tap on it.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on smart view option](https://images.wondershare.com/drfone/article/2020/12/mirror-android-to-roku-2.jpg)
 
 - Doing so will take you to a page where the Motorola Razr 40 Ultra device will start searching for devices nearby.
@@ -310,6 +359,9 @@ The only drawback of this app is that it still does not support sound; hence to 
 - After that, tap on "Start Now" from the pop-up screen to permit the app to start capturing your Android device screen.
 - And you are done!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Use Google Home to mirror Motorola Razr 40 Ultra to Roku TV
 
 Google Home is an excellent alternative to cast your Android to Roku; however, it only supports a handful of apps.
@@ -368,6 +420,9 @@ Did you know that you could mirror your android screen to a PC and then control 
 
 - Once you cast your device screen to the PC, now you can control it too. For example, if you type in "best screen mirroring app for android" using the keyboard, it would also be shown on the Android screen.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/control-android-phone-from-pc.jpg)
 
 ## Conclusion
@@ -391,3 +446,36 @@ The methods explained above will help you to mirror the android screen to Roku e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-a-comprehensive-introduction-to-streamlabs-obs/"><u>[New] In 2024, A Comprehensive Introduction to Streamlabs OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-step-by-step-setting-up-snapchat-on-mac/"><u>[New] In 2024, Step-by-Step  Setting Up Snapchat on Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-in-depth-tutorial-for-immaculate-3d-shapes-perfect-circles-spheres/"><u>[Updated] 2024 Approved  In-Depth Tutorial for Immaculate 3D Shapes  Perfect Circles, Spheres</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-swiftcapture-solutions-w-audio-walkthrough-support/"><u>[Updated] 2024 Approved  SwiftCapture Solutions W/ Audio Walkthrough Support</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-balanced-hue-enhancer-suite/"><u>2024 Approved  Balanced Hue Enhancer Suite</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-visionary-viewing-10-high-res-screens/"><u>2024 Approved  Visionary Viewing  #10 High-Res Screens</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-v27-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nokia-c110-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nokia C110 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-12-mini-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 12 mini to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-x7b-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor X7b to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-i-screen-mirroring-apple-iphone-se-to-tvlaptop-drfone-by-drfone-ios/"><u>How Can I Screen Mirroring Apple iPhone SE to TV/Laptop? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-6-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 6 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-m14-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy M14 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-note-30-vip-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Note 30 VIP Is Unlocked</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xs-max-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XS Max to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-asus-rog-phone-7-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Asus ROG Phone 7 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-camon-30-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Camon 30 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-spark-go-2023-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-v27-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo V27 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-x-flip-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-tecno-spark-go-2023-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Tecno Spark Go (2023) Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-11-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 11 Display? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-13-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi 13 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-motorola-moto-g04-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Motorola Moto G04 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-record-every-frame-of-your-android-experience-for-free/"><u>In 2024, Record Every Frame of Your Android Experience for FREE</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-11-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 11 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pivotal-moments-top-20-anime-themes-for-2024/"><u>Pivotal Moments  Top 20 Anime Themes for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-pova-6-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Pova 6 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-android-photo-enhancement-5-top-apps/"><u>The Ultimate Guide to Android Photo Enhancement  5 Top Apps</u></a></li>
+</ul></div>

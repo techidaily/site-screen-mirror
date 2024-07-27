@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Cast Oppo A1x 5G Screen to PC Using WiFi | Dr.fone
-date: 2024-05-20T08:35:19.272Z
-updated: 2024-05-21T08:35:19.272Z
+date: 2024-07-26T07:02:44.923Z
+updated: 2024-07-27T07:02:44.923Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Cast Oppo A1x 5G Screen to PC Using WiFi
 excerpt: This article describes How to Cast Oppo A1x 5G Screen to PC Using WiFi
 keywords: screen mirroring to ipad,screen mirroring to sony tv,screen mirroring to mac,screen mirroring to roku,screen mirroring to windows,screen mirroring to tv,screen mirroring to firestick,screen mirroring to iphone,screen mirroring to samsung tv,screen mirroring to chromecast
-thumbnail: https://www.lifewire.com/thmb/x0mFXdBc-1Q_2JlWzJG0rvyCFFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dormroomentfeatured-5b5e9dd3c9e77c004f28632e.jpg
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
 ---
 
 ## How to Cast Oppo A1x 5G Screen to PC Using WiFi
@@ -32,8 +32,14 @@ Thereafter, all you need to do is operate your Oppo A1x 5G devicefor changing th
 
 In this given post, here we are going to provide you with the different choices where you can easily view phone screens on PC via WiFi. So, let's try all of the options and choose one best!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![screen mirroring android and casting](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Casting Android Screen to PC with ChromeCast
 
 For using this method, you will be required to create a personal Wi-Fi Hotspot. Here you can follow this method in the following way:
@@ -88,6 +94,9 @@ Here you are absolutely not required to interact with any network server setting
 
 ![casting android screen to pc with miracast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Casting Android Screen To PC with Screen Mirroring Tool - Mirror Go
 
 To fulfill your requirement of mirroring your Android device with your PC in the best possible manner, you can certainly choose [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) which is absolutely powerful enough in providing you an intelligent solution with advanced experience as well.
@@ -102,6 +111,9 @@ Now for casting your android mobile screen to PC with the help of Wondershare Dr
 
 First of all, you will be required to download the latest available version of this MirrorGo Software which you can easily download in just one click from its official website.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![downloading and installing mirror](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-4.jpg)
 
 **Step Two: Launching MirrorGo in Computer**:
@@ -138,6 +150,9 @@ There are some prominent features of this online mirroring solution that makes i
 
 Screen casting, as a process, is not better than screen mirroring. Essentially, this process does not allow you to use the mobile when it is connected to the computer. If you have connected your Android to the PC through screencasting, you will have to disconnect it to use the mobile phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Use Dr.Fone Air for Screen Mirroring Android to PC
 
 If you wish to know how to screen mirror your Android to a PC, find out how to perform the steps below:
@@ -158,6 +173,9 @@ As you connect the Oppo A1x 5G devices, you must install Dr.Fone Link to connect
 
 On successfully scanning or entering the code, the Android will be mirrored to the PC with Dr.Fone Air.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android device mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
 ### Conclusion
@@ -166,6 +184,9 @@ The provided solutions have been quite comprehensive in showing you how to **cas
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Process of Screen Sharing Oppo A1x 5G to PC- Detailed Steps
 
 Currently, there are many companies where their employees work across different locations. For these teams, managing work between all members can get complex, and having to continually send files via email to all members. This can get tiring and complex to handle long term.
@@ -193,6 +214,9 @@ The latter allows for screen-to-screen content broadcasting that many people fro
 
 ![teamviewer interface](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. Key Benefits of the TeamViewer Screenshare Tool
 
 When users operate with TeamViewer to **screen-share to PC**, there are many advantages they can enjoy. Here are some of them, explained in points for your reference.
@@ -224,12 +248,21 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 
 **Step 8:** Press Start Now > Don't Show Again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![press start now](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-6.jpg)
 
 **Step 9:** The Android device screen will start sharing on the PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![teamviewer app will appear on the pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Part 4. TeamViewer Reviews - Pros & Cons & Ratings
 
 For screen sharing to PC, many companies globally turn to TeamViewer as their primary tool. Here's the average rating of the software from users' feedback.
@@ -256,6 +289,9 @@ You will see certain advantages and disadvantages of this software when you use 
 - The free plan has limited benefits.
 - Business users must pay high amounts to get a license for entire teams.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5. Better Alternative for the TeamViewer Screenshare Tool
 
 TeamViewer is helpful for screen sharing, but it is slightly complex. Besides, screen mirroring is a better alternative. During this, you can better control the elements on the screen or in-person meetings. On that note, [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) is helpful software.
@@ -290,10 +326,16 @@ As times progress, technology is in competition with it and this article about C
 
 If you have an android device and you wish to mirror (share) the screen to your PC, this can be done using some simple steps, but to do this it depends on the android device you have and the source that you will project it to, whether a TV or PC. The recommended Chromecast to mirror your android screen to your PC is All cast, Koushik Dutta's Mirror that comes with most android devices or can be downloaded, and for persons who use Custom Roms, cyanogen Mod 11 Screencast can be used. It is very important that the PC that will mirror the android device screen has AllCast Receiver installed because this software enables all the features of mirroring to be enabled on the receiving end.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. What is Chromecast?
 
 Chromecast is a form of modern technology established and mananged by Google, which enables an individual to project or display whatever they have on their Android device screen on a secondary screen such as a PC or TV. More interestingly Chromecast is just a small device that can be plugged into a PCs HDMI port to allow for easy casting on a bigger screen. The capability is called mirroring and it is very prevalent in today's society. Chromecast is very convenient because sometimes individuals cannot be bothered with a small mobile screen if they are watching a movie for instance of playing their favourite games such as FIFA 2015. The technology of Chromecast is possible because of the chrome app for both PC and Android mobile devices to date. Chromecast allows the casting of all your favourite mobile activities straight to your PCs screen.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. The features of Chromecast
 
 •Chromecast works with a majority of apps – There is no need to worry about available applications when purchasing Chromecast and setting it up. It works with a huge amount of apps, that you will likely want to stream and mirror to your big screen. Apps such as Netflix, HBO, Google Music, Youtube, IheartRadio, and Google Play are fully capable of mirroring to your PC hassle free, because it only take a few steps to set up.
@@ -316,6 +358,9 @@ Step 1. Download and setup Chromecast on both devices from the play store, the p
 
 Step 2. Plug the chrome cast into the HDMI port at the side of your personal computer and follow the setup instructions that will be displayed on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/chromecast5.jpg)
 
 Step 3. Ensure that your Chromecast and PC are on the same Wi-Fi network, this will enable Chromecast to work.
@@ -324,12 +369,22 @@ Step 3. Ensure that your Chromecast and PC are on the same Wi-Fi network, this w
 
 Step 4. Open a supported Chromecast app that you downloaded from the plays store and tap the cast button normally at the top right or left corner of the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/cast.jpg)
 
 Step 5. Enjoy Chromecast.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/enjoy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. Supported Android Devices
 
 There are a wide range of devices that are supported by Chromecast, these devices include:
@@ -346,6 +401,9 @@ There are a wide range of devices that are supported by Chromecast, these device
 - 10.Tesco hudl2
 - 11.TrekStor SurfTab xintron i 7.0
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 5\. Advanced Casting Features
 
 Chromecast has some advance features that every user should definitely know and use such as:
@@ -371,3 +429,36 @@ Chromecast has some advance features that every user should definitely know and 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-no-charge-fb-visual-storyteller-pro-software/"><u>[New] No-Charge FB Visual Storyteller Pro Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picmetamorphosis-techniques-for-shape-alteration/"><u>[New] PicMetamorphosis  Techniques for Shape Alteration</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-plowing-pathways-selecting-superb-simulation-titles/"><u>[New] Plowing Pathways  Selecting Superb Simulation Titles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-balancing-primary-and-b-footage-for-dynamic-video-production/"><u>[Updated] 2024 Approved  Balancing Primary & B-Footage for Dynamic Video Production</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-proven-methods-for-effective-screen-capture-using-adobe-captive-toolkit/"><u>[Updated] 2024 Approved  Proven Methods for Effective Screen Capture Using Adobe Captive Toolkit</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-creating-captivating-content-for-instagram-for-2024/"><u>[Updated] Creating Captivating Content for Instagram for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-full-understanding-the-world-of-vsco-photo-editor-for-2024/"><u>[Updated] Full Understanding  The World of VSCO Photo Editor for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-free-public-domain-pubg-screenshot-slideshows/"><u>[Updated] Top 20 Free Public Domain PUBG Screenshot Slideshows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oneplus-nord-3-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-100-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor 100 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-100-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor 100 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-reno-10-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Reno 10 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-k70e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi K70E Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a1x-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A1x 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-c210-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia C210 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a59-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A59 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-13t-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi 13T Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-infinix-note-30-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Infinix Note 30 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-spark-20-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Spark 20 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-13-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 13 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-a60-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel A60 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-narzo-n53-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme Narzo N53 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-c32-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-pova-5-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Pova 5 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-xs-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone XS Max</u></a></li>
+</ul></div>

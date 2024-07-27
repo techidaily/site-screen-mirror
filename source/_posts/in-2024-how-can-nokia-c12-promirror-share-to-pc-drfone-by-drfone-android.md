@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Can Nokia C12 ProMirror Share to PC? | Dr.fone
-date: 2024-05-20T08:34:56.876Z
-updated: 2024-05-21T08:34:56.876Z
+date: 2024-07-26T06:36:11.006Z
+updated: 2024-07-27T06:36:11.006Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,15 +10,22 @@ categories:
 description: This article describes How Can Nokia C12 ProMirror Share to PC?
 excerpt: This article describes How Can Nokia C12 ProMirror Share to PC?
 keywords: screen mirroring tool,screen mirroring software,screen mirroring app,screen mirroring to chromecast,screen mirroring to ipad,screen mirroring to firestick,screen mirroring to android,screen mirroring to iphone,screen mirroring to smart tv,screen mirroring to lg tv,screen mirroring to windows
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## How Can Nokia C12 ProMirror Share to PC?
 
 It usually happens with you during an office presentation or a task where you encounter with such an important video or detail that you find effective to be discussed or shown among your colleagues. At such stages, there are no properly designed cheap tools available that would help you cast the screen from your phone onto a bigger screen, allowing people to have a good look over the screen and develop their analysis out of it. Screen Mirroring has provided an ultimate solution to such needs and presented impressive and simple platforms that would allow you to mirror your device onto a bigger screen. Nokia C12 Prophones are counted among the most commonly used Android devices where people have complained about the availability of the screen sharing feature for [displaying its screen](https://drfone.wondershare.com/mirror-emulator/mirror-android-to-android.html) onto massive ones for people to have a wider view of the objectives presented. This article discusses different mechanisms that allow you to mirror Nokia C12 Proto PC through a variety of methods involving different functions of the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Nokia C12 Proshare screen to a pc](https://images.wondershare.com/drfone/article/2021/03/share-huawei-screen-on-a-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Nokia C12 ProMirror Share to PC using Nokia C12 Pro’s Multi-Screen
 
 Nokia C12 Prohas recognized the significance of the feature and has devised its mechanism by providing the screen mirroring capability on its phone. This built-in feature makes it quite easier for you to share Nokia C12 Pro's screen to PC. The mirroring feature offered by Nokia C12 Procan be countered in a few easy steps that are quite not strenuous to understand. To get ahold of Nokia C12 Pro's mirror sharing feature to PC, follow the steps provided below.
@@ -47,6 +54,9 @@ If you are up for searching other options to mirror share Nokia C12 Proto PC, th
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Nokia C12 Pro deviceto your computer!
@@ -77,8 +87,14 @@ Following this, you need to access the settings of you Nokia C12 Proto open the 
 
 After successfully enabling USB Debugging, a pop-up appears on the Nokia C12 Prodevice, asking for an establishment of a mirroring environment. Tap "Ok" to successfully mirror your device across the PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Part 3: Nokia C12 ProMirror Share to PC wirelessly via AllCast
 
 Mirroring Android Devices has been made easier with a very definitive and expansive device of AllCast where you can share your Nokia C12 Proscreen to PC by following a few steps, as stated below.
@@ -115,6 +131,9 @@ Here are the apps you can use.
 
 2) **Allcast:** The number two application on this list is 'Allcast' which allows the content from your mobile device to be streamed across set top boxes and dongles. The application is easily compatible with Apple TV and other devices enabled with AirPlay. One can communicate with Chromecast as this application offers support for DLNA along with communication for Amazon Fire TV, Xbox 360, and One, along with numerous other devices. So, one can make out that is one packs a solid punch. Not only this, as Allcast can also stream content from Google Drive and Dropbox account, along with any other storage device. However, if one is really eager to enjoy all the features offered by this application, like Double Twist, they have to loosen up $5. As reviewers, we thought it was totally worth it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![stream from any Android to Apple TV-Allcast](https://images.wondershare.com/drfone/others/14542162011206.jpg)
 
 3) **Allstream:** For the ones who are only interested in music and are too lazy to switch to a new music player, this application has all the answers. Offering the functionality of both AirPlay and DLNA connectivity to its users, the temporarily free application acts as a transmitter. This allows the user to choose their music player which may include services like Spotify, Google Play Music, or any other while giving the streaming ability to existing AirPort express, Apple TV, Samsung Smart TV, and PS3. However, there is another catch users must be aware about. The application requires the Android device to be rooted. Also, a payment of 5 Euro is necessary if one wishes for the application to continue working after a specific amount of time. And if you like the music in Spotify, you can also [download music from Spotify](https://pro.keepvid.com/spotify/download-music-from-spotify.html) and enjoy it everywhere as you want.
@@ -131,8 +150,14 @@ Here are the apps you can use.
 
 Thus, we have compiled a list of a few applications that can come in handy if you are looking to enjoy the functionality of your content on the Apple TV. Android users earlier used to complain about not having anything on the Apple TV for their device, but with these apps and many others that can one discover on the Google play store, things have got better. Let us know in the comment section, how was your experience of streaming content from your Android Device to your Apple TV.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Screen Mirroring Nokia C12 Pro?
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Most people think that screen mirroring is only a feature you can enjoy if you have an iPhone and Apple TV. But here is a piece of good news for Nokia  fans as screen mirroring Nokia C12 Pro is also possible. By this can connect your smartphone to any TV and PC. Screen mirroring is casting your smartphone to a big screen so you can enjoy videos, pictures, music, and games on a large screen. It usually takes a few minutes to connect devices. The only thing you required is a sending and receiving device. The devices must be on the same network.
@@ -153,10 +178,16 @@ Screen mirroring Nokia C12 Pro to any TV or PC is easy to be carried out. Screen
 
 6\. You can connect either PC or TV you want to by selecting that device.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-1](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-1.jpg)
 
 7\. Now your smartphone is connected to TV/PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Screen Mirroring Nokia C12 Pro to PC?
 
 Screen mirroring Nokia C12 Pro to PC through third party app is easy. For this Vysor is considered as an excellent app for screen mirroring your smartphone to PC. Its extension is also available on chrome. For connection, you do not need a data connection, as a USB cable can help you out. Just follow the simple steps to stream videos easily on your computer from your phone.
@@ -173,12 +204,18 @@ Screen mirroring Nokia C12 Pro to PC through third party app is easy. For this V
 
 6\. A pop-up window will appear; allow it to allow USB Debugging.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-2](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-2.jpg)
 
 7\. Vysor will automatically connect your smartphone to the PC.
 
 Vysor is available as both a free and paid version. The free version can be enough for you but if you want to enjoy its advanced feature e.g. full screen mirroring and high-quality display; you can go for the paid version. There is a limitation in using the free version as it shows ads frequently that might irritate you .
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## Part 3. How to Screen Mirroring Nokia C12 Pro to Smart TV?
 
 Screen mirroring Nokia C12 Pro to smart TV is not a difficult task. You can stream videos to your TV and experience the large screen display. For this you will need a third-party app like LetsView, that will easily cast your phone screen to the TV. LetsView is easy to use the app. It can also help you to record the screen and take a screenshot. Follow the simple steps to enjoy sharing your files from your Nokia C12 Pro to TV.
@@ -216,3 +253,49 @@ Screen Mirroring Nokia C12 Pro to any TV or PC is a piece of exciting news for M
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-entrepreneurs-lifeline-critical-items-every-startup-needs-right-now/"><u>[New] 2024 Approved  The Entrepreneur's Lifeline  Critical Items Every Startup Needs Right Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-the-perfect-mobile-chime-how-to-download-and-personalize-whatsapp-tones-for-iphonesandroids/"><u>[New] Crafting the Perfect Mobile Chime  How to Download & Personalize WhatsApp Tones for iPhones/Androids</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>[Updated] 2024 Approved  From Space to Nature  YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-through-interrupted-streams-on-social-media/"><u>[Updated] In 2024, Navigating Through Interrupted Streams on Social Media</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-formula-for-a-high-ranking-online-persona/"><u>[Updated] In 2024, The Formula for a High-Ranking Online Persona</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premium-hd-screensnap-tools-for-2024/"><u>[Updated] Premium HD Screensnap Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tutorial-turning-on-hdr-for-windows-11-users/"><u>2024 Approved  Tutorial  Turning on HDR for Windows 11 Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-15-plus-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 15 Plus to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-105-classic-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia 105 Classic Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ic-discussions-for-regular-streaming-for-2024/"><u>Dynamic Discussions for Regular Streaming for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-reno-9a-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Reno 9A 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-oppo-a1-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo A1 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a79-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo A79 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-s24plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy S24+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y55s-5g-2023-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y55s 5G (2023) Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-gt-10-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix GT 10 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-poco-f5-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Poco F5 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-90-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-play-7t-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor Play 7T to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nubia-red-magic-9-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nubia Red Magic 9 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-x6-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco X6 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-105-classic-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia 105 Classic Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-spark-20-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Spark 20 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-poco-x5-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Poco X5 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-6-lite-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic 6 Lite Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-12-pro-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 12 Pro to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-7-plus-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 7 Plus to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y78plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y78+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-8-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone 8 Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-c110-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-c51-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco C51 to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-realme-narzo-60x-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Realme Narzo 60x 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-mobile-camera-best-android-practices/"><u>In 2024, Mastering Mobile Camera  Best Android Practices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-f5-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco F5 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-magic-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor Magic 5 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-k11x-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo K11x Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-c55-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme C55 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovative-fb-video-plays-for-the-modern-user-for-2024/"><u>Innovative FB Video Plays for the Modern User for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-razr-40-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Razr 40 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-camon-30-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Camon 30 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y100-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y100 5G Screen Mirroring App | Dr.fone</u></a></li>
+</ul></div>

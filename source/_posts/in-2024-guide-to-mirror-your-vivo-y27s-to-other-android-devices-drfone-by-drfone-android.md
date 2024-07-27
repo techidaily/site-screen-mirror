@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide to Mirror Your Vivo Y27s to Other Android devices | Dr.fone
-date: 2024-03-29 14:16:39
-updated: 2024-03-31 17:31:42
+date: 2024-07-26T08:17:49.080Z
+updated: 2024-07-27T08:17:49.080Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,11 +10,14 @@ categories:
 description: This article describes Guide to Mirror Your Vivo Y27s to Other Android devices
 excerpt: This article describes Guide to Mirror Your Vivo Y27s to Other Android devices
 keywords: screen mirroring to samsung tv,screen mirroring to ipad,screen mirroring to lg tv,screen mirroring app,screen mirroring to sony tv,screen mirroring,screen mirroring to windows,screen mirroring to android
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## Guide to Mirror Your Vivo Y27s to Other Android devices 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1. Can I Mirror my Android to Another Android?
 
 Yes, it is possible. Technology has made it possible that one can mirror Android to Android.
@@ -23,6 +26,9 @@ The accelerated concentration on the mobile application by developers in the wak
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Vivo Y27s deviceto your computer!
@@ -54,6 +60,9 @@ Installing the browser on your android devices that you want to mirror.
 
 After the installation is successful, it then means you can use the ScreenShare connection.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4.Android to android mirroring through Bluetooth
 
 1\. Start your installed ScreenShare service on the two devices you want to mirror.
@@ -86,6 +95,9 @@ While ScreenShare has been used as an example here, there are many other tools y
 
 Mac OS, on the other hand, is a wonderful operating system used by Apple Inc. on it's Mac PC and MacBook. It has a marvelous user interface and great features. It will be fantastic if we were able to use Android apps on Mac PC. Luckily, it is possible by using an emulator. In this article, we will learn about the five best Android Emulators for Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Part 1. Why You Would Run Android Apps on Mac
 
 - • To run around 1.2 million apps on Mac from Google Play Store.
@@ -123,6 +135,9 @@ BlueStacks maintain an internal search manager that allows any apk, the package 
 
 Download BlueStacks for Mac OS X from the official website of BlueStacks and install it like any other software on your PC. Once installed, it will boot up to its Home Screen. From there you can find the installed apps, find new apps in the "Top Charts", search apps, play games and change settings. Mouse will be the basic touch controller. To access Google Play you will have to associate a Google Account with BlueStacks.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/bluestacks.jpg)
 
 ### 2\. Genymotion
@@ -162,6 +177,9 @@ Genymotion is a fast and wonderful third party emulator that can be used to crea
 
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/genymotion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Andy
 
 Andy is an open source emulator that allows developers and users to enjoy more robust apps, to experience them in multiple device environments, and to stop being constraint by the limits of device storage, screen size or separate OS. User can update their Android through Andy. It provides seamless sync between desktop and mobile device. User can use their phone as joystick while playing games.
@@ -189,15 +207,24 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 - 2\. Launch Andy. It will take about a minute to boot and then it should see a welcome screen.
 - 3\. Sign into your Google Account and complete the rest of the setup screen. You will be asked to provide your Google Account Information to 1ClickSync, the app that let's you sync between Andy and the mobile device
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/andy.jpg)
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How to Cast Vivo Y27s Screen to PC Using WiFi
 
 Today most people are using smartphones with an android operating system which actually has become the first choice for so many people. Although you can enjoy so many brilliant and advanced features on the android platform, the thing which makes people sometimes annoyed and uneasy at the same time is an inferior visual experience on a small screen. People often miss their good experiences on large screens when they watch their favorite videos and movies even while they are making video calls to their favorite persons. But now the time has changed and so has the technology which literally allows you to enjoy the benefit of a large screen with your same small android device. This is called screen mirroring. So, let's discuss what screen mirroring and casting is actually and how to cast android screen to PC using WiFi.
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: What is Screen Mirroring Android and Casting
 
 Today, most android devices are coming with a built-in screen mirroring feature which simply allows you to upgrade and enhance your viewing experience. With this, you can simply mirror the android screen on a PC via WiFi. And for this, all you just need is the right platform for both of your devices which means your PC, as well as your smartphone, must have some built-in cast screen or screen mirror feature or software as well.
@@ -248,8 +275,15 @@ Now you have to wait until and unless the Vivo Y27s device is found. You can che
 
 With this, you will be able to cast the screen of one device to another.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![casting android screen to pc with chromecast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Casting Android Screen to PC with MiraCast
 
 The next method which you can possibly consider using is MiraCast for mirroring your screen over the internet.
@@ -266,6 +300,9 @@ Now when you open the 'connect' app, it will display a message regarding your sy
 
 Here you are absolutely not required to interact with any network server settings or any firewall as well. So, simply tap to open the app every time you need this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![casting android screen to pc with miracast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-3.jpg)
 
 ## Part 4: Casting Android Screen To PC with Screen Mirroring Tool - Mirror Go
@@ -314,10 +351,17 @@ There are some prominent features of this online mirroring solution that makes i
 - The tool is completely free and does not have any ads associated with it.
 - You can adjust the mirrored screen by zooming, rotating, or taking screenshots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### What is the Disadvantage of Screen Casting?
 
 Screen casting, as a process, is not better than screen mirroring. Essentially, this process does not allow you to use the mobile when it is connected to the computer. If you have connected your Android to the PC through screencasting, you will have to disconnect it to use the mobile phone.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### How to Use Dr.Fone Air for Screen Mirroring Android to PC
 
 If you wish to know how to screen mirror your Android to a PC, find out how to perform the steps below:
@@ -338,8 +382,14 @@ As you connect the Vivo Y27s devices, you must install Dr.Fone Link to connect t
 
 On successfully scanning or entering the code, the Android will be mirrored to the PC with Dr.Fone Air.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![android device mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 The provided solutions have been quite comprehensive in showing you how to **cast an Android screen to a PC.** While you can try using these solutions, Wondershare Dr.Fone Air provides you with a much better sequence of mirroring your Android to the PC with ease. While using only a Wi-Fi connection, you can enjoy watching the Android screen on your PC seamlessly.
@@ -359,3 +409,47 @@ The provided solutions have been quite comprehensive in showing you how to **cas
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-making-time-move-backwards-a-step-by-step-guide-for-instagram-videos/"><u>[Updated] 2024 Approved  Making Time Move Backwards  A Step-by-Step Guide for Instagram Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-vr-tech-for-drone-enthusiasts/"><u>[Updated] Advanced VR Tech for Drone Enthusiasts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-consolidating-your-youtube-video-collection-for-2024/"><u>[Updated] Guide to Consolidating Your YouTube Video Collection for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-best-practice-video-placement-on-facebook-vh/"><u>[Updated] In 2024, Best Practice  Video Placement on Facebook (V/H)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-from-stills-to-motion-creating-engaging-timelapse-videos-on-ipad/"><u>[Updated] In 2024, From Stills to Motion  Creating Engaging Timelapse Videos on iPad</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-personalizing-your-feed-with-soundtracks-android-and-ios-tips-for-2024/"><u>[Updated] Personalizing Your Feed with Soundtracks - Android & iOS Tips for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-essential-guide-to-streaming-quality-via-obs-youtube-and-twitch-for-2024/"><u>[Updated] The Essential Guide to Streaming Quality via OBS, YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-listing-top-5-free-vector-graphics-online-hubs/"><u>2024 Approved  Premier Listing  Top 5 FREE Vector Graphics Online Hubs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-nubia-red-magic-9-proplus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Nubia Red Magic 9 Pro+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-12-pro-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 12 Pro to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-s17-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo S17 PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-hot-40i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Hot 40i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-11-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme 11 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s17mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S17Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-c12-plus-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia C12 Plus For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-redmi-note-13-proplus-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Redmi Note 13 Pro+ 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-xr-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone XR to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-pop-8-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Pop 8 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-find-n3mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo Find N3Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-note-50-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme Note 50 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-s24-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy S24 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-x6-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find X6 to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-c67-4g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme C67 4G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v30-lite-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oneplus-open-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing OnePlus Open to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g13-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G13 Screen | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-14-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 14 on MetroPCS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-voice-alteration-apps-for-professional-vtuber-artistry/"><u>In 2024, Top 5 Voice Alteration Apps for Professional Vtuber Artistry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>In 2024, Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-a56s-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo A56s 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/premium-cutters-the-8-must-have-linux-apps/"><u>Premium Cutters  The 8 Must-Have Linux Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-x9b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor X9b to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-14-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi 14 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-meizu-21-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Meizu 21 Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-cut-for-quality-offline-ipad-gaming-for-2024/"><u>The Ultimate Cut for Quality Offline iPad Gaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-9-analytical-points-showcasing-pcs-edge-over-macs/"><u>Top 9 Analytical Points Showcasing PC's Edge Over Macs</u></a></li>
+</ul></div>

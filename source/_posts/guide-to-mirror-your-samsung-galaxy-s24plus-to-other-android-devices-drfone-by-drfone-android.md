@@ -1,7 +1,7 @@
 ---
 title: Guide to Mirror Your Samsung Galaxy S24+ to Other Android devices | Dr.fone
-date: 2024-03-29 23:47:29
-updated: 2024-03-31 15:50:25
+date: 2024-07-26T07:46:45.869Z
+updated: 2024-07-27T07:46:45.869Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -10,7 +10,7 @@ categories:
 description: This article describes Guide to Mirror Your Samsung Galaxy S24+ to Other Android devices
 excerpt: This article describes Guide to Mirror Your Samsung Galaxy S24+ to Other Android devices
 keywords: screen mirroring to iphone,screen mirroring to ipad,screen mirroring tool,screen mirroring to chromecast,screen mirroring to android,screen mirroring to samsung tv,screen mirroring to windows,screen mirroring to pc,screen mirroring to sony tv,screen mirroring to roku,screen mirroring to firestick
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Guide to Mirror Your Samsung Galaxy S24+ to Other Android devices 
@@ -45,6 +45,18 @@ While there are many tools for android to android mirroring, this example will u
 - • A tablet running Android 2.3+
 - • A smartphone running Android 2.3+
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. How to install ScreenShare Applications
 
 Installing the browser on your android devices that you want to mirror.
@@ -54,6 +66,9 @@ Installing the browser on your android devices that you want to mirror.
 
 After the installation is successful, it then means you can use the ScreenShare connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4.Android to android mirroring through Bluetooth
 
 1\. Start your installed ScreenShare service on the two devices you want to mirror.
@@ -64,6 +79,9 @@ ScreenShare > Menu > ScreenShare service.
 
 3\. After setting to Bluetooth, Bluetooth paired devices will be displayed on ScreenShare service.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Android to android mirroring through Bluetooth](https://images.wondershare.com/drfone/others/mirror-android-to-android-pic1.jpg)
 
 4\. If one of the Samsung Galaxy S24+ devices that you want to mirror is a tablet, start with it. Find your smartphone name in the Paired Devices list in ScreenShare service. Select your phone name, then tap OK, so that the connection starts. The connection should start from your tablet.
@@ -72,6 +90,9 @@ ScreenShare > Menu > ScreenShare service.
 
 6\. As confirmation of the establishment of the ScreenShare connection, an icon will display on the status bar. Also, a "Connected" status should appear for your other device in the paired Devices list. In the circumstance that you fail to connect the first time, you will be required to wait for at least 10 to 20 seconds, after which you will have to try step 4 and 5.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Android to android mirroring through Bluetooth](https://images.wondershare.com/drfone/others/mirror-android-to-android-pic2.jpg)
 
 After the above steps have been done successfully, your devices will have been mirrored successfully, and you can now start to enjoy the experience that comes with it. For connection through Wi-Fi for the two android devices. Take note of the above steps;
@@ -84,8 +105,14 @@ While ScreenShare has been used as an example here, there are many other tools y
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## How to Screen Mirroring Samsung Galaxy S24+?
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Most people think that screen mirroring is only a feature you can enjoy if you have an iPhone and Apple TV. But here is a piece of good news for Samsung  fans as screen mirroring Samsung Galaxy S24+ is also possible. By this can connect your smartphone to any TV and PC. Screen mirroring is casting your smartphone to a big screen so you can enjoy videos, pictures, music, and games on a large screen. It usually takes a few minutes to connect devices. The only thing you required is a sending and receiving device. The devices must be on the same network.
@@ -106,10 +133,16 @@ Screen mirroring Samsung Galaxy S24+ to any TV or PC is easy to be carried out. 
 
 6\. You can connect either PC or TV you want to by selecting that device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-1](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-1.jpg)
 
 7\. Now your smartphone is connected to TV/PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## Part 2. How to Screen Mirroring Samsung Galaxy S24+ to PC?
 
 Screen mirroring Samsung Galaxy S24+ to PC through third party app is easy. For this Vysor is considered as an excellent app for screen mirroring your smartphone to PC. Its extension is also available on chrome. For connection, you do not need a data connection, as a USB cable can help you out. Just follow the simple steps to stream videos easily on your computer from your phone.
@@ -132,6 +165,9 @@ Screen mirroring Samsung Galaxy S24+ to PC through third party app is easy. For 
 
 Vysor is available as both a free and paid version. The free version can be enough for you but if you want to enjoy its advanced feature e.g. full screen mirroring and high-quality display; you can go for the paid version. There is a limitation in using the free version as it shows ads frequently that might irritate you .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Part 3. How to Screen Mirroring Samsung Galaxy S24+ to Smart TV?
 
 Screen mirroring Samsung Galaxy S24+ to smart TV is not a difficult task. You can stream videos to your TV and experience the large screen display. For this you will need a third-party app like LetsView, that will easily cast your phone screen to the TV. LetsView is easy to use the app. It can also help you to record the screen and take a screenshot. Follow the simple steps to enjoy sharing your files from your Samsung Galaxy S24+ to TV.
@@ -154,6 +190,13 @@ Screen Mirroring Samsung Galaxy S24+ to any TV or PC is a piece of exciting news
 
 It usually happens with you during an office presentation or a task where you encounter with such an important video or detail that you find effective to be discussed or shown among your colleagues. At such stages, there are no properly designed cheap tools available that would help you cast the screen from your phone onto a bigger screen, allowing people to have a good look over the screen and develop their analysis out of it. Screen Mirroring has provided an ultimate solution to such needs and presented impressive and simple platforms that would allow you to mirror your device onto a bigger screen. Samsung Galaxy S24+phones are counted among the most commonly used Android devices where people have complained about the availability of the screen sharing feature for [displaying its screen](https://drfone.wondershare.com/mirror-emulator/mirror-android-to-android.html) onto massive ones for people to have a wider view of the objectives presented. This article discusses different mechanisms that allow you to mirror Samsung Galaxy S24+to PC through a variety of methods involving different functions of the phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Samsung Galaxy S24+share screen to a pc](https://images.wondershare.com/drfone/article/2021/03/share-huawei-screen-on-a-pc.jpg)
 
 ## Part 1: Samsung Galaxy S24+Mirror Share to PC using Samsung Galaxy S24+’s Multi-Screen
@@ -176,6 +219,9 @@ Following this, you need to select the option of mirroring Samsung Galaxy S24+sc
 
 A new window opens on the front of the screen. It will consist of the Samsung Galaxy S24+ devices that are available on the same Wi-Fi connection to get shared. After selecting the appropriate computer, you can conclude the procedure since anything opened on the screen can now be observed on the PC as well.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: MirrorGo: The Best Mirroring Application
 
 If you are up for searching other options to mirror share Samsung Galaxy S24+to PC, there are many other platforms that may provide you effective mirroring services. However, while understanding the saturation that exists in the market, this article intends to provide you with a perfect platform for mirror sharing your Samsung Galaxy S24+to PC with ease.
@@ -184,6 +230,9 @@ If you are up for searching other options to mirror share Samsung Galaxy S24+to 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Samsung Galaxy S24+ deviceto your computer!
@@ -216,6 +265,9 @@ After successfully enabling USB Debugging, a pop-up appears on the Samsung Galax
 
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Samsung Galaxy S24+Mirror Share to PC wirelessly via AllCast
 
 Mirroring Android Devices has been made easier with a very definitive and expansive device of AllCast where you can share your Samsung Galaxy S24+screen to PC by following a few steps, as stated below.
@@ -255,3 +307,45 @@ This article has introduced several screens mirroring platforms that can be used
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-secrets-to-recording-high-quality-overwatch-matches/"><u>[New] 2024 Approved  Secrets to Recording High-Quality Overwatch Matches</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-transform-your-photos-with-instagrams-latest-filters-2023-techniques/"><u>[New] 2024 Approved  Transform Your Photos with Instagram's Latest Filters (2023 Techniques)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-hobby-footage-into-professional-vlogs/"><u>[New] Transforming Hobby Footage Into Professional Vlogs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-innovative-5-tech-solutions-for-capturing-video-calls-for-2024/"><u>[Updated] Innovative 5 Tech Solutions for Capturing Video Calls for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-verdict-on-using-itop-for-screen-capture/"><u>[Updated] The Verdict on Using ITop for Screen Capture?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-itel-a70-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/amp-up-your-audio-game-with-top-4-budget-convert-apps/"><u>Amp Up Your Audio Game with Top 4 Budget Convert Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/choreographed-combat-selecting-superior-fighting-titles/"><u>Choreographed Combat  Selecting Superior Fighting Titles</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-ground-to-sky-discovering-mavic-pro-wonders/"><u>From Ground to Sky - Discovering Mavic Pro Wonders</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-a14-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy A14 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-a60s-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel A60s Phones with/without a PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-poco-c55-screen-sharing-drfone-by-drfone-android/"><u>How To Do Poco C55 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-gt-5-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme GT 5 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-poco-c51-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Poco C51 to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-figma-mastery-techniques-to-eliminate-disruptive-backdrops/"><u>In 2024, Figma Mastery  Techniques to Eliminate Disruptive Backdrops</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-from-one-self-portrait-to-a-thousand-mastering-the-art-of-repeating-yourself-on-tiktok/"><u>In 2024, From One Self-Portrait to a Thousand  Mastering the Art of Repeating Yourself on TikTok</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-12plus-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 12+ 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-a14-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy A14 4GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-moto-g24-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Moto G24 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-11-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme 11 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-spark-go-2023-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Spark Go (2023) Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-7-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 7 or iPad?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-note-13-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi Note 13 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-blaze-pro-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Blaze Pro 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-v27e-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo V27e to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-note-30-vip-racing-edition-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Note 30 VIP Racing Edition to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nubia-red-magic-9-proplus-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nubia Red Magic 9 Pro+ to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-smart-8-plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-motorola-moto-g24-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G24 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-s23-fe-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy S23 FE Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-peer-reviews-unpacking-vllo-experience/"><u>In 2024, Peer Reviews  Unpacking VLLO Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-v29e-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo V29e FRP</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimizing-engagement-using-cards-and-annotations-for-2024/"><u>Optimizing Engagement  Using Cards and Annotations for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-moto-g13-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola Moto G13 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-s23plus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy S23+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-camon-20-pro-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Camon 20 Pro 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+</ul></div>
