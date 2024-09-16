@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Successfully Restarting Google Chrome
-date: 2024-09-09T18:57:17.875Z
-updated: 2024-09-10T18:57:17.875Z
+date: 2024-09-09T00:49:51.138Z
+updated: 2024-09-15T18:01:23.505Z
 tags:
   - win11
   - win10
@@ -29,12 +29,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -88,12 +82,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -105,11 +93,12 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -119,21 +108,23 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -150,15 +141,16 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -166,12 +158,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -184,12 +170,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
@@ -207,8 +187,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,47 +196,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-professional-tips-for-perfecting-your-srt-files/"><u>[New] In 2024, Professional Tips for Perfecting Your SRT Files</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snap-sharing-made-simple-camera-roll-to-social-now/"><u>[New] Snap Sharing Made Simple  Camera Roll to Social Now</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-elite-10-hash-trackers-for-major-social-networks-fb-twt-and-ig/"><u>[Updated] In 2024, Elite 10 Hash Trackers for Major Social Networks  FB, Twt & IG</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-action-cams-with-exceptional-image-stability/"><u>2024 Approved  Premier Action Cams with Exceptional Image Stability</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-8-plus-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y17s-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y17s PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-12-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 12 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/broadcasting-made-simple-directly-stream-google-meet-to-youtube/"><u>Broadcasting Made Simple  Directly Stream Google Meet to YouTube</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/comet-cache-corner-celestial-data-lifeline/"><u>Comet Cache Corner - Celestial Data Lifeline</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/expert-advice-on-securely-wiping-data-insights-from-stellar/"><u>Expert Advice on Securely Wiping Data - Insights From Stellar</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/finding-the-facebook-in-niche-driven-instagram-realms-for-2024/"><u>Finding the Face(book) in Niche-Driven Instagram Realms for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/freestyle2-blue-mac-review-perfect-for-apple-users/"><u>Freestyle2 Blue (Mac) Review: Perfect for Apple Users</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-camon-20-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 20 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-6s-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 6s Plus to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-google-pixel-fold-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Google Pixel Fold Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-pro-max-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 Pro Max to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-se-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone SE to Mac? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-motorola-moto-g73-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Motorola Moto G73 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-google-pixel-8-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Google Pixel 8 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-spark-20-proplus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Spark 20 Pro+ Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-a79-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo A79 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-pop-7-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Pop 7 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-a2plus-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi A2+ to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-smart-7-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Smart 7 to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y17s-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y17s Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-a15-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy A15 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-soundscape-strategies-making-tamil-tracks-your-phones-chime/"><u>In 2024, SoundScape Strategies  Making Tamil Tracks Your Phone's Chime</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-viewers-interest-with-these-10-yt-reaction-strategies/"><u>In 2024, Unlock Viewers' Interest with These 10 YT Reaction Strategies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/nine-essential-considerations-for-chatbot-subscription-success/"><u>Nine Essential Considerations for Chatbot Subscription Success</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overcoming-acpi-issues-in-windows-10-on-asus-devices/"><u>Overcoming Acpi Issues in Windows 10 on ASUS Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-6-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/quick-tips-for-modifying-windows-passcode/"><u>Quick Tips for Modifying Windows Passcode</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/seamless-bluetooth-integration-into-your-cars-audio-the-lihan-lhfm1039-wireless-transmitter-reviewed/"><u>Seamless Bluetooth Integration Into Your Car's Audio: The LIHAN LHFM1039 Wireless Transmitter Reviewed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/solutions-for-receiving-messages-and-phone-calls-while-using-do-not-disturb-feature-on-your-iphone/"><u>Solutions for Receiving Messages & Phone Calls While Using Do Not Disturb Feature on Your iPhone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/stellars-handy-guide-to-building-skills-with-software-tips-and-articles/"><u>Stellar's Handy Guide to Building Skills with Software Tips and Articles</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-essential-guide-to-using-finalcut-pro-in-youtube-editing/"><u>The Essential Guide to Using FinalCut Pro in YouTube Editing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-diablo-ii-resurrected-unable-to-start/"><u>Troubleshooting Steps for Diablo II Resurrected Unable to Start</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/unveiling-the-impact-why-a-million-token-framework-in-gemini-15-transforms-nlp-models/"><u>Unveiling the Impact: Why a Million-Token Framework in Gemini 1.5 Transforms NLP Models</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-artisans-shaping-virtual-marvel-universes/"><u>[Updated] 2024 Approved Artisans Shaping Virtual Marvel Universes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-avoiding-common-mistakes-in-screencasting-for-2024/"><u>[Updated] Avoiding Common Mistakes in Screencasting for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-minimca-homes-the-ultimate-guide-for-entry-level-builders-for-2024/"><u>[Updated] MiniMCA Homes The Ultimate Guide for Entry-Level Builders for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>2024 Approved Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-nubia-z50s-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Nubia Z50S Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-save-spotify-playlist-information-in-plain-text-files/"><u>How to Save Spotify Playlist Information in Plain Text Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-filmmakers-top-7-color-grading-hacks/"><u>In 2024, Pioneering Filmmakers' Top 7 Color Grading Hacks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-infinix-note-30-vip-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Infinix Note 30 VIP? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/revamp-your-mornings-with-heimvision-sunrise-alarm-an-in-depth-review-of-the-a80s-therapeutic-wake-up-solution/"><u>Revamp Your Mornings with HeimVision Sunrise Alarm - An In-Depth Review of the A80S Therapeutic Wake-Up Solution</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/simplified-long-journeys-with-bouncies-cost-effective-connected-gps-device-review/"><u>Simplified Long Journeys with Bouncie's Cost-Effective Connected GPS Device Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/warzone-ultimate-guide-resolving-the-elusive-dev-error-6634/"><u>Warzone Ultimate Guide: Resolving the Elusive Dev Error 6634</u></a></li>
 </ul></div>
+
