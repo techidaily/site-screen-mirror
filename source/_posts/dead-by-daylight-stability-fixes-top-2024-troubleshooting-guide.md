@@ -1,7 +1,7 @@
 ---
 title: "Dead By Daylight Stability Fixes: Top 2024 Troubleshooting Guide"
-date: 2024-09-11T23:58:17.322Z
-updated: 2024-09-15T18:37:25.301Z
+date: 2024-09-15T16:24:28.189Z
+updated: 2024-09-20T16:13:33.480Z
 tags:
   - win11
   - win10
@@ -91,40 +91,41 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, restart Genshin and see if it crashes again. If not, repeat these steps but disable half of the services to root out the offenders.
 
 If this trick doesn’t work for you, check out the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -150,6 +151,14 @@ Here’s how you can install system updates on Windows 10 or 7:
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
  After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
@@ -171,10 +180,10 @@ And here’s how:
  If this method doesn’t do the trick for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
@@ -224,16 +233,10 @@ Now you can launch Genshin Impact and see if it stops crashing.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -259,16 +262,15 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-exclusive-reveal-top-downloading-tools-for-fans-of-apples-ios-and-facebook/"><u>[Updated] Exclusive Reveal Top Downloading Tools for Fans of Apple's iOS and Facebook</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs/"><u>[Updated] Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/expert-advice-on-improving-frames-per-second-fps-and-fixing-lag-in-the-video-game-avatar-frontiers-of-pandora/"><u>Expert Advice on Improving Frames Per Second (FPS) and Fixing Lag in the Video Game, Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/expert-analysis-on-the-glion-dolly-e-scooter-high-cost-meets-style-and-speed/"><u>Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-of-both-worlds-free-and-paid-3d-video-creation-software/"><u>In 2024, Best of Both Worlds Free and Paid 3D Video Creation Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-y200-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo Y200 FRP</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/next-level-playtime-discover-the-top-gaming-consoles-of-2024/"><u>Next-Level Playtime: Discover the Top Gaming Consoles of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-wlanapidll-error-a-comprehensive-guide-to-solutions/"><u>Resolving wlanAPI.dll Error: A Comprehensive Guide to Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/revamp-your-mornings-with-heimvision-sunrise-alarm-an-in-depth-review-of-the-a80s-therapeutic-wake-up-solution/"><u>Revamp Your Mornings with HeimVision Sunrise Alarm - An In-Depth Review of the A80S Therapeutic Wake-Up Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/warzone-ultimate-guide-resolving-the-elusive-dev-error-6634/"><u>Warzone Ultimate Guide: Resolving the Elusive Dev Error 6634</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-farm-like-royalty-unveiling-the-best-7-stardew-upgrades-for-2024/"><u>[Updated] Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlocking-the-potential-of-your-itunes-recordings/"><u>[Updated] In 2024, Unlocking the Potential of Your iTunes Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategies-for-dominating-spotifys-advertising-space/"><u>2024 Approved Strategies for Dominating Spotify's Advertising Space</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-honor-magic-5-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Honor Magic 5 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/alleviating-visual-fluctuations-pro-7/"><u>Alleviating Visual Fluctuations (Pro 7)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-photo-to-cartoon-software-for-windows-and-mac-for-2024/"><u>Best Photo to Cartoon Software for Windows & Mac for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-g54-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Motorola G54 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-infinix-smart-8-plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Infinix Smart 8 Plus Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-u23-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock HTC U23 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-the-art-of-making-and-tweaking-multi-snap-videos-for-2024/"><u>Mastering the Art of Making & Tweaking Multi-Snap Videos for 2024</u></a></li>
 </ul></div>
 

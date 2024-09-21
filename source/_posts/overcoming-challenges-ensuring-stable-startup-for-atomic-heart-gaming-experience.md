@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Challenges: Ensuring Stable Startup for Atomic Heart Gaming Experience"
-date: 2024-09-11T03:58:22.308Z
-updated: 2024-09-15T21:45:34.203Z
+date: 2024-09-16T01:30:12.921Z
+updated: 2024-09-21T03:59:09.988Z
 tags:
   - win11
   - win10
@@ -80,15 +80,22 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -129,14 +136,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
 
@@ -151,10 +158,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
@@ -162,19 +169,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -186,15 +180,16 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -221,14 +216,17 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/effortless-methods-to-silence-that-annoying-buzzy-sound-in-your-audio-system/"><u>Effortless Methods to Silence That Annoying Buzzy Sound in Your Audio System</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-overcome-the-error-code-6-challenge-in-call-of-dutys-pc-version/"><u>How to Overcome the Error Code 6 Challenge in Call of Duty's PC Version</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-ace-selfies-10-top-ranked-face-modifications-on-iphonessamsungs/"><u>In 2024, Ace Selfies 10 Top-Ranked Face Modifications on iPhones/Samsungs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/remote-control-racing-fun-insightful-review-of-the-holy-stone-cartoon-race-set/"><u>Remote Control Racing Fun - Insightful Review of the Holy Stone Cartoon Race Set</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-instructions-for-setting-up-your-samsung-in-ear-headphones-on-a-notebook/"><u>Simple Instructions for Setting Up Your Samsung In-Ear Headphones on a Notebook</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-into-innovation-top-10-youtube-vr-creations-for-2024/"><u>Step Into Innovation Top 10 YouTube VR Creations for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/ultimate-guide-resolving-super-sensei-collision-issues-in-your-pc/"><u>Ultimate Guide: Resolving 'Super Sensei' Collision Issues in Your PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-smart-tactics-to-jump-over-online-classroom-screens/"><u>[New] 2024 Approved Smart Tactics to Jump Over Online Classroom Screens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-charting-the-course-to-youtube-fame-strategic-video-release-frequency-for-2024/"><u>[New] Charting the Course to YouTube Fame Strategic Video Release Frequency for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonious-hummingbird-hustle/"><u>2024 Approved Harmonious Hummingbird Hustle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/elon-musks-electric-dreams-expand-to-phones-insights-on-anticipated-price-tags-launch-dates-and-technical-specifications/"><u>Elon Musk's Electric Dreams Expand to Phones – Insights on Anticipated Price Tags, Launch Dates & Technical Specifications</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-find-x7-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Find X7 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y200-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-google-pixel-fold-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Google Pixel Fold Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-itel-a70-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Itel A70 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-google-pixel-8-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Google Pixel 8 Pro for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

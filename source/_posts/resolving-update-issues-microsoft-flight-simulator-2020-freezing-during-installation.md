@@ -1,7 +1,7 @@
 ---
 title: "Resolving Update Issues: Microsoft Flight Simulator 2020 Freezing During Installation"
-date: 2024-09-13T01:54:22.272Z
-updated: 2024-09-15T17:15:44.544Z
+date: 2024-09-13T22:04:11.515Z
+updated: 2024-09-21T00:35:47.176Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ If the issue remains, try the next fix.
 If this method doesn’t work for you, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -94,6 +94,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
@@ -116,6 +123,13 @@ If this method doesn’t work for you, go ahead with the next fix.
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -155,6 +169,14 @@ on Windows 10:
 4. Under Virus & threat protection settings, select**Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
@@ -172,14 +194,14 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -199,19 +221,6 @@ on Windows 11:
  Check if the game loads normally after you add it as an exception to your security software.
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
 
@@ -238,13 +247,6 @@ If this method doesn’t solve your problem, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -259,13 +261,6 @@ If this method doesn’t solve your problem, check out the last fix.
 3. Click on **Uninstall**  to confirm your choice.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: If you have installed the packages in a custom folder, search for that folder instead.
 5. Move any leftover files or folders to the Recycle Bin.
@@ -294,17 +289,17 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-srt-openedit-manual-for-mac-users/"><u>[New] Ultimate SRT Open/Edit Manual for Mac Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-becoming-a-picwarper-pro-with-top-editors/"><u>2024 Approved Becoming a PicWarper Pro with Top Editors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-comprehensive-list-of-excellent-fb-cover-photo-creators-for-2024/"><u>A Comprehensive List of Excellent FB Cover Photo Creators for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/affordable-precision-on-the-road-an-in-depth-look-at-bouncies-user-friendly-gps-tracker-for-drivers/"><u>Affordable Precision on the Road: An In-Depth Look at Bouncie’s User-Friendly GPS Tracker for Drivers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/broadcast-friendly-techniques-for-fb-live-events/"><u>Broadcast-Friendly Techniques for FB Live Events</u></a></li>
-<li><a href="https://games-able.techidaily.com/combat-device-hang-error-code-0x887a0006-on-win11/"><u>Combat Device Hang (Error Code 0X887A0006) on Win11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/davinci-resolve-wont-boot-on-your-window-machine-heres-how-to-fix-it/"><u>DaVinci Resolve Won't Boot on Your Window Machine? Here's How to Fix It!</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-simple-guide-youtube-to-mp3-on-mac/"><u>In 2024, Simple Guide YouTube to MP3 on Mac,</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leap-into-the-future-adopting-macos-11-big-sur-for-2024/"><u>Leap Into the Future Adopting macOS 11 Big Sur for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/nft-creation-simplified-for-novice-developers-for-2024/"><u>NFT Creation Simplified for Novice Developers for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/troubleshooting-steps-for-successfully-restarting-google-chrome/"><u>Troubleshooting Steps for Successfully Restarting Google Chrome</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wolcen-lords-of-mayhem-update-why-its-still-not-released/"><u>Wolcen - Lords of Mayhem Update: Why It's Still Not Released</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-from-panoramas-to-pages-uploading-wide-angle-content-online/"><u>[New] From Panoramas to Pages Uploading Wide Angle Content Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-miniature-marketers-guide-to-video-promos-infographic/"><u>[New] In 2024, Miniature Marketer's Guide to Video Promos (Infographic)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-online-video-saving-tools-reviewed-and-ranked-for-2024/"><u>[Updated] Best Online Video Saving Tools Reviewed & Ranked for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-uav-options-to-maximize-your-gopro-video-potential/"><u>2024 Approved Prime UAV Options to Maximize Your GoPro Video Potential</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-z-flip-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy Z Flip 5 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g04-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G04 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-s23plus-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy S23+ Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-find-x7-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Find X7 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-htc-u23-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing HTC U23 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-controller-update-via-wireless-tech/"><u>Seamless Controller Update via Wireless Tech</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-using-chatgpt-applications-from-your-macs-app-store-why-it-may-not-be-worth-it/"><u>The Risks of Using ChatGPT Applications From Your Mac's App Store – Why It May Not Be Worth It</u></a></li>
 </ul></div>
 

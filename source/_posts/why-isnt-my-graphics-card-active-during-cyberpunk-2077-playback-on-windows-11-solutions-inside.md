@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside.
-date: 2024-09-09T23:33:58.381Z
-updated: 2024-09-15T17:40:51.649Z
+date: 2024-09-20T03:28:14.078Z
+updated: 2024-09-21T09:18:48.131Z
 tags:
   - win11
   - win10
@@ -83,32 +83,26 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -121,14 +115,15 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -153,16 +148,19 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-maximizing-your-fb-page-visibility-a-step-by-step-guide/"><u>[New] In 2024, Maximizing Your FB Page Visibility A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-snapshots-of-success-recording-your-switch-gaming/"><u>[Updated] 2024 Approved Snapshots of Success Recording Your Switch Gaming</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-magix-vpx-review-transforming-media-with-ease/"><u>2024 Approved Magix VPX Review Transforming Media with Ease</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/easy-guide-to-transforming-webm-videos-into-mpeg-4-format/"><u>Easy Guide to Transforming WebM Videos Into MPEG-4 Format</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-x-fold-2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo X Fold 2 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/resolving-update-issues-microsoft-flight-simulator-2020-freezing-during-installation/"><u>Resolving Update Issues: Microsoft Flight Simulator 2020 Freezing During Installation</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/revamp-your-mornings-with-heimvision-sunrise-alarm-an-in-depth-review-of-the-a80s-therapeutic-wake-up-solution/"><u>Revamp Your Mornings with HeimVision Sunrise Alarm - An In-Depth Review of the A80S Therapeutic Wake-Up Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/simplified-long-journeys-with-bouncies-cost-effective-connected-gps-device-review/"><u>Simplified Long Journeys with Bouncie's Cost-Effective Connected GPS Device Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-fixing-the-troubling-0x800705b4-error-on-windows-11-update-process/"><u>Step-by-Step Guide to Fixing the Troubling 0X800705b4 Error on Windows 11 Update Process</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-complete-handbook-for-telegram-web-newbies/"><u>The Complete Handbook for Telegram Web Newbies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-easy-screen-capture-in-vlc-player-for-2024/"><u>[New] Easy Screen Capture in VLC Player for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-sprucing-up-instagram-stories-with-branded-graphics/"><u>[New] The Art of Sprucing Up Instagram Stories with Branded Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-an-edge-in-views-with-these-5-youtube-thumbnail-creators-for-2024/"><u>[Updated] Gain an Edge in Views with These 5 YouTube Thumbnail Creators for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-dissecting-the-features-of-inshots-editing-software/"><u>2024 Approved Dissecting the Features of InShot's Editing Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-camera-powerhouse-the-sj-cam-s6-reviewed/"><u>2024 Approved Pro Camera Powerhouse The SJ-CAM S6 Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y27-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y27 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/pre-written-by-dr-john-smith-phd-in-environmental-science/"><u>A Compre Written By Dr. John Smith, PhD in Environmental Science</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a14-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A14 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-x50iplus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor X50i+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-a70-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel A70 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-htc-u23-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring HTC U23 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-11-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 11 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-play-40c-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor Play 40C to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 

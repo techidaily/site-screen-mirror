@@ -1,7 +1,7 @@
 ---
 title: Solutions for Receiving Messages & Phone Calls While Using Do Not Disturb Feature on Your iPhone
-date: 2024-09-13T16:16:12.478Z
-updated: 2024-09-15T23:17:51.227Z
+date: 2024-09-17T02:12:58.185Z
+updated: 2024-09-21T01:02:23.921Z
 tags:
   - iphone
   - apple
@@ -62,18 +62,25 @@ Close
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Don't Allow Repeated Calls
 
@@ -83,13 +90,6 @@ Close
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off or Hide Your Focus Status
 
  When you turn on Do Not Disturb, you can also share your Focus status to let your contacts know that you're temporarily unavailable.
@@ -97,6 +97,13 @@ Close
  While it's a thoughtful feature that helps you inform others, a downside is its accompanying Notify Anyway option, which lets people override your Do Not Disturb mode. This causes text messages and calls to come through your iPhone.
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
 
@@ -108,35 +115,22 @@ Close
 
 ![schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule.JPEG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -170,19 +164,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-step-by-step-guide-on-disabling-youtube-preview/"><u>[New] 2024 Approved Step-By-Step Guide on Disabling YouTube Preview</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-easygoing-pc-game-guide/"><u>[Updated] The Ultimate Easygoing PC Game Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/affordable-precision-on-the-road-an-in-depth-look-at-bouncies-user-friendly-gps-tracker-for-drivers/"><u>Affordable Precision on the Road: An In-Depth Look at Bouncie’s User-Friendly GPS Tracker for Drivers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/davinci-resolve-wont-boot-on-your-window-machine-heres-how-to-fix-it/"><u>DaVinci Resolve Won't Boot on Your Window Machine? Here's How to Fix It!</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/dicas-oficiais-para-consertar-dvds-copiados-no-windows-11-e-macos-sem-perder-a-integridade-de-video/"><u>Dicas Oficiais Para Consertar DVDs Copiados No Windows 11 E macOS Sem Perder a Integridade De Vídeo</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/downloadmicrosoft-wireless-mouse-5000-drivereasily-and-quickly/"><u>Download|Microsoft Wireless Mouse 5000 Driver|Easily & Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-your-options-speaking-directly-to-chnage-gpt-the-ai-companion/"><u>Explore Your Options: Speaking Directly to Chnage GPT, the AI Companion</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expressive-french-greetings-for-social-success-in-business-and-beyond/"><u>Expressive French Greetings for Social Success in Business & Beyond</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/revamp-your-mornings-with-heimvision-sunrise-alarm-an-in-depth-review-of-the-a80s-therapeutic-wake-up-solution/"><u>Revamp Your Mornings with HeimVision Sunrise Alarm - An In-Depth Review of the A80S Therapeutic Wake-Up Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/simplified-long-journeys-with-bouncies-cost-effective-connected-gps-device-review/"><u>Simplified Long Journeys with Bouncie's Cost-Effective Connected GPS Device Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssential-playbook-achieving-peak-video-editing-on-youtube-studio-for-2024/"><u>The Essential Playbook Achieving Peak Video Editing on YouTube Studio for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/troubleshooting-steps-for-successfully-restarting-google-chrome/"><u>Troubleshooting Steps for Successfully Restarting Google Chrome</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wolcen-lords-of-mayhem-update-why-its-still-not-released/"><u>Wolcen - Lords of Mayhem Update: Why It's Still Not Released</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/spect-ratios-for-stellar-youtube-thumbnails/"><u>[New] Aspect Ratios for Stellar Youtube Thumbnails</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-is-this-a-bug-or-intentional-edit-on-instagram/"><u>[Updated] Is This a Bug or Intentional Edit on Instagram?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-clear-screens-crystal-vision-tips-for-blurry-social-media-content/"><u>2024 Approved Clear Screens, Crystal Vision Tips for Blurry Social Media Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-deep-dive-into-srt-the-basics-for-beginners/"><u>2024 Approved Deep Dive Into SRT The Basics for Beginners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exploring-the-purpose-of-instagram-story-sections-for-2024/"><u>Exploring the Purpose of Instagram Story Sections for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/gmail-tips-detecting-emails-that-have-been-opened-by-recipients/"><u>Gmail Tips: Detecting Emails That Have Been Opened by Recipients</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-s23-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy S23 to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-f5-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco F5 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a14-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-15-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 15 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-av1-technology-for-2024/"><u>Unlocking the Potential of AV1 Technology for 2024</u></a></li>
 </ul></div>
 

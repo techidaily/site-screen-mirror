@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fix: Addressing the Error of Disconnected Config Servers"
-date: 2024-09-13T23:10:51.137Z
-updated: 2024-09-16T03:09:16.141Z
+date: 2024-09-15T23:37:01.999Z
+updated: 2024-09-21T00:29:03.927Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ Here are the system requirements for Control:
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify your graphics card settings
 
  If this error message reappears after you lower the in-game graphics settings, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -117,13 +110,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -134,10 +120,10 @@ Here are the system requirements for Control:
 2. View the Control Panel by Large icons.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -145,22 +131,38 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -182,6 +184,14 @@ Here are the system requirements for Control:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -198,13 +208,6 @@ Here are the system requirements for Control:
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
 
@@ -263,19 +266,19 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-gopros-greatest-hits-max-360-vs-hero-11-comparison/"><u>[New] 2024 Approved GoPro's Greatest Hits Max 360 vs Hero 11 Comparison</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimize-your-livestream-top-5-best-practices/"><u>[New] 2024 Approved Optimize Your Livestream Top 5 Best Practices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-guide-the-intricate-process-of-media-import-in-w11/"><u>[New] Exclusive Guide The Intricate Process of Media Import in W11</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mastering-tiktok-macpc-interface-guide/"><u>[Updated] In 2024, Mastering TikTok Mac/PC Interface Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/dead-by-daylight-stability-fixes-top-2024-troubleshooting-guide/"><u>Dead By Daylight Stability Fixes: Top 2024 Troubleshooting Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-smart-8-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Smart 8 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-get-your-cyberpunk-2077-game-playing-with-audio-again-on-windows-10/"><u>How to Get Your 'Cyberpunk 2077' Game Playing with Audio Again on Windows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-overcome-the-error-code-6-challenge-in-call-of-dutys-pc-version/"><u>How to Overcome the Error Code 6 Challenge in Call of Duty's PC Version</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/persona-4-golden-comprehensive-guide-to-overcoming-game-crashing-problems/"><u>Persona 4 Golden - Comprehensive Guide to Overcoming Game Crashing Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/remote-control-racing-fun-insightful-review-of-the-holy-stone-cartoon-race-set/"><u>Remote Control Racing Fun - Insightful Review of the Holy Stone Cartoon Race Set</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/solution-guide-overcoming-problems-with-game-initialization-and-ensuring-data-integrity/"><u>Solution Guide: Overcoming Problems with Game Initialization and Ensuring Data Integrity</u></a></li>
-<li><a href="https://article-posts.techidaily.com/unveiling-the-top-6-head-mounts-expert-reviews-for-action-photography/"><u>Unveiling The Top 6 Head Mounts Expert Reviews for Action Photography</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/why-isnt-my-graphics-card-active-during-cyberpunk-2077-playback-on-windows-11-solutions-inside/"><u>Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside.</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ecoding-the-economic-incentives-behind-youtubes-shorts-programme/"><u>[New] Decoding the Economic Incentives Behind YouTube's Shorts Programme</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-beating-the-blues-of-overly-green-a-mac-video-editors-handbook-for-2024/"><u>[Updated] Beating the Blues of Overly Green A Mac Video Editor's Handbook for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-a18-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-oppo-a78-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-social-media-facebook-twitter-instagram-and-youtubes-role-in-our-lives/"><u>Exploring the Giants of Social Media: Facebook, Twitter, Instagram and Youtube’s Role in Our Lives</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphone-phone-issue-in-just-minutes-with-these-10-strategies/"><u>Fix Your iPhone Phone Issue in Just Minutes with These 10 Strategies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-a78-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo A78 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-f25-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo F25 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-13c-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi 13C 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-t2x-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo T2x 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-video-enhancers-for-social-media-platforms/"><u>Pro Video Enhancers for Social Media Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-razr-40-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola Razr 40 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-visual-treats-free-video-to-gif-transformation/"><u>Twitter's Visual Treats Free Video to Gif Transformation</u></a></li>
 </ul></div>
 

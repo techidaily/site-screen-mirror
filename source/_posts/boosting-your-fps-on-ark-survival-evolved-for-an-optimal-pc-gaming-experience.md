@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your FPS on ARK: Survival Evolved for an Optimal PC Gaming Experience"
-date: 2024-09-12T18:54:22.157Z
-updated: 2024-09-16T03:13:38.472Z
+date: 2024-09-15T04:11:53.436Z
+updated: 2024-09-21T06:39:15.733Z
 tags:
   - win11
   - win10
@@ -90,14 +90,14 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -142,13 +142,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -161,25 +154,25 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -190,21 +183,23 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** key at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
@@ -231,15 +226,20 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-demystifying-the-mechanics-of-youtube-studio-for-2024/"><u>[Updated] Demystifying the Mechanics of YouTube Studio for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-recommendations-the-finest-fee-free-streamers-and-tools/"><u>2024 Approved Expert Recommendations The Finest, Fee-Free Streamers and Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/affordable-precision-on-the-road-an-in-depth-look-at-bouncies-user-friendly-gps-tracker-for-drivers/"><u>Affordable Precision on the Road: An In-Depth Look at Bouncie’s User-Friendly GPS Tracker for Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-amd-radeon-rx-590-linux-mac/"><u>Get Your AMD Radeon RX 지킬 | 590를 Linux로, Mac로 실제 설치하기</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/graphics-system-failure-to-launch/"><u>Graphics System Failure to Launch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-choosing-best-bdr-players-on-windowsmacos/"><u>In 2024, Expert Guide Choosing Best BDR Players on Windows/macOS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/revamp-your-mornings-with-heimvision-sunrise-alarm-an-in-depth-review-of-the-a80s-therapeutic-wake-up-solution/"><u>Revamp Your Mornings with HeimVision Sunrise Alarm - An In-Depth Review of the A80S Therapeutic Wake-Up Solution</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/simplified-long-journeys-with-bouncies-cost-effective-connected-gps-device-review/"><u>Simplified Long Journeys with Bouncie's Cost-Effective Connected GPS Device Review</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/top-5-digital-audio-editors-for-optimal-sound-quality/"><u>Top 5 Digital Audio Editors for Optimal Sound Quality</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/troubleshooting-steps-for-successfully-restarting-google-chrome/"><u>Troubleshooting Steps for Successfully Restarting Google Chrome</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>2024 Approved Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-m34-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chucklechisel-app-for-2024/"><u>ChuckleChisel App for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-corsair-h80i-v2-driver-for-your-pc/"><u>Get the Latest Corsair H80i V2 Driver for Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-s17t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo S17t to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-x6-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco X6 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y100-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y100 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y100a-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y100A Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-v30-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo V30 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet/"><u>In 2024, Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/leading-10-sound-intensification-apps-for-multiple-systems-for-2024/"><u>Leading 10 Sound Intensification Apps for Multiple Systems for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4-vs-mov-video-formats-understanding-the-key-differences-and-which-is-better-for-you/"><u>MP4 Vs. MOV Video Formats: Understanding the Key Differences and Which Is Better for You</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-edge-40-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Edge 40 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktok-to-twitter-strategy-for-maximum-engagement-for-2024/"><u>TikTok-to-Twitter Strategy for Maximum Engagement for 2024</u></a></li>
 </ul></div>
 
