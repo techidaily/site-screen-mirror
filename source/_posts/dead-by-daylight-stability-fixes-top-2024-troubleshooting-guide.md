@@ -1,7 +1,7 @@
 ---
 title: "Dead By Daylight Stability Fixes: Top 2024 Troubleshooting Guide"
-date: 2024-09-22T08:27:53.143Z
-updated: 2024-09-27T01:41:28.104Z
+date: 2024-09-27T16:51:15.276Z
+updated: 2024-10-02T18:20:20.545Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4
 8. [**Run Genshin Impact on another GPU**](https://tools.techidaily.com/drivereasy/download/)
 9. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meets the requirements
 
  Genshin Impact is, by no means, a graphically demanding game, but having a great gaming setup always gives you a leg up. Just before you start any advanced troubleshooting,**make sure your PC specs meet the minimum requirements** . If they don’t, then maybe it’s time for an upgrade.
@@ -63,6 +70,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-3.jpg)
 4. Run Genshin Impact and see if the crash has gone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
 
 ### Fix 3: Update your graphics driver
@@ -75,6 +89,14 @@ Here’s how:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -92,15 +114,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -125,6 +147,14 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click**Check for updates** again.
@@ -136,6 +166,14 @@ Here’s how you can install system updates on Windows 10 or 7:
 2. Select**System and Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
 
@@ -157,27 +195,7 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -207,34 +225,35 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can launch Genshin Impact and see if it stops crashing.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Check for corrupted system files
 
@@ -247,21 +266,7 @@ Now you can launch Genshin Impact and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -284,20 +289,18 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-making-insta-videos-audio-the-ultimate-transformation/"><u>[Updated] In 2024, Making Insta Videos Audio The Ultimate Transformation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-drone-footage-a-step-by-step-guide/"><u>[Updated] Mastering Drone Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-painless-percussions-reduction-in-garageband/"><u>[Updated] Painless Percussions Reduction in Garageband</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-guide-to-ios-auditory-pleasures-for-2024/"><u>[Updated] The Ultimate Guide to iOS Auditory Pleasures for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-exciting-quests-selecting-the-top-10-adventure-gaming-treasures/"><u>2024 Approved Exciting Quests Selecting the Top 10 Adventure Gaming Treasures</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/airbus-defence-and-space/"><u>Airbus Defence & Space</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-c300-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia C300 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-honor-100-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Honor 100 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-gt-neo-5-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme GT Neo 5 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-f23-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo F23 5G PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-12-mini-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 12 mini & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-zero-5g-2023-turbo-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Zero 5G 2023 Turbo for Streaming | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-camon-20-premier-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Camon 20 Premier 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-creativity-a-step-by-step-sony-camcorder-video-editing-guide-for-2024/"><u>Updated Unleash Your Creativity A Step-by-Step Sony Camcorder Video Editing Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ensuring-seamless-gotomeeting-experience-with-device-recording/"><u>[New] Ensuring Seamless GoToMeeting Experience with Device Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-elevate-social-media-engagement-cutting-edge-fb-ad-techniques/"><u>[New] In 2024, Elevate Social Media Engagement Cutting-Edge FB Ad Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-in-depth-app-investigation-via-az-screen-recorder/"><u>[Updated] In 2024, In-Depth App Investigation via AZ Screen Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-professional-insights-top-5-cloud-based-videographer-tools/"><u>[Updated] In 2024, Professional Insights Top 5 Cloud-Based Videographer Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-fix-overcoming-recurring-outriders-game-freezes-and-crashes/"><u>Fast Fix: Overcoming Recurring Outriders Game Freezes and Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-5-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 5 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-google-pixel-7a-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Google Pixel 7a for Free? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s23plus-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S23+ Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-smart-8-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Smart 8 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-90-lite-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor 90 Lite for Streaming | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-uncover-recent-instagram-unfollow-patterns/"><u>In 2024, Uncover Recent Instagram Unfollow Patterns</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-the-most-straightforward-guide-to-learning-how-to-clone-your-voice-for-2024/"><u>New The Most Straightforward Guide to Learning How to Clone Your Voice for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/strategic-approaches-to-googles-podcast-submission-protocol-for-2024/"><u>Strategic Approaches to Google’s Podcast Submission Protocol for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Error Code 6 Challenge in Call of Duty's PC Version
-date: 2024-09-21T17:01:40.069Z
-updated: 2024-09-26T18:38:57.867Z
+date: 2024-09-25T19:16:40.071Z
+updated: 2024-10-02T16:25:48.150Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
  Before you move on to the fixes below,**try restarting your device first** . Sometimes a simple reboot will solve your problem. Besides, you need to**make sure you have installed the latest game patch** . EA often releases new updates with bug fixes for console and PC.
 
 If you’ve already done these, go ahead with the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,26 +55,12 @@ If you’ve already done these, go ahead with the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/router.jpg)  
  router
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. **Wait** for one minute.
 3. **Reconnect** the modem and router to the power outlet. Make sure the indicators are back to their normal state.
 
  Once you’re back online, restart Madden 22 to see if you can get past the loading screen.
 
 If not, check out more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -78,22 +71,16 @@ If not, check out more fixes below.
 2. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-this-program-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can repeat the steps above to run Steam or Origin client as an administrator. Then test if the game loads successfully.
 
  If this method can’t help you get into the game either, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair your game files
 
@@ -106,6 +93,14 @@ If not, check out more fixes below.
 2. Right-click Madden NFL 22 and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab, then click**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -141,13 +136,6 @@ If the issue persists, continue to the next fix.
 
 If the issue remains, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change your DNS settings
 
  If updating your network driver doesn’t solve your connection problem, you can try setting an alternate DNS, like Google DNS. This will improve the resolution speed and provide you with more security online. Here’s how to do it:
@@ -155,21 +143,22 @@ If the issue remains, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open Windows Settings. Then click**Network & Internet** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-Internet.jpg)
 2. Under Advanced network settings, click**Change adapter options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-adapter-options.jpg)
-3. Right-click your current network and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-adapter-options.jpg)
+3. Right-click your current network and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-properties.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** and click**Properties** .  
@@ -180,18 +169,18 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 7. In the pop-up window, type**ipconfig /flushdns** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-ipconfig-flushdns.jpg)
 
 Try relaunching Madden 22 and see if it does load without issue now.
 
 If this fix doesn’t work for you, proceed to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Delete game data on Xbox
 
@@ -204,9 +193,23 @@ If this fix doesn’t work for you, proceed to the next one.
 3. Select the **Saved data**  box, then choose the item you want to delete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/xbox-saved-data.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Try launching Madden 22 again to check if it can load normally.
 
 If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -215,13 +218,6 @@ If not, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In the System Configuration window, navigate to the**Services** tab and check the box to**Hide all Microsoft Services** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
@@ -234,24 +230,18 @@ If not, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you restart your computer, try launching Madden 22 again and check if the game is still stuck on the loading screen. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
  Once you find out the problematic program that conflicts with Madden 22, you just need to uninstall it to avoid the issue in the future.
 
  If the game still won’t load after you disabled all the programs and services, try the last fix below.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Use a VPN
 
@@ -284,22 +274,19 @@ If not, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-mastery-in-managing-online-discussions-on-youtube/"><u>[New] In 2024, Mastery in Managing Online Discussions on YouTube</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/assessing-the-pros-and-cons-of-lgs-usb-type-c-monitors-for-2024/"><u>Assessing the Pros and Cons of LG's USB Type-C Monitors for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guia-facil-para-converter-voz-de-whatsapp-a-formato-mp3-y-sin-costo/"><u>Guía Fácil Para Converter Voz De WhatsApp a Formato MP3 Y Sin Costo</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30imirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30iMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-x50iplus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor X50i+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-11-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme 11 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-honor-80-pro-straight-screen-edition-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Honor 80 Pro Straight Screen Edition Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-reno-11-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Reno 11 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-lava-blaze-2-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Lava Blaze 2 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-c55-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco C55 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-p55-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-probing-into-verified-selfies-significance-in-modern-social-media/"><u>In 2024, Probing Into Verified Selfies' Significance in Modern Social Media</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-sony-xperia-5-v-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Sony Xperia 5 V Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/skald-rage-new-age-of-might-for-2024/"><u>Skald Rage New Age of Might for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-tailored-minecraft-filming-techniques-for-gamers-for-2024/"><u>[New] Tailored Minecraft Filming Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-headline-hypnotizer-simulator/"><u>2024 Approved Headline Hypnotizer Simulator</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-m14-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-magic5-ultimate-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Magic5 Ultimate Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disney-pluss-most-popular-movie-selection-for-now/"><u>Disney Plus's Most Popular Movie Selection for Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722985499621-final-fantasy-xv-stability-troubles-top-fixes-for-pc-performance-and-no-more-crashes/"><u>Final Fantasy XV Stability Troubles? Top Fixes for PC Performance and No More Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-realme-gt-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme GT 5 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-90-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor 90 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y100-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y100 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-xcover-6-pro-tactical-edition-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy XCover 6 Pro Tactical Edition to PC? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-secret-to-slowed-movies-mastery-your-step-by-step-guide-on-instagram-reels-for-2024/"><u>The Secret to Slowed Movies Mastery – Your Step by Step Guide on Instagram Reels for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unite-auditory-elements-with-visuals-in-ppt-for-2024/"><u>Unite Auditory Elements with Visuals in PPT for 2024</u></a></li>
 </ul></div>
 

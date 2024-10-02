@@ -1,7 +1,7 @@
 ---
 title: Effortless Methods to Silence That Annoying Buzzy Sound in Your Audio System
-date: 2024-09-26T07:48:48.023Z
-updated: 2024-09-27T05:44:57.005Z
+date: 2024-10-01T18:52:44.622Z
+updated: 2024-10-02T16:17:54.509Z
 tags:
   - win11
   - win10
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Mic testing in Windows audio settings
 
  In Windows audio settings, you can easily perform a mic testing. Here’s how to do it:
@@ -48,39 +41,33 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-36-29-1.png)
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
@@ -92,6 +79,14 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. **Right-click** **the speaker icon** in the bottom-right corner of your screen, then select**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-41-21.png)
 2. Navigate to**the Recording tab** . Select the microphone you’re going to test, then try speaking into your microphone to test if it works properly. If it is, you should see some green in the bar on the right. Click**OK** to close the window after testing.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
@@ -108,26 +103,26 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
 4. Click the recording file to replay it. If your microphone is fine, you should be able to hear your voice clearly.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-47-16.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix microphone not working on your computer?
 
@@ -145,6 +140,13 @@ Follow the steps below to test your microphone in Windows audio settings:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
@@ -171,16 +173,18 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-how-to-reverse-color-saturation-quickly-for-2024/"><u>[New] How to Reverse Color Saturation Quickly for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-your-window-to-flawless-video-viewing/"><u>[Updated] 2024 Approved Your Window to Flawless Video Viewing</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-discover-the-joy-of-animated-journeys-youtubes-best-for-everyday-for-2024/"><u>[Updated] Discover the Joy of Animated Journeys YouTube's Best for Everyday for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-12-proplus-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boosting-nvidia-hd-audio-via-windows-update/"><u>Boosting NVIDIA HD Audio via Windows Update</u></a></li>
-<li><a href="https://article-tips.techidaily.com/budget-friendly-camera-guide-best-bargains-for-2024/"><u>Budget-Friendly Camera Guide Best Bargains for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-narzo-60-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme Narzo 60 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-11-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 11 Pro 5G PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ideal-acquisitions-starting-off-with-profitable-youtube-channel-buys/"><u>In 2024, Ideal Acquisitions Starting Off with Profitable YouTube Channel Buys</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-photo-toolkit-inserting-text-effortlessly/"><u>In 2024, Premier Photo Toolkit Inserting Text Effortlessly</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-delineating-distinctions-full-angle-vs-immersive-video/"><u>[New] Delineating Distinctions Full-Angle Vs. Immersive Video</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unraveling-tales-the-top-storytelling-channels-on-yt-this-year/"><u>[Updated] Unraveling Tales The Top Storytelling Channels on YT This Year</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-360-view-camera-analysis/"><u>2024 Approved Ultimate 360-View Camera Analysis</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-s17e-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo S17e to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-14-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi 14 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-v2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic V2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nubia-z50s-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nubia Z50S Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-11-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme 11 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-a2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi A2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-ultimate-guide-to-choosing-top-audio-reversing-applications-for-your-pc-phone-and-tablet/"><u>New In 2024, The Ultimate Guide to Choosing Top Audio Reversing Applications For Your PC, Phone, and Tablet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-smart-8-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Smart 8 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/smart-savings-high-quality-phones-available-for-less-than-1000/"><u>Smart Savings: High-Quality Phones Available for Less Than $1,000</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-subtitle-your-way-to-success-fcpx-captioning-made-easy/"><u>Updated 2024 Approved Subtitle Your Way to Success FCPX Captioning Made Easy</u></a></li>
 </ul></div>
 

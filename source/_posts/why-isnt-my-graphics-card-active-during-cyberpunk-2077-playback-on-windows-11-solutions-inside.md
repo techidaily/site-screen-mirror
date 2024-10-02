@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside.
-date: 2024-09-20T04:14:37.980Z
-updated: 2024-09-26T17:31:46.911Z
+date: 2024-09-29T19:38:08.106Z
+updated: 2024-10-02T18:22:55.602Z
 tags:
   - win11
   - win10
@@ -63,21 +63,14 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -87,10 +80,10 @@ To do so, first visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
@@ -102,27 +95,35 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
@@ -164,20 +165,14 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-dynamic-typography-for-effects-top-10-picks-for-2024/"><u>[New] Dynamic Typography for Effects Top 10 Picks for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-step-by-step-technique-for-instagram-savings/"><u>[Updated] A Step-by-Step Technique for Instagram Savings</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/beyond-fbx-cutting-edge-apps-for-video-game-archiving/"><u>Beyond FBX Cutting-Edge Apps for Video Game Archiving</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-leading-online-tech-education-sites-code-mastery/"><u>Discover The Leading Online Tech Education Sites - Code Mastery</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-find-x6-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Find X6 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-note-30-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Note 30 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nubia-red-magic-8s-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nubia Red Magic 8S Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-nord-3-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus Nord 3 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-find-n3-flip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo Find N3 Flip Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oppo-a78-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Oppo A78 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-xr21-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia XR21 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/recording-multiplesecondary-monitors-for-2024/"><u>Recording Multiple/Secondary Monitors for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-defeating-the-ominous-black-screen-glitch-in-rainbow-six-siege-pc-edition/"><u>Troubleshooting Tips: Defeating the Ominous Black Screen Glitch in Rainbow Six Siege PC Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-launch-issues-with-the-elder-scrolls-online/"><u>Troubleshooting Tips: Resolving Launch Issues with The Elder Scrolls Online</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixed-persistent-flicker-on-dell-laptop/"><u>[Fixed]: Persistent Flicker on Dell Laptop</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>[Updated] Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sonic-sculpture-how-to-mold-soundscapes-with-cost-free-effect-tools/"><u>[Updated] In 2024, Sonic Sculpture How to Mold Soundscapes with Cost-Free Effect Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-techniques-for-integrating-standardized-luts-in-post-production-workflows-for-2024/"><u>Expert Techniques for Integrating Standardized LUTs in Post-Production Workflows for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c67-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme C67 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-honor-magic-6-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Honor Magic 6 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-v27-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo V27 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y56-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y56 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/transforming-gaming-on-the-switch-with-these-setups/"><u>Transforming Gaming on the Switch with These Setups</u></a></li>
 </ul></div>
 

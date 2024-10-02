@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Successfully Restarting Google Chrome
-date: 2024-09-21T16:10:02.862Z
-updated: 2024-09-27T08:15:52.995Z
+date: 2024-10-01T17:50:43.648Z
+updated: 2024-10-02T16:01:23.100Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -88,9 +95,23 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -100,23 +121,9 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -125,10 +132,16 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -149,13 +162,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -171,10 +177,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
@@ -203,15 +209,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-motion-capture-top-gear-recommendations/"><u>[New] Mastering Motion Capture - Top Gear Recommendations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-blending-iphone-videos-a-simple-guide/"><u>2024 Approved Blending iPhone Videos A Simple Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-mkv-solvers-on-macos-for-2024/"><u>Best MKV Solvers on macOS for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oppo-k11x-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Oppo K11x</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-a15-4g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy A15 4G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-k11-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo K11 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-motorola-edge-40-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Motorola Edge 40 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-20-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/modernize-your-computers-audio-experience-by-upgrading-usb-driver-support-compatible-with-win-11-10-and-n/"><u>Modernize Your Computer’s Audio Experience by Upgrading USB Driver Support: Compatible With Win 11, 10 & N</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rapid-release-of-gma630-sdk/"><u>Rapid Release of GMA630 SDK</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-seamless-gif-converters-online-5-rated-highly-for-2024/"><u>[New] Seamless GIF Converters Online, 5 Rated Highly for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-incorporate-live-captions-seamlessly-into-stories-for-2024/"><u>[Updated] Incorporate Live Captions Seamlessly Into Stories for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726225411581-aacaiff-movavi/"><u>在线免费AAC到AIFF转换器 – 使用Movavi功能进行音频编码更改</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/engaging-worldwide-teachers-at-bett-2022/"><u>Engaging Worldwide Teachers at BETT 2022</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y78plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y78+ Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-90-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 90 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 8 to PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-google-pixel-fold-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Google Pixel Fold Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-ace-2-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus Ace 2 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-smart-8-hd-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Smart 8 HD to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-zte-axon-40-lite-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best ZTE Axon 40 Lite Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-path-to-windows-11-safe-hardware-dialog/"><u>Instructional Path to Windows 11 Safe Hardware Dialog</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-virus-detected-dilemma-effortless-download-fixes-in-chrome/"><u>Solving the 'Virus Detected' Dilemma: Effortless Download Fixes in Chrome</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-x100-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo X100 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-secrets-to-identifying-your-macbook-serial-and-model-number/"><u>Unlocking the Secrets to Identifying Your MacBook Serial and Model Number</u></a></li>
 </ul></div>
 

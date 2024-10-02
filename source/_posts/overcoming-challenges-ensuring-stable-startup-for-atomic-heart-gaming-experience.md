@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Challenges: Ensuring Stable Startup for Atomic Heart Gaming Experience"
-date: 2024-09-22T14:22:45.220Z
-updated: 2024-09-27T04:05:41.647Z
+date: 2024-09-27T16:21:32.409Z
+updated: 2024-10-02T18:57:25.852Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -87,22 +80,15 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -118,6 +104,13 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -144,13 +137,26 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -164,25 +170,11 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -194,10 +186,24 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -223,21 +229,24 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-complete-guide-to-preserving-ps4-gameplay-moments/"><u>[Updated] In 2024, The Complete Guide to Preserving PS4 Gameplay Moments</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-chroma-key-techniques-in-live-broadcasts/"><u>[Updated] Mastering Chroma Key Techniques in Live Broadcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-iphoneandroid-blur-application-guide/"><u>2024 Approved Expert iPhone/Android Blur Application Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-k70-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-6-plus-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 6 Plus to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-reno-9a-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo Reno 9A to Mac? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-nokia-c110-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Nokia C110 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-zte-nubia-flip-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror ZTE Nubia Flip 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-s17-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo S17 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-lava-blaze-2-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Lava Blaze 2 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/networking-opportunities/"><u>Networking Opportunities:</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pushing-boundaries-spotlight-on-top-6-digital-innovators-for-2024/"><u>Pushing Boundaries Spotlight on Top 6 Digital Innovators for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-up-your-game-expert-tips-for-tiktok-editing-for-2024/"><u>Step Up Your Game Expert Tips for TikTok Editing for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-12-pro-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 12 Pro to Mac Mirroring | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-360-vs-vr-film-explained-for-2024/"><u>Unveiling 360° Vs. VR Film Explained for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-efficient-youtube-ad-blocking-on-chromefirefoxandroid-devices/"><u>[New] 2024 Approved Efficient YouTube Ad Blocking on Chrome/Firefox/Android Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-eye-on-the-social-scene-top-tweets-of-2023/"><u>[New] 2024 Approved Eye on the Social Scene Top Tweets of 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-filming-made-easy-selecting-the-right-audio-devices-for-2024/"><u>[Updated] Filming Made Easy Selecting the Right Audio Devices for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews/"><u>2024 Approved Perfect Guide IOS/iPad Podcast Recording Tips for Engaging Interviews</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-6-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 6 to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-practices-for-boosting-views-on-freefire-gaming-channels-for-2024/"><u>Best Practices for Boosting Views on FreeFire Gaming Channels for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/export-troubleshooting-saving-your-premieres-srt-data/"><u>Export Troubleshooting Saving Your Premiere's SRT Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-hot-40-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Hot 40 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-11r-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus 11R to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-s23plus-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy S23+ Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-v30-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo V30 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-v27-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo V27 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-see-what-you-just-watched-on-facebook/"><u>In 2024, How to See What You Just Watched on Facebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-magic-5-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor Magic 5 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-itel-a05s-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Itel A05s Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nubia-red-magic-9-proplus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nubia Red Magic 9 Pro+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>In 2024, The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimizing-website-construction-through-chatgpts-insights/"><u>Optimizing Website Construction Through ChatGPT's Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-vivo-x-flip-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Vivo X Flip? 8 Solutions Inside | Dr.fone</u></a></li>
 </ul></div>
 

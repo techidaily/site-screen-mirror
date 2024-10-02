@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your FPS on ARK: Survival Evolved for an Optimal PC Gaming Experience"
-date: 2024-09-22T01:37:50.093Z
-updated: 2024-09-26T17:57:54.534Z
+date: 2024-09-30T17:25:09.332Z
+updated: 2024-10-02T19:31:44.210Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ God of War
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The Santa Monica Studio releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -42,13 +49,6 @@ God of War
  If a patch is available, it will be detected by Steam or the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -66,20 +66,28 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -93,14 +101,14 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
@@ -113,6 +121,13 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -133,13 +148,6 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -163,13 +171,6 @@ There are mainly two methods for you to update the graphics driver:
 1. Open **AMD Radeon Settings** .
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
@@ -199,16 +200,16 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
 
@@ -234,24 +235,19 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-igtv-status-strategies-for-viewership-surge-for-2024/"><u>[New] Elevate Your IGTV Status Strategies for Viewership Surge for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-spark-interest-30plus-unique-tiktok-biography-formats-to-escalate-your-filmora-presence-for-2024/"><u>[Updated] Spark Interest 30+ Unique TikTok Biography Formats to Escalate Your Filmora Presence for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a1x-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A1x 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/cookiebot-driven-solutions-enhance-your-sites-user-engagement/"><u>Cookiebot Driven Solutions: Enhance Your Site's User Engagement</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-realme-gt-5mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme GT 5Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-m34-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-13-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 13 Pro 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-13-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a1x-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A1x 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-90-gt-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor 90 GT to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-11-pro-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 11 Pro to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-maximize-marketing-youtubes-best-seo-aids-for-videos/"><u>In 2024, Maximize Marketing - YouTube's Best SEO Aids for Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-album-arrangement-masterclass-achieving-systematic-order-and-cloud-sync-for-2024/"><u>IPhone Album Arrangement Masterclass Achieving Systematic Order & Cloud Sync for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-hot-talk-hustle-1-10-viral-visits-for-2024/"><u>Twitter's Hot Talk Hustle #1-#10 Viral Visits for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/what-lies-beyond-the-boundaries-of-vlc/"><u>What Lies Beyond the Boundaries of VLC?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dominating-the-digital-realm-youtube-marketing-secrets/"><u>[New] 2024 Approved Dominating the Digital Realm YouTube Marketing Secrets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-playbook-for-youtube-shorts-income-boost/"><u>[New] The Ultimate Playbook for YouTube Shorts Income Boost</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-top-11-list-ultimate-recording-gear/"><u>[Updated] Premium Top 11 List - Ultimate Recording Gear</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-motorola-moto-g84-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Motorola Moto G84 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-a14-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy A14 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-redmi-k70-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Redmi K70 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-x-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone X to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-100-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor 100 Phones? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-master-your-online-presence-the-ultimate-guide-to-effective-freefire-tags/"><u>In 2024, Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-webcam-media-ranking-of-top-18-appstools/"><u>In 2024, Mastering Webcam Media Ranking of Top 18 Apps/Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-your-star-wars-gameplay-how-to-resolve-battlefront-ii-pc-crashes/"><u>Mastering Your Star Wars Gameplay: How to Resolve Battlefront II PC Crashes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-premier-voice-command-conversion-apps-for-windows-users-for-2024/"><u>New Premier Voice Command Conversion Apps for Windows Users for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-htc-u23-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing HTC U23 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 
