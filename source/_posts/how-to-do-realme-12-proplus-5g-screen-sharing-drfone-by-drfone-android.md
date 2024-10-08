@@ -1,7 +1,7 @@
 ---
 title: How To Do Realme 12 Pro+ 5G Screen Sharing | Dr.fone
-date: 2024-09-27T17:39:39.729Z
-updated: 2024-10-02T16:00:39.205Z
+date: 2024-10-03T20:07:07.006Z
+updated: 2024-10-07T18:53:21.040Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -72,13 +72,6 @@ Ensure that your Samsung device and Smart TV are connected to the same network, 
 
 **Step 3:** You can select your desired content through options like My Photos, My Videos, or My Music. When the desired content is selected, you can enjoy it on a bigger screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to Share Screen From Samsung Phones to Other Smart TVs?
 
 If your Smart TV is of another brand instead of Samsung, it is still possible to share the Samsung devices screen with your TV. Multiple tools are available online that can be used to share your Samsung device with your TV, depending on the TV brand. You can use tools like AllShare Cast, Chromecast, or Amazon Firestick.
@@ -97,6 +90,13 @@ Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharin
 - You don't need to give any unnecessary permissions when using Dr.Fone Air. It also doesn't require Bluetooth or NFC for screen sharing.
 - Your data during screen sharing remain protected as it doesn't require downloading or uploading your content.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steps of Using Dr.Fone Air for Screen Sharing
 
 Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a simple and quick process. Your Samsung device and  Realme TV needs to be connected to the same Wi-Fi network. Once they are connected, follow these steps for screen sharing:
@@ -113,18 +113,18 @@ Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a si
 
 ![mirroring samsung phone to computer](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Hope everything is clear to our readers about the different methods to share the screen in Samsung. The detailed steps for screen sharing on Samsung phones to  Realme TVs and other Smart TVs make it easy for users to optimize the benefits of the big screen.
 
 Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) for sharing screens from Samsung phones to computers directly. It is a reliable, secure, and quick method to wirelessly mirror any mobile phone screen to any web browser.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How To Stream Anything From Realme 12 Pro+ 5G to Apple TV
 
@@ -140,33 +140,20 @@ Here are the apps you can use.
 
 ![stream from any Android to Apple TV-Allcast](https://images.wondershare.com/drfone/others/14542162011206.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) **Allstream:** For the ones who are only interested in music and are too lazy to switch to a new music player, this application has all the answers. Offering the functionality of both AirPlay and DLNA connectivity to its users, the temporarily free application acts as a transmitter. This allows the user to choose their music player which may include services like Spotify, Google Play Music, or any other while giving the streaming ability to existing AirPort express, Apple TV, Samsung Smart TV, and PS3. However, there is another catch users must be aware about. The application requires the Android device to be rooted. Also, a payment of 5 Euro is necessary if one wishes for the application to continue working after a specific amount of time. And if you like the music in Spotify, you can also [download music from Spotify](https://pro.keepvid.com/spotify/download-music-from-spotify.html) and enjoy it everywhere as you want.
 
 ![stream from any Android to Apple TV-Allstream](https://images.wondershare.com/drfone/others/14542162165513.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) **Apple TV AirPlay Media Player:** For the ones who have been following this list for a while, the name should be a getaway. However, the application is specifically designed to be used with Apple TV. The beauty of this app lies in its functionality which allows it to stream content based on the Android operating system and also any content that is stored on the local network to your Apple TV. It also converts your Android Device into all-in-one remote control. This enables the users to browse, search, and share content from a variety of online sources which include video podcasts, YouTube, Facebook and other media based social media networking websites. However, it is important for the users to note that they must be running Android 2.1 or later and also should have a working ZappoTV account setup if they are looking to use this app. Alongside, DLNA and UPnP connectivity is available through an internal purchase.
 
 ![stream from any Android to Apple TV-Apple TV AirPlay Media Player](https://images.wondershare.com/drfone/others/14542162549992.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) **Twonky Beam:** Here is the application that is ideal for streaming video apps. Available for both, iOS and Android platforms, it comes with dual AirPlay-DLNA capabilities, and has the functionality which makes it compatible with numerous varieties of TVs and streaming boxes, without having the users to worry about the transmission standards. Xbox 360, Apple TV, is among the few of these. Sharing content between devices on the home network in the presence of an UPnP standard that is instrumental in helping users save media from their local network to the mobile device as the content is streamed on the Apple TV. However, a version later or equal to Android 4.0 or iOS 6.0 is necessary if one is looking to use this free application.
 
@@ -179,6 +166,13 @@ Thus, we have compiled a list of a few applications that can come in handy if yo
 Suppose we consider a situation where you are sitting in a presentation. You discover a major factor that is to be addressed and explained to your colleagues for developing a point, primarily, and have them moved over the point. It would get extremely difficult for you to show your smartphone's screen to the people sitting there all at once. For avoiding certain disciplinary and time losses, you require the screen to be mirrored to something bigger and wider for everyone to see in the room. This article considers different mechanisms adapted to mirror your Realme 12 Pro+ 5G and other Android smartphones to PC.
 
 ![type-the-command](https://images.wondershare.com/drfone/article/2021/03/screen-mirroring-xiaomi-to-pc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Screen Mirroring Realme 12 Pro+ 5G to PC via Wi-Fi – Dr.Fone Air
 
@@ -207,10 +201,10 @@ Install the Dr.Fone Link application on your Realme 12 Pro+ 5G device and scan t
 ![connect your Realme 12 Pro+ 5G device](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Successfully Mirror Realme 12 Pro+ 5G with PC**
@@ -271,13 +265,6 @@ After downloading the archive folder of Scrcpy on your computer, you need to ext
 
 ![launch-scrcpy-exe-file](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Enable USB Debugging on your Phone**
 
 You need to open the Settings on your phone and access its About Phone section. If your Developer Options are not enabled, you need to tap on the build number present on the screen multiple times, followed by opening the screen and selecting the option of USB Debugging from the list to have it enabled.
@@ -285,16 +272,16 @@ You need to open the Settings on your phone and access its About Phone section. 
 ![enable-usb-debugging](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Run Scrcpy File**
@@ -302,6 +289,13 @@ You need to open the Settings on your phone and access its About Phone section. 
 After enabling the USB Debugging mode, you need to re-launch the .exe file on your computer and allow all the prompt messages received on your phone. This will conclusively mirror your Realme 12 Pro+ 5G screen to PC without any discrepancies. However, it should be kept in mind that the process elapses as soon as you detach your phone from the USB connection.
 
 ![screen-mirroring-completed](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Screen Mirroring Realme 12 Pro+ 5G to PC Wirelessly – Vysor
 
@@ -339,18 +333,18 @@ You need to exit the ADB window to re-type the IP address for connecting your PC
 
 ![retype-your-ip-address](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Remove USB Cable and Confirm Connection**
 
 Following this, you need to remove the USB cable and continue using your phone using the ADB connection through the Wi-Fi and Hotspot connection of your phone. To confirm, you can check the Realme 12 Pro+ 5G device connected through Vysor to observe it active on the list. You can simply connect to the phone in a normal manner for screen mirroring Realme 12 Pro+ 5G to PC.
 
 ![check-your-device-from-the-list](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: Screen Mirroring Realme 12 Pro+ 5G to PC with Mi PC Suite
 
@@ -386,17 +380,21 @@ This article has featured a list of different screen mirroring solutions you can
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-spectral-control-enhancing-image-aesthetics/"><u>[Updated] 2024 Approved Spectral Control Enhancing Image Aesthetics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-tools-to-replay-ps3-classics-on-pc-for-2024/"><u>[Updated] Essential Tools to Replay PS3 Classics on PC for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-srt-files-on-youtube-and-twitter/"><u>2024 Approved Navigating the World of SRT Files on YouTube and Twitter</u></a></li>
-<li><a href="https://article-files.techidaily.com/cutting-edge-recording-best-camcorders-reviewed-for-2024/"><u>Cutting-Edge Recording Best Camcorders Reviewed for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo S17 Pro Phone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-play-40c-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor Play 40C to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-pop-7-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Pop 7 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-a2-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi A2 to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-s17-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mapping-out-gpo-landscape-a-gpresult-perspective/"><u>Mapping Out GPO Landscape: A GPResult Perspective</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fbs-flash-video-frontier/"><u>[Updated] FB's Flash Video Frontier</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-secrets-back-on-snapchat-screen-for-2024/"><u>[Updated] Secrets Back on Snapchat Screen for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-c53-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-mix-fold-3-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-narzo-60x-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme Narzo 60x 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/discover-the-destination-comprehensive-guide-to-obs-recording-storage/"><u>Discover the Destination: Comprehensive Guide to OBS Recording Storage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/green-screen-resources-download-free/"><u>Green Screen Resources, Download Free</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-switch-on-windows-11s-hdr-functionality/"><u>How to Switch On Windows 11'S HDR Functionality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-k70-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-poco-c65-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Poco C65 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-a78-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo A78 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/setting-your-desired-background-positions-in-flipbook-presentations-a-step-by-step-tutorial/"><u>Setting Your Desired Background Positions in FlipBook Presentations - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-strategy-for-professional-gopro-filming/"><u>The Ultimate Strategy for Professional Gopro Filming</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-samsung-galaxy-xcover-6-pro-tactical-edition-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Samsung Galaxy XCover 6 Pro Tactical Edition for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-outdoor-screen-projectors-comprehensive-reviews-and-testing-insights-techradar/"><u>Top-Rated Outdoor Screen Projectors: Comprehensive Reviews & Testing Insights | TechRadar</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-full-page-captures-solutions-when-safari-screenshots-fail/"><u>Troubleshooting Full Page Captures: Solutions When Safari Screenshots Fail</u></a></li>
 </ul></div>
 

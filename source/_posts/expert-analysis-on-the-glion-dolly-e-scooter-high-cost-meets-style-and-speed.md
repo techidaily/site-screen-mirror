@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
-date: 2024-09-29T18:06:16.764Z
-updated: 2024-10-02T17:56:54.608Z
+date: 2024-10-03T03:06:26.668Z
+updated: 2024-10-07T19:40:45.818Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
@@ -42,10 +42,10 @@ Lifewire / Todd Braylor
 ![Escort Max 360 Laser Radar Detector with GPS](https://www.lifewire.com/thmb/rDfi4btEBU-ni64IstBVGoFaaE0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_Max360_0Herosquare-0cdd5b712ef0409cb0263171b30f3935.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
@@ -83,13 +83,6 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup Process: Update and install**
 
  The Max360 is easy to set up and start using. It's recommended you update the detector's firmware on a PC before using (the Max360 is not compatible with Mac). The Max360 has a mini USB port to connect to a PC but inconveniently there is no USB cable provided. The SmartCord DC power adapter for the Max 360 also has a USB port on it. Additionally, the SmartCord is designed with a handy control button that allows drivers to mark and mute alerts without having to reach over the dash to press buttons on the unit itself.
@@ -97,6 +90,13 @@ The biggest and heaviest radar detector I've tested.
  Once updated and installed in your vehicle, customizing the Max360's settings is more straightforward. There are advanced and novice modes on the Max360 for customizing features or using factory default settings, respectively. You can customize a range of settings from different advanced alert band Meter Mode displays and detector sensitivity to alert tone volume and four display colors to match your car's dash display; blue, green, red, or amber.
 
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Range: Mediocre Ka-band**
 
@@ -109,10 +109,10 @@ The biggest and heaviest radar detector I've tested.
  Lifewire / Todd Braylor
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Performance: Advanced multi-features**
@@ -142,10 +142,10 @@ The biggest and heaviest radar detector I've tested.
  I really wanted the advanced features of the Escort Max360 to add up to an overall superior product but this model isn't the best value for your money. The ability to reliably filter out divergent false alerts coupled with great range is what differentiates high-end radar detectors. The Max360 only delivered top-end performance in the former category.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -177,19 +177,24 @@ The biggest and heaviest radar detector I've tested.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[New] 2024 Approved Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-websites-your-source-for-legal-skype-ringtones/"><u>[New] Leading Websites Your Source for Legal Skype Ringtones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unveiling-techniques-for-effective-display-saving-on-dell/"><u>[New] Unveiling Techniques for Effective Display Saving on Dell</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oneplus-ace-2-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring OnePlus Ace 2 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/content-hub-hierarchy-stand-out-amongst-titans-vimeo-youtube-and-dailymotion-in-2024/"><u>Content Hub Hierarchy Stand Out Amongst Titans – Vimeo, YouTube & Dailymotion, In 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enhancing-engagement-through-effective-video-strategies-on-fb/"><u>Enhancing Engagement Through Effective Video Strategies on FB</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-note-50-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme Note 50 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-k11-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo K11 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-s17-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-to-reel-success-on-instagram/"><u>In 2024, Step-by-Step to Reel Success on Instagram</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-find-x7-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Find X7 Ultra for Parents | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-performant-videomaker-pour-instaconversion-optimisez-vos-videos-sur-instagram-avec-succes/"><u>Top Performant Videomaker Pour InstaConversion: Optimisez Vos Vidéos Sur Instagram Avec Succès</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-search-with-microsofts-new-ai-enhanced-bing/"><u>Transforming Search with Microsoft's New AI-Enhanced Bing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-secure-youtube-channels-audible-content/"><u>[New] In 2024, How to Secure YouTube Channels' Audible Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-behind-the-scenes-of-successful-snapchat-pins/"><u>[Updated] In 2024, Behind the Scenes of Successful Snapchat Pins</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-starter-camera-picks-top-takes-2024/"><u>[Updated] Starter Camera Picks Top Takes 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/achieve-smooth-performance-installing-sandisks-optimized-drives-for-windows-11-users/"><u>Achieve Smooth Performance: Installing SanDisk's Optimized Drives for Windows 11 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-play-7t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Play 7T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y27s-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y27s to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-edge-40-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Edge 40 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-12r-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus 12R Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-a78-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo A78 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y56-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y56 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-k11x-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo K11x Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-g24-power-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-80-pro-straight-screen-edition-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor 80 Pro Straight Screen Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-google-pixel-fold-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Google Pixel Fold Phones</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-diagnosing-and-fixing-a-malfunctioning-razer-kraken-gaming-mic/"><u>Solution Steps: Diagnosing and Fixing a Malfunctioning Razer Kraken Gaming Mic</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-ergonomic-wireless-mice-for-maximum-workflow/"><u>The Best Ergonomic Wireless Mice for Maximum Workflow</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-how-to-refresh-the-drivers-for-usb-serial-adapter-devices/"><u>Troubleshooting Tips: How To Refresh the Drivers for USB Serial Adapter Devices</u></a></li>
 </ul></div>
 
