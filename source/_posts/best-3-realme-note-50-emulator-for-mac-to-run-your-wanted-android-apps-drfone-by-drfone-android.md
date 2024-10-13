@@ -1,7 +1,7 @@
 ---
 title: Best 3 Realme Note 50 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone
-date: 2024-10-02T20:51:35.077Z
-updated: 2024-10-08T03:08:16.710Z
+date: 2024-10-07T18:23:17.478Z
+updated: 2024-10-13T18:36:05.617Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -24,6 +24,13 @@ Mac OS, on the other hand, is a wonderful operating system used by Apple Inc. on
 - • People, who spend a good amount of time in front of desktop, will find it more convenient if they were able to use apps like WeChat, WhatsApp, Viber, Line etc. on their Mac.
 - • App developer can test their apps on the desktop before sending it to the Google Play Store for user reviewing.
 - • Some Emulator supports battery and GPS widgets. So, developers can test their apps based on the battery performance and can also test how their apps will work on different geographical locations.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Top 3 Android Emulator for Mac
 
@@ -122,6 +129,13 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/andy.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Cast Realme Note 50 Screen to PC Using WiFi
 
 Today most people are using smartphones with an android operating system which actually has become the first choice for so many people. Although you can enjoy so many brilliant and advanced features on the android platform, the thing which makes people sometimes annoyed and uneasy at the same time is an inferior visual experience on a small screen. People often miss their good experiences on large screens when they watch their favorite videos and movies even while they are making video calls to their favorite persons. But now the time has changed and so has the technology which literally allows you to enjoy the benefit of a large screen with your same small android device. This is called screen mirroring. So, let's discuss what screen mirroring and casting is actually and how to cast android screen to PC using WiFi.
@@ -141,20 +155,6 @@ Thereafter, all you need to do is operate your Realme Note 50 devicefor changing
 In this given post, here we are going to provide you with the different choices where you can easily view phone screens on PC via WiFi. So, let's try all of the options and choose one best!
 
 ![screen mirroring android and casting](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Casting Android Screen to PC with ChromeCast
 
@@ -193,10 +193,10 @@ With this, you will be able to cast the screen of one device to another.
 ![casting android screen to pc with chromecast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Casting Android Screen to PC with MiraCast
@@ -217,6 +217,13 @@ Here you are absolutely not required to interact with any network server setting
 
 ![casting android screen to pc with miracast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Casting Android Screen To PC with Screen Mirroring Tool - Mirror Go
 
 To fulfill your requirement of mirroring your Android device with your PC in the best possible manner, you can certainly choose [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) which is absolutely powerful enough in providing you an intelligent solution with advanced experience as well.
@@ -232,13 +239,6 @@ Now for casting your android mobile screen to PC with the help of Wondershare Dr
 First of all, you will be required to download the latest available version of this MirrorGo Software which you can easily download in just one click from its official website.
 
 ![downloading and installing mirror](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step Two: Launching MirrorGo in Computer**:
 
@@ -256,18 +256,18 @@ As you have successfully established the same internet connection for both of yo
 
 ![mirror android to pc with wifi](https://images.wondershare.com/drfone/article/2021/07/mirror-android-to-pc-with-wifi-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Mirroring Android Screen to PC with Online Screen Mirroring Tool - Dr.Fone Air
 
 With all the casting solutions provided above, it might make your experience better if you'd consider using a screen mirroring solution. [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) is an online screen mirroring solution that offers a quick and effective functionality to mirror the screen of your Android to a PC.
 
 As it is a wireless solution, you have to cover the complete process with the help of a Wi-Fi connection. Rather than **casting the Android screen to a PC,** you can realize this solution as a perfect option for covering lectures, meetings, and other uses.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features Provided by the Online Screen Mirroring Solution
 
@@ -278,10 +278,10 @@ There are some prominent features of this online mirroring solution that makes i
 - You can adjust the mirrored screen by zooming, rotating, or taking screenshots.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is the Disadvantage of Screen Casting?
@@ -297,13 +297,6 @@ If you wish to know how to screen mirror your Android to a PC, find out how to p
 Start by opening Wondershare Dr.Fone Air on the browser. Proceed to connect your Android and PC under the same Wi-Fi connection.
 
 ![access drfone air tool](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2: Use QR Code or Cast Code**
 
@@ -321,6 +314,13 @@ On successfully scanning or entering the code, the Android will be mirrored to t
 
 The provided solutions have been quite comprehensive in showing you how to **cast an Android screen to a PC.** While you can try using these solutions, Wondershare Dr.Fone Air provides you with a much better sequence of mirroring your Android to the PC with ease. While using only a Wi-Fi connection, you can enjoy watching the Android screen on your PC seamlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How To Stream Anything From Realme Note 50 to Apple TV
 
 AirPlay has been working like magic for users who wish to stream their common media files through numerous devices running the iOS. However, what if one wishes to run AirPlay on their Android Device? While the amateur answer might be something different, we here are going to help you streaming anything from Realme Note 50 to your Apple TV. This shall be done with the assistance of a few 3rd-party software applications. Streaming your media files and other content to the Apple TV from your Android Device is not as tricky as it sounds. Also, users do have the option to choose from numerous applications, and not just one. In the following section, we have discussed few of these applications.
@@ -331,13 +331,6 @@ Here are the apps you can use.
 
 ![stream from any Android to Apple TV-Double Twist](https://images.wondershare.com/drfone/others/14542161702587.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) **Allcast:** The number two application on this list is 'Allcast' which allows the content from your mobile device to be streamed across set top boxes and dongles. The application is easily compatible with Apple TV and other devices enabled with AirPlay. One can communicate with Chromecast as this application offers support for DLNA along with communication for Amazon Fire TV, Xbox 360, and One, along with numerous other devices. So, one can make out that is one packs a solid punch. Not only this, as Allcast can also stream content from Google Drive and Dropbox account, along with any other storage device. However, if one is really eager to enjoy all the features offered by this application, like Double Twist, they have to loosen up $5. As reviewers, we thought it was totally worth it.
 
 ![stream from any Android to Apple TV-Allcast](https://images.wondershare.com/drfone/others/14542162011206.jpg)
@@ -345,6 +338,13 @@ Here are the apps you can use.
 3) **Allstream:** For the ones who are only interested in music and are too lazy to switch to a new music player, this application has all the answers. Offering the functionality of both AirPlay and DLNA connectivity to its users, the temporarily free application acts as a transmitter. This allows the user to choose their music player which may include services like Spotify, Google Play Music, or any other while giving the streaming ability to existing AirPort express, Apple TV, Samsung Smart TV, and PS3. However, there is another catch users must be aware about. The application requires the Android device to be rooted. Also, a payment of 5 Euro is necessary if one wishes for the application to continue working after a specific amount of time. And if you like the music in Spotify, you can also [download music from Spotify](https://pro.keepvid.com/spotify/download-music-from-spotify.html) and enjoy it everywhere as you want.
 
 ![stream from any Android to Apple TV-Allstream](https://images.wondershare.com/drfone/others/14542162165513.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) **Apple TV AirPlay Media Player:** For the ones who have been following this list for a while, the name should be a getaway. However, the application is specifically designed to be used with Apple TV. The beauty of this app lies in its functionality which allows it to stream content based on the Android operating system and also any content that is stored on the local network to your Apple TV. It also converts your Android Device into all-in-one remote control. This enables the users to browse, search, and share content from a variety of online sources which include video podcasts, YouTube, Facebook and other media based social media networking websites. However, it is important for the users to note that they must be running Android 2.1 or later and also should have a working ZappoTV account setup if they are looking to use this app. Alongside, DLNA and UPnP connectivity is available through an internal purchase.
 
@@ -370,20 +370,22 @@ Thus, we have compiled a list of a few applications that can come in handy if yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-efficiency-meets-entertainment-discover-top-10-fb-video-extractors-for-android-devices/"><u>[New] 2024 Approved Efficiency Meets Entertainment Discover Top 10 FB Video Extractors for Android Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-nikon-d500-revolutionizing-4k-dslr-photography/"><u>[New] Nikon D500 Revolutionizing 4K DSLR Photography</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-efficiently-airing-recorded-videos-in-real-time-through-facebook/"><u>[Updated] 2024 Approved Efficiently Airing Recorded Videos in Real-Time Through Facebook</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/explore-the-best-free-passport-picture-creation-services-online/"><u>Explore the Best Free Passport Picture Creation Services Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-ace-3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus Ace 3 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-xiaomi-redmi-a2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Xiaomi Redmi A2 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-enhancing-video-visibility-with-strategic-youtube-links/"><u>In 2024, Enhancing Video Visibility with Strategic YouTube Links</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-moto-g24-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Moto G24 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-xs-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone XS to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-13-pro-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 13 Pro to Computer? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-storytelling-with-style-making-instagram-text-dance/"><u>In 2024, Storytelling with Style Making Instagram Text Dance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-6-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Plus Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-13-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi 13 Ultra for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-missing-steamapi64dll/"><u>Troubleshooting Missing Steam_api64.dll</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-audible-allure-choosing-background-beats-for-videos/"><u>[New] In 2024, Audible Allure Choosing Background Beats for Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-vocal-variety-at-your-fingertips-top-7-speech-modification-apps-reviewed/"><u>[Updated] Vocal Variety at Your Fingertips Top 7 Speech Modification Apps Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-15-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 15 Pro to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-poco-m6-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Poco M6 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-magic-5-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Magic 5 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-note-12-pro-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi Note 12 Pro 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-xs-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone XS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-90-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor 90 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-reno-10-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo Reno 10 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x6-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X6</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y78t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y78t to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-smart-8-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Smart 8 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile/"><u>New 2024 Approved Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-setup-for-your-wi-fi-install-immediately-linksys-ae2500-router-drivers-available-now/"><u>Speedy Setup for Your Wi-Fi - [INSTALL IMMEDIATELY] Linksys AE2500 Router Drivers Available Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-retrieve-humming-noise-impressions/"><u>Updated 2024 Approved Retrieve Humming Noise Impressions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtuality-unveiled-evolution-of-escapism/"><u>Virtuality Unveiled Evolution of Escapism</u></a></li>
 </ul></div>
 
