@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Your Realme 12+ 5G Screen to PC with Chromecast | Dr.fone
-date: 2024-10-12T16:32:15.076Z
-updated: 2024-10-13T18:40:44.329Z
+date: 2024-10-17T16:44:23.510Z
+updated: 2024-10-19T19:21:50.911Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -23,13 +23,6 @@ If you have an android device and you wish to mirror (share) the screen to your 
 
 Chromecast is a form of modern technology established and mananged by Google, which enables an individual to project or display whatever they have on their Android device screen on a secondary screen such as a PC or TV. More interestingly Chromecast is just a small device that can be plugged into a PCs HDMI port to allow for easy casting on a bigger screen. The capability is called mirroring and it is very prevalent in today's society. Chromecast is very convenient because sometimes individuals cannot be bothered with a small mobile screen if they are watching a movie for instance of playing their favourite games such as FIFA 2015. The technology of Chromecast is possible because of the chrome app for both PC and Android mobile devices to date. Chromecast allows the casting of all your favourite mobile activities straight to your PCs screen.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. The features of Chromecast
 
 •Chromecast works with a majority of apps – There is no need to worry about available applications when purchasing Chromecast and setting it up. It works with a huge amount of apps, that you will likely want to stream and mirror to your big screen. Apps such as Netflix, HBO, Google Music, Youtube, IheartRadio, and Google Play are fully capable of mirroring to your PC hassle free, because it only take a few steps to set up.
@@ -45,10 +38,10 @@ Chromecast is a form of modern technology established and mananged by Google, wh
 •Auto update – Chromecast automatically updates so you can have new apps and features that are compatible and available without effort or hassle.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The Steps on How to Mirror
@@ -89,13 +82,6 @@ There are a wide range of devices that are supported by Chromecast, these device
 - 10.Tesco hudl2
 - 11.TrekStor SurfTab xintron i 7.0
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Advanced Casting Features
 
 Chromecast has some advance features that every user should definitely know and use such as:
@@ -104,9 +90,23 @@ Chromecast has some advance features that every user should definitely know and 
 - •Chromecast is also compatible with IOS mobile devices and tablets – A lot of persons find this feature very hand since they have IOS devices. No need to worry as these devices are fully compatible with Chromecast.
 - • You can cast a website to your TV from a laptop or mobile device – Advanced features of Chromecast allows easy casting of webpages to your laptop or even a television from a mobile device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Cast Realme 12+ 5G Screen to PC Using WiFi
 
 Today most people are using smartphones with an android operating system which actually has become the first choice for so many people. Although you can enjoy so many brilliant and advanced features on the android platform, the thing which makes people sometimes annoyed and uneasy at the same time is an inferior visual experience on a small screen. People often miss their good experiences on large screens when they watch their favorite videos and movies even while they are making video calls to their favorite persons. But now the time has changed and so has the technology which literally allows you to enjoy the benefit of a large screen with your same small android device. This is called screen mirroring. So, let's discuss what screen mirroring and casting is actually and how to cast android screen to PC using WiFi.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What is Screen Mirroring Android and Casting
 
@@ -123,13 +123,6 @@ Thereafter, all you need to do is operate your Realme 12+ 5G devicefor changing 
 In this given post, here we are going to provide you with the different choices where you can easily view phone screens on PC via WiFi. So, let's try all of the options and choose one best!
 
 ![screen mirroring android and casting](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Casting Android Screen to PC with ChromeCast
 
@@ -167,13 +160,6 @@ With this, you will be able to cast the screen of one device to another.
 
 ![casting android screen to pc with chromecast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Casting Android Screen to PC with MiraCast
 
 The next method which you can possibly consider using is MiraCast for mirroring your screen over the internet.
@@ -193,10 +179,10 @@ Here you are absolutely not required to interact with any network server setting
 ![casting android screen to pc with miracast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Casting Android Screen To PC with Screen Mirroring Tool - Mirror Go
@@ -231,6 +217,19 @@ As you have successfully established the same internet connection for both of yo
 
 ![mirror android to pc with wifi](https://images.wondershare.com/drfone/article/2021/07/mirror-android-to-pc-with-wifi-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Mirroring Android Screen to PC with Online Screen Mirroring Tool - Dr.Fone Air
 
 With all the casting solutions provided above, it might make your experience better if you'd consider using a screen mirroring solution. [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) is an online screen mirroring solution that offers a quick and effective functionality to mirror the screen of your Android to a PC.
@@ -259,13 +258,6 @@ Start by opening Wondershare Dr.Fone Air on the browser. Proceed to connect your
 
 ![access drfone air tool](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Use QR Code or Cast Code**
 
 As you connect the Realme 12+ 5G devices, you must install Dr.Fone Link to connect the Android to the PC with this screen mirroring tool. Use the QR code or casting code shown on the screen of the browser.
@@ -290,6 +282,13 @@ You might come across a condition where you may have to mirror your device onto 
 
 Some several methods and techniques can come quite handy in mirroring your Android to a Mac with ease. These techniques come up with different approaches that are to be discussed in the article as follows. The first approach that can be undertaken by users to mirror their device successfully is by using a USB connection for establishing a successful mirroring environment. For this case, the article segregates the two best software and tools that can allow you to mirror your Android to the Mac with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.1 Vysor
 
 A user always prefers a tool that is readily available in the consumption market. Vysor is one efficient option when it comes to such cases, considering its availability across all major Operating Systems. The desktop Chrome application provides you the basic features to view, control, and even navigate your Android phone through your Mac. While you understand the feasibility of this platform, you should understand that Vysor allows you to use all kinds of applications across the Mac that are installed on your Android. This includes all kinds of applications and social media applications, without any exception. To understand the basic procedure of connecting Vysor with your Mac, you need to go through these simple steps as specified below.
@@ -299,6 +298,13 @@ A user always prefers a tool that is readily available in the consumption market
 **Step 2:** Access your Mac and open Google Chrome. Proceed to the Chrome Web Store and search for Vysor in the application search. Install the application and launch it on your Mac successfully.
 
 ![download vysor on chrome](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** You need to attach your Mac to the Android through a USB cable and tap Find Devices on your Vysor application on the Mac. Locate your device in the search results and tap Select to initiate the screencasting of your Android device to the Mac.
 
@@ -332,6 +338,13 @@ Another impressive platform that may come into your mind when seeking a method t
 
 ![mirror Realme 12+ 5G to mac using scrcpy](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Mirror Realme 12+ 5G to Mac via Wi-Fi
 
 ### 1\. Dr.Fone Air (FREE)
@@ -355,13 +368,6 @@ You must launch Dr.Fone Air on the browser of your Mac and ensure that the Mac a
 Next, you must install Dr.Fone Link on your Android device. Following this, use the QR Code or casting code displayed on the browser screen to connect both devices.
 
 ![use qr code or screencast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Mirror Realme 12+ 5G to Mac Successfully**
 
@@ -428,22 +434,20 @@ Mirror your Realme 12+ 5G deviceto your Windows computer!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-converting-horizontals-for-igtv-tips-and-techniques-explored/"><u>[New] In 2024, Converting Horizontals for IGTV Tips & Techniques Explored</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>[Updated] 2024 Approved Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-boost-your-game-presence-with-free-voice-alteration-tips-for-free-fire-for-2024/"><u>[Updated] Boost Your Game Presence with Free Voice Alteration Tips for Free Fire for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-spark-20-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Spark 20 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-f15-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy F15 5G PC | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/distinguishing-features-nlp-vs-ml-a-comprehensive-guide/"><u>Distinguishing Features: NLP vs ML – A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-s17e-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo S17e Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-y17s-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y17s Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-magic-5-lite-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-lava-yuva-3-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Lava Yuva 3 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-y17s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo Y17s to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-12-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi 12 Location | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-oculamoquest-2-outstanding-performance-at-unbeatable-prices/"><u>The Ultimate Guide to OculamoQuest 2 - Outstanding Performance at Unbeatable Prices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-youtube-monetization-a-focus-on-short-video-profits-for-2024/"><u>Unlock YouTube Monetization A Focus on Short Video Profits for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-superior-supplements-to-enhance-gopro/"><u>[New] Superior Supplements to Enhance GoPro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-innovative-methods-for-effectful-tiktok-videos/"><u>[Updated] 2024 Approved Innovative Methods for Effectful TikTok Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-ready-auto-resizing-videos-using-mac-tech-for-2024/"><u>[Updated] Instagram-Ready Auto-Resizing Videos Using Mac Tech for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-m14-4g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy M14 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-meizu-21-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Meizu 21 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-v30-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo V30 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-reno-10-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo Reno 10 Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-c67-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme C67 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-g310-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia G310 to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g-stylus-5g-2023-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G Stylus 5G (2023) Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-15-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 15 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-realme-12plus-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Realme 12+ 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rapid-update-your-lenovo-dock-drivers/"><u>Rapid Update: Your Lenovo Dock Drivers</u></a></li>
+<li><a href="https://driver-error.techidaily.com/validating-inf-section-service-setup-ready/"><u>Validating INF Section - Service Setup Ready</u></a></li>
 </ul></div>
 
