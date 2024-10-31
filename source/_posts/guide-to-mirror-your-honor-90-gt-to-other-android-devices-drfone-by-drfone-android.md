@@ -1,7 +1,7 @@
 ---
 title: Guide to Mirror Your Honor 90 GT to Other Android devices | Dr.fone
-date: 2024-07-26T10:08:37.478Z
-updated: 2024-07-27T10:08:37.478Z
+date: 2024-10-26T19:19:53.677Z
+updated: 2024-10-30T18:57:54.689Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -21,8 +21,6 @@ Yes, it is possible. Technology has made it possible that one can mirror Android
 
 The accelerated concentration on the mobile application by developers in the wake of the continuous accelerated mobile penetration has led to several applications being created. Most of them are amazing, and one only imagines the experience when emulated to a PC. Today that is now possible with several ways to run android applications on PC, the system was first used by developers to test their applications, and now everyone can enjoy the extended experience of applications taking full advantage of PC features. Several applications answer your burning question on how to use mobile apps on a PC. Here we look at some of the top-rated ones;
 
-
-
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Honor 90 GT deviceto your computer!
@@ -34,9 +32,6 @@ Mirror your Honor 90 GT deviceto your computer!
 
 **3,952,713** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How to Mirror Android Phone to Android Tablet
 
 Innovations in technology have allowed some of the things that were at one point, not thought of. One of the amazing developments recently has been the ability to mirror one smart device to another to another smart device. This has made it possible to mirror android to android. Mirroring android to android is the end of the innovation, the innovation even includes the possibility to mirror TVs by a smartphone or even your laptop and operate it with your phone as a remote. The experience is unlimited and includes sharing and playing your Android smartphone content to your tablet and even exporting content from your smartphone to your tablet. Android to Android mirroring is amazing, and you just might want to try it out. It uses Bluetooth, Wi-Fi, or even mobile hotspots.
@@ -48,9 +43,6 @@ While there are many tools for android to android mirroring, this example will u
 - • A tablet running Android 2.3+
 - • A smartphone running Android 2.3+
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How to install ScreenShare Applications
 
 Installing the browser on your android devices that you want to mirror.
@@ -60,9 +52,6 @@ Installing the browser on your android devices that you want to mirror.
 
 After the installation is successful, it then means you can use the ScreenShare connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Part 4.Android to android mirroring through Bluetooth
 
 1\. Start your installed ScreenShare service on the two devices you want to mirror.
@@ -91,9 +80,6 @@ After the above steps have been done successfully, your devices will have been m
 
 While ScreenShare has been used as an example here, there are many other tools you can use to get the same experience. Most of the tools can be downloaded online for free, while others are for a fee. Some of the most popular tools include; Air Playit, Optia, MirrorOp, PeerDeviceNet. Sampling the tools and getting the best that suits the experience you desire is also a good idea, or you can look up the reviews that have been written by other users, and you can pick one or two issues you like or dislike. Most, if not all the tools, have manuals that can even help you get started as they might defer a bit from the ScreenShare example given in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Mirror PC Screen to Honor 90 GT Phones?
 
 What is the best and easiest method to mirror PC screen to Android? I have a work-related assignment for which I want to mirror the PC screen to my Android phone. Still, there are so many means that it is causing a doubt which one is better than the rest.
@@ -101,6 +87,13 @@ What is the best and easiest method to mirror PC screen to Android? I have a wor
 Android platform is currently the most popular smartphone OS available on the market. The reason behind the deserved fame is the framework’s intuitiveness and accessibility. One of such utilities of Android is screen sharing.
 
 ![mirror pc screen to android ](https://images.wondershare.com/drfone/article/2020/11/mirror-pc-screen-to-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this article, we’ll be talking about the PC screen mirroring to Android and discuss what platforms offer better service than the rest.
 
@@ -128,9 +121,6 @@ Once you switch on the USB Debugging, the other thing you should remember is tha
 
 In the next section of the article, we will look into the top three apps to mirror PC screen to Android. We will discuss the pros and cons of all of them. It will assist you in finally choosing the most suitable app to use the Android device to mirror your PC’s screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. Mirror PC Screen to Android - How to Choose Apps to Mirror PC to Android?
 
 Third-party mirroring platforms can offer you access to anything available on your computer’s screen with your smartphone. The process is also known as screen sharing, and it requires a stable internet connection to enable.
@@ -139,9 +129,6 @@ These apps are available across not only Android but also on other top platforms
 
 Here we will share relevant info regarding the top three platforms to mirror PC to Android.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.1 Chrome Remote Desktop
 
 The Chrome Remote Desktop service is a free-to-use PC to Android screen sharing service, enabled by Google. The platform is among the most popular remote control apps. It is not only easy to use but also secure. You can easily manage or access the content of the computer from the Android with Chrome Remote Desktop.
@@ -161,9 +148,6 @@ The pros and cons of the Chrome Remote Desktop service are as follows:
 - There is no file sharing feature with the Chrome Remote Desktop service;
 - You would need the assistance of the Chrome browser to be able to access the application.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### 2.2 Splashtop Personal - Remote Desktop
 
 The Splashtop remote desktop app is capable of offering remote access to the PC screen from the Android phone. The service is fast, and you can form multiple remote connections. Moreover, it provides various layers of security, which makes it nearly impossible for intruders to access the contents of your device.
@@ -180,16 +164,10 @@ The application is available across multiple platforms such as Windows, macOS, i
 - The File Transfer feature is only available with the Business Plan;
 - It only offers a 7-day free trial.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.3 SpaceDesk
 
 SpaceDesk offers a fast and secure service that allows mirroring PC to any phone. It is available on all the top platforms such as Windows, Android, and macOS/iOS.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mirror pc to android 5](https://images.wondershare.com/drfone/article/2020/08/mirror-pc-screen-to-android-5.jpg)
 
 Please check the pros and cons of SpaceDesk app to mirror PC to Android:
@@ -208,8 +186,6 @@ Please check the pros and cons of SpaceDesk app to mirror PC to Android:
 
 Is there any application to mirror Android phone screen to a computer screen? Yes. You can use [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) to mirror and control the Android from the PC.
 
-
-
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Honor 90 GT deviceto your computer!
@@ -221,23 +197,19 @@ Mirror your Honor 90 GT deviceto your computer!
 
 **4,714,396** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 It is vital to research before finally getting software that can access the screen and contents of your computer and smartphone. As you know by now that you can easily mirror your PC screen with an Android phone. We have shared our analysis on the top three platforms that can assist you in mirroring your computer’s screen. You can base your decision based on the pros and cons list, which will make it a lot easier.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How To Do Honor 90 GT  Screen Sharing
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Smartphones by Honor 90 GT  are rich in functionality and offer multiple benefits to users. However, do we ever wonder about using **screen share in Honor 90 GT ?**
@@ -253,14 +225,24 @@ So today, let us go through a detailed guide on **how to screen share in Honor 9
 Bluetooth is not used for screen sharing as it does not have the bandwidth required to stream heavy media. Although it is commonly used for wireless data transfer, it is not suited for screen sharing. A major reason behind this is the slowness of Bluetooth, as its maximum speed for data sharing is up to 50MB/s. That makes it unreliable for screen sharing, making Wi-Fi the default choice.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Share Screen From Honor 90 GT  Phone to  Honor TV Using Smart View?
 
 Samsung Smart View is a feature in Honor 90 GT  devices that allows you to **screen share on Honor 90 GT ** Smart TV. First introduced as an app, it is now an in-built feature of One UI.
 
 When using the Smart View feature, you can share videos, photos, documents, games, and other things on your Honor 90 GT  device to your  Honor TV. The Smart View app allows you to use your Honor 90 GT  device as a virtual remote to control your Smart TV.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Requirements for Smart View App
 
@@ -300,8 +282,12 @@ Ensure that your Samsung device and Smart TV are connected to the same network, 
 **Step 3:** You can select your desired content through options like My Photos, My Videos, or My Music. When the desired content is selected, you can enjoy it on a bigger screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Share Screen From Samsung Phones to Other Smart TVs?
 
 If your Smart TV is of another brand instead of Samsung, it is still possible to share the Samsung devices screen with your TV. Multiple tools are available online that can be used to share your Samsung device with your TV, depending on the TV brand. You can use tools like AllShare Cast, Chromecast, or Amazon Firestick.
@@ -314,9 +300,6 @@ After learning about screen sharing to TVs, it is about sharing a Samsung phone 
 
 Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharing in Samsung** to any computer. It can quickly mirror a Samsung phone to any web browser using a Wi-Fi connection only. Further, it is easy to download [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) from its official website.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of Dr.Fone Air
 
 - It provides great cross-platform support for screen sharing and casting. You can easily share screens from Android or iOS to Windows or Mac.
@@ -324,8 +307,12 @@ Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharin
 - Your data during screen sharing remain protected as it doesn't require downloading or uploading your content.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Steps of Using Dr.Fone Air for Screen Sharing
 
 Sharing your Samsung phone screen with your  Honor TV using Dr.Fone Air is a simple and quick process. Your Samsung device and  Honor TV needs to be connected to the same Wi-Fi network. Once they are connected, follow these steps for screen sharing:
@@ -334,13 +321,23 @@ Sharing your Samsung phone screen with your  Honor TV using Dr.Fone Air is a sim
 
 ![launching drfone air](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. **Using QR or Cast code:** The second step is to use the QR or Cast code as shown on the screen of the browser.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![using qr or cast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. **Mirroring Samsung phone to computer:** The Samsung phone will be automatically mirrored to the computer on successful scanning or code entering.
 
@@ -351,7 +348,6 @@ Sharing your Samsung phone screen with your  Honor TV using Dr.Fone Air is a sim
 Hope everything is clear to our readers about the different methods to share the screen in Samsung. The detailed steps for screen sharing on Samsung phones to  Honor TVs and other Smart TVs make it easy for users to optimize the benefits of the big screen.
 
 Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) for sharing screens from Samsung phones to computers directly. It is a reliable, secure, and quick method to wirelessly mirror any mobile phone screen to any web browser.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -365,7 +361,17 @@ Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wonde
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-implementing-the-virtual-screen-grid-in-google-meet/"><u>[New] Implementing the Virtual Screen Grid in Google Meet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-spoken-word-unveiled-enhancing-expressiveness-on-slides-for-2024/"><u>[Updated] The Spoken Word Unveiled Enhancing Expressiveness on Slides for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-showcasing-brilliance-iconic-anime-intros/"><u>2024 Approved Showcasing Brilliance Iconic Anime Intros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-k11x-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo K11x Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dissecting-the-social-media-landscape-the-case-of-triller-and-tiktok-for-2024/"><u>Dissecting the Social Media Landscape The Case of Triller & TikTok for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-13-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 13 Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-google-pixel-8-to-mac-drfone-by-drfone-android/"><u>How to Mirror Google Pixel 8 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-macs-best-picks-elite-4k-monitor-showdown/"><u>In 2024, Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-v29-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo V29 for Streaming | Dr.fone</u></a></li>
+</ul></div>
 
