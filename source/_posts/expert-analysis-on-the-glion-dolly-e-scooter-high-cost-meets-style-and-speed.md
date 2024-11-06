@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
-date: 2024-10-27T01:47:02.498Z
-updated: 2024-10-31T04:12:56.221Z
+date: 2024-11-04T01:08:31.961Z
+updated: 2024-11-05T22:54:15.215Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
@@ -37,16 +37,16 @@ Lifewire / Todd Braylor
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Escort Max360 Laser Radar Detector with GPS
 
 ![Escort Max 360 Laser Radar Detector with GPS](https://www.lifewire.com/thmb/rDfi4btEBU-ni64IstBVGoFaaE0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_Max360_0Herosquare-0cdd5b712ef0409cb0263171b30f3935.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -68,13 +68,6 @@ Lifewire / Todd Braylor
  _We purchased the Escort Max 360 so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
 
  The Escort Max360 is a top of the line radar detector with a wide range of advanced features, including GPS capabilities, 360-degree protection, and IVT filter capabilities. Let’s take a closer look at the true performance of this premiere radar detector.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Design: Big and heavy**
 
@@ -108,13 +101,6 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Performance: Advanced multi-features**
 
  The Max360 has a solid range of advanced features to help you get the most out of this product, starting with its color OLED display. The screen is easy to see in all conditions and shows you helpful information like detection signal strength, current speed and posted speed limit (via GPS data).
@@ -125,11 +111,31 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Too expensive**
 
  The Escort Max 360 is quite pricey at $550 MSRP. This is a quality radar detector in terms of user experience, but the overall value is subpar. I appreciate Escort's inclusion of advanced filtering capabilities but the Max360's relatively short range Ka-band detection falls short of expectations for a $500+ product.
 
  This is a quality radar detector in terms of user experience, but the overall value is subpar.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Escort Max 360 Radar Detector vs. Radenso Pro M Radar Detector**
 
@@ -142,10 +148,10 @@ The biggest and heaviest radar detector I've tested.
  I really wanted the advanced features of the Escort Max360 to add up to an overall superior product but this model isn't the best value for your money. The ability to reliably filter out divergent false alerts coupled with great range is what differentiates high-end radar detectors. The Max360 only delivered top-end performance in the former category.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -177,24 +183,24 @@ The biggest and heaviest radar detector I've tested.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-digital-radios-unleashed-the-recorders-essential-handbook-for-2024/"><u>[New] Digital Radios Unleashed The Recorder's Essential Handbook for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-capture-app-windows-10-edition/"><u>[Updated] 2024 Approved Ultimate Capture App - Windows 10 Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-optimal-camera-balance-for-drone-use-for-2024/"><u>[Updated] Optimal Camera Balance for Drone Use for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722016610906-access-chatgpt-anywhere-with-the-new-android-app/"><u>Access ChatGPT Anywhere with the New Android App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/clearview-resolution-amplifier-cross-platform-edition-for-2024/"><u>ClearView Resolution Amplifier Cross-Platform Edition for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ational-codes-for-youtube-enthusiasts/"><u>Foundational Codes for YouTube Enthusiasts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-lava-yuva-2-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Lava Yuva 2 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-ace-2-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-find-x6-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo Find X6 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-zero-5g-2023-turbo-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-c65-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco C65 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-zte-axon-40-lite-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your ZTE Axon 40 Lite to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-90-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor 90 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-zte-nubia-flip-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast ZTE Nubia Flip 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-13-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi 13 Ultra to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-asus-rog-phone-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Asus ROG Phone 8 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-web3.techidaily.com/struggling-with-outlook-access-issues-discover-easy-fixes-to-regain-entry-to-your-account/"><u>Struggling with Outlook Access Issues? Discover Easy Fixes to Regain Entry to Your Account</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-twin-dips-in-game-fluidity-an-advanced-guide-for-gamers/"><u>Troubleshooting Twin Dips in Game Fluidity: An Advanced Guide for Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-visionedit-pro/"><u>[Updated] 2024 Approved VisionEdit Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transferring-facebook-videos-seamlessly-across-oses/"><u>[Updated] In 2024, Transferring Facebook Videos Seamlessly Across OSes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-ps3-emulation-software-pc-edition-2023/"><u>[Updated] Top 5 Ps3 Emulation Software - PC Edition, 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hues-harmony-crafting-colorful-artistry/"><u>2024 Approved Hues Harmony Crafting Colorful Artistry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726223341985-7/"><u>7 策略提升詞彙能力：促進成功的合作市場推廣</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-s23plus-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy S23+ PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-smart-8-plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Smart 8 Plus Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-moto-g13-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Moto G13 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-13-pro-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 13 Pro Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-realme-12-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-poco-c55-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Poco C55 PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-reno-10-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo Reno 10 Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-hot-30i-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Hot 30i Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-asus-rog-phone-8-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Asus ROG Phone 8 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-incorporating-b-roll-in-video-production/"><u>In 2024, The Art of Incorporating B Roll in Video Production</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolve-apex-legends-failure-to-load-issue-in-minutes/"><u>Resolve Apex Legends Failure to Load Issue in Minutes</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-techniques-for-deleting-a-viber-account-directly-from-ios-devices/"><u>Ultimate Techniques for Deleting a Viber Account Directly From iOS Devices</u></a></li>
 </ul></div>
 

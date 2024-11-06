@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Your Realme 12 5G Screen to PC with Chromecast | Dr.fone
-date: 2024-10-28T16:23:08.786Z
-updated: 2024-10-31T10:49:38.197Z
+date: 2024-11-02T05:15:36.522Z
+updated: 2024-11-05T19:42:26.334Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -51,16 +51,16 @@ Step 3. Ensure that your Chromecast and PC are on the same Wi-Fi network, this w
 
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/wifi.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4. Open a supported Chromecast app that you downloaded from the plays store and tap the cast button normally at the top right or left corner of the app.
 
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/cast.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5. Enjoy Chromecast.
 
@@ -90,6 +90,13 @@ Chromecast has some advance features that every user should definitely know and 
 - •Chromecast is also compatible with IOS mobile devices and tablets – A lot of persons find this feature very hand since they have IOS devices. No need to worry as these devices are fully compatible with Chromecast.
 - • You can cast a website to your TV from a laptop or mobile device – Advanced features of Chromecast allows easy casting of webpages to your laptop or even a television from a mobile device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Overview of the Best Realme 12 5G Screen Mirroring App
 
 Screen mirroring has turned out to be extremely helpful for many users in the market. From educational to professional use, screen mirroring applications turned out to be a game-changer in providing them with a perfect option for putting content on a large screen. Rather than transferring files from one platform to another, people can easily use a phone mirror app to create a perfect environment catering to everyone's needs.
@@ -110,13 +117,6 @@ To know more about the tool and its features, we have outlined some prominent ke
 - After mirroring your Android screen, you can easily adjust the screen by rotating and zooming it.
 - The tool is completely free, and there are no ads connected to it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps For Screen Mirroring Android Device Using Dr.Fone Air
 
 With this, we will now review the step-by-step guide explaining how to mirror your Android using this free **phone mirroring app** as follows:
@@ -126,6 +126,13 @@ With this, we will now review the step-by-step guide explaining how to mirror yo
 Initiate by opening the official website of Dr.Fone Air on the browser of the Realme 12 5G device where you have to mirror the Android device. You must ensure that the Realme 12 5G device and Android are connected to the same Wi-Fi connection.
 
 ![drfone air connection page](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Use QR Code or Cast Code**
 
@@ -139,13 +146,6 @@ On adding or scanning the code, your Android device is easily mirrored to the sc
 
 ![android device screen mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: The Best Android Screen Mirroring App of 2023: Our Top Picks
 
 We will now work on the best **screen mirroring app for Android** that you can use in 2023. These top picks would be quite prominent in helping you find the best option that will essentially suit your requirements.
@@ -157,6 +157,13 @@ Wondershare Dr.Fone Air is an online wonder for mirroring Android devices to a b
 The tool does not take any in-app or in-use purchases from the user, making it a completely free tool to work with. Along with that, this **free mirroring app for Android** is extremely simple to use, which is why it stands to be the most prominent option in the market.
 
 ![drfone air online screen mirror](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -173,6 +180,13 @@ The tool does not take any in-app or in-use purchases from the user, making it a
 **Rating**: 4.8/5
 
 **Review**: "This screen mirroring solution has made it very easy to manage my gaming screen and mirror it onto the PC in no time. It literally takes me a few seconds before I get my iPhone on my computer screen."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. [Screen Mirroring - Mirroring Devices to Smart TVs](https://play.google.com/store/apps/details?id=de.twokit.screen.mirroring.app.pro&referrer=utm_source%3D2k-mir-sta-b-p)
 
@@ -196,13 +210,6 @@ While being a wireless solution, the Screen Mirroring app provides support for a
 **Rating**: 2.7/5
 
 **Review**: "The app is extremely slow when mirroring. You'll have to lower the resolution and picture quality to be fast enough to watch. Yet, the picture quality is miserable. Buy a chrome cast, and don't waste your money on this app."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [LetsView - All Platform Compatible Screening for Android](https://play.google.com/store/apps/details?id=com.apowersoft.letsview&hl=en&gl=US)
 
@@ -234,6 +241,13 @@ Those who feel issues in their screen mirroring results can consider using Mirro
 Mirroring360 provides a separate Sender and Receiver application for devices that are involved in the screening process. If you feel the need to showcase the best results to other viewers, this tool is perfect to work with.
 
 ![mirroring360 android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -272,13 +286,6 @@ ApowerMirror covers a variety of screen mirroring occasions, providing diversity
 **Rating**: 4.6/5
 
 **Review**: "Galaxy Note 9 - This app does exactly what I need it to. It works well, has a very low lag, good screen reproduction, and best of all, it doesn't use a 3rd party system to send or receive messages. I've looked for an app like this, but others require rooting your phone or using a web-based system to control your phone through their servers. This app is the best I've found, with more than adequate performance."
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. [AirDroid Cast - Easy Screen Mirroring of Android Under Different Scenarios](https://play.google.com/store/apps/details?id=com.sand.aircast&hl=en&gl=US)
 
@@ -424,13 +431,6 @@ This is another screen mirroring solution that can be quickly accessed for scree
 
 ![chrome remote desktop android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Pros**
 
 - A very simple, basic, and effective screen mirroring solution.
@@ -494,13 +494,6 @@ In situations where you have to screen mirror your Android device to the Windows
 
 ![microsoft remote desktop android app](https://images.wondershare.com/drfone/article/2022/12/screen-mirroring-app-for-android-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Pros**
 
 - You have to follow a simple process to screen devices with ease.
@@ -533,6 +526,13 @@ Whenever you choose a **screen mirroring app for Android,** you should always lo
 ### Conclusion
 
 This article has provided a comprehensive overview of some of the best screen mirroring applications available for Android devices. While you wish to mirror your Android screen without any lagging, the urge to find the best tool can get complicated. However, with this overview, you might have discovered Wondershare Dr.Fone Air as the best **mirror app for Android,** as it provides an online, free, and secure option for screen mirroring.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Mirror PC Screen to Realme 12 5G Phones?
 
@@ -645,10 +645,10 @@ Mirror your Realme 12 5G deviceto your computer!
 **4,714,396** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -669,24 +669,24 @@ It is vital to research before finally getting software that can access the scre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-download-youtube-thumbnail-in-3-ways-onlinewinmac/"><u>[New] 2024 Approved How to Download YouTube Thumbnail in 3 Ways [Online/Win/Mac]</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-the-essence-of-personal-branding-top-pfps-for-tiktok-success-for-2024/"><u>[New] The Essence of Personal Branding Top PFPs for TikTok Success for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-solving-srt-export-issues-in-adobe-premiere-pro/"><u>[Updated] Solving SRT Export Issues in Adobe Premiere Pro</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-20plus-free-business-slideshow-templates-makers-and-ideas/"><u>2024 Approved 20+ Free Business Slideshow Templates, Makers, and Ideas</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y78plus-t1-edition-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y78+ (T1) Edition to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-mirror-apple-iphone-13-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>6 Methods to Mirror Apple iPhone 13 Pro to your Windows PC | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/batman-arkham-knight-crashes-fast-track-repair-guide-for-game-malfunctions/"><u>Batman Arkham Knight Crashes - Fast Track Repair Guide for Game Malfunctions</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-display-discrepancies-winning-windows-with-wisdom/"><u>Decoding Display Discrepancies: Winning Windows with Wisdom</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discwizard-cloning-issue-on-seagate/"><u>DiscWizard Cloning Issue on Seagate硬碟已經解決了</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-sony-xperia-5-vmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Sony Xperia 5 VMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xs-max-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XS Max to PC via USB? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-spark-20c-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Spark 20C to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-defy-2-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola Defy 2 PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-c110-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia C110 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-x5-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco X5 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-c300-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia C300 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-rhythmic-raptor-rumba/"><u>In 2024, Rhythmic Raptor Rumba</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-choices/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Choices</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-free-music-makers-toolkit-12-essential-recording-software/"><u>Updated In 2024, The Free Music Makers Toolkit 12 Essential Recording Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-3-steps-to-create-professional-gopro-vlogs-ultimate-tutorial/"><u>[New] 2024 Approved 3 Steps to Create Professional Gopro Vlogs Ultimate Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-the-efficiency-of-screencastify-recorder/"><u>[New] 2024 Approved Unveiling the Efficiency of Screencastify Recorder</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-inside-the-world-of-facetune-a-comprehensive-photography-tool/"><u>[Updated] 2024 Approved Inside the World of Facetune A Comprehensive Photography Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snapcutsolution-examination-extensive-review/"><u>[Updated] SnapCutSolution Examination – Extensive Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-complete-checklist-for-pureaudioextract-2024-usage/"><u>[Updated] The Complete Checklist for PureAudioExtract 2024 Usage</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic-6-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-20-pro-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-lava-agni-2-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Lava Agni 2 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-missing-python-24-dll-file-errors-on-your-computer/"><u>Fixing Missing Python 2.4 DLL File Errors on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-80-pro-straight-screen-edition-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor 80 Pro Straight Screen Edition Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-itel-s23-to-mac-drfone-by-drfone-android/"><u>How to Mirror Itel S23 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-gionee-f3-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Gionee F3 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-blaze-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Blaze Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-plus-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 Plus iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-6s-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 6s Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-razr-40-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Razr 40 Ultra Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nubia-red-magic-8s-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nubia Red Magic 8S Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/resolving-synchronization-issues-a-step-by-step-guide-to-reinitializing-microsoft-onedrive-in-windows-11/"><u>Resolving Synchronization Issues: A Step-by-Step Guide to Reinitializing Microsoft OneDrive in Windows 11</u></a></li>
 </ul></div>
 

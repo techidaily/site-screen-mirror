@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Successfully Restarting Google Chrome
-date: 2024-10-30T11:31:59.167Z
-updated: 2024-10-30T16:57:25.859Z
+date: 2024-10-31T19:16:37.760Z
+updated: 2024-11-05T18:50:58.173Z
 tags:
   - win11
   - win10
@@ -60,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -92,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -117,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -131,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -148,10 +141,16 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
@@ -163,13 +162,20 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -209,16 +215,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-become-the-star-with-your-own-stories-guidelines-for-crafting-over-120-creative-snap-tales/"><u>[Updated] 2024 Approved Become the Star with Your Own Stories Guidelines for Crafting over 120 Creative Snap Tales</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-views-for-livelihood-mastering-youtubes-true-numbers/"><u>[Updated] 2024 Approved Views for Livelihood Mastering YouTube's True Numbers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-easily-and-quickly-draw-on-photos-app-in-windows-11/"><u>2024 Approved How to Easily and Quickly Draw on Photos App in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-20-proplus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-honor-magic-v2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Honor Magic V2 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-m6-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y55s-5g-2023-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y55s 5G (2023) Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-mobile-network-setup-correcting-network-registration-failure-on-samsung-galaxy-phones/"><u>Mastering Mobile Network Setup: Correcting 'Network Registration Failure' On Samsung Galaxy Phones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/social-media-mastery-embedding-twitch-streams-on-fb-for-2024/"><u>Social Media Mastery Embedding Twitch Streams on FB for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-razr-40-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Razr 40</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-v27e-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/affordable-audio-bliss-how-these-spectacular-35-wireless-buds-dominate-the-market-and-why-you-shouldnt-miss-them-spotlight/"><u>Affordable Audio Bliss: How These Spectacular $35 Wireless Buds Dominate the Market and Why You Shouldn't Miss Them – Spotlight</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/comment-resoudre-le-probleme-dun-fichier-bloquant-sur-votre-systeme-windows-10-4-solutions-efficaces/"><u>Comment Résoudre Le Problème D'un Fichier Bloquant Sur Votre Système Windows 10: 4 Solutions Efficaces</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-exercise-game-with-cubefts-reviewed-terramat-all-about-staying-active/"><u>Elevate Your Exercise Game with CubeFt's Reviewed TerraMat - All About Staying Active</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-overcoming-no-sound-issues-on-windows-10s-conexant-smartaudio-hd-audio-card/"><u>Expert Advice: Overcoming No-Sound Issues on Windows 10'S Conexant SmartAudio HD Audio Card</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fix-windows-10-ethernet-driver-issues-easily/"><u>Fix Windows 10 Ethernet Driver Issues. Easily!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-m6-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco M6 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-meizu-21-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Meizu 21 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-gt-neo-5-se-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme GT Neo 5 SE to Roku | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-motorola-moto-g-stylus-5g-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Motorola Moto G Stylus 5G (2023) Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-itel-p55plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Itel P55+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-g24-power-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola G24 Power Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-8-plus-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone 8 Plus Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-zte-nubia-z60-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring ZTE Nubia Z60 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-7-ways-to-revitalize-your-windows-service-management-application/"><u>The Ultimate Guide to 7 Ways to Revitalize Your Windows Service Management Application</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-iphone-the-ultimate-guide-to-reestablishing-icloud-photo-sync/"><u>Unstuck iPhone: The Ultimate Guide to Reestablishing iCloud Photo Sync</u></a></li>
 </ul></div>
 

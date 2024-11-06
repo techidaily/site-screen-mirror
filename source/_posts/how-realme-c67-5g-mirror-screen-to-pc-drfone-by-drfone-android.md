@@ -1,7 +1,7 @@
 ---
 title: How Realme C67 5G Mirror Screen to PC? | Dr.fone
-date: 2024-10-01T02:45:51.538Z
-updated: 2024-10-07T19:45:49.933Z
+date: 2024-10-31T02:07:17.364Z
+updated: 2024-11-05T19:21:05.890Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -25,13 +25,6 @@ If we consider the traditional and conventional methods of connecting AV cables,
 
 Screen mirroring can be covered through wired and wireless connections. If you are willing to work on a wireless solution, there are several options to come by. In this part, we will be analyzing the multiple options that can be used for *Realme C67 5G mirroring to a PC.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Realme C67 5G View in Realme C67 5G Flow
 
 Realme C67 5G Flow is known for providing multiple device solutions for Realme C67 5G smartphone users. For people who are searching for an option to perform screen mirroring on their PC, they can try this official approach of mirroring Realme C67 5G devices to their PC.
@@ -44,16 +37,16 @@ With the option of providing seamless access to Realme C67 5G users, the Realme 
 
 ![launch the Realme C67 5G flow app](https://images.wondershare.com/drfone/article/2022/12/Realme C67 5G-mirror-screen-to-pc-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** As the pairing process succeeds, you can click on the "Smart View" button on the PC to mirror the Realme C67 5G to your PC.
 
 ![tap on smart view](https://images.wondershare.com/drfone/article/2022/12/Realme C67 5G-mirror-screen-to-pc-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Wondershare Dr.Fone Air – Online Screen Mirror
 
@@ -71,24 +64,31 @@ You must open the Dr.Fone Air platform on the web browser of your PC. Continue w
 
 ![launch the drfone air tool](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Scan or Add Code for Connection**
 
 Following this, you must install the Dr.Fone Link on your device and continue connecting both devices. You can make use of the QR code or cast code for connecting both devices.
 
 ![use qr or screencast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Mirror Realme C67 5G Device to PC**
 
 On scanning the code, the Realme C67 5G devices connect with each other, and the Realme C67 5G screen successfully mirrors the PC.
 
 ![drfone mirroring Realme C67 5G](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Connect App on Windows
 
@@ -131,13 +131,6 @@ The first step is to download the software on your PC. Run the app after install
 
 ![connect android phones with mirrorgo](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Enable USB Debugging and Developer Mode**
 
 Tap on the About Phone button from Settings and tap on Build Number 7 times to activate the Developer Mode. Go to Additional Settings and check the Debugging Mode option. Tap on OK to finalize the procedure.
@@ -153,6 +146,13 @@ Now, look over to the MirrorGo’s interface, and you will see the main screen o
 ## Part 3: How to Mirror Android to PC without Root via USB
 
 While there are many wireless solutions that you can come across for mirroring your Android device to the PC, you can also try using the wired methods. If you are not finding the right platform to establish a wireless connection, you will have to mirror the Android device to the PC through a USB connection. There are many options available, out of which we have highlighted the following tools for you:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. [AirDroid Cast](https://www.airdroid.com/cast/)
 
@@ -198,6 +198,13 @@ You might come across a condition where you may have to mirror your device onto 
 
 Some several methods and techniques can come quite handy in mirroring your Android to a Mac with ease. These techniques come up with different approaches that are to be discussed in the article as follows. The first approach that can be undertaken by users to mirror their device successfully is by using a USB connection for establishing a successful mirroring environment. For this case, the article segregates the two best software and tools that can allow you to mirror your Android to the Mac with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.1 Vysor
 
 A user always prefers a tool that is readily available in the consumption market. Vysor is one efficient option when it comes to such cases, considering its availability across all major Operating Systems. The desktop Chrome application provides you the basic features to view, control, and even navigate your Android phone through your Mac. While you understand the feasibility of this platform, you should understand that Vysor allows you to use all kinds of applications across the Mac that are installed on your Android. This includes all kinds of applications and social media applications, without any exception. To understand the basic procedure of connecting Vysor with your Mac, you need to go through these simple steps as specified below.
@@ -222,13 +229,6 @@ Another impressive platform that may come into your mind when seeking a method t
 
 ![open terminal on mac](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Look across the following image to enter the command for installing ‘Homebrew’ across your Mac.
 
 ![install homebrew](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-4.jpg)
@@ -248,6 +248,13 @@ Another impressive platform that may come into your mind when seeking a method t
 ![mirror Realme C67 5G to mac using scrcpy](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-7.jpg)
 
 ## Part 2: Mirror Realme C67 5G to Mac via Wi-Fi
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Dr.Fone Air (FREE)
 
@@ -277,6 +284,13 @@ On providing the right platform to set up, the Realme C67 5G devices are connect
 
 ![android device mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. AirDroid
 
 [AirDroid](https://www.airdroid.com/cast/) is another powerful screencasting and mirroring tool that can allow you to **mirror Realme C67 5G to Mac** with ease. While it supports diverse compatibility, you can save time and effort with this screencasting solution. Along with that, AirDroid provides you control over the Realme C67 5G device, which gives you the leverage of managing the Realme C67 5G device properly on the mirrored screen during remote meetings and lectures.
@@ -295,13 +309,6 @@ We will now find out how you can mirror your Android device to Mac with the help
 
 ![provide the required permission](https://images.wondershare.com/drfone/article/2022/12/mirror-android-to-mac-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Which is the Best Way to Mirror Realme C67 5G to Mac: Via USB or Wireless?
 
 As you have reviewed how to mirror Realme C67 5G to Mac, we will now figure out which direction would serve the best purpose. Let's look into a comparative analysis of whether USB connection or wireless connections are preferred in screen mirroring:
@@ -317,13 +324,6 @@ As you have reviewed how to mirror Realme C67 5G to Mac, we will now figure out 
 ### Conclusion
 
 This article has provided an overview of the best methods available to **mirror Realme C67 5G to Mac** properly. As you have had the option of mirroring the Realme C67 5G devices through USB and wireless connections, it gives you clarity in selecting the best one. Tools like Wondershare Dr.Fone Air offers some exquisite experiences in mirroring screens for free, making it one of the best in the market.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
@@ -343,13 +343,6 @@ Screen mirroring on Realme C67 5G devices have become fairly common today. The s
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-](https://images.wondershare.com/drfone/others/Allshare%20Cast%2013.jpg)
 
 In addition to that, the 16-megapixel camera and plenty of other features see to the health and fitness concerns as well. For the most effective solutions, find some awesome tips, tricks, instructions, and tutorials to derive the most out of your phone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. Why go for Screen Mirroring at All?
 
@@ -427,6 +420,13 @@ When your phone detects all the nearby devices, select AllShare Cast's dongle na
 
 Now the screen mirroring is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3. How to Screen Mirror from Realme C67 5G to a Samsung Smart TV
 
 **Follow these procedures:**
@@ -481,24 +481,21 @@ Mirror your Realme C67 5G deviceto your computer!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-enabledisable-picture-in-picture-with-safari-on-ios-ipad/"><u>[New] In 2024, Enable/Disable Picture-in-Picture with Safari on iOS, iPad</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mirth-makers-zombie-fashionistas/"><u>[New] Mirth Makers Zombie Fashionistas</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-decoding-nitro-unveiling-its-premium-status-in-the-realm-of-discord/"><u>[Updated] Decoding Nitro Unveiling Its Premium Status in the Realm of Discord</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-becoming-a-bull-or-bear-best-stock-vids-on-youtube/"><u>[Updated] In 2024, Becoming a Bull or Bear Best Stock Vids on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-selecting-the-ideal-vr-device-seeking-simplicity-with-wireless-or-precision-with-tethers/"><u>[Updated] Selecting the Ideal VR Device Seeking Simplicity with Wireless, Or Precision With Tethers?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/essential-tips-for-adding-text-to-instagram-videos/"><u>Essential Tips for Adding Text to Instagram Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-poco-x6-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Poco X6 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-note-30-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Note 30 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-play-7t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor Play 7T</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a59-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A59 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-find-n3-flip-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Find N3 Flip Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v30-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V30 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-s17e-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-magic-6-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor Magic 6 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-y100i-power-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo Y100i Power 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-uncover-the-quickest-rising-youtube-channels-to-uplift-you/"><u>In 2024, Uncover the Quickest Rising YouTube Channels to Uplift You</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-insiders-guide-to-watermark-free-images/"><u>The Insider's Guide to Watermark-Free Images</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-microsoft-discourages-ai-generated-windows-11-licenses/"><u>Why Microsoft Discourages AI-Generated Windows 11 Licenses</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-cinematography-using-luts-for-polished-colors/"><u>[New] Perfecting Cinematography Using Luts for Polished Colors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-photography-and-videography-leading-tech-on-the-market/"><u>[New] Photography & Videography Leading Tech on the Market</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capturing-the-thrill-pro-gamers-guide-to-recordings/"><u>[Updated] 2024 Approved Capturing the Thrill Pro Gamer's Guide to Recordings</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-sub-50-mic-selections-for-aspiring-streaming-artists/"><u>[Updated] 2024 Approved Sub-$50 Mic Selections for Aspiring Streaming Artists</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-seamless-integration-getting-snapchat-on-macos/"><u>[Updated] In 2024, Seamless Integration Getting Snapchat on macOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-techniques-recording-console-games-via-pc/"><u>[Updated] Optimal Techniques Recording Console Games via PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-hidden-truths-about-instagram-viewers/"><u>[Updated] Unveiling Hidden Truths About Instagram Viewers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-7-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 7 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-a59-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-a23-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy A23 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-itel-p55-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Itel P55 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-play-40c-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Play 40C Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-civi-3-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Civi 3 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sharpening-the-sight-on-minecraft-structures-for-2024/"><u>Sharpening the Sight on Minecraft Structures for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-adobe-premiere-pro-stability-problems-in-windows-1110-environments/"><u>Solving Adobe Premiere Pro Stability Problems in Windows 11/10 Environments</u></a></li>
 </ul></div>
 
