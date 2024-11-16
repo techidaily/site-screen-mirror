@@ -1,7 +1,7 @@
 ---
 title: Remote Control Racing Fun - Insightful Review of the Holy Stone Cartoon Race Set
-date: 2024-10-30T19:27:27.226Z
-updated: 2024-11-05T21:05:46.366Z
+date: 2024-11-14T18:06:51.791Z
+updated: 2024-11-15T17:14:20.286Z
 categories:
   - BestProducts
 description: This Article Describes Remote Control Racing Fun - Insightful Review of the Holy Stone Cartoon Race Set
@@ -39,6 +39,13 @@ Lifewire / Matthew S. Smith
 [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6455816.p) [View On Acer.com](https://www.acer.com/ac/en/US/content/predator-model/NH.QD0AA.002)
 
 4.2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Acer Predator Triton 300 SE
 
@@ -86,16 +93,10 @@ Lifewire / Matthew S. Smith
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/RkOepytb4JglYF6g8lqap4lR4Uk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-5-b8c978f2d42a4865be1ea11a4785c104.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Matthew S. Smith
@@ -118,16 +119,22 @@ Lifewire / Matthew S. Smith
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/eRv5Q4rKutM9zrhSTCRxbBO4rVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-6-2af7f9999ae847bda4f5b9b830c9c555.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Matthew S. Smith
 
  There’s one downside: poor viewing angles. This is unusual in a modern laptop, though I’ve noticed this trait in many high-refresh laptop displays. I can’t give the Triton 300 SE too much flak for this given its otherwise excellent performance.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Great for games, ok for everything else
 
@@ -138,10 +145,10 @@ Lifewire / Matthew S. Smith
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/_blPSVdy574t15clSGhbK6JH68o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-4-5a097b76e29b4ee985eee421ed6d0fe8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Matthew S. Smith
@@ -164,13 +171,6 @@ Lifewire / Matthew S. Smith
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/IiMzYmVU-_I6PnObn0bkjyCzqUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-3-7cae0e5d13154048bbc93c40976706ca.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Matthew S. Smith
 
  The touchpad is about four inches wide and two and a half inches deep. That’s not bad for a gaming laptop, but average for a productivity machine, and it can feel cramped. It’s responsive and rejects any quick, unintended brush by a palm or thumb. It’s smooth when using multi-touch gestures like two-finger scroll or pinch-to-zoom.
@@ -191,6 +191,19 @@ Lifewire / Matthew S. Smith
 
  This translated to excellent real-world results. I created a real-world stress test by downloading Cyberpunk 2077 on Steam while simultaneously downloading Metro Exodus on Epic. Surprisingly, both downloads averaged in excess of 25Mbps. I’m used to seeing numbers in the teens.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Camera: BYOW (Bring Your Own Webcam)
 
  Acer’s Predator Triton 300 SE straddles the line between entertainment and productivity in its design, but the camera falls short of its professional aspirations. It’s a tiny 720p pinhole camera that squeezes between the display and the top bezel. Video quality is grainy in all but the brightest rooms and uneven lighting can easily confuse it.
@@ -209,14 +222,14 @@ Lifewire / Matthew S. Smith
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/RSfl2dEVmErlvh3BUUFcxqsbt9w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-2-c5eed4bfe7e44014952b5503566097d9.jpg)
 
-Lifewire / Matthew S. Smith
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Lifewire / Matthew S. Smith
 
 ## Software: Planet what now?
 
@@ -225,19 +238,6 @@ Lifewire / Matthew S. Smith
  Despite this, most laptop functions are controlled through the PredatorSense software interface. It can control fan modes, adjust keyboard lighting, and monitor temperatures, among other functions. PredatorSense is not much to look at, but I find it less confusing than the alternatives from Asus and Razer.
 
  The laptop comes with Norton antivirus installed. It’s eager to remind you of its presence whenever you download a file or visit an unfamiliar website. The antivirus is easy to uninstall, but its presence takes away from what otherwise feels like a special laptop in Acer’s Predator line.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Price: An outstanding value
 
@@ -262,10 +262,10 @@ Lifewire / Matthew S. Smith
  Acer’s Predator Triton 300 SE is an excellent value that has what gamers want: a great gaming experience and a quality display. Its short battery life and mediocre multi-core processor hold it back in everyday use, but the laptop’s competitive price makes these flaws easy to forgive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -308,22 +308,22 @@ Lifewire / Matthew S. Smith
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-flashback-flair-top-80s-video-tricks-for-a-contemporary-edge/"><u>[Updated] 2024 Approved Flashback Flair Top 80S Video Tricks for a Contemporary Edge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gaming-gains-graphed-income-insights-on-finn/"><u>[Updated] Gaming Gains Graphed Income Insights on Finn</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-downloading-fb-content-the-ultimate-guide-top-5-list/"><u>[Updated] In 2024, Downloading FB Content The Ultimate Guide - TOP 5 List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-passport-photo-creator-access-to-top-quality-portraits-for-desktoponline-use/"><u>[Updated] Passport Photo Creator – Access to Top Quality Portraits for Desktop/Online Use</u></a></li>
-<li><a href="https://blog-min.techidaily.com/as-6-formas-mais-eficientes-de-digitizar-seu-dvd-tecnicas-atualizadas-para-2023/"><u>As 6 Formas Mais Eficientes De Digitizar Seu DVD: Técnicas Atualizadas Para 2023</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/camera-stabilizers-for-youtube/"><u>Best Camera Stabilizers for YouTube</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-yuva-3-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Lava Yuva 3 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-z-flip-5-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy Z Flip 5 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-12-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus 12 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-phantom-v-fold-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-x90s-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo X90S to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x50iplus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y200-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y200 Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-se-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-guide-to-creating-stellar-highlight-reels-varied-techniques-unveiled/"><u>Ultimate Guide to Creating Stellar Highlight Reels: Varied Techniques Unveiled</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719171456866-upgrade-to-efficiency-embrace-the-newest-nvidia-drivers-now/"><u>Upgrade to Efficiency: Embrace the Newest Nvidia Drivers Now!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-deviantart-pros-sharing-snapchat-stories/"><u>[New] 2024 Approved DeviantArt Pros Sharing Snapchat Stories</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-framefinder-pro-a-treasure-trove-for-every-twitterscape-enthusiast/"><u>2024 Approved FrameFinder Pro A Treasure Trove for Every Twitterscape Enthusiast</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>2024 Approved The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-smart-7-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Smart 7 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-featured-sierra-drives-files-and-more/"><u>Full-Featured Sierra Drives, Files, and More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-ai-tools-are-being-used-by-cyberthieves-top-five-examples/"><u>How AI Tools Are Being Used by Cyberthieves: Top Five Examples</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-reno-9amirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Reno 9AMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-12r-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus 12R to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-x50-gt-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor X50 GT to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-xiaomi-redmi-k70-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Xiaomi Redmi K70 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-15-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 15 Pro Max with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-v30-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo V30 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-defy-2-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Defy 2 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolved-addressing-the-rodent-problem-in-resident-evil-village/"><u>Resolved: Addressing the Rodent Problem in Resident Evil Village</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-free-choice-high-definition-software-listing/"><u>Ultimate Free Choice High Definition Software Listing</u></a></li>
 </ul></div>
 

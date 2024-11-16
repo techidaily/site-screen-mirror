@@ -1,7 +1,7 @@
 ---
 title: In 2024, Recommended Best Applications for Mirroring Your Realme 12+ 5G Screen | Dr.fone
-date: 2024-10-30T04:48:53.802Z
-updated: 2024-11-05T19:54:50.753Z
+date: 2024-11-09T06:48:02.064Z
+updated: 2024-11-15T23:29:31.440Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -48,6 +48,13 @@ Let's get more in-depth on the different solutions available for choosing **the 
 ### 1\. [Dr.Fone Air - Online Screen Mirror](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/)
 
 ![drfone air interface](https://images.wondershare.com/drfone/drfone/online-screen-mirror-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 One efficient and user-friendly **screen-mirroring app for Android and iPhone** devices is the [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) software. The app helps share screens from your mobile device and control how to view the content on the screen. Activating the function is not complex either here.
 
@@ -200,6 +207,19 @@ The following Android screen share app that we recommend is Vysor. The app is si
 
 ![airdroid cast interface](https://images.wondershare.com/drfone/article/2022/12/best-applications-mirror-android-screen-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With AirDroid Cast, users can experience a high-quality screencasting experience from different phones or websites. Choose which channels and content you will have the chance to mirror on other screens easily. Various plans are available catering to different user needs.
 
 **Price**: Free, Remote Casting- USD 2.49/month, Cast & Control- USD 3.49/month
@@ -249,6 +269,19 @@ This app allows you to create and manage different diagram models and flowcharts
 ### 9\. [Unified Remote](https://www.unifiedremote.com/)
 
 ![unified remote interface](https://images.wondershare.com/drfone/article/2022/12/best-applications-mirror-android-screen-9.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Unified Remote is one of the best screen share apps for Android users to try out. After activating this feature on your computer, you can mirror what's in view on mobile devices. The mouse support here allows users to utilize the multi-touch or single-touch functionality for more accessible controls.
 
@@ -300,6 +333,19 @@ With this app, you can basically work it for streaming games and media from diff
 
 ![mobizen interface](https://images.wondershare.com/drfone/article/2022/12/best-applications-mirror-android-screen-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With Mobizen, it is straightforward to do quick and high-quality live broadcasts from a computer or mobile phone. You can mirror your videos through the Android device easily after activating this app.
 
 Plus, for users creating game content to stream, this app helps do that. Connect to other significant sites like Twitch and YouTube for broadcast sharing and easily mirror your screen.
@@ -349,13 +395,6 @@ This particular mobile screen mirroring app for Android allows its users to easi
 2. Activate the USB debugging process on the mobile.
 3. Enable the mirroring process, and the screen will be cast on your computer quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Indeed, all of the options mentioned in this list are commendable choices for screen mirroring. While each provides practical benefits and comes with some drawbacks, they are helpful to a specific group of users.
@@ -365,13 +404,6 @@ Different types of users can benefit from Dr.Fone Air - Online Screen Mirror, wh
 ## How to Mirror Realme 12+ 5G to Mac?
 
 You might come across a condition where you may have to mirror your device onto a Mac. However, over observation, you may find that your Android cannot be directly connected to your Mac through the various Apple tools that are available for connecting different Apple devices. In such cases, it usually gets necessary to devise methods that allow you to mirror your Android device to a Mac OS or a [Windows PC](https://drfone.wondershare.com/mirror-to-pc/mirror-android-to-pc.html). This article marginalizes these methods and recognizes the most optimal platforms that can offer you the perfect system of mirroring your Android to a Mac. You need to have a detailed look to develop an understanding of these available methods to mirror Realme 12+ 5G to Mac easily.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. Mirror Realme 12+ 5G to Mac via USB
 
@@ -390,13 +422,6 @@ A user always prefers a tool that is readily available in the consumption market
 **Step 3:** You need to attach your Mac to the Android through a USB cable and tap Find Devices on your Vysor application on the Mac. Locate your device in the search results and tap Select to initiate the screencasting of your Android device to the Mac.
 
 ![start screencasting](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.2 Scrcpy
 
@@ -426,6 +451,13 @@ Another impressive platform that may come into your mind when seeking a method t
 
 ![mirror Realme 12+ 5G to mac using scrcpy](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Mirror Realme 12+ 5G to Mac via Wi-Fi
 
 ### 1\. Dr.Fone Air (FREE)
@@ -450,31 +482,11 @@ Next, you must install Dr.Fone Link on your Android device. Following this, use 
 
 ![use qr code or screencast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Mirror Realme 12+ 5G to Mac Successfully**
 
 On providing the right platform to set up, the Realme 12+ 5G devices are connected, and your Android screen is mirrored on the Mac.
 
 ![android device mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. AirDroid
 
@@ -562,34 +574,15 @@ All the Samsung Smart TVs after 2015 are compatible with Samsung Smart View. Bel
 - 2015 J4500, J5500 and above (except J6203).
 - 2016 K4300, K5300 and above.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Samsung Devices with Smart View Feature
 
 With the introduction of One UI in Samsung devices, the Smart View was added as an in-built feature. All Samsung devices launched with One UI can use the Smart View feature to share their device's screen with  Realme TV. The Samsung devices that support the Smart View feature include Galaxy S Series, Galaxy Z Series, Galaxy Note Series, Galaxy A Series, Galaxy M Series, and Galaxy F Series.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps for Using Smart View to Share Screen
@@ -618,6 +611,13 @@ After learning about screen sharing to TVs, it is about sharing a Samsung phone 
 
 Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharing in Samsung** to any computer. It can quickly mirror a Samsung phone to any web browser using a Wi-Fi connection only. Further, it is easy to download [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) from its official website.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Dr.Fone Air
 
 - It provides great cross-platform support for screen sharing and casting. You can easily share screens from Android or iOS to Windows or Mac.
@@ -632,6 +632,13 @@ Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a si
 
 ![launching drfone air](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. **Using QR or Cast code:** The second step is to use the QR or Cast code as shown on the screen of the browser.
 
 ![using qr or cast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
@@ -639,13 +646,6 @@ Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a si
 3. **Mirroring Samsung phone to computer:** The Samsung phone will be automatically mirrored to the computer on successful scanning or code entering.
 
 ![mirroring samsung phone to computer](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -667,16 +667,19 @@ Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wonde
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-redefining-creativity-the-most-popular-anime-concepts-on-tiktok/"><u>[New] In 2024, Redefining Creativity The Most Popular Anime Concepts on TikTok</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-m1-macbook-pro-a-game-changer-for-video-editors/"><u>[New] M1 MacBook Pro A Game Changer for Video Editors?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-honor-x7b-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Honor X7b Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-android-photography-excellence-tips-and-tools/"><u>In 2024, Android Photography Excellence Tips and Tools</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-6s-plus-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 6s Plus to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-c22-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia C22 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-90-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 90 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-nokia-c12-plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Nokia C12 Plus to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>Optimizing Video Quality YouTube to MPEG Conversion Strategies</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-assortment-of-video-capturing-technology/"><u>[New] Assortment of Video Capturing Technology</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-charting-2023s-social-trend-peaks-in-graphs-for-2024/"><u>[Updated] Charting 2023'S Social Trend Peaks in Graphs for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ultimate-guide-to-budget-friendly-phone-video-conferencing-iphone-and-android/"><u>2024 Approved Ultimate Guide to Budget-Friendly Phone Video Conferencing (iPhone & Android)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/smatic-charm-of-moving-text-on-screen-for-2024/"><u>Charismatic Charm of Moving Text on Screen for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-canon-mg3600-printer-drivers-and-firmware-updates/"><u>Download the Latest Canon MG3600 Printer Drivers and Firmware Updates</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a38-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A38 to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-gt-5-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme GT 5 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-x100-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo X100 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-7-plus-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 7 Plus Display? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-s23plus-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel S23+ Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-m34-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy M34 Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-how-to-insert-videos-in-microsoft-word-documents/"><u>Step-by-Step Tutorial: How to Insert Videos in Microsoft Word Documents</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-c110-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia C110 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/updated-hp-officejet-3670-drivers-for-optimal-performance/"><u>Updated HP Officejet 3670 Drivers for Optimal Performance</u></a></li>
 </ul></div>
 

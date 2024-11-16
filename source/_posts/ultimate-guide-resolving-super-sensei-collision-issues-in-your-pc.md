@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving 'Super Sensei' Collision Issues in Your PC"
-date: 2024-11-01T16:10:16.073Z
-updated: 2024-11-05T23:43:33.753Z
+date: 2024-11-12T09:40:21.644Z
+updated: 2024-11-15T22:42:16.938Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  If your hardware is not the problem, read on to rule out other possible causes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes for Life is Strange True Colors crash. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -52,14 +59,14 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
- Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -70,22 +77,16 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -102,14 +103,14 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Switch to DirectX 11
 
@@ -119,26 +120,6 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
@@ -147,13 +128,32 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -190,18 +190,18 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-motorola-razr-40-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-ace-2-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus Ace 2 to Roku | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y56-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y56 5G</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-feasible-is-the-use-of-language-models-like-chatgpt-in-crafting-viruses-or-trojans/"><u>How Feasible Is the Use of Language Models Like ChatGPT in Crafting Viruses or Trojans?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-oppo-k11-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo K11 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-15-pro-max-to-mac-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 15 Pro Max to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y77t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y77t to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/mastering-the-art-of-snapchat-sponsored-content-for-2024/"><u>Mastering the Art of Snapchat Sponsored Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-brother-printer-configuration-in-minutes/"><u>Mastering the Brother Printer Configuration in Minutes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-effortless-link-upload-on-instagrams-social-sphere/"><u>[New] Effortless Link Upload on Instagram's Social Sphere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-flamegrab-ff-extras/"><u>[Updated] Flamegrab FF Extras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-record-ppt-for-screenplay-use/"><u>2024 Approved Record PPT for Screenplay Use</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-a15-4g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy A15 4G to Roku | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/considerations-and-precautions-choosing-the-right-handheld-videogame-device/"><u>Considerations and Precautions: Choosing the Right Handheld Videogame Device</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-14-pro-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 14 Pro to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-m14-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy M14 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-x-fold-2-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo X Fold 2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nubia-red-magic-9-proplus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nubia Red Magic 9 Pro+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-find-x7-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo Find X7 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-techniques-for-perfect-hdr-photos-in-adobe-lightroom/"><u>In 2024, Step-by-Step Techniques for Perfect HDR Photos in Adobe Lightroom</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-c67-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme C67 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

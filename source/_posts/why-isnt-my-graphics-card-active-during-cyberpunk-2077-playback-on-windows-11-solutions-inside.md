@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside.
-date: 2024-10-29T18:38:34.941Z
-updated: 2024-11-05T21:49:23.910Z
+date: 2024-11-15T01:18:37.147Z
+updated: 2024-11-15T20:59:31.373Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -73,18 +73,18 @@ To do so, first visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -96,15 +96,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
@@ -113,25 +113,19 @@ Here’s how:
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
@@ -171,24 +165,20 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-note-30-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Note 30 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-black-screen-in-win11-fast-and-straightforward/"><u>Bypass Black Screen in Win11, Fast & Straightforward</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-setup-guide-with-logitech-wireless-mouse-drivers-for-your-pc-windows/"><u>Easy Setup Guide with Logitech Wireless Mouse Drivers for Your PC (Windows)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/al-practices-for-accumulating-over-a-million-video-engagements/"><u>Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6s-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6s to iPad? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-moto-g84-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Moto G84 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-14-plus-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 14 Plus to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-techniques-for-quiet-filming/"><u>In 2024, Essential Techniques for Quiet Filming</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-huawei-nova-y71-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Huawei Nova Y71 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-edge-40-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Edge 40 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-xcover-7-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy XCover 7 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-5-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Magic 5 Pro</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-oppo-a1x-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Oppo A1x 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-logitech-g35-drivers-on-pcs-running-windows-7-to-10-step-by-step-guide/"><u>Installing Logitech G35 Drivers on PCs Running Windows 7 to 10 – Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-spark-20-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Spark 20 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-v30-lite-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo V30 Lite 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-expanding-horizon-of-chatgpt-7-notable-examples-from-the-wild/"><u>The Expanding Horizon of ChatGPT: 7 Notable Examples From the Wild</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unraveling-the-purpose-behind-facebooks-blue-icon-for-2024/"><u>Unraveling the Purpose Behind Facebook's Blue Icon for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-futures-palette-the-best-sci-fi-films-crafting-virtual-worlds/"><u>[New] Future's Palette The Best Sci-Fi Films Crafting Virtual Worlds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-disable-youtube-preview-across-platforms/"><u>[Updated] 2024 Approved Disable Youtube Preview Across Platforms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-v30-lite-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-smart-8-hd-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Smart 8 HD Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-8-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 8 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-defy-2mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Defy 2Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-13tmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi 13TMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-15-pro-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 15 Pro?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-huawei-nova-y91-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Huawei Nova Y91 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12r-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12R to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-pictures-to-prose-photo-text-alteration-techniques/"><u>In 2024, From Pictures to Prose Photo Text Alteration Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-civi-3-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Civi 3 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/labor-day-special-offer-get-the-hp-victus-15-for-up-to-350-less-limited-time-deal-at-best-buy-insights-from-zdnet/"><u>Labor Day Special Offer! Get the HP Victus 15 for Up to $350 Less - Limited Time Deal at Best Buy | Insights From ZDNet</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/premier-apple-products-mimicking-old-ps2-games/"><u>Premier Apple Products Mimicking Old PS2 Games</u></a></li>
 </ul></div>
 

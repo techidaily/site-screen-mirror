@@ -1,7 +1,7 @@
 ---
 title: Effortless Methods to Silence That Annoying Buzzy Sound in Your Audio System
-date: 2024-10-29T17:12:58.492Z
-updated: 2024-11-06T00:10:15.355Z
+date: 2024-11-09T09:34:17.261Z
+updated: 2024-11-16T01:54:32.914Z
 tags:
   - win11
   - win10
@@ -42,14 +42,21 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 2. In the Windows audio settings window, navigate to**the Recording tab** , select the microphone you want to test and click**Configure** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-37-58.png)
 3. Click**Set up microphone** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-38-40.png)
 4. Select the correct type of your microphone and click**Next** .  
@@ -57,21 +64,7 @@ thumbnail: https://thmb.techidaily.com/9a1d2889cbe4ad14880fa77a388cff944d010380f
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-39-30.png)
 5. Follow the**Microphone Setup Wizard** to configure your microphone. Close the wizard when it completes.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-40-26.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Test your microphone
 
@@ -83,9 +76,23 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-42-45.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the microphone you’re going to test is not the default device for recording, you need to click**the Set Default button** to set it as the default device first.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Mic testing with the built-in Voice Recorder app
 
@@ -94,14 +101,22 @@ Follow the steps below to test your microphone in Windows audio settings:
 1. On your keyboard, press**the Windows logo key** and type**recorder** . In the list of search results, click**Voice Recorder** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-44-48.png)
 2. Click**the record icon** to start recording. Try speaking into your microphone.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-45-47.png)
 3. Click**the stop button** to stop recording.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-46-27.png)
@@ -128,22 +143,8 @@ Follow the steps below to test your microphone in Windows audio settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-48-18.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-09-20_11-49-09.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a**30-day money-back guarantee** , so if you don’t like it you can get a full refund, no questions asked.
 
@@ -167,17 +168,19 @@ Follow the steps below to test your microphone in Windows audio settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-acquainted-with-youtube-tvs-distinctive-features/"><u>[Updated] 2024 Approved Getting Acquainted with YouTube TV's Distinctive Features</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-how-to-add-custom-thumbnails-to-your-youtube-videos/"><u>[Updated] In 2024, How To Add Custom Thumbnails to Your YouTube Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-growth-odyssey-of-ajey-nagar-on-youtube/"><u>[Updated] In 2024, The Growth Odyssey of Ajey Nagar on YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-masterpiece-makers-top-6-innovators-in-digital-art-space-for-2024/"><u>[Updated] Masterpiece Makers Top 6 Innovators in Digital Art Space for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-x-flip-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-zte-blade-a73-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 ZTE Blade A73 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-12-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 12 and iPad</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-note-12r-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi Note 12R to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-y27-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo Y27 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-f15-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-vip-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 VIP</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-10-drones-for-dynamic-cinematic-creations-for-2024/"><u>Top 10 Drones for Dynamic Cinematic Creations for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-funniest-faces-learning-kinemaster-for-2024/"><u>[Updated] Funniest Faces Learning KineMaster for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ps4-broadcast-simplified-detailed-steps-using-obs-for-2024/"><u>[Updated] PS4 Broadcast Simplified Detailed Steps Using OBS for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-filmmakers-handbook-for-uav-operations-for-2024/"><u>[Updated] The Filmmaker's Handbook for UAV Operations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-apex-4k-screen-recorder-options-analysis/"><u>2024 Approved Apex 4K Screen Recorder Options Analysis</u></a></li>
+<li><a href="https://fox-http.techidaily.com/achieving-prominence-with-apples-listings/"><u>Achieving Prominence with Apple's Listings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-virtual-reality-headsets-explained/"><u>Demystifying Virtual Reality Headsets Explained</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-a60-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Itel A60 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-se-2020-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone SE (2020) Display? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-razr-40-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Razr 40 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-narzo-60-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme Narzo 60 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-7-ultimate-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-transformative-travel-companion-patekfly-tripod-12/"><u>The Transformative Travel Companion: Patekfly Tripod 12</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-value-packed-and-feature-rich-for-tech-enthusiasts/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA – Value Packed and Feature Rich for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secret-to-crafting-heart-characters-with-just-your-keyboard-keys/"><u>Unlock the Secret to Crafting Heart Characters with Just Your Keyboard Keys</u></a></li>
 </ul></div>
 

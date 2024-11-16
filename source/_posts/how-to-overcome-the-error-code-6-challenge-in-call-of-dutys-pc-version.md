@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Error Code 6 Challenge in Call of Duty's PC Version
-date: 2024-11-04T17:57:07.754Z
-updated: 2024-11-06T04:53:31.553Z
+date: 2024-11-09T06:54:33.792Z
+updated: 2024-11-16T09:42:32.761Z
 tags:
   - win11
   - win10
@@ -70,10 +70,16 @@ If not, check out more fixes below.
  If this method can’t help you get into the game either, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair your game files
@@ -89,15 +95,15 @@ If not, check out more fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab, then click**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Origin
 
@@ -125,14 +131,14 @@ If the issue persists, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -148,30 +154,31 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-Internet.jpg)
 2. Under Advanced network settings, click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-adapter-options.jpg)
 3. Right-click your current network and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-properties.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/IPV4-properties.jpg)
 5. Select**Use the following DNS server addresses** . For**Preferred DNS server** , type**8.8.8.8** ; and for**Alternate DNS server** , type**8.8.4.4** . Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/8888-8844.jpg)
 6. Next, you need to clear the DNS cache for the changes to apply. On your keyboard, press the**Windows logo key** and type**cmd** in the search bar. Select**Run as administrator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 7. In the pop-up window, type**ipconfig /flushdns** and press**Enter** .  
@@ -182,13 +189,6 @@ Try relaunching Madden 22 and see if it does load without issue now.
 
 If this fix doesn’t work for you, proceed to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Delete game data on Xbox
 
  For Xbox players, if you’re stuck on the loading screen when launching madden 22, you can try to fix this issue by deleting saved game data. Since this cannot be undone, it is highly recommended that you back up your saved game data to online storage before deleting it. Here’s how:
@@ -197,21 +197,34 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/my-games-apps.jpg)
 2. Highlight Madden NFL 22, press the **Menu** button on your controller, then select **Manage game & add-ons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-game-add-ones.jpg)
 3. Select the **Saved data**  box, then choose the item you want to delete.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/xbox-saved-data.jpg)
 
 Try launching Madden 22 again to check if it can load normally.
 
 If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -220,6 +233,13 @@ If not, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In the System Configuration window, navigate to the**Services** tab and check the box to**Hide all Microsoft Services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
@@ -232,13 +252,6 @@ If not, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you restart your computer, try launching Madden 22 again and check if the game is still stuck on the loading screen. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -277,24 +290,16 @@ If not, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-how-to-elevate-video-closure-vimeos-end-screen-essentials/"><u>[New] How to Elevate Video Closure Vimeo's End Screen Essentials</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-a-comprehensive-guide-to-personalizing-video-images/"><u>[New] In 2024, A Comprehensive Guide to Personalizing Video Images</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-real-time-game-capture-aps4-strategies-in-obs-for-2024/"><u>[New] Real-Time Game Capture APS4 Strategies in OBS for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-f54-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy F54 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-photography-skills-learning-lightrooms-hdr-processing/"><u>Enhance Photography Skills Learning Lightroom's HDR Processing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-a70-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel A70 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-12-mini-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 12 mini to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-htc-u23-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to HTC U23 Phones? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-vivo-y28-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Vivo Y28 5G using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-razr-40-ultra-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oneplus-open-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring OnePlus Open PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-achieving-youtube-earnings-excellence-strategies-and-beyond/"><u>In 2024, Achieving YouTube Earnings Excellence - Strategies and Beyond</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-12-pro-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 12 Pro to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-100-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 100 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-a54-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy A54 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-f15-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagrams-abandoned-followers-map/"><u>In 2024, Instagram's Abandoned Followers Map</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-exceptional-live-streamers/"><u>In 2024, The Ultimate Guide to Exceptional Live Streamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/orbiting-imagery-advanced-methods-for-drone-video-editing/"><u>Orbiting Imagery Advanced Methods for Drone Video Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-propel-your-virtual-presence-with-these-gadgets/"><u>[Updated] Propel Your Virtual Presence with These Gadgets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-m34-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy M34 to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/advanced-creative-tim-dashboard-template-in-react-featuring-premium-styling-and-bootstrap-enhancements/"><u>Advanced Creative Tim Dashboard Template in React, Featuring Premium Styling and Bootstrap Enhancements</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enabling-effortless-playback-of-fb-videos-for-2024/"><u>Enabling Effortless Playback of FB Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-google-pixel-7a-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Google Pixel 7a 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c02-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C02 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-k11x-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo K11x to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-package-adventure-for-all/"><u>Perfecting Package Adventure for All</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/text-improvement-with-chatgpt/"><u>Text Improvement with ChatGPT</u></a></li>
 </ul></div>
 

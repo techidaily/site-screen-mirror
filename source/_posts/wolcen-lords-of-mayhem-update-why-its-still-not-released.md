@@ -1,7 +1,7 @@
 ---
 title: "Wolcen - Lords of Mayhem Update: Why It's Still Not Released"
-date: 2024-11-02T18:24:37.543Z
-updated: 2024-11-06T03:29:46.564Z
+date: 2024-11-10T09:33:41.127Z
+updated: 2024-11-15T17:51:47.275Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
  Before we dive into anything advanced, make sure you’ve tried to restart your PC and the game to see if it’s just a one-time random error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Make sure your PC meets the requirement
 
  If your PC specs aren’t sufficient for The Ascent, it’s very likely that you can’t launch the game. You can refer to the table below for the**minimum requirements for The Ascent** :
@@ -76,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/right-click-properties.jpg)
 2. Under the**Compatibility** tab, check the box of**Run this program as an administrator** . Click**Apply** then**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-this-program-as-an-administrator.jpg)
 3. The Steam client will launch now. You can run The Ascent to see if it launches now.
 
@@ -87,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/browse-local-files-in-steam-client.jpg)
 3. Your local game folder will pop up and you should be able to find the game executable there.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve tried to run the game as admin but it still won’t launch, try the next fix.
 
@@ -109,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
 
  If verifying your game files doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your graphics driver
 
@@ -127,20 +127,34 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating graphics driver doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Run The Ascent in DirectX 11
 
@@ -150,23 +164,16 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
- You can now run the game to see if the problem is gone. If it persists, try the next solution.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can now run the game to see if the problem is gone. If it persists, try the next solution.
 
 ## Fix 6: Check your antivirus
 
@@ -180,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
  If your antivirus seems to be the reason that your game wouldn’t launch, consider contacting the manufacturer for assistance.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Perform a clean boot
 
  If you’ve tried the fixes above but nothing worked, you can try to perform a clean boot.
@@ -199,6 +199,13 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
@@ -206,15 +213,15 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If The Ascent now starts, this means at least one of the programs you disabled was causing the problem.  
   
@@ -227,19 +234,6 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch The Ascent. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with The Ascent.  
 
@@ -279,18 +273,20 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-proven-methods-for-zooid-creation/"><u>[Updated] In 2024, Proven Methods for Zooid Creation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-premium-selection-10-affordable-captions-from-youtube/"><u>2024 Approved Premium Selection 10 Affordable Captions From YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-synthesizing-elements-crafting-a-captivating-youtube-video-start/"><u>2024 Approved Synthesizing Elements Crafting a Captivating YouTube Video Start</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/battling-battery-issues-during-winter-why-your-electronics-may-lose-charging-power/"><u>Battling Battery Issues During Winter: Why Your Electronics May Lose Charging Power</u></a></li>
-<li><a href="https://extra-information.techidaily.com/chortlecraft-customize-funny-digital-images-for-2024/"><u>ChortleCraft Customize Funny Digital Images for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/frame-it-right-vertical-video-mastery-with-final-cut-pro-x-for-2024/"><u>Frame It Right Vertical Video Mastery with Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oneplus-11-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your OnePlus 11 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-20c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 20C to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-itel-a05s-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Itel A05s Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-huawei-p60-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Huawei P60 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategies-for-apple-listed-podcast-success-for-2024/"><u>Strategies for Apple-Listed Podcast Success for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/unlocking-the-mystery-how-to-make-your-recycling-bin-visible-in-windows-explorer/"><u>Unlocking the Mystery: How to Make Your Recycling Bin Visible in Windows Explorer</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Updated Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-speech-to-text-your-all-inclusive-gdoc-training-guide/"><u>[New] In 2024, From Speech to Text Your All-Inclusive GDoc Training Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-skyrocket-engagement-20-video-tricks-for-maximum-impact/"><u>[Updated] 2024 Approved Skyrocket Engagement 20 Video Tricks for Maximum Impact</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-superior-recordings-a-guide-to-audacity/"><u>[Updated] Crafting Superior Recordings A Guide to Audacity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-30-pro-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bridging-the-gap-connecting-playstation-vr-to-your-desktop-for-an-enhanced-experience/"><u>Bridging the Gap: Connecting PlayStation VR to Your Desktop for an Enhanced Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-driver-software-brother-hl-l2340dw-printer-windows-compatibility/"><u>Download Driver Software: Brother HL-L2340DW Printer Windows Compatibility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-new-features-in-windows-11s-yearly-update-extension/"><u>Exploring New Features in Windows 11'S Yearly Update Extension</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-asus-rog-phone-7-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Asus ROG Phone 7 PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-google-pixel-8-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Google Pixel 8 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-pop-7-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-x90s-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-itel-p55t-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Itel P55T Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-media-transition-from-youtube-to-mp3-format-for-2024/"><u>Seamless Media Transition From YouTube to MP3 Format for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-data-backup-solutions-of-2022-comprehensive-guide/"><u>Top Data Backup Solutions of 2022: Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-tricks-for-restoring-removed-phone-entries-on-android-devices/"><u>Uncover Tricks for Restoring Removed Phone Entries on Android Devices</u></a></li>
 </ul></div>
 

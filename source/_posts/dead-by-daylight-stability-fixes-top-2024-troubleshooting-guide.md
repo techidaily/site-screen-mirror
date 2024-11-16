@@ -1,7 +1,7 @@
 ---
 title: "Dead By Daylight Stability Fixes: Top 2024 Troubleshooting Guide"
-date: 2024-11-02T19:17:18.072Z
-updated: 2024-11-05T16:08:19.206Z
+date: 2024-11-12T18:20:30.229Z
+updated: 2024-11-15T23:15:56.369Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-1.jpg)
 2. Right-click**GenshinImpact.exe** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-02.jpg)
 3. Navigate to the**Compatibility** tab. Under the**Settings** section, check the boxes next to**Disable fullscreen optimizations** (if you’re on Windows 10) and**Run this program as an administrator** . Click**OK** to save the changes.  
 
@@ -73,6 +66,13 @@ Here’s how:
 4. Run Genshin Impact and see if the crash has gone.
 
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -88,18 +88,18 @@ Here’s how:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Genshin Impact crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -111,6 +111,13 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -124,13 +131,6 @@ Here’s how:
 
 If this trick doesn’t work for you, check out the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install all Windows updates
 
  Windows updates include system stability improvements, and could very well solve the software conflicts in your system. If the last time you check for system updates feels like ages ago, definitely do it now as it might save you a lot of troubles.
@@ -142,13 +142,6 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -172,13 +165,6 @@ Here’s how you can install system updates on Windows 10 or 7:
 
  If this method doesn’t solve your case, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Change in-game resolution
 
  Some travelers reported that they managed to stop the crash by**changing the game’s resolution to 720p** . This is a reasonable measure that will ease the pressure on your GPU. So you can try the same to see if it helps.
@@ -189,17 +175,17 @@ And here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute.jpg)
 2. From the left menu, Select**Graphics** . Change the settings of**Display Mode** to**1280×720 Windowed** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-change-resolute-2.jpg)
 3. Continue your game and see if it stops crashing.
 
  If this method doesn’t do the trick for you, simply try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -209,14 +195,14 @@ And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
 
- If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
 
 ### Fix 8: Run Genshin Impact on another GPU
 
@@ -235,16 +221,10 @@ And just for your reference, here’s my graphics settings:
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
@@ -258,7 +238,21 @@ And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you can launch Genshin Impact and see if it stops crashing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Check for corrupted system files
 
@@ -294,24 +288,19 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-blueprint-for-capturing-streaming-audio-online/"><u>[New] 2024 Approved The Ultimate Blueprint for Capturing Streaming Audio Online</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-elevate-your-clicking-skills-with-these-top-12-pc-titles-for-2024/"><u>[New] Elevate Your Clicking Skills with These Top 12 PC Titles for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-craftsmanship-redefined-leading-photo-frame-apps/"><u>2024 Approved Craftsmanship Redefined Leading Photo Frame Apps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-x5-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco X5 to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-8-plus-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 8 Plus to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-nord-3-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus Nord 3 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-13c-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi 13C Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-s18-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo S18 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-13-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 13 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nubia-red-magic-9-proplus-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nubia Red Magic 9 Pro+ to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-v29e-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo V29e for Streaming | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-easily-use-korean-to-english-video-translators/"><u>New How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://article-tips.techidaily.com/newbies-manual-to-vector-art-grasping-different-kinds-and-software/"><u>Newbie’s Manual to Vector Art Grasping Different Kinds & Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-your-morphvox-skills-a-complete-manual-for-2024/"><u>Perfect Your MorphVOX Skills A Complete Manual for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-league-disconnects-in-windows-os/"><u>Resolving League Disconnects in Windows OS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/restoring-connectivity-solutions-for-a-non-working-discord-video-capture-device/"><u>Restoring Connectivity: Solutions for a Non-Working Discord Video Capture Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-evolution-of-sound-how-apples-new-airpods-n-model-series-outshines-its-ancestors-tech-insights/"><u>The Evolution of Sound: How Apple’s New AirPods N Model Series Outshines Its Ancestors | Tech Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oneplus-ace-2v-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in OnePlus Ace 2V for Streaming | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-interactive-engagement-adding-emojis-to-youtubes-comments/"><u>[New] 2024 Approved Interactive Engagement Adding Emojis to Youtubes' Comments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-cut-the-red-tape-simplify-xboxfb-broadcasting-for-2024/"><u>[New] Cut the Red Tape Simplify Xbox/FB Broadcasting for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ultimate-screenshot-and-recorder-windows-10/"><u>[New] Ultimate Screenshot & Recorder, Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevate-your-online-sound-experience-with-these-5-steps/"><u>[Updated] 2024 Approved Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-up-to-date-tips-for-purchasing-top-360-imagers/"><u>2024 Approved Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-unregistered-classes-in-windows-10-a-comprehensive-fix/"><u>How to Resolve Unregistered Classes in Windows 10 – A Comprehensive Fix</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-x-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-meizu-21-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Meizu 21 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-spark-20-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Spark 20 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oneplus-ace-2v-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best OnePlus Ace 2V Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-reno-10-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Reno 10 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-quick-download-of-hp-designjet-500-drivers-start-printing-today/"><u>Secure and Quick Download of HP DesignJet 500 Drivers - Start Printing Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-14-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 14 & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving 'Deathloop Not Launching': Troubleshooting Guide"
-date: 2024-11-04T16:48:52.228Z
-updated: 2024-11-05T18:05:24.674Z
+date: 2024-11-11T03:22:28.992Z
+updated: 2024-11-16T09:56:04.434Z
 tags:
   - win11
   - win10
@@ -95,15 +95,22 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Relaunch_Dota 2_ .
 
  You can hopefully play_Dota 2_ without crashing now. If your issue still exists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
 
@@ -137,13 +144,6 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
@@ -152,16 +152,22 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -171,6 +177,13 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger. In most cases, setting your virtual memory as 4096M is enough.
@@ -178,10 +191,16 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-909.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
@@ -216,13 +235,6 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-312.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-315.png)
@@ -230,13 +242,6 @@ Follow the instructions below:
 **6)** Type**\-safe** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-316.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Relaunch the game.
 
@@ -256,16 +261,16 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Remove any launch options currently shown.
 
@@ -314,10 +319,10 @@ If Dota 2 still crashes, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**DELETE** .
@@ -329,6 +334,13 @@ If Dota 2 still crashes, check the fix below.
 **6)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar, then hit**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_12-27-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Highlight the **Dota 2 folder** , and then press the **Del** key on your keyboard to delete it.
 
@@ -360,19 +372,19 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-stealthy-watcher-fb-story-viewer-for-2024/"><u>[New] Stealthy Watcher FB Story Viewer for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-whispered-words-web-hidden-voice-recorders-for-smartphones/"><u>[Updated] 2024 Approved Whispered Words Web Hidden Voice Recorders for Smartphones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>2024 Approved Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-s23-tactical-edition-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy S23 Tactical Edition Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-erratic-printer-spooler-behavior-win-11-and-older/"><u>Fixing Erratic Printer Spooler Behavior (Win 11 & Older)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-the-land-down-under-top-100-terms/"><u>From the Land Down Under: Top 100 Terms</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-g24-powermirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola G24 PowerMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-v-purse-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor V Purse Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-12-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 12 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-m14-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy M14 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-itel-s23-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Itel S23 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-the-stuck-loading-screen-in-red-dead-redemption-2/"><u>Step-by-Step Guide to Fixing the Stuck Loading Screen in Red Dead Redemption 2</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-nokia-72-unveiled-why-this-phone-outshines-its-peers-in-the-mid-range-segment/"><u>The Nokia 7.2 Unveiled: Why This Phone Outshines Its Peers in the Mid-Range Segment</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y36i-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y36i for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-guide-turning-your-favorite-youtube-videos-into-animated-gifs/"><u>[New] 2024 Approved Easy Guide Turning Your Favorite YouTube Videos Into Animated GIFs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-finding-affordable-no-cost-artistic-elements/"><u>[New] Finding Affordable, No-Cost Artistic Elements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-non-zoom-remote-work-solutions-for-pc-and-mobile-for-2024/"><u>[New] Leading Non-Zoom Remote Work Solutions for PC & Mobile for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-nokia-c22mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nokia C22Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-14-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 14 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-magic-6-lite-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor Magic 6 Lite Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-xiaomi-14-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Xiaomi 14 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unmatched-portable-experience-with-top-gba-simulators-android/"><u>In 2024, Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-phantom-v-fold-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Phantom V Fold Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/qt-mp4-online-movavi/"><u>QT 프로필을 MP4로 바꾸는 방법: Online 무료 송금제 - Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-narzo-60-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme Narzo 60 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-top-9-choices-for-video-auto-translate/"><u>Updated 2024 Approved Top 9 Choices for Video Auto Translate</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-your-thoughts-encouraging-commentary-on-your-content/"><u>Voice Your Thoughts Encouraging Commentary on Your Content</u></a></li>
 </ul></div>
 

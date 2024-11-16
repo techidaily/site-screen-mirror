@@ -1,7 +1,7 @@
 ---
 title: "Resolving Update Issues: Microsoft Flight Simulator 2020 Freezing During Installation"
-date: 2024-11-02T18:11:41.612Z
-updated: 2024-11-06T03:01:02.520Z
+date: 2024-11-10T22:53:57.528Z
+updated: 2024-11-15T17:21:33.676Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 7. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the game as administrator
 
  Some programs need administrator rights to function properly. To ensure Microsoft Flight Simulator works properly, you can run the game as an administrator. Here’s how:
@@ -57,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/48491c0a3b929750d09e0d3e1dede43e654117023
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game files
 
@@ -89,26 +82,20 @@ If the issue remains, try the next fix.
 2. Click**App Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/mfs-app-settings.jpg)
 3. On the page that opens, select**Repair** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
-4. Windows will begin to scan and repair your game files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
+4. Windows will begin to scan and repair your game files.
 
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
 If this method doesn’t work for you, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -120,9 +107,23 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
 
@@ -138,10 +139,10 @@ If this method doesn’t work for you, go ahead with the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
@@ -149,6 +150,13 @@ If this method doesn’t work for you, go ahead with the next fix.
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -172,13 +180,6 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 If the problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Check your security software
 
  The antivirus and malware checkers can close down or block the normal operation of certain applications, even if they are legitimate and safe. To ensure the Microsoft Flight Simulator works properly, you can add the game to the exclusions list. Here’s how:
@@ -191,6 +192,14 @@ on Windows 10:
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 
@@ -199,13 +208,6 @@ on Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
@@ -223,10 +225,10 @@ on Windows 11:
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
@@ -321,14 +323,22 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-mastering-streams-weighing-xsplit-against-obs-capabilities/"><u>[New] Mastering Streams Weighing XSplit Against OBS Capabilities</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-harnessing-vlcs-conversion-prowess-beyond-standard-mpeg-4/"><u>[Updated] Harnessing VLC's Conversion Prowess Beyond Standard MPEG-4</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-secure-your-remote-sessions-with-these-tools-for-2024/"><u>[Updated] Secure Your Remote Sessions with These Tools for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-meizu-21-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Meizu 21 PC | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/brainy-entertainment-roundup-selective-trivia-haven-for-2024/"><u>Brainy Entertainment Roundup Selective Trivia Haven for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nubia-z50-ultra-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nubia Z50 Ultra to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-lenovo-thinkphone-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Lenovo ThinkPhone Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-x-fold-2-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo X Fold 2 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/1-three-methods-to-recover-data-from-an-unformatted-external-hdd/"><u>1. Three Methods to Recover Data From an Unformatted External HDD</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-blend-acoustic-elements-with-visual-content-in-premiere-pro/"><u>2024 Approved Blend Acoustic Elements with Visual Content in Premiere Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-from-novice-to-viewer-keeper-top-10-basic-yet-captivating-video-ideas/"><u>2024 Approved From Novice to Viewer-Keeper Top 10 Basic Yet Captivating Video Ideas</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlocking-youtube-on-facebook-feeds/"><u>2024 Approved Unlocking YouTube on Facebook Feeds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-htc-u23-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 HTC U23 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/comment-utiliser-les-commandes-cmd-pour-recuperer-des-fichiers-perdus-sur-une-cle-usb-guide-complet/"><u>Comment Utiliser Les Commandes Cmd Pour Récupérer Des Fichiers Perdus Sur Une Clé USB - Guide Complet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v30-lite-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V30 Lite 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-join-google-meet-on-laptop-and-mobile-in-2024/"><u>How to Join Google Meet On Laptop and Mobile, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-90-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 90 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nokia-c110-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nokia C110 Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y27-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y27 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-google-pixel-fold-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Google Pixel Fold to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-itel-p55t-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Itel P55T to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-gt-3-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme GT 3 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-secrets-of-ps5-power-up/"><u>Unlocking the Secrets of PS5 Power-Up</u></a></li>
 </ul></div>
 
