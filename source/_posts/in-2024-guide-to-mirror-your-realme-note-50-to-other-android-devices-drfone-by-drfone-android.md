@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide to Mirror Your Realme Note 50 to Other Android devices | Dr.fone
-date: 2024-11-24T17:40:19.544Z
-updated: 2024-11-25T21:23:16.650Z
+date: 2024-11-30T16:37:42.869Z
+updated: 2024-12-05T16:21:01.748Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 ---
 
 ## Guide to Mirror Your Realme Note 50 to Other Android devices 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Can I Mirror my Android to Another Android?
 
@@ -80,6 +84,10 @@ After the above steps have been done successfully, your devices will have been m
 
 While ScreenShare has been used as an example here, there are many other tools you can use to get the same experience. Most of the tools can be downloaded online for free, while others are for a fee. Some of the most popular tools include; Air Playit, Optia, MirrorOp, PeerDeviceNet. Sampling the tools and getting the best that suits the experience you desire is also a good idea, or you can look up the reviews that have been written by other users, and you can pick one or two issues you like or dislike. Most, if not all the tools, have manuals that can even help you get started as they might defer a bit from the ScreenShare example given in this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Process of Screen Sharing Realme Note 50 to PC- Detailed Steps
 
 Currently, there are many companies where their employees work across different locations. For these teams, managing work between all members can get complex, and having to continually send files via email to all members. This can get tiring and complex to handle long term.
@@ -93,11 +101,7 @@ Read on to learn more about this software and how to screen share Android device
 ![screen sharing android screen to pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. What is TeamViewer?
@@ -132,15 +136,15 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 
 ![create a new account](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** On the PC (Windows/Linux/macOS), visit the login page via any preferred browser > Sign into the account that you created.
 
 **Step 4:** A list of synced devices will appear. Tap the Connect button beside the Android device you share the screen from.
 
 ![tap the connect button](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** The "Launch the TeamViewer" prompt will appear > Press OK. Before this, download and launch the app on your PC.
 
@@ -155,10 +159,6 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 **Step 9:** The Android device screen will start sharing on the PC.
 
 ![teamviewer app will appear on the pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. TeamViewer Reviews - Pros & Cons & Ratings
 
@@ -210,6 +210,10 @@ It is simple to use, and the software allows smooth wireless screen mirroring fr
 
 5. Finally, the screen mirroring process will begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 TeamViewer is one of the best solutions users can use for professional remote team collaboration. The screen-sharing functionality is helpful for broadcasting content from an Android phone to a PC. For a more effortless experience, screen mirroring with [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) software works. So, you should consider that as well.
@@ -217,6 +221,10 @@ TeamViewer is one of the best solutions users can use for professional remote te
 ## How to Mirror Realme Note 50 to Mac?
 
 You might come across a condition where you may have to mirror your device onto a Mac. However, over observation, you may find that your Android cannot be directly connected to your Mac through the various Apple tools that are available for connecting different Apple devices. In such cases, it usually gets necessary to devise methods that allow you to mirror your Android device to a Mac OS or a [Windows PC](https://drfone.wondershare.com/mirror-to-pc/mirror-android-to-pc.html). This article marginalizes these methods and recognizes the most optimal platforms that can offer you the perfect system of mirroring your Android to a Mac. You need to have a detailed look to develop an understanding of these available methods to mirror Realme Note 50 to Mac easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Mirror Realme Note 50 to Mac via USB
 
@@ -237,11 +245,7 @@ A user always prefers a tool that is readily available in the consumption market
 ![start screencasting](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.2 Scrcpy
@@ -254,10 +258,6 @@ Another impressive platform that may come into your mind when seeking a method t
 
 ![open terminal on mac](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Look across the following image to enter the command for installing ‘Homebrew’ across your Mac.
 
 ![install homebrew](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-4.jpg)
@@ -265,10 +265,6 @@ Another impressive platform that may come into your mind when seeking a method t
 **Step 4:** After a considerable amount of time, you need to lead towards entering the command “brew cask install android-platform-tools” for installing the Android ADB tools across your Mac.
 
 ![type brew cask install android platform tools](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Following this, enter “brew install scrcpy” on your Mac command line and proceed to install Scrcpy on your Mac.
 
@@ -281,6 +277,10 @@ Another impressive platform that may come into your mind when seeking a method t
 ![mirror Realme Note 50 to mac using scrcpy](https://images.wondershare.com/drfone/article/2021/01/mirror-android-to-mac-7.jpg)
 
 ## Part 2: Mirror Realme Note 50 to Mac via Wi-Fi
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Dr.Fone Air (FREE)
 
@@ -298,25 +298,21 @@ You must launch Dr.Fone Air on the browser of your Mac and ensure that the Mac a
 
 ![access drfone air tool](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Initiate Connection with Devices**
 
 Next, you must install Dr.Fone Link on your Android device. Following this, use the QR Code or casting code displayed on the browser screen to connect both devices.
 
 ![use qr code or screencast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Mirror Realme Note 50 to Mac Successfully**
 
 On providing the right platform to set up, the Realme Note 50 devices are connected, and your Android screen is mirrored on the Mac.
 
 ![android device mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. AirDroid
 
@@ -352,6 +348,10 @@ As you have reviewed how to mirror Realme Note 50 to Mac, we will now figure out
 
 This article has provided an overview of the best methods available to **mirror Realme Note 50 to Mac** properly. As you have had the option of mirroring the Realme Note 50 devices through USB and wireless connections, it gives you clarity in selecting the best one. Tools like Wondershare Dr.Fone Air offers some exquisite experiences in mirroring screens for free, making it one of the best in the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Realme Note 50 deviceto your Windows computer!
@@ -377,21 +377,18 @@ Mirror your Realme Note 50 deviceto your Windows computer!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-elite-picks-advanced-webcam-stands/"><u>[Updated] Elite Picks Advanced Webcam Stands</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-a-malfunctioning-onikuma-mic-setup/"><u>Effective Solutions for a Malfunctioning Onikuma Mic Setup</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722885517463-expected-features-price-range-and-arrival-date-for-the-next-gen-samsung-galaxy-s25-ultra-the-buzz-continues/"><u>Expected Features, Price Range, and Arrival Date for the Next-Gen Samsung Galaxy S25 Ultra – The Buzz Continues!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gratitudes-reponsives-en-francais/"><u>Gratitudes Réponsives en Français</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-drivers-for-your-brother-mfc-l2e6wd-wireless-all-in-one-printer-on-a-windows-pc/"><u>How to Get the Latest Drivers for Your Brother MFC-L2e6WD Wireless All-in-One Printer on a Windows PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-s23-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy S23 to PC? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-plus-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock iPhone 14 Plus Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-20-premier-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-asus-rog-phone-7-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Asus ROG Phone 7 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-reno-8t-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Reno 8T 5G? Try These Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-poco-f5-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Poco F5 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a14-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-pop-7-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Pop 7 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-unexpected-sounds-and-audio-issues-on-windows-systems-with-ease/"><u>Resolving Unexpected Sounds & Audio Issues on Windows Systems with Ease</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-15-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 15 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/transfert-de-fichiers-en-deux-etapes-passage-dun-disque-dur-interne-a-externat-sans-creation-de-copies/"><u>Transfert De Fichiers en Deux Étapes : Passage D'un Disque Dur Interne À Externat Sans Création De Copies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls/"><u>[New] 2024 Approved Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhancing-team-conferencing-with-zoom-techniques-in-microsoft-teams/"><u>[Updated] In 2024, Enhancing Team Conferencing with ZOOM Techniques in Microsoft Teams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoid-high-costs-buying-budget-friendly-gopros/"><u>2024 Approved Avoid High Costs Buying Budget-Friendly GoPros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-x100-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo X100 PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-8-superior-youtube-to-avi-software/"><u>Exploring 8 Superior YouTube-to-AVI Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-a1x-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo A1x 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-x100-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X100 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-a1-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo A1 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-a79-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo A79 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y36-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y36 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oneplus-12r-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing OnePlus 12R to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-fit2-embrace-a-fitter-lifestyle-with-this-compact-convenient-wearable-gadget/"><u>Samsung Galaxy Fit2: Embrace a Fitter Lifestyle with This Compact, Convenient Wearable Gadget</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-solutions-when-your-chat-history-isnt-syncing-with-icloud/"><u>Troubleshooting WhatsApp: Solutions When Your Chat History Isn't Syncing with iCloud</u></a></li>
 </ul></div>
 

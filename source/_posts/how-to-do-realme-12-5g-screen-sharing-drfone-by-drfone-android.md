@@ -1,7 +1,7 @@
 ---
 title: How To Do Realme 12 5G Screen Sharing | Dr.fone
-date: 2024-11-22T17:37:50.435Z
-updated: 2024-11-25T19:20:42.018Z
+date: 2024-11-30T16:18:38.837Z
+updated: 2024-12-05T16:04:33.267Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -25,6 +25,10 @@ So today, let us go through a detailed guide on **how to screen share in Realme 
 
 ![samsung devices featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-share-screen-on-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Does Screen Sharing Use Bluetooth?
 
 Bluetooth is not used for screen sharing as it does not have the bandwidth required to stream heavy media. Although it is commonly used for wireless data transfer, it is not suited for screen sharing. A major reason behind this is the slowness of Bluetooth, as its maximum speed for data sharing is up to 50MB/s. That makes it unreliable for screen sharing, making Wi-Fi the default choice.
@@ -34,6 +38,10 @@ Bluetooth is not used for screen sharing as it does not have the bandwidth requi
 Samsung Smart View is a feature in Realme 12 5G  devices that allows you to **screen share on Realme 12 5G ** Smart TV. First introduced as an app, it is now an in-built feature of One UI.
 
 When using the Smart View feature, you can share videos, photos, documents, games, and other things on your Realme 12 5G  device to your  Realme TV. The Smart View app allows you to use your Realme 12 5G  device as a virtual remote to control your Smart TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Requirements for Smart View App
 
@@ -54,16 +62,12 @@ All the Samsung Smart TVs after 2015 are compatible with Samsung Smart View. Bel
 - 2015 J4500, J5500 and above (except J6203).
 - 2016 K4300, K5300 and above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Samsung Devices with Smart View Feature
 
 With the introduction of One UI in Samsung devices, the Smart View was added as an in-built feature. All Samsung devices launched with One UI can use the Smart View feature to share their device's screen with  Realme TV. The Samsung devices that support the Smart View feature include Galaxy S Series, Galaxy Z Series, Galaxy Note Series, Galaxy A Series, Galaxy M Series, and Galaxy F Series.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps for Using Smart View to Share Screen
@@ -98,6 +102,10 @@ Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharin
 - You don't need to give any unnecessary permissions when using Dr.Fone Air. It also doesn't require Bluetooth or NFC for screen sharing.
 - Your data during screen sharing remain protected as it doesn't require downloading or uploading your content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps of Using Dr.Fone Air for Screen Sharing
 
 Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a simple and quick process. Your Samsung device and  Realme TV needs to be connected to the same Wi-Fi network. Once they are connected, follow these steps for screen sharing:
@@ -105,10 +113,6 @@ Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a si
 1. **Downloading and launching Dr.Fone Air:** The first step is to download and launch Dr.Fone Air from the official website. The next step is to connect the Samsung phone and computer with the same Wi-Fi connection.
 
 ![launching drfone air](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. **Using QR or Cast code:** The second step is to use the QR or Cast code as shown on the screen of the browser.
 
@@ -170,10 +174,6 @@ Miracast is an application that is used for mirroring Android with PC via a WiFi
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/selecttheprojectoption.png)![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/addadevice.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/selectcastscreen.png)![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/enablewirelessdisplay.png)![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/screenisbeingcasted.png)
 
 Now, you can easily mirror your Android with your PC.
@@ -193,6 +193,10 @@ Once your requirements are complete, you can download Android-Screen Monitor fro
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/nstalledruntheapplication.png)![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/selectdeveloper.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - • Look for the drivers associated with your Android device in Google and download it into a separate folder on your PC.
 - • Now you can connect your Realme 12 5G to your computer through a USB
 - • Open the Realme 12 5G device Manager and look for your Android device.
@@ -202,10 +206,6 @@ Once your requirements are complete, you can download Android-Screen Monitor fro
 - • Save.
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/save.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - • Now, download Android Screen Monitor and install it on your computer.
 - • Now, your computer is mirrored with your android.
@@ -226,10 +226,6 @@ Droid@Screen is another popular application that is used to mirror Android to PC
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/clickok.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - • In your Android device, open the Settings and go to the Developer Options.
 - • Turn the Developer Options on and select the USB Debugging mode under it.
 - • Connect your device to your PC after installing all the necessary drivers from the internet.
@@ -238,6 +234,10 @@ Droid@Screen is another popular application that is used to mirror Android to PC
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/turnthedeveloper.png)
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/mirroredtoyourpc.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Best Tool on How to Mirror Your Android to Your PC - Wondershare Dr.Fone
 
@@ -264,6 +264,10 @@ Mirror your Realme 12 5G deviceto your computer!
 - • Select "Transfer files" mode in the "Use USB to" choice.
 
     ![select transfer files option](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - • Go to the Developer option and enable the option of USB Debugging.
 
@@ -381,23 +385,19 @@ From the home screen, pull 'quick settings panel' using your two fingers.
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-quick settings panel](https://images.wondershare.com/drfone/others/Allshare%20Cast%2009.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tap on the 'screen mirroring' icon to enable the process on your Realme 12 5G.
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-screen mirroring](https://images.wondershare.com/drfone/others/Allshare%20Cast%2010.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When your phone detects all the nearby devices, select AllShare Cast's dongle name and enter the PIN as the TV screen shows.
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-enter the PIN](https://images.wondershare.com/drfone/others/Allshare%20Cast%2011.png)
 
 Now the screen mirroring is complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Screen Mirror from Realme 12 5G to a Samsung Smart TV
 
@@ -409,6 +409,10 @@ Press 'input' or 'source' button from the Samsung SmartTV remote.
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-Press 'input' or 'source' button](https://images.wondershare.com/drfone/others/Allshare%20Cast%2012.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select 'Screen Mirroring' from the Smart TV screen.
 
 Go to 'quick settings' by tapping on screen mirroring.
@@ -417,21 +421,17 @@ Your phone will make a list of all the available devices that are present for sc
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-make a list of all the available devices](https://images.wondershare.com/drfone/others/Allshare%20Cast%201401.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select Samsung Smart TV.
 
 So, the process is complete and you can get on with it. However, problems may arise and you can resolve your queries once you keep a track of what's happening with others and also stay informed on the net.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4. Recommend Wondershare Dr.Fone Android Recorder to Readers
 
 Wondershare [MirrorGo Android Recorder](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) is a tool that can let you mirror your Sumsang Galaxy to PC. With MirrorGo Android Recorder, you also can play the most popular games (like Clash royale, clash of clans, Hearthstone ...) on your PC easily and smoothly. You won't miss any messages with MirrorGo, you can reply to it quickly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [MirrorGo Android Recorder](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
@@ -461,17 +461,22 @@ Mirror your Realme 12 5G deviceto your computer!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-android-screen-captures-for-2024/"><u>[Updated] Mastering Android Screen Captures for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-optimizing-video-content-for-igtv-uploading-strategies-revealed/"><u>[Updated] Optimizing Video Content for IGTV Uploading Strategies Revealed</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-10t-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme 10T 5G PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/fusion-creator/"><u>FrameFusion Creator</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-c51-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-x6-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-smart-8-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Smart 8 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-mini-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 mini to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/storing-24-hour-movies-estimating-gb-usage-for-2024/"><u>Storing 24-Hour Movies Estimating GB Usage for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ssential-guide-to-aspect-ratios-on-youtube-platforms/"><u>The Essential Guide to ASPECT RATIOS on YOUTUBE Platforms</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-your-fb-audiences-preferences/"><u>Understanding Your Fb Audience's Preferences</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-solutions-how-to-restore-a-disabled-apple-device/"><u>Unlocking Solutions: How to Restore a Disabled Apple Device</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-instant-visualization-techniques-for-timestamp-implementation/"><u>[New] 2024 Approved Instant Visualization Techniques for Timestamp Implementation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-android-freedom-selecting-prime-video-editing-tools/"><u>[New] In 2024, Android Freedom Selecting Prime Video Editing Tools</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-modify-twitter-video-capture-image/"><u>[New] In 2024, Modify Twitter Video Capture Image</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-maximizing-fb-video-area-for-2024/"><u>[New] Step by Step Maximizing Fb Video Area for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-budget-friendly-gaming-capture-software-revealed/"><u>2024 Approved Top Budget-Friendly Gaming Capture Software Revealed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-webcam-picks-ultimate-guide-to-value-buys/"><u>Budget-Friendly Webcam Picks Ultimate Guide to Value Buys</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/critical-analysis-the-true-value-of-instas-selfie-confirmation/"><u>Critical Analysis The True Value of Insta's Selfie Confirmation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-xcover-6-pro-tactical-edition-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy XCover 6 Pro Tactical Edition Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-v-pursemirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor V PurseMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-vivo-y36mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Vivo Y36Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-c65-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco C65 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y56-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-13-mini-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 13 mini to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-videovisionary-toolkit/"><u>In 2024, VideoVisionary Toolkit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-narzo-n55-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme Narzo N55 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-f04-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy F04 Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-secret-scheme-behind-accessing-c-span-files/"><u>The Secret Scheme Behind Accessing C-Span Files</u></a></li>
 </ul></div>
 
