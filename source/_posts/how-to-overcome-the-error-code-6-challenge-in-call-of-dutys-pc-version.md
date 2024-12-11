@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Error Code 6 Challenge in Call of Duty's PC Version
-date: 2024-11-28T16:22:11.955Z
-updated: 2024-12-05T16:11:54.525Z
+date: 2024-12-06T16:41:35.294Z
+updated: 2024-12-11T16:03:08.417Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a691a544cb7cde4aeceab56e4cf68f393a99f1feb
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/madden-22.jpg)
 
  As the latest entry in the long-running Madden NFL series, Madden 22 is available now. However many players reported that the game is stuck on the loading screen when they try to launch Madden 22\. If you’re plagued by the same issue, don’t worry. Here are some quick fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -48,6 +52,10 @@ If you’ve already done these, go ahead with the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/router.jpg)  
  router
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. **Wait** for one minute.
 3. **Reconnect** the modem and router to the power outlet. Make sure the indicators are back to their normal state.
 
@@ -66,7 +74,7 @@ If not, check out more fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-this-program-as-admin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can repeat the steps above to run Steam or Origin client as an administrator. Then test if the game loads successfully.
@@ -84,7 +92,7 @@ If not, check out more fixes below.
 2. Right-click Madden NFL 22 and select**Properties…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
@@ -106,10 +114,6 @@ If not, check out more fixes below.
 
 If the issue persists, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your network driver
 
  Being stuck on the loading screen could indicate that you have a poor connection, which can be caused by a broken or outdated network driver. To fix this issue, you need to make sure you’re using the latest network driver.
@@ -123,15 +127,7 @@ If the issue persists, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -147,19 +143,11 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-Internet.jpg)
 2. Under Advanced network settings, click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-adapter-options.jpg)
 3. Right-click your current network and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-properties.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/IPV4-properties.jpg)
 5. Select**Use the following DNS server addresses** . For**Preferred DNS server** , type**8.8.8.8** ; and for**Alternate DNS server** , type**8.8.4.4** . Click**OK** to save the changes.  
@@ -167,22 +155,18 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/8888-8844.jpg)
 6. Next, you need to clear the DNS cache for the changes to apply. On your keyboard, press the**Windows logo key** and type**cmd** in the search bar. Select**Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 7. In the pop-up window, type**ipconfig /flushdns** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-ipconfig-flushdns.jpg)
 
 Try relaunching Madden 22 and see if it does load without issue now.
 
 If this fix doesn’t work for you, proceed to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Delete game data on Xbox
 
@@ -192,8 +176,16 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/my-games-apps.jpg)
 2. Highlight Madden NFL 22, press the **Menu** button on your controller, then select **Manage game & add-ons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-game-add-ones.jpg)
 3. Select the **Saved data**  box, then choose the item you want to delete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/xbox-saved-data.jpg)
 
@@ -212,15 +204,19 @@ If not, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
@@ -230,6 +226,10 @@ If not, take a look at the next fix.
  Once you find out the problematic program that conflicts with Madden 22, you just need to uninstall it to avoid the issue in the future.
 
  If the game still won’t load after you disabled all the programs and services, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Use a VPN
 
@@ -262,22 +262,14 @@ If not, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bringing-the-web-to-reality-embedding-youtube-videos-in-slides/"><u>[New] 2024 Approved Bringing the Web to Reality Embedding YouTube Videos in Slides</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[New] Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-most-engaging-history-youtube-creators-for-students/"><u>[New] The Most Engaging History YouTube Creators for Students</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-list-best-for-android-pics/"><u>[New] The Ultimate List Best for Android Pics</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/aomei-fonebackup-iphoneiphone/"><u>AOMEI FoneBackup iPhone数据传输指南：如何将信息从一部iPhone移动到另一部</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-8-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 8 activation lock with a professional tool</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-techniques-for-saving-online-meeting-transcripts-for-2024/"><u>Efficient Techniques for Saving Online Meeting Transcripts for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-phantom-v-fold-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Phantom V Fold Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-12r-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-e13-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-14-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi 14 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-s18-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo S18 Pro Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-x6-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco X6 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-hot-30i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Hot 30i to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-11r-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus 11R Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-poco-c55-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Poco C55 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/symptomatic-vs-asymptomatic/"><u>Symptomatic vs Asymptomatic</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-realme-gt-neo-5mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme GT Neo 5Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-8-plus-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 8 Plus to TV or PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-xiaomi-redmi-12-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-vivo-y200e-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y200e 5G Unlock Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-tecno-spark-20-proplus-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Tecno Spark 20 Pro+ to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a05-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A05 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/live-video-quest-evaluating-the-strengths-of-obs-and-twitch-studio/"><u>Live Video Quest Evaluating the Strengths of OBS and Twitch Studio</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-mocking-sponge-bob-meme-generator/"><u>New 2024 Approved Mocking Sponge Bob Meme Generator</u></a></li>
 </ul></div>
 

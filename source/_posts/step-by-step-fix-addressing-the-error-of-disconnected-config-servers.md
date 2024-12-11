@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fix: Addressing the Error of Disconnected Config Servers"
-date: 2024-11-29T16:08:48.350Z
-updated: 2024-12-05T16:12:53.314Z
+date: 2024-12-05T16:55:04.176Z
+updated: 2024-12-11T16:19:57.816Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
  Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -61,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -84,7 +84,7 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
@@ -94,7 +94,7 @@ Here are the system requirements for Control:
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
@@ -133,15 +133,15 @@ Here are the system requirements for Control:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
@@ -159,7 +159,7 @@ Here are the system requirements for Control:
 7. Click **Apply** to save the settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
@@ -177,10 +177,6 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -191,7 +187,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -202,10 +206,6 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -213,7 +213,7 @@ Here are the system requirements for Control:
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
@@ -229,7 +229,7 @@ Here are the system requirements for Control:
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -279,14 +279,17 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-seamless-srt-to-sub-a-comprehensive-guide/"><u>[New] In 2024, Seamless SRT to SUB A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-detailed-review-the-ultimate-5-low-frame-rate-gear/"><u>[Updated] 2024 Approved Detailed Review The Ultimate 5 Low Frame Rate Gear</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-harmonizing-content-with-ig-beats/"><u>[Updated] 2024 Approved Harmonizing Content with IG Beats</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-photography-getting-acquainted-with-snapseed/"><u>2024 Approved Elevate Your Photography Getting Acquainted with Snapseed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-hasty-and-hassle-free-images-on-windows-11/"><u>2024 Approved Hasty & Hassle-Free Images on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-m34-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy M34 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-tecno-pop-7-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Tecno Pop 7 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-asus-rog-phone-8-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Asus ROG Phone 8 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v30-lite-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V30 Lite 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-essential-tips-for-effective-fb-live-split-screens/"><u>[New] In 2024, Essential Tips for Effective FB Live Split Screens</u></a></li>
+<li><a href="https://network-issues.techidaily.com/repaired-system-installed-gpu-driver-for-win1110/"><u>[REPAIRED SYSTEM] Installed GPU Driver for Win11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/find-forgotten-control-panel-elements-in-win11-configuration/"><u>Find Forgotten Control Panel Elements in Win11 Configuration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a59-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A59 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-y200-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo Y200 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v30-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V30 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Screen | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco F5 Pro 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-magic-6-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor Magic 6 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/mastering-file-distribution-on-your-pc-with-yl-computings-guide-to-windows-file-sharing/"><u>Mastering File Distribution on Your PC with YL Computing's Guide to Windows File Sharing</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-pcs-volume-problem-in-windows-11-faq/"><u>Solving Your PC's Volume Problem in Windows 11 (FAQ)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-slow-message-delivery-here-are-pertinent-steps-to-resolve-your-iphones-timing-troubles-fixed-in-nine-ways/"><u>Struggling with Slow Message Delivery? Here Are Pertinent Steps to Resolve Your iPhone's Timing Troubles, Fixed in Nine Ways</u></a></li>
 </ul></div>
 

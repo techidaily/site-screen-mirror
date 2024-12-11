@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Successfully Restarting Google Chrome
-date: 2024-12-02T16:20:57.613Z
-updated: 2024-12-05T16:04:13.516Z
+date: 2024-12-04T16:47:32.128Z
+updated: 2024-12-11T16:49:55.546Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ## Stop League of Legends Crashing - Effortless Troubleshooting Steps Inside
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -90,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -97,16 +93,12 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -115,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -136,19 +132,23 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -188,20 +188,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-metrics-top-10-instagram-tags-right-now/"><u>[Updated] 2024 Approved Mastering Metrics Top 10 Instagram Tags Right Now</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-guide-to-your-profit-share-in-youtube-shorts-for-2024/"><u>[Updated] A Step-by-Step Guide to Your Profit Share in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-silent-transitions/"><u>[Updated] The Ultimate Guide to Silent Transitions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-risks-could-chatgpt-facilitate-the-development-of-harmful-digital-programs/"><u>Exploring Risks: Could ChatGPT Facilitate the Development of Harmful Digital Programs?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-note-12r-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi Note 12R to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-100-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 100 to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y27-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y27 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-t2-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo T2 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lava-blaze-pro-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lava Blaze Pro 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-note-13-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi Note 13 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/obs-or-streamlabs-experts-take-on-best-live-broadcast-software-for-2024/"><u>OBS or Streamlabs? Expert's Take on Best Live Broadcast Software for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209862523-9781635354065-the-phoenix-lights-petroglyphsinthesky-landscapes-for-the-spirits/"><u>The Phoenix Lights- Petroglyphsinthesky (Landscapes for the Spirits) | Free Book</u></a></li>
-<li><a href="https://fox-http.techidaily.com/top-6-networks-transforming-how-firms-connect-and-engage/"><u>Top 6 Networks Transforming How Firms Connect and Engage</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/what-to-do-when-an-app-vanishes-from-your-iphone-finding-and-restoring-lost-applications/"><u>What to Do When an App Vanishes From Your iPhone - Finding and Restoring Lost Applications</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/your-essential-list-of-free-high-quality-online-meeting-software/"><u>Your Essential List of Free, High-Quality Online Meeting Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/iscover-8-essential-sites-for-pristine-green-screen-images-for-2024/"><u>[New] Discover 8 Essential Sites for Pristine Green Screen Images for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-narzo-n53-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme Narzo N53 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-infinix-hot-30-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Hot 30 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-11-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-s23-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy S23 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6sipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6s/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s18-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S18 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet/"><u>In 2024, How to Captivate Audiences with PPT on Mobile/Laptop in GMeet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-a59-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo A59 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-note-12-proplus-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi Note 12 Pro+ 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-reno-11f-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Reno 11F 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits/"><u>Step Into a World of Magic Expert-Led Guide to Snapchat Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques-for-2024/"><u>Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-unbelievably-impressive-features-of-the-new-ipad-air-why-it-could-make-you-rethink-your-choice-for-the-ipad-pro-tech-review/"><u>The Unbelievably Impressive Features of the New iPad Air: Why It Could Make You Rethink Your Choice for the iPad Pro | Tech Review</u></a></li>
 </ul></div>
 

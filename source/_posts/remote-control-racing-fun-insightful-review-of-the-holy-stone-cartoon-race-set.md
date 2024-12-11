@@ -1,7 +1,7 @@
 ---
 title: Remote Control Racing Fun - Insightful Review of the Holy Stone Cartoon Race Set
-date: 2024-12-01T16:32:03.743Z
-updated: 2024-12-05T16:15:51.215Z
+date: 2024-12-07T16:29:54.212Z
+updated: 2024-12-11T16:41:07.023Z
 categories:
   - BestProducts
 description: This Article Describes Remote Control Racing Fun - Insightful Review of the Holy Stone Cartoon Race Set
@@ -18,7 +18,7 @@ thumbnail: https://www.lifewire.com/thmb/1Xa3CUtwyCwjaGnJzoGrAJh238k=/400x300/fi
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/NyMNso4w7RvAOB9yPKnTs3aeA94=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Acer-Predator-Triton-300-SE-Gaming-Laptop-1-d6f9eeb5a43845a9a328125976c835b0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Matthew S. Smith
@@ -44,13 +44,13 @@ Lifewire / Matthew S. Smith
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Acer Predator Triton 300 SE
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/Coi6EdMOwuyjB7rdhov_hsKrHmo=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/_hero_SQ_Acer-Predator-Triton-300-SE-Gaming-Laptop-1-d6f9eeb5a43845a9a328125976c835b0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Matthew S. Smith
 
@@ -81,6 +81,10 @@ Lifewire / Matthew S. Smith
 
  Acer’s Predator Triton 300 SE is, in many respects, a mid-range gaming laptop, but it succeeds at one very important task: it delivers Nvidia RTX 3060 Max-Q at a reasonable price, and it’s actually in stock not just at, but sometimes below, MSRP. Its value pricing helps the Triton 300 SE stand out against attractive competitors like the Asus ROG Zephyrus G14.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Design: Small but sturdy
 
  I’m surprised Acer didn’t slap a “Pro” label on the Predator Triton 300 SE. The spec sheet might scream gaming, but the laptop’s look and feel has more in common with[business laptops](https://www.lifewire.com/best-laptops-to-buy-4043650) . The aluminum exterior and simple silver interior keep this laptop subtle. It’s a bit dull, actually, compared to the sleek elegance of[Razer’s Book 13](https://www.lifewire.com/razer-book-13-review-5176895) or the brash look of[Asus’ ROG Zephyrus G14](https://www.lifewire.com/asus-zephyrus-g14-review-a-no-compromises-gaming-laptop-5084841) .
@@ -97,13 +101,13 @@ Lifewire / Matthew S. Smith
 
  All the laptop’s ports are placed near the front of the chassis. You’ll have to deal with tangled cables more often than with a laptop that places most ports on the rear. I found this annoying when using an external mouse, as cables jutting from the laptop’s flanks often bumped my hand while playing games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s New: This one is special
 
  The Acer Predator Triton 300 SE has little in common with other Predator Triton or Helios models. A few common design elements can be found in the speaker grill, fans, and PreadtorSense software, but the design is otherwise distinct.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Display: Better than first glance
 
@@ -129,10 +133,6 @@ Lifewire / Matthew S. Smith
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/_blPSVdy574t15clSGhbK6JH68o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-4-5a097b76e29b4ee985eee421ed6d0fe8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Matthew S. Smith
 
  Gaming performance proved more impressive. 3DMark Fire Strike hit a score of 14,462, while Time Spy hit a score of 6,721\. The laptop averaged 143 FPS in the GFXBench Car Chase test. It also averaged 74 frames per second in Shadow of the Tomb Raider at high detail with ray-traced shadows off.[Turning ray-traced shadows on](https://www.lifewire.com/what-is-ray-tracing-5097484) reduced the average to 56 frames per second.
@@ -153,16 +153,12 @@ Lifewire / Matthew S. Smith
 
 ![Acer Predator Triton 300 SE](https://www.lifewire.com/thmb/IiMzYmVU-_I6PnObn0bkjyCzqUk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Acer-Predator-Triton-300-SE-Gaming-Laptop-3-7cae0e5d13154048bbc93c40976706ca.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Matthew S. Smith
 
  The touchpad is about four inches wide and two and a half inches deep. That’s not bad for a gaming laptop, but average for a productivity machine, and it can feel cramped. It’s responsive and rejects any quick, unintended brush by a palm or thumb. It’s smooth when using multi-touch gestures like two-finger scroll or pinch-to-zoom.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Audio: Packing a punch
@@ -185,6 +181,10 @@ Lifewire / Matthew S. Smith
 
  Acer’s Predator Triton 300 SE straddles the line between entertainment and productivity in its design, but the camera falls short of its professional aspirations. It’s a tiny 720p pinhole camera that squeezes between the display and the top bezel. Video quality is grainy in all but the brightest rooms and uneven lighting can easily confuse it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Battery: Ouch
 
  It’s easy to pack the Acer Predator Triton 300 SE in a bag for travel, but keeping it charged is a different story. This is a powerful laptop yet, due to its size, it contains a modest 60 watt-hour battery. That would be fine in a laptop without discrete graphics, but this is a gaming laptop.
@@ -201,10 +201,6 @@ Lifewire / Matthew S. Smith
 
 Lifewire / Matthew S. Smith
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Software: Planet what now?
 
  Acer ships the Predator Triton 300 SE with Windows 10 Home. It includes a few touches exclusive to Acer, including a Planet9 wallpaper and a few other icons under the same.
@@ -212,6 +208,10 @@ Lifewire / Matthew S. Smith
  Despite this, most laptop functions are controlled through the PredatorSense software interface. It can control fan modes, adjust keyboard lighting, and monitor temperatures, among other functions. PredatorSense is not much to look at, but I find it less confusing than the alternatives from Asus and Razer.
 
  The laptop comes with Norton antivirus installed. It’s eager to remind you of its presence whenever you download a file or visit an unfamiliar website. The antivirus is easy to uninstall, but its presence takes away from what otherwise feels like a special laptop in Acer’s Predator line.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Price: An outstanding value
 
@@ -235,15 +235,15 @@ Lifewire / Matthew S. Smith
 
  Acer’s Predator Triton 300 SE is an excellent value that has what gamers want: a great gaming experience and a quality display. Its short battery life and mediocre multi-core processor hold it back in everyday use, but the laptop’s competitive price makes these flaws easy to forgive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Microsoft Surface Laptop 3](https://www.lifewire.com/microsoft-surface-laptop-3-review-5069584)
 * [Dell XPS 13 2-in-1 Laptop](https://www.lifewire.com/dell-xps-13-2-in-1-laptop-review-4795686)
 * [Microsoft Surface Laptop 2](https://www.lifewire.com/microsoft-surface-laptop-2-review-4779760)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -279,17 +279,19 @@ Lifewire / Matthew S. Smith
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ite-sized-content-on-youtube/"><u>[New] Bite-Sized Content on YouTube</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-crafting-videos-youtube-tools-and-more/"><u>[New] In 2024, Crafting Videos YouTube Tools and More</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-clearing-up-confusion-addressing-youtube-short-concerns/"><u>2024 Approved Clearing Up Confusion Addressing YouTube Short Concerns</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effortless-audio-inspection-the-definitive-method-to-test-microphones-on-the-go/"><u>Effortless Audio Inspection: The Definitive Method to Test Microphones on the Go!</u></a></li>
-<li><a href="https://discover-great.techidaily.com/guide-to-restoring-google-chromes-ability-to-stream-media-content-successfully/"><u>Guide to Restoring Google Chrome's Ability to Stream Media Content Successfully</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-s23-ultra-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy S23 Ultra PC | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-hot-30-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Hot 30 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-narzo-60x-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme Narzo 60x 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-m54-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy M54 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-x9b-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor X9b to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-a2-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo A2 Screen | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-guide-fixing-a-malfunctioning-or-missing-shift-key-on-your-computer/"><u>Step-by-Step Solution Guide: Fixing a Malfunctioning or Missing Shift Key on Your Computer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-guide-to-recording-facecams/"><u>[New] 2024 Approved The Ultimate Guide to Recording Facecams</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-p40plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Itel P40+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-15-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 15 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/community-connectivity-accessing-and-using-facebook-groups/"><u>Community Connectivity: Accessing and Using Facebook Groups</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/entwicklerherzen-beruhren-erfahrene-vergleich-und-test-von-6-fuhrenden-dvd-brennern/"><u>Entwicklerherzen Berühren: Erfahrene Vergleich Und Test Von 6 Führenden DVD-Brennern</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-a70-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Itel A70 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-f34-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy F34 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-itel-a60-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Itel A60 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-record-gameplay-in-samsung-galaxy-phones/"><u>In 2024, How to Record Gameplay in Samsung Galaxy Phones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-ranking-10-best-iphoneandroid-apps-for-video-enthusiasts/"><u>In 2024, Ranking 10 Best iPhone/Android Apps for Video Enthusiasts</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-smart-7-hd-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Smart 7 HD Screen | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-fixes-for-a-smooth-windows-11-installation-beyond-99/"><u>Quick Fixes for a Smooth Windows 11 Installation Beyond 99%</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-10t-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme 10T 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-script-generator-for-2024/"><u>What Is an AI Script Generator for 2024</u></a></li>
 </ul></div>
 

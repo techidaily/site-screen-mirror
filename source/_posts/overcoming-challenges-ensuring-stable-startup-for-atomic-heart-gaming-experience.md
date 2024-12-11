@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Challenges: Ensuring Stable Startup for Atomic Heart Gaming Experience"
-date: 2024-11-30T16:13:39.090Z
-updated: 2024-12-05T16:16:33.698Z
+date: 2024-12-04T16:10:01.564Z
+updated: 2024-12-11T16:56:39.578Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
  With the improvement of the graphics and vehicle sounds, Forza Horizon 5 is obviously the best Forza Horizon game to date. However, just like any other games released this month, Forza Horizon 5 still has some performance issues. If**Forza Horizon 5**   **FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix it on your own easily after reading this article!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other PC players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -68,6 +64,10 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -75,6 +75,10 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -88,14 +92,10 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
@@ -114,10 +114,6 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -145,6 +141,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  According to some PC gamers, overlays sometimes they may interfere with Forza Horizon 5 and even introduces performance issues and compatibility issues.
@@ -156,6 +156,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. Launch **Steam** and go to your **LIBRARY** , then right click on Forza Horizon 5 game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -177,10 +181,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -206,20 +206,22 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-advice-on-iphone-7-display-recording/"><u>[Updated] 2024 Approved Expert Advice on iPhone 7 Display Recording</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>[Updated] Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-essential-obs-adjustments-for-inexpensive-machines-for-2024/"><u>[Updated] Essential OBS Adjustments for Inexpensive Machines for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-14-pro-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone 14 Pro to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-poco-m6-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco M6 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-12-pro-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 12 Pro to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-13c-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi 13C 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-v30-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme V30 to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-xr-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone XR Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-xcover-7-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy XCover 7 Phones? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-learning-legends-esteemed-ed-streams-online/"><u>In 2024, Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-apple-vision-pro-sold-out-checking-supply-and-demand-status-update/"><u>Is the Apple Vision Pro Sold Out? Checking Supply and Demand Status Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-troubleshooting-and-fixing-issues-in-windows-11-and-10/"><u>Step-by-Step Guide: Troubleshooting and Fixing Issues in Windows 11 & 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-the-worlds-top-16-complimentary-subtitle-creation-applications/"><u>The Ultimate Guide to the World's Top 16 Complimentary Subtitle Creation Applications</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-the-ultimate-verdict-on-lenovos-multifunctional-business-laptop-for-professionals-a-comprehensive-review/"><u>Top Rated: The Ultimate Verdict on Lenovo's Multifunctional Business Laptop for Professionals - A Comprehensive Review</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-the-secrets-of-smooth-and-seamless-keying-in-videography/"><u>[New] 2024 Approved Unlock the Secrets of Smooth and Seamless Keying in Videography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beyond-boundaries-recognizing-leading-women-in-digital-storytelling/"><u>[New] In 2024, Beyond Boundaries Recognizing Leading Women in Digital Storytelling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-biography-breakthroughs-101-expert-tips-and-tricks-for-facebook-biographers/"><u>[New] In 2024, Biography Breakthroughs 101 Expert Tips and Tricks for Facebook Biographers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-preventing-non-displayed-images-in-youtubes-shorts/"><u>[New] In 2024, Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-syncing-twitter-to-snapchat-video-uploading-techniques/"><u>[Updated] 2024 Approved Syncing Twitter to Snapchat Video Uploading Techniques</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-pro-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Pro iCloud Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-90-lite-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor 90 Lite to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-yuva-3-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Yuva 3 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-a78-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo A78 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-v27-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-7-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-s23plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy S23+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-mix-fold-3-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Mix Fold 3 Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purging-programs-in-a-nutshell-windows-11-edition-94-chars/"><u>Purging Programs in a Nutshell - Windows 11 Edition (94 Chars)</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/quick-tips-for-converting-youtube-content-to-compatible-3gp-files-smoothly/"><u>Quick Tips for Converting YouTube Content to Compatible 3GP Files Smoothly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-g24-power-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola G24 Power Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-bavarder-chatgpt-for-linux-users/"><u>Streamline Bavarder ChatGPT for Linux Users</u></a></li>
 </ul></div>
 

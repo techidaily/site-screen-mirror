@@ -1,7 +1,7 @@
 ---
 title: In 2024, Process of Screen Sharing Realme Note 50 to PC- Detailed Steps | Dr.fone
-date: 2024-12-01T16:24:12.565Z
-updated: 2024-12-05T16:29:40.018Z
+date: 2024-12-10T16:51:16.212Z
+updated: 2024-12-11T16:46:39.930Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -26,7 +26,7 @@ Read on to learn more about this software and how to screen share Android device
 ![screen sharing android screen to pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. What is TeamViewer?
@@ -44,6 +44,10 @@ The latter allows for screen-to-screen content broadcasting that many people fro
 
 ![teamviewer interface](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Key Benefits of the TeamViewer Screenshare Tool
 
 When users operate with TeamViewer to **screen-share to PC**, there are many advantages they can enjoy. Here are some of them, explained in points for your reference.
@@ -60,10 +64,6 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 **Step 2:** If you do not have an account here, create a new one or log in.
 
 ![create a new account](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** On the PC (Windows/Linux/macOS), visit the login page via any preferred browser > Sign into the account that you created.
 
@@ -84,6 +84,10 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 **Step 9:** The Android device screen will start sharing on the PC.
 
 ![teamviewer app will appear on the pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. TeamViewer Reviews - Pros & Cons & Ratings
 
@@ -135,9 +139,17 @@ It is simple to use, and the software allows smooth wireless screen mirroring fr
 
 5. Finally, the screen mirroring process will begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 TeamViewer is one of the best solutions users can use for professional remote team collaboration. The screen-sharing functionality is helpful for broadcasting content from an Android phone to a PC. For a more effortless experience, screen mirroring with [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) software works. So, you should consider that as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Recommended Best Applications for Mirroring Your Realme Note 50 Screen
 
@@ -175,6 +187,10 @@ Let's get more in-depth on the different solutions available for choosing **the 
 
 ![drfone air interface](https://images.wondershare.com/drfone/drfone/online-screen-mirror-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 One efficient and user-friendly **screen-mirroring app for Android and iPhone** devices is the [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) software. The app helps share screens from your mobile device and control how to view the content on the screen. Activating the function is not complex either here.
 
 **Price**: Free
@@ -194,10 +210,6 @@ One efficient and user-friendly **screen-mirroring app for Android and iPhone** 
 1. Visit the [Fone Air official website](https://drfoneair.wondershare.com/) on the computer. Launch the [Dr.Fone Link app](https://play.google.com/store/apps/details?id=com.wondershare.drfone.link) and connect your phone and computer using one WiFi network.
 2. Use the Dr.Fone Link app to scan the QR Code or enter the Cast Code to connect both devices.
 3. Screen mirroring will be when the two devices connect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. [Screen Stream Mirroring](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial&gl=US)
 
@@ -274,13 +286,13 @@ For easy phone screen sharing and mirroring usage, you can trust the Pushbullet 
 2. Then, download the app on the desktop. Sign in when prompted.
 3. Link other devices and begin using the features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. [TeamViewer](https://www.teamviewer.com/en/)
 
 ![teamviewer interface](https://images.wondershare.com/drfone/article/2022/12/best-applications-mirror-android-screen-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 TeamViewer is another useful screen mirroring app for Android for improved management and control of professional processes from any device. With this effect, you can access different apps and files on mobile devices and computers, especially with screencasting functionality.
 
@@ -483,6 +495,10 @@ This particular mobile screen mirroring app for Android allows its users to easi
 2. Activate the USB debugging process on the mobile.
 3. Enable the mirroring process, and the screen will be cast on your computer quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Indeed, all of the options mentioned in this list are commendable choices for screen mirroring. While each provides practical benefits and comes with some drawbacks, they are helpful to a specific group of users.
@@ -493,15 +509,7 @@ Different types of users can benefit from Dr.Fone Air - Online Screen Mirror, wh
 
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Screen mirroring Realme Note 50  lets you share your presentations, videos, pictures, and music to a large screen. If you are not contented with the display of your smartphone you can use this feature to enjoy streaming on TV or PC. Realme Note 50  has provided screen mirroring features in its latest versions and it is easy to use. The built-in feature in Realme Note 50  is named "Mirrorshare” but in some devices, you can also go for a wireless display option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. What is MirrorShare Realme Note 50 ?
 
@@ -527,10 +535,6 @@ Follow the following simple guide to enjoy the large screen display.
 
 ![3-Facts-You-Must-Know-about-Screen-Mirroring-Huawei-4](https://images.wondershare.com/drfone/article/2020/08/3-facts-you-must-know-about-screen-mirroring-huawei-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6\. On your TV go to network settings.
 
 7\. Select the Screen sharing option.
@@ -548,10 +552,6 @@ Screen mirroring Realme Note 50  can help you to stream videos on a TV screen. Y
 Huawei is among the top brands that support the Android OS on their phones. Moreover, the Realme Note 50 devices are easy to manage. Additionally, you can enable screen mirroring on Realme Note 50  smartphones using services such as [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) without any hassle.
 
 The app provides an intuitive interface to connect an Android or iOS device and manage its content with the computer screen. Furthermore, it is a much safer alternative to choppy or sluggish emulators.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/ "Wondershare Dr.Fone")
 
@@ -572,6 +572,10 @@ Use a USB cable to connect the Realme Note 50  Android phone with the PC. The ap
 
 ![select transfer files option](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Access Developer Mode**
 
 There are certain options that you will need to enable to fully control the Realme Note 50  device with MirrorGo. Head over to the Settings menu and open About Phone. The Developer Mode option will be available there; simply tap on it 7 times.
@@ -581,7 +585,7 @@ The next thing that you will need to do is switching on USB Debugging. Remain in
 ![turn on developer option and enable usb debugging](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Start Screen Mirroring Realme Note 50  from PC**
@@ -589,10 +593,6 @@ The next thing that you will need to do is switching on USB Debugging. Remain in
 Access MirrorGo from the computer. You will see the contents of your Realme Note 50  device on the app interface. From there, you can start the mirroring process!
 
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/control-android-phone-from-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -612,22 +612,18 @@ Screen mirroring Realme Note 50  to TV or PC is as easy as casting your iPhone s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-skip-past-fb-video-ads-effectively/"><u>[Updated] In 2024, Skip Past FB Video Ads Effectively</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-reel-in-the-action-top-strategies-for-recording-your-minecraft-sessions-on-a-mac/"><u>[Updated] Reel in the Action Top Strategies for Recording Your Minecraft Sessions on a Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-what-drives-youtubes-content-creator-hub-for-2024/"><u>[Updated] What Drives YouTube's Content Creator Hub for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-top-8-no-cost-video-chat-tools-pcmac-compatibility/"><u>2024 Approved Top 8 No-Cost Video Chat Tools PC/Mac Compatibility</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-spark-20c-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Spark 20C PC | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-xiaomi-redmi-note-13-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Xiaomi Redmi Note 13 Pro 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-v30-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme V30 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-nubia-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Nubia Phone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-nokia-g22-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nokia G22 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-blaze-2-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-spark-10-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oppo-reno-11f-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Oppo Reno 11F 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-5-premier-cloud-platforms-revolutionizing-storage/"><u>In 2024, 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-open-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-c12-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia C12 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-essentials-comprehensive-editing-tutorial/"><u>The Essentials Comprehensive Editing Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-decreasing-complications-with-el-capitan-on-macos/"><u>[New] 2024 Approved Decreasing Complications with El Capitan on macOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>[New] 2024 Approved Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-enhancing-visual-storytelling-with-impeccable-voice-over/"><u>[New] In 2024, Enhancing Visual Storytelling with Impeccable Voice Over</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-master-the-art-of-editing-your-tiktok-number/"><u>[New] In 2024, Master the Art of Editing Your TikTok Number</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boost-user-engagement-through-cookiebot-integration/"><u>Boost User Engagement Through Cookiebot Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-coding-sidekick-comparing-github-copilot-and-chatgpt-effectiveness/"><u>Choosing Your Coding Sidekick: Comparing GitHub Copilot and ChatGPT Effectiveness</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converti-file-immagine-rapidamente-e-senza-costi-con-orf-su-online-gratis-con-movavi/"><u>Converti File Immagine Rapidamente E Senza Costi Con Orf Su Online - Gratis Con Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-s18-pro-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo S18 Pro to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-zero-5g-2023-turbo-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Zero 5G 2023 Turbo to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a14-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A14 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-hot-30-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Hot 30 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-xr21-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11-files-how-to-correctly-handle-access-denied-errors/"><u>Unlocking Windows 11 Files: How to Correctly Handle Access Denied Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your FPS on ARK: Survival Evolved for an Optimal PC Gaming Experience"
-date: 2024-11-28T16:21:25.055Z
-updated: 2024-12-05T16:30:35.187Z
+date: 2024-12-04T16:05:20.367Z
+updated: 2024-12-11T16:32:51.871Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ God of War
  Initially locked away on the PS4 as a console-exclusive game,**God of War** , the famous action-adventure game from Santa Monica Studio, is now available on Windows PC via Steam and the Epic Games Store! According to Santa Monica Studio, with the option of unlocked framerates and true 4k resolution on supported devices, PC gamers will be able to enjoy the full potential of their cinematic, no-cut camera as it follows Kratos and Atreus across the realms. However, shortly after the game was released, **many players are reporting that God of War FPS drops or stutters on their PC.**
 
  If you find yourself in the same boat, don’t worry. You’ve landed on the right page. After reading this article, you should be able to fix the game fps drops, stuttering, and other performance issues easily!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,10 +60,6 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -75,6 +67,10 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -88,6 +84,10 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -100,11 +100,11 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -151,6 +151,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays may interfere with God of War, and sometimes they may even introduce performance issues and compatibility issues. Try disabling the in-game overlay before playing the game.
@@ -162,13 +166,13 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -176,7 +180,7 @@ There are mainly two methods for you to update the graphics driver:
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -191,10 +195,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -222,20 +222,14 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-insiders-guide-to-efficient-phone-recording/"><u>[Updated] Insider's Guide to Efficient Phone Recording</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-iosandroid-leading-photo-writing-app-list/"><u>2024 Approved IOS/Android Leading Photo-Writing App List</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209861447-9780984530687-alicerce-para-a-cura/"><u>Alicerce para a Cura | Free Book</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-moto-g84-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Moto G84 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-apple-integrates-advanced-image-recognition-in-iphone-16-mirroring-google-lens-exclusive-report-by-zdnet/"><u>How Apple Integrates Advanced Image Recognition in iPhone 16, Mirroring Google Lens - Exclusive Report by ZDNet</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-cookiebot-fuels-effective-search-engine-strategies/"><u>How Cookiebot Fuels Effective Search Engine Strategies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-find-n3-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Find N3 to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a54-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-f5-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-social-media-enhancing-your-facebook-page-position/"><u>In 2024, Mastering Social Media Enhancing Your Facebook Page Position</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-proven-methods-to-prevent-photos-app-freezes-in-windows-10/"><u>In 2024, Proven Methods to Prevent Photos App Freezes in Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-motorola-moto-g13-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Motorola Moto G13 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/passionate-whispers-savoring-italian-pick-up-lines/"><u>Passionate Whispers: Savoring Italian Pick-Up Lines</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-note-12-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi Note 12 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-se-2020-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone SE (2020) & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-personalizing-your-ig-experience-blocking-tactics/"><u>[New] Personalizing Your IG Experience Blocking Tactics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-what-is-slug-line-and-how-to-use-for-2024/"><u>[New] What Is Slug Line and How to Use for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-frozen-frontiers-highlights-from-beijings-winter-games/"><u>[Updated] Frozen Frontiers Highlights From Beijing's Winter Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-use-your-phone-as-a-webcam-to-record-videos-in-2024/"><u>[Updated] How to Use Your Phone as A Webcam to Record Videos, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-realme-12-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme 12 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-realme-12-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Realme 12 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-smart-7-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Smart 7 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-9a-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-s23-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy S23 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 

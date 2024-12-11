@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving 'Super Sensei' Collision Issues in Your PC"
-date: 2024-11-30T16:25:27.964Z
-updated: 2024-12-05T16:34:23.130Z
+date: 2024-12-09T16:22:52.769Z
+updated: 2024-12-11T16:44:57.450Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
  Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 2. Right-click**Life is Strange: True Colors** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
@@ -81,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or simply click**Update** to do it for free, but you need to download them one at a time and install the driver manually.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
@@ -89,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Switch to DirectX 11
@@ -100,24 +108,16 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
 
@@ -134,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart the game to test if the new settings have a significant impact on the game performance.
@@ -160,17 +160,18 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-seamless-streaming-experience-a-youtube-playlist-creation-guide/"><u>[Updated] Seamless Streaming Experience A YouTube Playlist Creation Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr-for-2024/"><u>[Updated] The Dual-Platform Dance Posting Vids with Twitter & Tumblr for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-nokia-130-music-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Nokia 130 Music to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-nord-ce-3-lite-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus Nord CE 3 Lite 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-x-fold-2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo X Fold 2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-11-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme 11 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-mix-fold-3-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Mix Fold 3 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/private-safekeeping-a-samsung-secure-folder-inspired-pc-backup-solution/"><u>Private Safekeeping: A Samsung Secure Folder-Inspired PC Backup Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-7-best-free-music-streaming-apps-on-iphone-and-android-devices/"><u>Top 7 Best Free Music Streaming Apps on iPhone & Android Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transformative-video-editing-techniques-for-viral-tiktok-creations/"><u>Transformative Video Editing Techniques for Viral TikTok Creations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/youtube-video-upgrades-how-to-add-precise-times/"><u>YouTube Video Upgrades How to Add Precise Times</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-recover-missing-audio-from-tweeted-videos/"><u>[New] Recover Missing Audio From Tweeted Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-enhancing-roku-experience-for-facebook-live-broadcasts/"><u>[Updated] 2024 Approved Enhancing Roku Experience for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/brevity-in-action-the-process-of-shortening-youtube-videos-for-2024/"><u>Brevity in Action The Process of Shortening YouTube Videos for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/elevate-your-gameplay-discover-the-top-3-strategies-for-playing-cod-mobile-on-pc-without-compromise/"><u>Elevate Your Gameplay: Discover the Top 3 Strategies for Playing COD Mobile on PC Without Compromise</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-c300-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia C300 Phones? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-no-text-messages-dilemma-top-7-solutions/"><u>How to Resolve 'iPhone No Text Messages' Dilemma: Top 7 Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-12-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme 12 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-explore-the-8-premier-zero-cost-video-editors-for-social-media-pros/"><u>In 2024, Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-a18-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo A18 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-12-mini-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 12 mini & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-microsoft-sculpt-ergonomic-keyboard-software-update/"><u>Step-by-Step Tutorial on Microsoft Sculpt Ergonomic Keyboard Software Update</u></a></li>
+<li><a href="https://discover-great.techidaily.com/top-3-ottimi-software-di-conversione-video-in-4k-pc-e-mac-da-4k-a-1080p/"><u>Top 3 Ottimi Software Di Conversione Video in 4K (PC E Mac) - Da 4K a 1080P</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-best-modemrouter-hybrids-of-202er/"><u>Ultimate Guide to the Best Modem/Router Hybrids of 202Er</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Screen Mirroring Realme 12 5G? | Dr.fone
-date: 2024-11-30T16:07:58.853Z
-updated: 2024-12-05T16:11:10.021Z
+date: 2024-12-07T16:49:39.841Z
+updated: 2024-12-11T16:17:16.312Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 Most people think that screen mirroring is only a feature you can enjoy if you have an iPhone and Apple TV. But here is a piece of good news for Realme  fans as screen mirroring Realme 12 5G is also possible. By this can connect your smartphone to any TV and PC. Screen mirroring is casting your smartphone to a big screen so you can enjoy videos, pictures, music, and games on a large screen. It usually takes a few minutes to connect devices. The only thing you required is a sending and receiving device. The devices must be on the same network.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. Does Realme 12 5G have Screen Mirroring?
@@ -43,6 +43,10 @@ Screen mirroring Realme 12 5G to any TV or PC is easy to be carried out. Screen 
 
 7\. Now your smartphone is connected to TV/PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How to Screen Mirroring Realme 12 5G to PC?
 
 Screen mirroring Realme 12 5G to PC through third party app is easy. For this Vysor is considered as an excellent app for screen mirroring your smartphone to PC. Its extension is also available on chrome. For connection, you do not need a data connection, as a USB cable can help you out. Just follow the simple steps to stream videos easily on your computer from your phone.
@@ -60,10 +64,6 @@ Screen mirroring Realme 12 5G to PC through third party app is easy. For this Vy
 6\. A pop-up window will appear; allow it to allow USB Debugging.
 
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-2](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7\. Vysor will automatically connect your smartphone to the PC.
 
@@ -83,16 +83,12 @@ Screen mirroring Realme 12 5G to smart TV is not a difficult task. You can strea
 
 5\. Your phone will be connected to the TV.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Screen Mirroring Realme 12 5G to any TV or PC is a piece of exciting news for MI users. It is simple like mirroring the iPhone screen to TV or PC. You can enjoy it by using third party apps or by using a USB cable. It can let you share your videos, music, and pictures to a large screen. You can also enjoy video games on PC and TV by using this feature. Not only this, but you can also share your documents and presentations with your friends and coworkers by using screen mirroring feature. Just make sure to have both devices on the same Wi-Fi network and you are all done.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Mirror Your Realme 12 5G Screen to PC with Chromecast
@@ -102,12 +98,16 @@ As times progress, technology is in competition with it and this article about C
 If you have an android device and you wish to mirror (share) the screen to your PC, this can be done using some simple steps, but to do this it depends on the android device you have and the source that you will project it to, whether a TV or PC. The recommended Chromecast to mirror your android screen to your PC is All cast, Koushik Dutta's Mirror that comes with most android devices or can be downloaded, and for persons who use Custom Roms, cyanogen Mod 11 Screencast can be used. It is very important that the PC that will mirror the android device screen has AllCast Receiver installed because this software enables all the features of mirroring to be enabled on the receiving end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. What is Chromecast?
 
 Chromecast is a form of modern technology established and mananged by Google, which enables an individual to project or display whatever they have on their Android device screen on a secondary screen such as a PC or TV. More interestingly Chromecast is just a small device that can be plugged into a PCs HDMI port to allow for easy casting on a bigger screen. The capability is called mirroring and it is very prevalent in today's society. Chromecast is very convenient because sometimes individuals cannot be bothered with a small mobile screen if they are watching a movie for instance of playing their favourite games such as FIFA 2015. The technology of Chromecast is possible because of the chrome app for both PC and Android mobile devices to date. Chromecast allows the casting of all your favourite mobile activities straight to your PCs screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. The features of Chromecast
 
@@ -122,6 +122,10 @@ Chromecast is a form of modern technology established and mananged by Google, wh
 •Ease of access and setup - Chromecast is easy to use, all you need to do is plug and play to enjoy its many features.
 
 •Auto update – Chromecast automatically updates so you can have new apps and features that are compatible and available without effort or hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. The Steps on How to Mirror
 
@@ -141,16 +145,12 @@ Step 4. Open a supported Chromecast app that you downloaded from the plays store
 
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/cast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5. Enjoy Chromecast.
 
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/enjoy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Supported Android Devices
@@ -168,6 +168,10 @@ There are a wide range of devices that are supported by Chromecast, these device
 - 9.NVIDIA SHIELD Tablet
 - 10.Tesco hudl2
 - 11.TrekStor SurfTab xintron i 7.0
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Advanced Casting Features
 
@@ -189,14 +193,6 @@ Read on to learn more about this software and how to screen share Android device
 
 ![screen sharing android screen to pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. What is TeamViewer?
 
 TeamViewer is a remote access management platform for companies and regular people. They use it for better team activity management, especially remote teams. They can experience better work productivity when using this software, like with the screen-sharing features.
@@ -213,7 +209,7 @@ The latter allows for screen-to-screen content broadcasting that many people fro
 ![teamviewer interface](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. Key Benefits of the TeamViewer Screenshare Tool
@@ -232,6 +228,10 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 **Step 2:** If you do not have an account here, create a new one or log in.
 
 ![create a new account](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** On the PC (Windows/Linux/macOS), visit the login page via any preferred browser > Sign into the account that you created.
 
@@ -321,20 +321,24 @@ TeamViewer is one of the best solutions users can use for professional remote te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-freebox-your-map-to-fantastic-costless-tiktok-bgs/"><u>[New] 2024 Approved FREEBOX Your Map to Fantastic, Costless TikTok BGs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unleash-potential-advanced-techniques-in-instagram-loop-creation/"><u>2024 Approved Unleash Potential Advanced Techniques in Instagram Loop Creation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/enhance-your-mobile-shots-best-iphone-apps-for-object-removal-for-2024/"><u>Enhance Your Mobile Shots Best iPhone Apps for Object Removal for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-slow-frames-in-farming-simulator-22-when-played-on-a-pc/"><u>How to Fix Slow Frames in Farming Simulator 22 when Played on a PC?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-hot-30i-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-a05s-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy A05s to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-a38-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Oppo A38?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a38-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-14-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi 14 Ultra Screen | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/neo-qled-or-oled-deciding-on-your-ideal-television-screen-zdnet-insights/"><u>Neo QLED or OLED: Deciding on Your Ideal Television Screen | ZDNET Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-reno-11-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Reno 11 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-reno-11-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Reno 11 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-note-12-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi Note 12 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-unreliable-mobile-hotspots-in-apple-ecosystems-tips-for-a-seamless-connection/"><u>Troubleshooting Unreliable Mobile Hotspots in Apple Ecosystems: Tips for a Seamless Connection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-define-your-own-idle-time/"><u>Windows: Define Your Own Idle Time</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-social-media-live-showdown-facebook-vs-youtube-and-twitter-periscope/"><u>[Updated] Social Media Live Showdown Facebook Vs. YouTube & Twitter Periscope</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-bring-your-world-to-life-delving-into-hp-envy-27s-features/"><u>2024 Approved Bring Your World to Life Delving Into HP Envy 27'S Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-10t-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-redmi-k70e-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi Redmi K70E Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/betrayed-by-touch-the-latest-vulnerabilities-in-windows-fingerprint-tech/"><u>Betrayed by Touch: The Latest Vulnerabilities in Windows Fingerprint Tech</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-t2-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo T2 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-12-proplus-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme 12 Pro+ 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-hot-30i-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Hot 30i to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-s23plus-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy S23+ FRP In 3 Different Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-a24-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy A24 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-smart-8-hd-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-a79-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo A79 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-15-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 15 to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mac-mastery-steps-to-reboot-network-preferences-and-fix-connectivity-issues/"><u>Mac Mastery: Steps to Reboot Network Preferences and Fix Connectivity Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722971364468-overcoming-common-challenges-in-intels-dptf-driver-setup-and-compatibility-woes-solved/"><u>Overcoming Common Challenges in Intel's DPTF Driver Setup and Compatibility Woes Solved!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-k70-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi K70 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-implementing-chromes-pip-multiscreen-functionality/"><u>Step-by-Step Implementing Chrome’s PIP Multiscreen Functionality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-latest-apple-ipad-102-is-outshining-its-predecessors-for-value-seekers/"><u>Why the Latest Apple iPad 10.2 Is Outshining Its Predecessors for Value Seekers</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-10-seo-konsaltingovyh-firm-v-stambule-obzor-i-rekomendacii/"><u>Топ-10 SEO Консалтинговых Фирм В Стамбуле : Обзор И Рекомендации</u></a></li>
 </ul></div>
 

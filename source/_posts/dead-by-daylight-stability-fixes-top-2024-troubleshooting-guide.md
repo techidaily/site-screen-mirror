@@ -1,7 +1,7 @@
 ---
 title: "Dead By Daylight Stability Fixes: Top 2024 Troubleshooting Guide"
-date: 2024-12-02T16:28:38.445Z
-updated: 2024-12-05T16:05:48.043Z
+date: 2024-12-05T16:07:22.157Z
+updated: 2024-12-11T16:50:06.008Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4
 8. [**Run Genshin Impact on another GPU**](https://tools.techidaily.com/drivereasy/download/)
 9. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your specs meets the requirements
 
  Genshin Impact is, by no means, a graphically demanding game, but having a great gaming setup always gives you a leg up. Just before you start any advanced troubleshooting,**make sure your PC specs meet the minimum requirements** . If they don’t, then maybe it’s time for an upgrade.
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4
 | **Storage:**          | Please reserve 30 GB of space                                 |
 
  If Genshin Impact crashes on your high-end gaming PC, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Genshin Impact as administrator
 
@@ -71,6 +71,10 @@ Here’s how:
 
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of the crash is**corrupted or outdated graphics drivers** . GPU manufacturers keep releasing driver updates in response to compatibility issues with new games. So if you can’t remember the last time you checked for driver updates, definitely do it now because it could just fix your issue in a jiffy.
@@ -82,10 +86,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -96,7 +96,7 @@ Here’s how:
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
@@ -107,22 +107,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
@@ -143,11 +139,11 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click**Check for updates** again.
 
@@ -159,6 +155,10 @@ Here’s how you can install system updates on Windows 10 or 7:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click**Install updates** . It’ll take a while (up to 1 hour) for Windows to install all the updates.  
@@ -183,7 +183,7 @@ And here’s how:
 3. Continue your game and see if it stops crashing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method doesn’t do the trick for you, simply try the next one below.
@@ -195,10 +195,6 @@ And here’s how:
 And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
 
@@ -218,8 +214,16 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
@@ -227,16 +231,12 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
 
 Now you can launch Genshin Impact and see if it stops crashing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Check for corrupted system files
@@ -273,16 +273,17 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>[New] The Essential Guide to Earnings Monetizing Content on Vimeo</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>[New] UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-become-a-livestream-king-the-best-webcams-for-youtube-stars-for-2024/"><u>[Updated] Become a Livestream King The Best Webcams for YouTube Stars for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-reno-10-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Reno 10 5G PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-8-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 8 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-se-2020-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone SE (2020) Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-palette-tweaks-by-professionals/"><u>In 2024, Advanced Palette Tweaks by Professionals</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-90-gt-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 90 GT to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-moto-g13mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola Moto G13Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v29-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V29 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/troubleshoot-lenovos-dimming-display/"><u>Troubleshoot Lenovo's Dimming Display</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovating-beyond-boundaries-revitalizing-vr-content/"><u>[New] Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-hdr-experience-with-asuss-4k-monitor-for-2024/"><u>[Updated] The Ultimate HDR Experience with Asus's 4K Monitor for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-c55-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme C55 to Roku | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211352882-9798869369734-57k56we6imy5b2p5yk5yw25osp5lmjic0g5zyo5zyj54g15a2m5qchic0g5paw5lit5pah54mi/"><u>精神色彩及其意义 - 在圣灵学校 - 新中文版 | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-the-update-challenge-strategies-to-resolve-windows-11s-error-0x800f0922-quickly/"><u>Conquer the Update Challenge: Strategies to Resolve Windows 11'S Error 0X800f0922 Quickly!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-new-magicard-rio-pro-driver-compatible-with-win10-win81-and-win7/"><u>Download the New Magicard Rio Pro Driver: Compatible with Win10, Win8.1 & Win7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-nokia-c12-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Nokia C12 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-zte-blade-a73-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How ZTE Blade A73 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-jestjunction-tap-into-the-world-of-meme-magic/"><u>In 2024, JestJunction Tap Into the World of Meme Magic</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-12-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi 12 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-valheim-launch-failures-a-guide-for-gamers/"><u>Troubleshooting Your Valheim Launch Failures: A Guide for Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-anywhere-with-these-12-free-mobile-movies-apps/"><u>Watch Anywhere with These 12 Free Mobile Movies Apps</u></a></li>
 </ul></div>
 

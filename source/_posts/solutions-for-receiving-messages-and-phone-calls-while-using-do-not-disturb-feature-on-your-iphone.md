@@ -1,7 +1,7 @@
 ---
 title: Solutions for Receiving Messages & Phone Calls While Using Do Not Disturb Feature on Your iPhone
-date: 2024-12-01T16:14:11.587Z
-updated: 2024-12-05T16:15:52.707Z
+date: 2024-12-09T16:19:47.501Z
+updated: 2024-12-11T16:17:03.672Z
 tags:
   - iphone
   - apple
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
  However, if you're still getting texts and calls on Do Not Disturb, it pretty much defeats the purpose of the feature. So, let's look at the steps you can take when Do Not Disturb is not working on your iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Whether You Enabled the Correct Focus Mode
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
  If you accidentally enabled**Work** mode instead of**Do Not Disturb** or**Personal** mode on your iPhone, you will certainly receive texts and calls from work colleagues because the latter wasn't made to deter people from your workplace.
 
  Therefore, before proceeding with the other suggestions in the list, access your iPhone's**Control Center** and check that you have the correct Focus mode turned on to match your activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Review Your Allowed Apps
 
@@ -44,21 +48,9 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable Time-Sensitive Notifications
 
@@ -69,10 +61,14 @@ Close
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Settings for Incoming Calls
 
@@ -81,6 +77,10 @@ Close
  To change this, head to**Settings > Focus > Do Not Disturb** **\> People** . Now, tap on**Allow Calls From** and select your preferred option. If you want to only allow specific individuals to call you during Do Not Disturb mode, choose**Allowed People Only** and tap the**Add** button above to select your contacts.
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
@@ -118,11 +118,11 @@ Close
 
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
-Close
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Close
 
 ## 8\. Restart Your iPhone and Update iOS
 
@@ -131,7 +131,7 @@ Close
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
@@ -157,20 +157,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-determinants-of-youtube-video-prominence-and-success/"><u>[New] Determinants of YouTube Video Prominence and Success</u></a></li>
-<li><a href="https://win-top.techidaily.com/beginners-guide-to-crafting-effective-email-footers-lessons-from-2veolutionary-email-marketing-and-utilizing-massmailer-software/"><u>Beginner's Guide to Crafting Effective Email Footers - Lessons From 2Veolutionary Email Marketing and Utilizing MassMailer Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-the-clouds-advanced-drone-video-techniques/"><u>Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-g24-powermirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola G24 PowerMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-11-pro-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 11 Pro to PC via USB? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-12-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi 12 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y36i-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y36i to Roku | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-9-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nubia Red Magic 9 Pro in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic 5 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-sony-xperia-5-v-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Sony Xperia 5 V to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-s23plus-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mac-and-windows-keyboard-troubleshoot-reactivating-the-missing-backlight-feature/"><u>Mac & Windows Keyboard Troubleshoot: Reactivating the Missing Backlight Feature</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/recuperation-de-fichiers-vwp-elimines-strategies-et-astuces-pour-2024/"><u>Récupération De Fichiers VWP Éliminés : Stratégies Et Astuces Pour 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>Unlock Earnings The Guide to Successful Vimeo Monetization</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unearthing-highlighted-online-dialogue/"><u>[New] Unearthing Highlighted Online Dialogue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamers-toolkit-beyond-streamlabs-obs-for-2024/"><u>[Updated] Streamer's Toolkit Beyond Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-professional-gopro-filming/"><u>2024 Approved The Ultimate Guide to Professional GoPro Filming</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/samsung-860-evo/"><u>驚愕！Samsung 860 EVOを完全に模写するための手軽な、無料ツールが登場！簡単操作で保存してください</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-find-x6-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo Find X6 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-power-and-savings-apples-latest-macbook-air-featuring-the-m2-processor-slashed-to-just-799-in-pre-prime-time-sale/"><u>Discover the Power and Savings: Apple's Latest MacBook Air Featuring the M2 Processor Slashed to Just $799 in Pre-Prime Time Sale!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-officejet-pro-8620-driver-updates-on-windows-pc/"><u>Download and Install HP OfficeJet Pro 8620 Driver Updates on Windows PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-a2mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo A2Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c12-plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C12 Plus to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-20-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark 20 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-g54-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola G54 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-14-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi 14 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tapping-into-the-funny-side-with-photos/"><u>In 2024, Tapping Into the Funny Side with Photos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oneplus-ace-2-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in OnePlus Ace 2 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-the-marketplace-30-advanced-fb-techniques-explored-for-2024/"><u>Mastering the Marketplace 30 Advanced FB Techniques Explored for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-infinix-zero-5g-2023-turbo-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Infinix Zero 5G 2023 Turbo Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside.
-date: 2024-11-29T16:28:06.616Z
-updated: 2024-12-05T16:25:40.156Z
+date: 2024-12-04T16:56:35.175Z
+updated: 2024-12-11T16:06:33.778Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 ## Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside
 
 It seems that strings of bugs come along with the release of[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47) , as many players are reporting**a game not using GPU issue** . While this problem might seem weird, it’s not hard to fix at all. Here we’ll wake you through the fixes and get your GPU working right away.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,10 +33,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  You also need to make sure that the video output comes from your dedicated graphics card. That means your monitor should be connected with your graphics card.
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -74,6 +66,10 @@ To do so, first visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
@@ -81,7 +77,7 @@ To do so, first visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
@@ -97,6 +93,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
@@ -105,11 +105,11 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -122,7 +122,7 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -150,20 +150,17 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-learning-the-process-of-acquiring-movie-maker-6/"><u>[Updated] 2024 Approved Learning the Process of Acquiring Movie Maker 6</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplify-your-vlog-presence-with-tubebuddys-tools/"><u>[Updated] In 2024, Amplify Your Vlog Presence with TubeBuddy's Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-one-youtube-feed-how-to-merge-multiple-videos/"><u>[Updated] In 2024, One YouTube Feed How to Merge Multiple Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-free-recording-exploring-apowersofts-screen-capture/"><u>2024 Approved Free Recording Exploring Apowersoft's Screen Capture</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972130258-free-epson-wf-2630-printer-drivers-compatible-with-windows-7-81-and-10-get-your-downloads-here/"><u>Free Epson WF-2630 Printer Drivers: Compatible with Windows 7, 8.1 & 10 - Get Your Downloads Here</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y200e-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y200e 5G to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lenovo-frp-by-drfone-android/"><u>Full Guide to Bypass Lenovo FRP</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-m34mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy M34Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-nokia-xr21-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Nokia XR21</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-c22-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-v30t-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-note-12r-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi Note 12R to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-15-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 15 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionize-your-streaming-experience-top-18-webcam-tools-explored/"><u>Revolutionize Your Streaming Experience Top 18 Webcam Tools Explored</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-balancing-acts-the-power-of-alternate-perspectives-in-crafting-engaging-reaction-videos-on-youtube-2-pov-method/"><u>[New] 2024 Approved Balancing Acts The Power of Alternate Perspectives in Crafting Engaging Reaction Videos on YouTube (2 POV Method)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-user-experience-creating-high-roi-animated-ads-for-fb-for-2024/"><u>[New] Enhancing User Experience Creating High-ROI Animated Ads for FB for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-k70-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oneplus-11r-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track OnePlus 11R without App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y100-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y100 5G PC | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-11x-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme 11X 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tutorial-how-to-completebackup-and-wipe-your-iphone-using-stellar/"><u>Expert Tutorial: How to Completebackup and Wipe Your iPhone Using Stellar</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-poco-x5-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Poco X5 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-g42-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia G42 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boosting-viewership-responsibly-strategies-that-work/"><u>In 2024, Boosting Viewership Responsibly Strategies That Work</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-ai-assessment-what-comes-after-turings-trial/"><u>The Future of AI Assessment: What Comes After Turing's Trial?</u></a></li>
 </ul></div>
 
