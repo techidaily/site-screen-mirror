@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
-date: 2024-12-05T16:52:49.391Z
-updated: 2024-12-11T16:37:11.783Z
+date: 2024-12-12T19:02:49.576Z
+updated: 2024-12-17T17:24:05.302Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
@@ -14,12 +14,16 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Escort Max360 Laser Radar Detector with GPS
 
 ![Escort Max 360 Laser Radar Detector with GPS](https://www.lifewire.com/thmb/bHImXEngi7QSN1OMNbWkeW9b1l8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_Max360_0Herosquare-0cdd5b712ef0409cb0263171b30f3935.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -42,7 +46,7 @@ Lifewire / Todd Braylor
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Escort Max360 Laser Radar Detector with GPS
@@ -71,7 +75,7 @@ Lifewire / Todd Braylor
  The Escort Max360 is a top of the line radar detector with a wide range of advanced features, including GPS capabilities, 360-degree protection, and IVT filter capabilities. Let’s take a closer look at the true performance of this premiere radar detector.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Big and heavy**
@@ -96,6 +100,10 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Mediocre Ka-band**
 
  The Max360 has a lot of advanced features but some work better than others. Escort’s Autolearn technology features 360 degrees of protection and can detect threats from any angle. The Max360’s display will then show you the signal’s location with directional arrows, which is a great feature and helps with quick identification.
@@ -106,10 +114,6 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Performance: Advanced multi-features**
 
  The Max360 has a solid range of advanced features to help you get the most out of this product, starting with its color OLED display. The screen is easy to see in all conditions and shows you helpful information like detection signal strength, current speed and posted speed limit (via GPS data).
@@ -119,10 +123,6 @@ The biggest and heaviest radar detector I've tested.
  Last but not least in terms of performance is the Max360’s support for In-Vehicle Technology (IVT) filters. The Max360’s software requires updating to optimize IVT filtering and is highly recommended. These features help reduce the occurrence of false alerts from other vehicle’s anti-collision warning systems. This feature is what really sets the Max360 apart from cheaper models in terms of high-end technology. Cheaper models struggle with the prevalence of IVT signals on the road today and it leads to a frustrating experience.
 
  Lifewire / Todd Braylor
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Too expensive**
 
@@ -169,14 +169,15 @@ The biggest and heaviest radar detector I've tested.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-jump-cuts-in-your-vlog-for-2024/"><u>[New] How To Use Jump Cuts in Your Vlog for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-expedited-photographic-viewing-in-windows-10/"><u>[Updated] 2024 Approved Expedited Photographic Viewing in Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-a-visual-journey-in-filmmaking-insights-from-filmora-expertise/"><u>2024 Approved A Visual Journey in Filmmaking Insights From Filmora Expertise</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-y55s-5g-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-14-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi 14 Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-meizu-21-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-c67-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-a14-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy A14 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-text-generator/"><u>Updated What Is an AI Text Generator?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-epic-escapades-10-roguelite-games-reviewed/"><u>[New] 2024 Approved Epic Escapades #10 Roguelite Games Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfect-your-virtual-meeting-vibes-google-meet-background-tips/"><u>[New] In 2024, Perfect Your Virtual Meeting Vibes Google Meet Background Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortless-twitch-livestream-restarts/"><u>[Updated] 2024 Approved Effortless Twitch Livestream Restarts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-your-first-adobe-presenter-video/"><u>[Updated] The Ultimate Guide to Your First Adobe Presenter Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-vivo-y100i-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Vivo Y100i</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v30-lite-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V30 Lite 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-90-pro-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor 90 Pro to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y27-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y27 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-itel-p55t-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Itel P55T to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-symphony-of-microphones-on-a-mac/"><u>In 2024, Symphony of Microphones on a Mac</u></a></li>
 </ul></div>
 

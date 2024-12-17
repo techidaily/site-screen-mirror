@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Can Tecno Pova 5Mirror Share to PC? | Dr.fone
-date: 2024-07-26T09:36:21.986Z
-updated: 2024-07-27T09:36:21.986Z
+date: 2024-12-11T19:34:07.345Z
+updated: 2024-12-17T20:02:39.208Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -19,9 +19,6 @@ It usually happens with you during an office presentation or a task where you en
 
 ![Tecno Pova 5share screen to a pc](https://images.wondershare.com/drfone/article/2021/03/share-huawei-screen-on-a-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Part 1: Tecno Pova 5Mirror Share to PC using Tecno Pova 5’s Multi-Screen
 
 Tecno Pova 5has recognized the significance of the feature and has devised its mechanism by providing the screen mirroring capability on its phone. This built-in feature makes it quite easier for you to share Tecno Pova 5's screen to PC. The mirroring feature offered by Tecno Pova 5can be countered in a few easy steps that are quite not strenuous to understand. To get ahold of Tecno Pova 5's mirror sharing feature to PC, follow the steps provided below.
@@ -30,47 +27,28 @@ Tecno Pova 5has recognized the significance of the feature and has devised its m
 
 It is necessary to have your devices attached for screen mirroring through a single Wi-Fi connection. After connecting your PC and Tecno Pova 5using the same Wi-Fi source, access the Notification Center of your PC by tapping on the bottom right button to lead to a new screen. Tap on "Connect" from the list of options under the Collapse section.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on the connect option for screen mirroring](https://images.wondershare.com/drfone/article/2020/08/tap-on-the-connect-option-for-screen-mirroring.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Access Your Tecno Pova 5**
 
 Following this, you need to select the option of mirroring Tecno Pova 5screen to PC by accessing the Notification bar from the top of the phone. From the series of a different prompt button, you need to select "Wireless Projection" to mirror Tecno Pova 5to PC.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select wireless projection option](https://images.wondershare.com/drfone/article/2020/08/select-wireless-projection-option.jpg)
 
 **Step 3: Selecting the Computer**
 
 A new window opens on the front of the screen. It will consist of the Tecno Pova 5 devices that are available on the same Wi-Fi connection to get shared. After selecting the appropriate computer, you can conclude the procedure since anything opened on the screen can now be observed on the PC as well.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: MirrorGo: The Best Mirroring Application
 
 If you are up for searching other options to mirror share Tecno Pova 5to PC, there are many other platforms that may provide you effective mirroring services. However, while understanding the saturation that exists in the market, this article intends to provide you with a perfect platform for mirror sharing your Tecno Pova 5to PC with ease.
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) offers the best results with HD resolution for a better experience over a big screen. This application intends to develop a controlled environment over the computer for the user, as compared to other platforms that desperately fail to offer a controlled foundation in screen mirroring. MirrorGo looks over a vast window of practical applications, for which it consists of tools that have a use apart from screen mirroring. MirrorGo offers you to record your mirrored device screen, take a screenshot of an important frame, or even have it shared across different viewing platforms. This platform seeks to induce a better approach to mirroring your Tecno Pova 5to PC as compared to the other software existing in the market. To understand the simple guide on how to efficiently utilize the platform, you need to look over the steps adjourned below.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Tecno Pova 5 deviceto your computer!
@@ -91,6 +69,10 @@ It is important to have your PC attached to the specific Tecno Pova 5device that
 
 ![connect android phone to pc 04](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Accessing Settings**
 
 Following this, you need to access the settings of you Tecno Pova 5to open the “System & Updates” section. Click on the “Developer Options”. Then enable USB Debugging with the toggle available on the window.
@@ -104,8 +86,9 @@ After successfully enabling USB Debugging, a pop-up appears on the Tecno Pova 5d
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Tecno Pova 5Mirror Share to PC wirelessly via AllCast
 
 Mirroring Android Devices has been made easier with a very definitive and expansive device of AllCast where you can share your Tecno Pova 5screen to PC by following a few steps, as stated below.
@@ -135,8 +118,9 @@ This article has introduced several screens mirroring platforms that can be used
 Mac OS, on the other hand, is a wonderful operating system used by Apple Inc. on it's Mac PC and MacBook. It has a marvelous user interface and great features. It will be fantastic if we were able to use Android apps on Mac PC. Luckily, it is possible by using an emulator. In this article, we will learn about the five best Android Emulators for Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1. Why You Would Run Android Apps on Mac
 
 - • To run around 1.2 million apps on Mac from Google Play Store.
@@ -144,6 +128,10 @@ Mac OS, on the other hand, is a wonderful operating system used by Apple Inc. on
 - • People, who spend a good amount of time in front of desktop, will find it more convenient if they were able to use apps like WeChat, WhatsApp, Viber, Line etc. on their Mac.
 - • App developer can test their apps on the desktop before sending it to the Google Play Store for user reviewing.
 - • Some Emulator supports battery and GPS widgets. So, developers can test their apps based on the battery performance and can also test how their apps will work on different geographical locations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Top 3 Android Emulator for Mac
 
@@ -174,14 +162,12 @@ BlueStacks maintain an internal search manager that allows any apk, the package 
 
 Download BlueStacks for Mac OS X from the official website of BlueStacks and install it like any other software on your PC. Once installed, it will boot up to its Home Screen. From there you can find the installed apps, find new apps in the "Top Charts", search apps, play games and change settings. Mouse will be the basic touch controller. To access Google Play you will have to associate a Google Account with BlueStacks.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/bluestacks.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Genymotion
 
 Genymotion is a fast and wonderful third party emulator that can be used to create a virtual environment for Android. It is the fastest Android emulator on the earth. It can be used to develop, test and run Android apps on Mac PC. It is available for Windows, Mac, and Linux machine. It is easy to install and can create a customized android device. You can start multiple virtual devices at the same time. It has the pixel perfect functionality so you can be precise to your UI development. By using the OpenGL acceleration it can achieve the best 3D performance. It directly commands the virtual devices sensors with Genymotion sensors. It is evolution of the Android open source project and already trusted by about 300,000 developers around the globe.
@@ -217,9 +203,6 @@ Genymotion is a fast and wonderful third party emulator that can be used to crea
 - 10\. Your virtual device will be now be downloaded and deployed. Click on the Finish button after successful deployment of your virtual machine.
 - 11\. Click on the Play button to start the new virtual machine and enjoy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/genymotion.jpg)
 
 ### 3\. Andy
@@ -249,16 +232,14 @@ Andy is an open source emulator that allows developers and users to enjoy more r
 - 2\. Launch Andy. It will take about a minute to boot and then it should see a welcome screen.
 - 3\. Sign into your Google Account and complete the rest of the setup screen. You will be asked to provide your Google Account Information to 1ClickSync, the app that let's you sync between Andy and the mobile device
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android emulator for Mac](https://images.wondershare.com/drfone/others/andy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Screen Mirroring Tecno Pova 5?
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Most people think that screen mirroring is only a feature you can enjoy if you have an iPhone and Apple TV. But here is a piece of good news for Tecno  fans as screen mirroring Tecno Pova 5 is also possible. By this can connect your smartphone to any TV and PC. Screen mirroring is casting your smartphone to a big screen so you can enjoy videos, pictures, music, and games on a large screen. It usually takes a few minutes to connect devices. The only thing you required is a sending and receiving device. The devices must be on the same network.
@@ -301,6 +282,10 @@ Screen mirroring Tecno Pova 5 to PC through third party app is easy. For this Vy
 
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-2](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7\. Vysor will automatically connect your smartphone to the PC.
 
 Vysor is available as both a free and paid version. The free version can be enough for you but if you want to enjoy its advanced feature e.g. full screen mirroring and high-quality display; you can go for the paid version. There is a limitation in using the free version as it shows ads frequently that might irritate you .
@@ -320,14 +305,12 @@ Screen mirroring Tecno Pova 5 to smart TV is not a difficult task. You can strea
 5\. Your phone will be connected to the TV.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Screen Mirroring Tecno Pova 5 to any TV or PC is a piece of exciting news for MI users. It is simple like mirroring the iPhone screen to TV or PC. You can enjoy it by using third party apps or by using a USB cable. It can let you share your videos, music, and pictures to a large screen. You can also enjoy video games on PC and TV by using this feature. Not only this, but you can also share your documents and presentations with your friends and coworkers by using screen mirroring feature. Just make sure to have both devices on the same Wi-Fi network and you are all done.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -341,7 +324,26 @@ Screen Mirroring Tecno Pova 5 to any TV or PC is a piece of exciting news for MI
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-full-spectrum-analysis-the-complete-logitech-4k-webcam-review/"><u>[New] In 2024, Full Spectrum Analysis The Complete Logitech 4K Webcam Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-in-depth-look-screen-capture-tools-for-mac/"><u>[New] In 2024, In-Depth Look Screen Capture Tools for Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-speech-analysis-and-conversion-its-free/"><u>[New] Speech Analysis and Conversion - It's Free</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tackling-live-broadcasts-the-intersection-of-obs-and-zoom-for-2024/"><u>[New] Tackling Live Broadcasts The Intersection of OBS and Zoom for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-complete-review-of-camstudio-screencap-tech-for-2024/"><u>[New] The Complete Review of CamStudio Screencap Tech for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-audience-engagement-and-its-impact-on-youtube-performance/"><u>[Updated] 2024 Approved Audience Engagement and Its Impact on YouTube Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-nailing-the-art-of-powerpoint-to-video-conversion/"><u>[Updated] Nailing the Art of PowerPoint to Video Conversion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-90-gt-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor 90 GT to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-8-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 8 Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-infinix-smart-8-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Smart 8 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-14-pro-max-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 14 Pro Max to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-11-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme 11 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-f14-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy F14 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-itel-p55-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Itel P55 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-6-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/seamlessly-integrating-zoom-with-facebook-live-for-2024/"><u>Seamlessly Integrating Zoom with Facebook Live for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tecnicas-inovadoras-para-reduzir-o-tamanho-do-seu-conteudo-digital-3-metodos-compactados-exclusivos/"><u>Técnicas Inovadoras Para Reduzir O Tamanho Do Seu Conteúdo Digital - 3 Métodos Compactados Exclusivos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changing-imac-m1-review-stunning-aesthetics-paired-with-unprecedented-processing-ability/"><u>The Game-Changing iMac M1 Review: Stunning Aesthetics Paired with Unprecedented Processing Ability</u></a></li>
+</ul></div>
 
