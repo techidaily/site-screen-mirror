@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Screen Mirroring Realme Narzo 60x 5G? | Dr.fone
-date: 2024-12-05T16:34:25.392Z
-updated: 2024-12-11T16:21:04.526Z
+date: 2024-12-23T17:46:51.469Z
+updated: 2024-12-26T07:32:47.348Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -51,10 +51,6 @@ As the Realme Narzo 60x 5G devices are connected, Xiaomi's screen is displayed o
 
 ![screen mirroring Realme Narzo 60x 5G device](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Screen Mirroring Realme Narzo 60x 5G to PC with MirrorGo
 
 There might be many ways that can help you implement screen mirroring over your PC; however, the question comes over the quality of the approach that is being undertaken. While realizing the variety of mechanisms that can be consumed to screencast your Android to PC, there is another approach that offers the most unique and coherent interface to work on. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) outsmarts the other existing platforms and offers a user experience that enhances the dynamics of screencasting. Following an HD result in the display, MirrorGo officially settles itself as a perfect mechanism for exempting tired eyes while playing over the Android smartphone. Following the mirroring features offered at MirrorGo, it regards itself as a screen recorder and a screen capturer. This leads you to a more expansive utility as compared to other existing mirroring solutions. Another aspect that makes MirrorGo the perfect option is the synchronization feature that allows you to stay put with the data across your Android smartphone. Sharing your Realme Narzo 60x 5G to PC is a very simple procedure with MirrorGo, which can be understood from the guide provided as follows.
@@ -91,10 +87,6 @@ A prompt message appears on the screen for the establishment of the connection. 
 
 ![mirror android phone on pc](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Mirroring is done.**
 
 Now you can see your Realme Narzo 60x 5G phone screen on the computer screen.
@@ -123,6 +115,10 @@ After enabling the USB Debugging mode, you need to re-launch the .exe file on yo
 
 ![screen-mirroring-completed](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Screen Mirroring Realme Narzo 60x 5G to PC Wirelessly – Vysor
 
 Vysor has presented itself as a very strong screen mirroring application for Android phones such as Xiaomi. It provides a USB and ADB connection to its users who wish to mirror Realme Narzo 60x 5G to PC using Vysor. This application might be referred to as the best in the market; however, it still presents a very peculiar drawback for many of its consumers. Many people have reported a high drainage rate of their phone's battery over using Vysor for screen mirroring through a USB connection. This article looks forward to presenting you with the usage of ADB connection in screen sharing Realme Narzo 60x 5G to your PC.
@@ -136,10 +132,6 @@ You need to have USB debugging enabled on your phone to connect your Realme Narz
 Turn on the Command Prompt on your PC to initiate an ADB command terminal. For that, you need to type in ‘adb tcpip 5556’ to restart ADB in TCPIP mode.
 
 ![type-the-command](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Locate your IP Address**
 
@@ -188,10 +180,6 @@ Your phone might take a while to install the drivers for connecting to the PC. A
 ### Conclusion
 
 This article has featured a list of different screen mirroring solutions you can use on your Realme Narzo 60x 5G device. If you are looking for an effective **Mi screen mirroring** on a PC, you can use tools like Dr.Fone Air to mirror smartphones effectively without taking considerable time. The provided solutions are among the best options, saving you time and effort in connecting devices successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Use Allshare Cast To Turn On Screen Mirroring On Realme Narzo 60x 5G
 
@@ -271,15 +259,19 @@ Tap on the 'screen mirroring' icon to enable the process on your Realme Narzo 60
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-screen mirroring](https://images.wondershare.com/drfone/others/Allshare%20Cast%2010.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When your phone detects all the nearby devices, select AllShare Cast's dongle name and enter the PIN as the TV screen shows.
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-enter the PIN](https://images.wondershare.com/drfone/others/Allshare%20Cast%2011.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now the screen mirroring is complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Screen Mirror from Realme Narzo 60x 5G to a Samsung Smart TV
 
@@ -298,6 +290,10 @@ Go to 'quick settings' by tapping on screen mirroring.
 Your phone will make a list of all the available devices that are present for screen mirroring.
 
 ![use Allshare Cast to turn on screen mirroring on Samsung Galaxy-make a list of all the available devices](https://images.wondershare.com/drfone/others/Allshare%20Cast%201401.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Select Samsung Smart TV.
 
@@ -321,11 +317,19 @@ Mirror your Realme Narzo 60x 5G deviceto your computer!
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Full Guide on Mirroring Your Realme Narzo 60x 5G to Your PC/Mac
 
 ## 1.Why People Want to Mirror Their Android to PC?
 
 The best thing about Android phones these days is that they are like mini computers in which you can save lots of things like photographs, videos, music, and even your important documents. Carrying a phone is very convenient as well, and you have the whole world gathered into a single device. But there are times when you need to show something important to other people on your phone and you need to connect it to your PC, especially if it is some important information which you collected from the internet, and want to show your family or colleagues. In situations like this mirroring, your Android to PC becomes really important as you don't have to mail or send the data to everyone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Ways in Which You Can Mirror Android to PC
 
@@ -353,13 +357,13 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/mirroropwork.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/wifinetwork.png)![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/startmirroring.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.1.2 Miracast
@@ -378,10 +382,6 @@ Miracast is an application that is used for mirroring Android with PC via a WiFi
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/selectcastscreen.png)![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/enablewirelessdisplay.png)![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/screenisbeingcasted.png)
 
 Now, you can easily mirror your Android with your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.2 Mirror Android to PC with USB
 
@@ -423,6 +423,10 @@ Droid@Screen is another popular application that is used to mirror Android to PC
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/runtheapplication.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/clickon.png)
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/clickok.png)
@@ -434,19 +438,11 @@ Droid@Screen is another popular application that is used to mirror Android to PC
 
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/turnthedeveloper.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![mirroring your Android to your PC](https://images.wondershare.com/drfone/others/mirroredtoyourpc.png)
 
 ## 3\. Best Tool on How to Mirror Your Android to Your PC - Wondershare Dr.Fone
 
 Although there are many different tools available on the internet that help you in mirroring your Android device with your PC, yet if you are looking for the best one, it is definitely [MirrorGo (Android)](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/). This app is a very easy and professional solution to all your mirroring problems. MirrorGo works on Windows 10, Windows 7, Windows 8, Windows Vista as well as on Windows XP. It is also compatible with iOS as well as Android.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone (Android)](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
@@ -495,6 +491,10 @@ Once you have mirrored your Android device with your PC, you can do a lot of int
 
 So you don't own a PC but are a proud owner of a Mac. Well, there is nothing to worry about as you can easily mirror your Android device to your Mac as well. Just like mirroring your PC and device can be done by the use of different available software, mirroring your device to Mac consists of many different options as well. after mirroring, you can enjoy different exciting experiences like using your Whatsapp on a bigger screen and playing Minecraft on your MAC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Best Way to Mirror Your Android to Mac
 
 There are different ways through which you can mirror your Android device with your Mac. However, the best option which is available is AirDroid. With the help of AirDroid, you can easily control your device through your Mac ad can enjoy different exciting experiences.
@@ -526,18 +526,18 @@ MirrorOp is available on the PlayStore and can be downloaded easily. Before mirr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-removing-unneeded-podcast-advice-from-spotify/"><u>[New] 2024 Approved Removing Unneeded Podcast Advice From Spotify</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-50-free-youtube-banners-come-see-them-all/"><u>[New] In 2024, 50 FREE YouTube Banners - Come See Them All</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-smart-shopping-tips-economical-gopro-cameras/"><u>[Updated] Smart Shopping Tips Economical GoPro Cameras</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-streamlining-the-acquisition-of-background-visual-content/"><u>[Updated] Streamlining the Acquisition of Background Visual Content</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-taming-unwanted-shake-in-drones-visual-outputs/"><u>2024 Approved Taming Unwanted Shake in Drones' Visual Outputs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-yuva-3-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-google-pixel-8-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Google Pixel 8 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-poco-x5-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Poco X5</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-12-pro-max-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 12 Pro Max to iPad? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-hot-40-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Hot 40 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/supreme-4k-display-selection-the-best-of-ten-for-2024/"><u>Supreme 4K Display Selection The Best of Ten for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1586530-9781847089434-what-do-druids-believe/"><u>What Do Druids Believe? | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-bring-your-stories-alive-techniques-for-animation-in-text/"><u>[New] 2024 Approved Bring Your Stories Alive Techniques for Animation in Text</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-optimizing-colors-in-films-via-luts-for-2024/"><u>[New] Optimizing Colors in Films via Luts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-precision-and-savings-combined-top-asmr-microphones-within-reach/"><u>[Updated] Precision & Savings Combined Top ASMR Microphones Within Reach</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-gif-magic-on-mac-leading-tools-of-10/"><u>2024 Approved GIF Magic on Mac Leading Tools of 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-meizu-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Meizu Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-wf-2540-driver-download-for-windows-71081/"><u>Epson WF 2540 Driver Download for Windows 7/10/8.1</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-note-12-pro-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi Note 12 Pro 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-reno-9a-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo Reno 9A to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-poco-m6-pro-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Poco M6 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlined-teaching-mastering-lecture-capture-on-mac-systems-for-2024/"><u>Streamlined Teaching Mastering Lecture Capture on Mac Systems for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-zero-5g-2023-turbo-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Zero 5G 2023 Turbo? Here is How | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-6s-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 6s Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
 </ul></div>
 
