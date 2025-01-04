@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving 'Super Sensei' Collision Issues in Your PC"
-date: 2024-12-22T10:23:01.569Z
-updated: 2024-12-26T00:44:48.839Z
+date: 2024-12-31T20:50:42.436Z
+updated: 2025-01-04T20:48:06.530Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Install the latest patch
@@ -56,11 +56,11 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
- Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -71,13 +71,17 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
- Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
 
 ### Fix 3 – Update your graphics driver
 
@@ -94,15 +98,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Switch to DirectX 11
 
@@ -112,18 +108,22 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -160,19 +160,22 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elevate-your-filming-flair-with-free-green-screen-insights-from-4-youtube-authorities-for-2024/"><u>[New] Elevate Your Filming Flair with Free Green Screen Insights From 4 YouTube Authorities for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-secrets-to-updating-your-facebook-banner/"><u>[New] Secrets to Updating Your Facebook Banner</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-jotunheim-raid-the-war-of-the-worlds/"><u>[Updated] 2024 Approved Jotunheim Raid The War of the Worlds</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-favorite-hits-the-years-highest-viewers/"><u>[Updated] Facebook’s Favorite Hits The Year's Highest Viewers</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-oneplus-open-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus Open Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-google-pixel-8-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Google Pixel 8 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-se-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone SE to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-x5-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco X5 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-mini-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 mini Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-xcover-7-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy XCover 7 Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/understanding-why-windows-update-can-be-a-slow-experience/"><u>Understanding Why Windows Update Can Be a Slow Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-srt-production-via-xml-ssa-and-ttml-conversions/"><u>[New] 2024 Approved SRT Production via XML, SSA & TTML Conversions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-comprehensive-guide-to-srgb-and-rgb/"><u>[New] In 2024, Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-trending-upward-amplifying-your-youtube-audience-for-2024/"><u>[Updated] Trending Upward Amplifying Your YouTube Audience for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-5-tips-for-enhancing-photo-colors-effortlessly/"><u>2024 Approved 5 Tips for Enhancing Photo Colors Effortlessly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/evaluating-photoshop-sway-effective-or-not-in-2024/"><u>Evaluating Photoshop Sway Effective or Not, In 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nubia-z50-ultra-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nubia Z50 Ultra to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-yuva-3-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Yuva 3 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-x50iplus-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor X50i+ to Mac? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nokia-xr21-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nokia XR21 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oneplus-11-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring OnePlus 11 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-v30t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme V30T Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-13c-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi 13C 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-of-realtek-alc-audio-drivers-compatible-with-windows-11/"><u>Quick Download of Realtek ALC Audio Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 6 Plus Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-for-the-non-functioning-exodus-kodi-add-on-latest-july-fixes/"><u>Troubleshooting Steps for the Non-Functioning Exodus Kodi Add-On - Latest July Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-modifications-combining-gpt-with-vs-code/"><u>Ultimate Modifications: Combining GPT with VS Code</u></a></li>
 </ul></div>
 

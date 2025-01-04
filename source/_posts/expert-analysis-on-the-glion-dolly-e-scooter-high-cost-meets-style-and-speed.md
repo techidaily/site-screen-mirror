@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
-date: 2024-12-21T17:09:26.302Z
-updated: 2024-12-26T11:19:14.604Z
+date: 2024-12-30T18:56:55.920Z
+updated: 2025-01-04T20:52:06.936Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
@@ -13,16 +13,12 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Escort Max360 Laser Radar Detector with GPS
 
 ![Escort Max 360 Laser Radar Detector with GPS](https://www.lifewire.com/thmb/bHImXEngi7QSN1OMNbWkeW9b1l8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_Max360_0Herosquare-0cdd5b712ef0409cb0263171b30f3935.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
@@ -46,7 +42,7 @@ Lifewire / Todd Braylor
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Escort Max360 Laser Radar Detector with GPS
@@ -74,10 +70,6 @@ Lifewire / Todd Braylor
 
  The Escort Max360 is a top of the line radar detector with a wide range of advanced features, including GPS capabilities, 360-degree protection, and IVT filter capabilities. Let’s take a closer look at the true performance of this premiere radar detector.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Big and heavy**
 
  The Escort Max360 is the biggest and heaviest radar detector I've tested. This is probably the first thing you'll notice right out of the box. The model comes with a single suction cup windshield mount that felt secure despite the unit's weight. A magnet secures the mounting arm bracket when latched in place on the radar detector, preventing any tumbles from bumps in the road.
@@ -92,6 +84,10 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: Update and install**
 
  The Max360 is easy to set up and start using. It's recommended you update the detector's firmware on a PC before using (the Max360 is not compatible with Mac). The Max360 has a mini USB port to connect to a PC but inconveniently there is no USB cable provided. The SmartCord DC power adapter for the Max 360 also has a USB port on it. Additionally, the SmartCord is designed with a handy control button that allows drivers to mark and mute alerts without having to reach over the dash to press buttons on the unit itself.
@@ -99,10 +95,6 @@ The biggest and heaviest radar detector I've tested.
  Once updated and installed in your vehicle, customizing the Max360's settings is more straightforward. There are advanced and novice modes on the Max360 for customizing features or using factory default settings, respectively. You can customize a range of settings from different advanced alert band Meter Mode displays and detector sensitivity to alert tone volume and four display colors to match your car's dash display; blue, green, red, or amber.
 
  Lifewire / Todd Braylor
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Range: Mediocre Ka-band**
 
@@ -113,6 +105,10 @@ The biggest and heaviest radar detector I've tested.
  During highway testing, a less expensive Escort model sounded an alert on Ka-band a few brief moments before the Max360 picked up the signal. In this case, the threat was a parked sheriff almost two miles down the interstate. Approximately three to four seconds difference of sensitivity with Ka-band detection is not a massive discrepancy but anyone should reasonably assume the more expensive model to have the same or better range.
 
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Advanced multi-features**
 
@@ -129,6 +125,10 @@ The biggest and heaviest radar detector I've tested.
  The Escort Max 360 is quite pricey at $550 MSRP. This is a quality radar detector in terms of user experience, but the overall value is subpar. I appreciate Escort's inclusion of advanced filtering capabilities but the Max360's relatively short range Ka-band detection falls short of expectations for a $500+ product.
 
  This is a quality radar detector in terms of user experience, but the overall value is subpar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Escort Max 360 Radar Detector vs. Radenso Pro M Radar Detector**
 
@@ -169,19 +169,24 @@ The biggest and heaviest radar detector I've tested.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-conquering-peaks-and-valleys-comparing-the-mightiest-gopros-b-and-sessions/"><u>[Updated] 2024 Approved Conquering Peaks and Valleys Comparing the Mightiest GoPros, B & Sessions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-guide-to-easy-video-cuts-on-windows-phones/"><u>[Updated] A Step-by-Step Guide to Easy Video Cuts on Windows Phones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-single-platform-focus-disabling-cross-play-for-personal-zen/"><u>[Updated] In 2024, Single-Platform Focus Disabling Cross-Play for Personal Zen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-a1-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo A1 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-x5-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Poco X5 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-find-x7-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Find X7 Phone that is Locked?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to others devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-climb-the-fame-hierarchy-on-instagram-discovering-9-game-changing-tips/"><u>In 2024, Climb the Fame Hierarchy on Instagram Discovering #9 Game-Changing Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-xs-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone XS to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-zte-nubia-z60-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your ZTE Nubia Z60 Ultra Screen | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavimp3-mp4/"><u>Movaviで無償オンライン音楽形式(MP3, MP4)変換機能 - 利用ガイド</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-c51-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco C51 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-art-of-aerial-cinematography-drone-editing-insights/"><u>The Art of Aerial Cinematography Drone Editing Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y100-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y100 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-through-the-complexities-of-canon-time-lapse/"><u>[New] In 2024, Navigating Through the Complexities of Canon Time-Lapse</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-utilizing-snap-camera-feature-on-microsoft-teams/"><u>[New] In 2024, Utilizing Snap Camera Feature on Microsoft Teams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-premium-list-live-streaming-with-local-channel-support-2024/"><u>[New] The Premium List Live Streaming with Local Channel Support, 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-tips-for-skyrocketing-your-instagram-followers/"><u>[Updated] 2024 Approved Essential Tips for Skyrocketing Your Instagram Followers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-effective-strategies-to-log-your-google-voice-talks/"><u>2024 Approved Effective Strategies to Log Your Google Voice Talks</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-single-platform-livestreaming-unveiling-onestream-techniques/"><u>2024 Approved Mastering Single-Platform Livestreaming Unveiling OneStream Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-poco-m6-pro-4g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco M6 Pro 4G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-success-on-youtube-standard-studio-or-beta/"><u>Crafting Success on YouTube Standard Studio or Beta</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-itel-p55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Itel P55 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-a2plus-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi A2+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-note-30-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Note 30 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-play-40c-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Play 40C Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-x-flip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo X Flip Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-defy-2-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-12-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Realme 12 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-7-plus-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 7 Plus to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-importing-and-exporting-videos-in-adobe-premiere-pro/"><u>Updated The Ultimate Guide to Importing and Exporting Videos in Adobe Premiere Pro</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-rights-vs-cc-licensing-for-2024/"><u>YouTube Rights Vs. CC Licensing for 2024</u></a></li>
 </ul></div>
 
