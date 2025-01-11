@@ -1,7 +1,7 @@
 ---
 title: "Successful Installation Guide: IDT High Definition Audio Codec Drivers on Windows 11"
-date: 2025-01-03T18:57:04.288Z
-updated: 2025-01-04T19:11:38.604Z
+date: 2025-01-08T16:04:20.083Z
+updated: 2025-01-11T16:24:12.108Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 When you connect any pair of Bluetooth headphones or Bluetooth devices to your computer, but the audio cuts in and out randomly or disconnects even when it is fully charged, it’s pretty sure you’re experiencing the**Bluetooth audio stuttering** issue. Don’t worry, you’re not alone and we have fixes for you.
 
  If you’re using**2.4 GHz band WiFi** , your Bluetooth devices and Wi-Fi may interfere with each other and cause the stuttering issue. Shut down your Wi-Fi and check whether the problem disappeares. If the problem remains, read on to try the below fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,15 +46,7 @@ If you’re using the Windows 11 system, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 3. Click the**Run** button next to the Bluetooth, and follow the instructions.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/win11-bluetooth.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Here’s how to do it on Windows 10:
 
@@ -59,22 +55,18 @@ Here’s how to do it on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 3. On the left pane, click **Troubleshoot** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Under **Find and Fix other problems** , click on **Bluetooth** .
 5. Click on **Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/bluetooth.jpg)
 6. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Reboot your computer and check whether the problem is fixed or not.
 
 If this fix was unable to solve the issue, please move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Disable audio enhancement
 
@@ -85,23 +77,19 @@ If this fix was unable to solve the issue, please move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click **Enhancement** . Make sure the box for **Disable all enhancements** is empty. Click **Apply** and **OK** to save the change.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t have an Enhancement tab here, the culprit is not enhancement then. Move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Change audio formats
@@ -112,6 +100,10 @@ If this fix was unable to solve the issue, please move to the next fix.
 2. Type “mmsys.cpl” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/mmsyssound.jpg)
 3. Right-click your default playback device (the one with a green tick) and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/sound.jpg)
 4. Click the **Advanced** tab. Select **16 bit, 48000 Hz (DVD Quality)** . Click **Apply** and **OK** to save the changes.  
@@ -140,10 +132,18 @@ If this fix was unable to solve the issue, please move to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/04/de-update-all-Realtek-Audio.jpg)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable Hands-free Telephony
 
@@ -157,15 +157,19 @@ If this fix was unable to solve the issue, please move to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-36.png)
 4. Right-click your headset and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-38.png)
 5. Go to**Services** , and untick the box for**Hands-free Telephony** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-39.png)
 6. Click**Apply** and**OK** to save and exit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your Bluetooth devices again to see if the stuttering problem remains. If so, please move on.
 
@@ -195,17 +199,13 @@ If this fix was unable to solve the issue, please move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -232,20 +232,17 @@ If this fix was unable to solve the issue, please move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-conquering-cinematic-recording-a-guide-to-windowsmacosios/"><u>[Updated] Conquering Cinematic Recording A Guide to Windows/macOS/iOS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-enabling-instant-access-to-youtube-videos-in-your-facebook-browsing-for-2024/"><u>[Updated] Enabling Instant Access to YouTube Videos in Your Facebook Browsing for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-immerse-users-in-soundfilters-of-windows-10-photos/"><u>2024 Approved Step-by-Step Guide to Immerse Users in Sound/Filters of Windows 10 Photos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/becoming-a-visionary-in-depth-guide-to-hdr-photography-for-2024/"><u>Becoming a Visionary In-Depth Guide to HDR Photography for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/creating-music-from-videos-instagrams-secret-sauce-for-2024/"><u>Creating Music From Videos Instagram's Secret Sauce for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-12-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi 12 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y36i-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y36i to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-a1-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo A1 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-sony-xperia-5-v-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Sony Xperia 5 V to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-moto-e13-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y200e-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y200e 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-a05s-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy A05s to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-refining-your-tiktok-end-screen-elements/"><u>In 2024, Refining Your TikTok End Screen Elements</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-smart-7-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Smart 7 Phone Now with These Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-chronoscope-effect-flip-your-snapchat-videos-right-for-2024/"><u>[New] Chronoscope Effect Flip Your Snapchat Videos Right for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning-for-2024/"><u>[New] Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-location-love-your-ultimate-poi-assistant-for-timely-tips-and-tricks/"><u>2024 Approved Location Love Your Ultimate POI Assistant for Timely Tips and Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/banishing-screen-glitches-in-modern-operating-systems/"><u>Banishing Screen Glitches in Modern Operating Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a38-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A38 Device SIM</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-12-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 12 Display? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-x7b-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-y100i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo Y100i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-reno-8t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Reno 8T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-x100-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo X100 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728487684312-windows-11pc/"><u>Windows 11で数日前のPC状況を回復する簡単な方法</u></a></li>
 </ul></div>
 

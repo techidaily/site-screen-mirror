@@ -1,7 +1,7 @@
 ---
 title: "Wolcen - Lords of Mayhem Update: Why It's Still Not Released"
-date: 2025-01-03T21:26:43.299Z
-updated: 2025-01-04T21:51:15.831Z
+date: 2025-01-09T16:03:21.504Z
+updated: 2025-01-11T16:17:47.845Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/40a87a83-1301-48cf-8754-a86aea845dbb-1200x676.jpg)
 
  The Ascent is finally out! Seems like players are enjoying this game so far and have confirmed the hype is real. But just like any other new releases, we’re seeing reports of errors and bugs, including**The Ascent not launching** . If you also run into this problem, no worries! In this post, we’ll introduce some working fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -65,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 | **Storage**          | 35 GB available space                                                                                                                         |
 | **Additional Notes** | Recommended specs listed above allow gameplay experience close to 60 FPS on average while using 1080p resolution and overall “High” settings. |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Run The Ascent as admin
 
  Lacking admin privileges could also be the reason for the launching failure. You can try to run the Steam client or the game executable as administrator. Below we’ll take the Steam client as an example:
@@ -76,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 1. Right-click Steam, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/right-click-properties.jpg)
 2. Under the**Compatibility** tab, check the box of**Run this program as an administrator** . Click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-this-program-as-an-administrator.jpg)
 3. The Steam client will launch now. You can run The Ascent to see if it launches now.
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 2. Under**LOCAL FILES** , click**Browse** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/browse-local-files-in-steam-client.jpg)
@@ -107,10 +103,6 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
 
  If verifying your game files doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your graphics driver
 
@@ -137,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
  Restart your PC for the new driver to take effect. If updating graphics driver doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Run The Ascent in DirectX 11
 
  Many players reported they couldn’t launch the game with DirectX 12\. It seems like a compatibility issue with DirectX 12 but so far the developers haven’t released a patch for it yet. What you can do for now is to run the game in DirectX 11 as a workaround. Here’s how:
@@ -145,17 +141,13 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
- You can now run the game to see if the problem is gone. If it persists, try the next solution.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can now run the game to see if the problem is gone. If it persists, try the next solution.
 
 ## Fix 6: Check your antivirus
 
@@ -182,22 +174,30 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If The Ascent now starts, this means at least one of the programs you disabled was causing the problem.  
   
@@ -222,7 +222,7 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
@@ -253,22 +253,17 @@ thumbnail: https://thmb.techidaily.com/37f0c7d85b74086e02697b065e94b8850d62fdad3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-global-youtube-elite-earnings-leader-for-2024/"><u>[Updated] Global YouTube Elite Earnings Leader for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-understanding-and-optimizing-your-contents-spotlight-placement/"><u>[Updated] In 2024, Understanding and Optimizing Your Content's Spotlight Placement</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lava-blaze-2-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lava Blaze 2 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-nubia-z50-ultra-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Nubia Z50 Ultra</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-x5-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco X5 Pattern Lock Screen</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-conversion-of-3g2-files-to-flv-online-at-movavi/"><u>Free Conversion of 3G2 Files to FLV - Online at Movavi</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-infinix-hot-40-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Hot 40 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-8-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-z-fold-5-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-a14-4g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy A14 4G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-control-youtube-audio-mobiledesktop-approach/"><u>In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-x90s-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo X90S for Streaming | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-6-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-basics-of-net-neutrality-simplified-for-everyone/"><u>The Basics of Net Neutrality Simplified for Everyone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-phantom-v-fold-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Phantom V Fold for Streaming | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/2-video-grabber-online-to-download-any-video-you-like/"><u>Top 12 Video Grabber Online to Download Any Video You Like</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/topo-12-ferramentas-de-cortar-livres-em-2024-analise-comparada-por-movavi/"><u>Topo 12 Ferramentas De Cortar Livres Em 2024 - Análise Comparada Por Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-essential-tips-for-navigating-zoom-meetings-on-win10/"><u>[Updated] In 2024, Essential Tips for Navigating Zoom Meetings on WIN10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-rush-towards-a-millennium-of-channel-supporters/"><u>[Updated] Rush Towards a Millennium of Channel Supporters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instant-photo-edit-focus-only-area-softening/"><u>2024 Approved Instant Photo Edit Focus Only Area Softening</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-htc-u23-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror HTC U23 to Roku | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-realme-12-proplus-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-to-retrieve-lost-files-a-guide-to-restoring-data-on-a-reformatted-disk/"><u>How to Retrieve Lost Files: A Guide to Restoring Data on a Reformatted Disk</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-honor-x50iplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Honor X50i+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-snapchats-spotlight-system/"><u>Mastering Snapchat's Spotlight System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-hot-30-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Hot 30 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-defy-2-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola Defy 2 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-secrets-of-international-chatgpt-access/"><u>Unveiling the Secrets of International ChatGPT Access</u></a></li>
 </ul></div>
 

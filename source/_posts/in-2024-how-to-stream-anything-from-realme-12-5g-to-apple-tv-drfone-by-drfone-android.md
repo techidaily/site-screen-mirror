@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Stream Anything From Realme 12 5G to Apple TV | Dr.fone
-date: 2025-01-02T20:52:00.713Z
-updated: 2025-01-04T21:36:04.683Z
+date: 2025-01-07T16:29:13.410Z
+updated: 2025-01-11T16:21:33.042Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -47,6 +47,10 @@ Suppose we consider a situation where you are sitting in a presentation. You dis
 
 ![type-the-command](https://images.wondershare.com/drfone/article/2021/03/screen-mirroring-xiaomi-to-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Screen Mirroring Realme 12 5G to PC via Wi-Fi – Dr.Fone Air
 
 There are many screen mirroring facilities you might come across in the market. Considering the functionality being dealt with, efficiency is a major requirement for many users. [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) is an online solution providing **screen mirroring Realme 12 5G** services to people under a simple operation. If you are looking for a quick solution to mirror your Realme 12 5G phone to a PC, this tool is a great thing to consider.
@@ -58,7 +62,7 @@ You can wirelessly connect your smartphone to the PC's web browser without payin
 - You can have a flexible phone screen control for adjusting the screen in the best way possible.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps to Mirror Your Realme 12 5G to PC using Dr.Fone Air
@@ -83,9 +87,17 @@ As the Realme 12 5G devices are connected, Xiaomi's screen is displayed on the c
 
 ![screen mirroring Realme 12 5G device](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Screen Mirroring Realme 12 5G to PC with MirrorGo
 
 There might be many ways that can help you implement screen mirroring over your PC; however, the question comes over the quality of the approach that is being undertaken. While realizing the variety of mechanisms that can be consumed to screencast your Android to PC, there is another approach that offers the most unique and coherent interface to work on. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) outsmarts the other existing platforms and offers a user experience that enhances the dynamics of screencasting. Following an HD result in the display, MirrorGo officially settles itself as a perfect mechanism for exempting tired eyes while playing over the Android smartphone. Following the mirroring features offered at MirrorGo, it regards itself as a screen recorder and a screen capturer. This leads you to a more expansive utility as compared to other existing mirroring solutions. Another aspect that makes MirrorGo the perfect option is the synchronization feature that allows you to stay put with the data across your Android smartphone. Sharing your Realme 12 5G to PC is a very simple procedure with MirrorGo, which can be understood from the guide provided as follows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
@@ -113,19 +125,11 @@ Following a successful establishment of a connection with the computer, you need
 
 ![tuen on developer option and enable usb debugging](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-03.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Establish Mirroring**
 
 A prompt message appears on the screen for the establishment of the connection. Tap “Ok” to successfully attenuate your Android with the PC.
 
 ![mirror android phone on pc](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4: Mirroring is done.**
 
@@ -134,7 +138,7 @@ Now you can see your Realme 12 5G phone screen on the computer screen.
 ![mirror Realme 12 5G phone on pc using MirrorGo](https://images.wondershare.com/drfone/article/2021/03/mirror-xiaomi-to-pc-using-mirrorgo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Screen Mirroring Realme 12 5G to PC via USB – Scrcpy
@@ -152,10 +156,6 @@ After downloading the archive folder of Scrcpy on your computer, you need to ext
 You need to open the Settings on your phone and access its About Phone section. If your Developer Options are not enabled, you need to tap on the build number present on the screen multiple times, followed by opening the screen and selecting the option of USB Debugging from the list to have it enabled.
 
 ![enable-usb-debugging](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Run Scrcpy File**
 
@@ -199,10 +199,6 @@ You need to exit the ADB window to re-type the IP address for connecting your PC
 
 ![retype-your-ip-address](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5: Remove USB Cable and Confirm Connection**
 
 Following this, you need to remove the USB cable and continue using your phone using the ADB connection through the Wi-Fi and Hotspot connection of your phone. To confirm, you can check the Realme 12 5G device connected through Vysor to observe it active on the list. You can simply connect to the phone in a normal manner for screen mirroring Realme 12 5G to PC.
@@ -210,7 +206,7 @@ Following this, you need to remove the USB cable and continue using your phone u
 ![check-your-device-from-the-list](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Screen Mirroring Realme 12 5G to PC with Mi PC Suite
@@ -225,25 +221,25 @@ After downloading the application, you need to simply launch it and observe the 
 
 ![launch-mi-pc-suit](https://images.wondershare.com/drfone/article/2020/08/screen-mirroring-xiaomi-to-pc-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Enable Screencast After Successful Connection**
 
 Your phone might take a while to install the drivers for connecting to the PC. After the successful installation of drivers, the details of the phone appear on the screen on the front. You simply need to select the option of Screencast present on the bottom of the phone in the PC Suite. This lodges your screen onto the PC successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
 This article has featured a list of different screen mirroring solutions you can use on your Realme 12 5G device. If you are looking for an effective **Mi screen mirroring** on a PC, you can use tools like Dr.Fone Air to mirror smartphones effectively without taking considerable time. The provided solutions are among the best options, saving you time and effort in connecting devices successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Screen Mirroring Realme 12 5G?
 
 [![](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Most people think that screen mirroring is only a feature you can enjoy if you have an iPhone and Apple TV. But here is a piece of good news for Realme  fans as screen mirroring Realme 12 5G is also possible. By this can connect your smartphone to any TV and PC. Screen mirroring is casting your smartphone to a big screen so you can enjoy videos, pictures, music, and games on a large screen. It usually takes a few minutes to connect devices. The only thing you required is a sending and receiving device. The devices must be on the same network.
 
@@ -265,6 +261,10 @@ Screen mirroring Realme 12 5G to any TV or PC is easy to be carried out. Screen 
 
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-1](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7\. Now your smartphone is connected to TV/PC.
 
 ## Part 2. How to Screen Mirroring Realme 12 5G to PC?
@@ -285,13 +285,13 @@ Screen mirroring Realme 12 5G to PC through third party app is easy. For this Vy
 
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-2](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7\. Vysor will automatically connect your smartphone to the PC.
 
 Vysor is available as both a free and paid version. The free version can be enough for you but if you want to enjoy its advanced feature e.g. full screen mirroring and high-quality display; you can go for the paid version. There is a limitation in using the free version as it shows ads frequently that might irritate you .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Screen Mirroring Realme 12 5G to Smart TV?
 
@@ -325,19 +325,21 @@ Screen Mirroring Realme 12 5G to any TV or PC is a piece of exciting news for MI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-dynamic-and-attractive-youtubes-channel-names-for-modern-vloggers-up-to-156-characters/"><u>[New] Dynamic & Attractive YouTubes Channel Names for Modern Vloggers (Up to 156 Characters)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/7-faqs-about-youtube-shorts-thumbnail-not-showing-problem-for-2024/"><u>7 FAQs About YouTube Shorts Thumbnail Not Showing Problem for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965484373-ensure-seamless-connectivity-with-updated-netgear-adapter-drivers-download-now/"><u>Ensure Seamless Connectivity with Updated NETGEAR Adapter Drivers - Download Now</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/peace-and-power-the-10-greatest-yoga-channels-online/"><u>Find Peace & Power The 10 Greatest Yoga Channels Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-nubia-red-magic-9-proplusmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Nubia Red Magic 9 Pro+Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-z-flip-5-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy Z Flip 5 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Lava Blaze 2</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-g24-power-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola G24 Power Location by Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-google-pixel-7a-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Google Pixel 7a PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-meizu-21mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Meizu 21Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-meizu-21-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Meizu 21 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-poco-c55-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Poco C55 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/inside-ustream-review-alternatives-on-hand/"><u>Inside Ustream Review, Alternatives on Hand</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/understanding-the-causes-of-screen-flutter-insights-from-yl-computing/"><u>Understanding the Causes of Screen Flutter: Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/learer-streams-youtube-video-borderless-adjustment-for-2024/"><u>[New] Clearer Streams YouTube Video Borderless Adjustment for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-art-of-visual-anonymity-in-videos/"><u>[Updated] 2024 Approved The Art of Visual Anonymity in Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-recording-tips-capturing-video-from-macbook-pro/"><u>[Updated] In 2024, Essential Recording Tips Capturing Video From MacBook Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oneplus-open-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring OnePlus Open PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-f14-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy F14 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-redmi-a2-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi Redmi A2 to Roku | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oneplus-nord-n30-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On OnePlus Nord N30 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-practices-recording-on-ios-devices/"><u>In 2024, Best Practices Recording on iOS Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-c55-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco C55 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Motorola Phone with Broken Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-realme-12-proplus-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Realme 12 Pro+ 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-reno-11f-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Reno 11F 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-more-content-funding-and-buying-strategies/"><u>Unlocking More Content: Funding & Buying Strategies</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-overcoming-the-challenge-of-acoustic-reflections-in-sound-engineering/"><u>Updated In 2024, Overcoming the Challenge of Acoustic Reflections in Sound Engineering</u></a></li>
 </ul></div>
 

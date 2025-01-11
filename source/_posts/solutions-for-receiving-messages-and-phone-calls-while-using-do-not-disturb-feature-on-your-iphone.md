@@ -1,7 +1,7 @@
 ---
 title: Solutions for Receiving Messages & Phone Calls While Using Do Not Disturb Feature on Your iPhone
-date: 2024-12-29T16:48:05.955Z
-updated: 2025-01-04T21:51:01.615Z
+date: 2025-01-05T16:35:51.459Z
+updated: 2025-01-11T16:13:19.678Z
 tags:
   - iphone
   - apple
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
  However, if you're still getting texts and calls on Do Not Disturb, it pretty much defeats the purpose of the feature. So, let's look at the steps you can take when Do Not Disturb is not working on your iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
  Therefore, before proceeding with the other suggestions in the list, access your iPhone's**Control Center** and check that you have the correct Focus mode turned on to match your activity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Review Your Allowed Apps
@@ -47,19 +43,15 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
@@ -74,6 +66,10 @@ Close
 
  Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change Settings for Incoming Calls
 
  When you first enable Do Not Disturb mode on your iPhone,**Favorites** tends to be the default setting for the incoming calls allowed. If you previously added quite a few family members and friends to your Favorites list, this may be why your iPhone calls are coming through even after you enabled Do Not Disturb, as if it's not working.
@@ -81,6 +77,10 @@ Close
  To change this, head to**Settings > Focus > Do Not Disturb** **\> People** . Now, tap on**Allow Calls From** and select your preferred option. If you want to only allow specific individuals to call you during Do Not Disturb mode, choose**Allowed People Only** and tap the**Add** button above to select your contacts.
 
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
 
@@ -96,10 +96,6 @@ Close
 
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Turn Off or Hide Your Focus Status
 
  When you turn on Do Not Disturb, you can also share your Focus status to let your contacts know that you're temporarily unavailable.
@@ -107,6 +103,10 @@ Close
  While it's a thoughtful feature that helps you inform others, a downside is its accompanying Notify Anyway option, which lets people override your Do Not Disturb mode. This causes text messages and calls to come through your iPhone.
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
 
@@ -120,10 +120,6 @@ Close
 
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
@@ -133,6 +129,10 @@ Close
  If you went through all the steps above and your iPhone's Do Not Disturb mode is still not working, try [restarting your iPhone](https://www.makeuseof.com/how-to-restart-any-iphone-even-if-the-buttons-are-broken/) to see if it resolves the issue. Software glitches can sometimes prevent features like Do Not Disturb from functioning as intended, which you can fix with a simple reboot.
 
  And if you haven't,[update your iPhone to the latest iOS version](https://www.makeuseof.com/tag/update-iphone-ios-apps-data/) as well. Apple's software updates often come with bug fixes and patches for performance-related issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Disruptions on Do Not Disturb Mode
 
@@ -157,19 +157,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-filmmakers-toolkit-essential-color-grading-of-7-techniques/"><u>[New] In 2024, The Filmmaker's Toolkit Essential Color Grading of 7 Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-interactive-achievements-the-click-based-reward/"><u>2024 Approved Interactive Achievements The Click-Based Reward</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-lava-yuva-3-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Lava Yuva 3 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210131396-9781761035623-astral-projection/"><u>Astral Projection | Free Book</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-income-a-complete-guide-to-youtube-ad-profits-for-2024/"><u>Boosting Income A Complete Guide to YouTube Ad Profits for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breathing-life-into-bios-a-zodiac-perspective/"><u>Breathing Life Into Bios A Zodiac Perspective</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-preventing-constant-crashes-in-your-super-pc-game/"><u>Expert Tips for Preventing Constant Crashes in Your Super PC Game</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-blaze-2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Blaze 2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-nokia-c300-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Nokia C300 Phones? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-essential-guide-to-iphone-screen-recordings/"><u>In 2024, The Essential Guide to IPhone Screen Recordings</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-13-mini-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 13 mini & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-k70-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi K70 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-50-essential-screen-savers-for-online-video-calls/"><u>[New] 50 Essential Screen Savers for Online Video Calls</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-critical-take-on-sharex-expert-evaluations-and-alternates/"><u>[New] The Critical Take on ShareX Expert Evaluations & Alternates</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-directing-the-flow-of-digital-storytelling-through-youtube-fusion-for-2024/"><u>[Updated] Directing the Flow of Digital Storytelling Through Youtube Fusion for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-ease-inease-out-techniques-in-camtasa-9-for-2024/"><u>[Updated] Mastering Ease In/Ease Out Techniques in Camtasa 9 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tapping-into-the-power-of-visual-communication-on-facebook/"><u>[Updated] Tapping Into the Power of Visual Communication on Facebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-paint-planning-and-execution-apps-for-your-next-renovation/"><u>Discover the Best Paint Planning and Execution Apps for Your Next Renovation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a1x-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A1x 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-70-lite-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y100-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-14-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 14 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-80-pro-straight-screen-edition-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-way-of-merging-gopro-footage-into-continuous-360-degree-narratives/"><u>Innovative Way of Merging GoPro Footage Into Continuous 360-Degree Narratives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-25-unbeatable-christmas-tablet-bargains-insights/"><u>Top 25 Unbeatable Christmas Tablet Bargains - Insights</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-ultimate-savings-with-razers-monumental-deal-up-to-67-off-their-top-gaming-laptop/"><u>Unlock Ultimate Savings with Razer's Monumental Deal: Up to 67% Off Their Top Gaming Laptop</u></a></li>
 </ul></div>
 
