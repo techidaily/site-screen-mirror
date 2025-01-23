@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 AirPlay Apps in Realme Note 50 for Streaming | Dr.fone
-date: 2025-01-08T16:21:34.146Z
-updated: 2025-01-11T16:18:41.646Z
+date: 2025-01-20T01:23:46.212Z
+updated: 2025-01-23T03:04:39.290Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -27,6 +27,10 @@ Download it [here](https://play.google.com/store/apps/details?id=com.doubleTwist
 
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/double-twist-player.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2) iMediaShare Lite
 
 This is another free application that is useful for streaming music, photos, videos, and other media content from your Android device to your Apple TV, but only if they are connected over the same wireless network. Only requiring the installation of this application, it will detect your Apple TV from the android device itself. The ones who love to stream from online sites like YouTube, CNN, etc. would particularly enjoy this application.
@@ -34,7 +38,7 @@ This is another free application that is useful for streaming music, photos, vid
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/14542144193129.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3) Twonky Beam
@@ -51,21 +55,29 @@ Download it [here](http://www.samsung.com/us/support/supportOwnersHowToGuidePopu
 
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/14542144597609.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5) Android HiFi and AirBubble
 
 There are two ways of looking at this application; Android HiFi is the free version while the AirBubble license app costs a mere $2 bucks. Through the application, one can convert their android device into an AirPlay receiver. Audio content can be played on the Android device from iTunes or other iOS Devices. This is particularly useful for the ones who wish to roam around the house with a common wireless network in place.
 
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/14542144791480.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6) Zappo TV
 
 One of the many online multimedia services, this one has android apps for AirPlay for Apple TV, WD TV Live, Samsung, Sony, and LG TVs, but we won't recommend that you bank upon their popularity. However, the user experience may vary from device to device.
 
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/14542144964488.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7) AirPlay and DLNA Player
 
@@ -74,6 +86,10 @@ This one is a free application and does all it should justify its name. It is ba
 Download it [here](https://play.google.com/store/apps/details?id=com.waxrain.airplayer&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS53YXhyYWluLmFpcnBsYXllciJd)
 
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/airplay-and-dlna-player.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8) Using Allcast
 
@@ -91,21 +107,17 @@ Download it [here](https://play.google.com/store/apps/details?id=com.synology.ds
 
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/ds-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10) AirStream
 
 Got an AirPlay-enabled receiver and an Android device? Well, this app is all that you need. With the option to send any media content to the Apple-TV, this is a great way to enjoy all your media content on the Apple TV without having to worry about any iOS devices. However, before you go on to install this app; we must notice that it is necessary for you to root your device. Alongside this, there is a short payment that must be made to enjoy all its features. Otherwise, it is a great app to have.
 
 ![top AirPlay apps in Android](https://images.wondershare.com/drfone/others/airstream.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In the above section, we have listed out the best applications for you when you wish to use AirPlay with your Android device. Let us know your experience if you have used any of these apps and we'll recommend ways to enhance your experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Recommend
 
@@ -128,6 +140,10 @@ Mirror your Realme Note 50 deviceto your computer!
 
 Most people think that screen mirroring is only a feature you can enjoy if you have an iPhone and Apple TV. But here is a piece of good news for Realme  fans as screen mirroring Realme Note 50 is also possible. By this can connect your smartphone to any TV and PC. Screen mirroring is casting your smartphone to a big screen so you can enjoy videos, pictures, music, and games on a large screen. It usually takes a few minutes to connect devices. The only thing you required is a sending and receiving device. The devices must be on the same network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Does Realme Note 50 have Screen Mirroring?
 
 Screen mirroring Realme Note 50 to any TV or PC is easy to be carried out. Screen mirroring in Realme Note 50 functions by enabling wireless display function. You can easily do screen mirroring through Miracast. For this, you just have to connect your phone to any TV or PC. Make sure that both devices are on the same Wi-Fi network. Follow the given simple steps and your smartphone screen will be cast to a large screen.
@@ -148,10 +164,6 @@ Screen mirroring Realme Note 50 to any TV or PC is easy to be carried out. Scree
 
 7\. Now your smartphone is connected to TV/PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. How to Screen Mirroring Realme Note 50 to PC?
 
 Screen mirroring Realme Note 50 to PC through third party app is easy. For this Vysor is considered as an excellent app for screen mirroring your smartphone to PC. Its extension is also available on chrome. For connection, you do not need a data connection, as a USB cable can help you out. Just follow the simple steps to stream videos easily on your computer from your phone.
@@ -169,10 +181,6 @@ Screen mirroring Realme Note 50 to PC through third party app is easy. For this 
 6\. A pop-up window will appear; allow it to allow USB Debugging.
 
 ![How-to-Screen-Mirroring-Xiaomi-Redmi-Note7-2](https://images.wondershare.com/drfone/article/2020/08/how-to-screen-mirroring-xiaomi-redmi-note7-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7\. Vysor will automatically connect your smartphone to the PC.
 
@@ -212,33 +220,25 @@ It is necessary to have your devices attached for screen mirroring through a sin
 
 ![tap on the connect option for screen mirroring](https://images.wondershare.com/drfone/article/2020/08/tap-on-the-connect-option-for-screen-mirroring.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Access Your Realme Note 50**
 
 Following this, you need to select the option of mirroring Realme Note 50screen to PC by accessing the Notification bar from the top of the phone. From the series of a different prompt button, you need to select "Wireless Projection" to mirror Realme Note 50to PC.
 
 ![select wireless projection option](https://images.wondershare.com/drfone/article/2020/08/select-wireless-projection-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Selecting the Computer**
 
 A new window opens on the front of the screen. It will consist of the Realme Note 50 devices that are available on the same Wi-Fi connection to get shared. After selecting the appropriate computer, you can conclude the procedure since anything opened on the screen can now be observed on the PC as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: MirrorGo: The Best Mirroring Application
 
 If you are up for searching other options to mirror share Realme Note 50to PC, there are many other platforms that may provide you effective mirroring services. However, while understanding the saturation that exists in the market, this article intends to provide you with a perfect platform for mirror sharing your Realme Note 50to PC with ease.
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) offers the best results with HD resolution for a better experience over a big screen. This application intends to develop a controlled environment over the computer for the user, as compared to other platforms that desperately fail to offer a controlled foundation in screen mirroring. MirrorGo looks over a vast window of practical applications, for which it consists of tools that have a use apart from screen mirroring. MirrorGo offers you to record your mirrored device screen, take a screenshot of an important frame, or even have it shared across different viewing platforms. This platform seeks to induce a better approach to mirroring your Realme Note 50to PC as compared to the other software existing in the market. To understand the simple guide on how to efficiently utilize the platform, you need to look over the steps adjourned below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
@@ -272,6 +272,10 @@ After successfully enabling USB Debugging, a pop-up appears on the Realme Note 5
 
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Realme Note 50Mirror Share to PC wirelessly via AllCast
 
 Mirroring Android Devices has been made easier with a very definitive and expansive device of AllCast where you can share your Realme Note 50screen to PC by following a few steps, as stated below.
@@ -292,10 +296,6 @@ After getting the appropriate settings on the computer, you need to propagate to
 
 In the options presented by "Screen Recording and Mirror," you need to access the "Network Devices" and select the appropriate desktop model. Selecting the model will start screen sharing with 'Chrome @' followed by the IP Address of the computer. This allows you to mirror your Realme Note 50screen to PC wirelessly through AllCast without difficulty.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has introduced several screens mirroring platforms that can be used to mirror share Realme Note 50to PC. The perfect adoption of such issues will surely lead you to understand the system more appropriately and develop a ground where you present an effective change through this function.
@@ -314,20 +314,14 @@ This article has introduced several screens mirroring platforms that can be used
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-stitch-together-photographs-the-montage-masterclass/"><u>[New] 2024 Approved Stitch Together Photographs The Montage Masterclass</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-9-powerful-youtube-video-downloader-for-android-for-2024/"><u>[Updated] 9 Powerful YouTube Video Downloader for Android for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-essential-tips-for-making-youtube-introductory-trailers-for-2024/"><u>[Updated] Essential Tips for Making YouTube Introductory Trailers for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comprendre-la-sauvegarde-en-temps-reel-sur-gmail-benefices-et-methodes-dinstallation-simples/"><u>Comprendre La Sauvegarde en Temps Réel Sur Gmail: Bénéfices Et Méthodes D'Installation Simples</u></a></li>
-<li><a href="https://blog-min.techidaily.com/get-20-off-on-acronis-true-image-protect-and-restore-your-files-easily/"><u>Get 20% Off on Acronis True Image – Protect & Restore Your Files Easily!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-6-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 6 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-motorola-moto-g04-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Motorola Moto G04 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-infinix-smart-7-hd-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Infinix Smart 7 HD to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-camon-30-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Camon 30 Pro 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-note-12-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi Note 12 5G to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-s24plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy S24+ to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-itel-a05s-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Itel A05s for Streaming | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-pova-5-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-gopro-quik-for-macbook-how-to-edit-your-gopro-videos-easily/"><u>Updated In 2024, GoPro Quik for MacBook How to Edit Your GoPro Videos Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-telegrams-launchpad-for-aspiring-advertisers-a-starters-handbook-for-2024/"><u>[New] Telegram's Launchpad for Aspiring Advertisers A Starter's Handbook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-timeless-tunes-selecting-high-quality-ringtones-online/"><u>[New] Timeless Tunes Selecting High-Quality Ringtones Online</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/effortless-guide-for-retrieving-unintentionally-deleted-images-from-an-iphone-5-analyze-your-own-strengths-and-weaknesses-to-understand-what-sets-you-apart-180/"><u>Effortless Guide for Retrieving Unintentionally Deleted Images From an iPhone 5. Analyze Your Own Strengths and Weaknesses to Understand What Sets You Apart in the Job Market.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-stability-troubleshooting-fps-drops-in-nioe-2/"><u>Enhancing Gameplay Stability: Troubleshooting FPS Drops in Nioe 2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-z-flip-5-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy Z Flip 5 Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-t2-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>In 2024, Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-z-flip-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy Z Flip 5 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-narzo-60-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme Narzo 60 5G for Streaming | Dr.fone</u></a></li>
 </ul></div>
 
