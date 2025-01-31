@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
-date: 2025-01-21T16:24:10.630Z
-updated: 2025-01-23T09:22:38.961Z
+date: 2025-01-27T00:27:55.546Z
+updated: 2025-01-30T23:51:08.702Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
@@ -13,13 +13,13 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Escort Max360 Laser Radar Detector with GPS
 
 ![Escort Max 360 Laser Radar Detector with GPS](https://www.lifewire.com/thmb/bHImXEngi7QSN1OMNbWkeW9b1l8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_Max360_0Herosquare-0cdd5b712ef0409cb0263171b30f3935.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -41,13 +41,13 @@ Lifewire / Todd Braylor
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Escort Max360 Laser Radar Detector with GPS
 
 ![Escort Max 360 Laser Radar Detector with GPS](https://www.lifewire.com/thmb/rDfi4btEBU-ni64IstBVGoFaaE0=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_Max360_0Herosquare-0cdd5b712ef0409cb0263171b30f3935.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
 
@@ -69,10 +69,6 @@ Lifewire / Todd Braylor
  _We purchased the Escort Max 360 so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
 
  The Escort Max360 is a top of the line radar detector with a wide range of advanced features, including GPS capabilities, 360-degree protection, and IVT filter capabilities. Let’s take a closer look at the true performance of this premiere radar detector.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Design: Big and heavy**
 
@@ -96,10 +92,6 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Range: Mediocre Ka-band**
 
  The Max360 has a lot of advanced features but some work better than others. Escort’s Autolearn technology features 360 degrees of protection and can detect threats from any angle. The Max360’s display will then show you the signal’s location with directional arrows, which is a great feature and helps with quick identification.
@@ -120,11 +112,19 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Price: Too expensive**
 
  The Escort Max 360 is quite pricey at $550 MSRP. This is a quality radar detector in terms of user experience, but the overall value is subpar. I appreciate Escort's inclusion of advanced filtering capabilities but the Max360's relatively short range Ka-band detection falls short of expectations for a $500+ product.
 
  This is a quality radar detector in terms of user experience, but the overall value is subpar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Escort Max 360 Radar Detector vs. Radenso Pro M Radar Detector**
 
@@ -137,7 +137,7 @@ The biggest and heaviest radar detector I've tested.
  I really wanted the advanced features of the Escort Max360 to add up to an overall superior product but this model isn't the best value for your money. The ability to reliably filter out divergent false alerts coupled with great range is what differentiates high-end radar detectors. The Max360 only delivered top-end performance in the former category.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -169,18 +169,16 @@ The biggest and heaviest radar detector I've tested.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-essential-steps-to-apply-a-creative-commons-copyright/"><u>[New] Essential Steps to Apply a Creative Commons Copyright</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vidovibes-engage-with-twitter-then-save-the-moving-pictures/"><u>[Updated] 2024 Approved VidoVibes Engage with Twitter, Then Save the Moving Pictures</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-streamlining-in-stream-ads-on-facebook-your-step-by-step-playbook-for-2024/"><u>[Updated] Streamlining In-Stream Ads on Facebook Your Step-by-Step Playbook for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-perfect-gopro-4k-cinematography-through-editing/"><u>2024 Approved Perfect GoPro 4K Cinematography Through Editing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-c51-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme C51 PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-smart-8-hd-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Smart 8 HD to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-6s-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 6s Plus When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-realme-c55-to-mac-drfone-by-drfone-android/"><u>How to Mirror Realme C55 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-nokia-xr21-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Nokia XR21 with Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nubia-red-magic-9-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nubia Red Magic 9 Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-free-videographers-essential-openers/"><u>In 2024, Free Videographer's Essential Openers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-ace-2v-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus Ace 2V Screen | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/step-by-step-instructions-for-swiftly-navigating-to-your-pcs-control-panel-by-yl-software-experts/"><u>Step-by-Step Instructions for Swiftly Navigating to Your PC's Control Panel by YL Software Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-without-capsule-the-no-limit-story-saving-app/"><u>[New] Capture Without Capsule The No-Limit Story Saving App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-confidence-tips-for-trending-on-youtube-for-2024/"><u>[New] Channel Confidence Tips for Trending on YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-iconic-stop-motion-animations-15-best-ever/"><u>[Updated] Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-nord-3-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus Nord 3 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-f15-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy F15 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-m6-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco M6 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-t2-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo T2 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-f14-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy F14 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-legends-microsoft-activision-blizzard-and-old-game-classics/"><u>Reviving Legends: Microsoft, Activision Blizzard, and Old Game Classics</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-synchronized-camscreen-capture-for-2024/"><u>Step-by-Step Guide to Synchronized Cam/Screen Capture for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/x-chair-x4-executive-chair-review-a-top-contender-for-enhanced-productivity-and-comfort-at-work/"><u>X-Chair X4 Executive Chair Review: A Top Contender for Enhanced Productivity and Comfort at Work</u></a></li>
 </ul></div>
 

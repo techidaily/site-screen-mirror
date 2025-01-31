@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Do Realme 12 5G Screen Sharing | Dr.fone
-date: 2025-01-22T09:37:37.387Z
-updated: 2025-01-22T19:35:02.802Z
+date: 2025-01-27T18:34:11.740Z
+updated: 2025-01-30T17:34:41.900Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -24,10 +24,6 @@ Whether there is a need to show unique clicks or videos on a bigger screen or wa
 So today, let us go through a detailed guide on **how to screen share in Realme 12 5G ** to smart TVs and computers.
 
 ![samsung devices featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-share-screen-on-samsung-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Does Screen Sharing Use Bluetooth?
 
@@ -63,7 +59,7 @@ All the Samsung Smart TVs after 2015 are compatible with Samsung Smart View. Bel
 With the introduction of One UI in Samsung devices, the Smart View was added as an in-built feature. All Samsung devices launched with One UI can use the Smart View feature to share their device's screen with  Realme TV. The Samsung devices that support the Smart View feature include Galaxy S Series, Galaxy Z Series, Galaxy Note Series, Galaxy A Series, Galaxy M Series, and Galaxy F Series.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps for Using Smart View to Share Screen
@@ -98,10 +94,6 @@ Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharin
 - You don't need to give any unnecessary permissions when using Dr.Fone Air. It also doesn't require Bluetooth or NFC for screen sharing.
 - Your data during screen sharing remain protected as it doesn't require downloading or uploading your content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steps of Using Dr.Fone Air for Screen Sharing
 
 Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a simple and quick process. Your Samsung device and  Realme TV needs to be connected to the same Wi-Fi network. Once they are connected, follow these steps for screen sharing:
@@ -111,12 +103,16 @@ Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a si
 ![launching drfone air](https://images.wondershare.com/drfone/drfone/online-screen-mirror-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. **Using QR or Cast code:** The second step is to use the QR or Cast code as shown on the screen of the browser.
 
 ![using qr or cast code](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. **Mirroring Samsung phone to computer:** The Samsung phone will be automatically mirrored to the computer on successful scanning or code entering.
 
@@ -142,10 +138,6 @@ Here are the apps you can use.
 
 ![stream from any Android to Apple TV-Allcast](https://images.wondershare.com/drfone/others/14542162011206.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) **Allstream:** For the ones who are only interested in music and are too lazy to switch to a new music player, this application has all the answers. Offering the functionality of both AirPlay and DLNA connectivity to its users, the temporarily free application acts as a transmitter. This allows the user to choose their music player which may include services like Spotify, Google Play Music, or any other while giving the streaming ability to existing AirPort express, Apple TV, Samsung Smart TV, and PS3. However, there is another catch users must be aware about. The application requires the Android device to be rooted. Also, a payment of 5 Euro is necessary if one wishes for the application to continue working after a specific amount of time. And if you like the music in Spotify, you can also [download music from Spotify](https://pro.keepvid.com/spotify/download-music-from-spotify.html) and enjoy it everywhere as you want.
 
 ![stream from any Android to Apple TV-Allstream](https://images.wondershare.com/drfone/others/14542162165513.jpg)
@@ -153,10 +145,6 @@ Here are the apps you can use.
 4) **Apple TV AirPlay Media Player:** For the ones who have been following this list for a while, the name should be a getaway. However, the application is specifically designed to be used with Apple TV. The beauty of this app lies in its functionality which allows it to stream content based on the Android operating system and also any content that is stored on the local network to your Apple TV. It also converts your Android Device into all-in-one remote control. This enables the users to browse, search, and share content from a variety of online sources which include video podcasts, YouTube, Facebook and other media based social media networking websites. However, it is important for the users to note that they must be running Android 2.1 or later and also should have a working ZappoTV account setup if they are looking to use this app. Alongside, DLNA and UPnP connectivity is available through an internal purchase.
 
 ![stream from any Android to Apple TV-Apple TV AirPlay Media Player](https://images.wondershare.com/drfone/others/14542162549992.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) **Twonky Beam:** Here is the application that is ideal for streaming video apps. Available for both, iOS and Android platforms, it comes with dual AirPlay-DLNA capabilities, and has the functionality which makes it compatible with numerous varieties of TVs and streaming boxes, without having the users to worry about the transmission standards. Xbox 360, Apple TV, is among the few of these. Sharing content between devices on the home network in the presence of an UPnP standard that is instrumental in helping users save media from their local network to the mobile device as the content is streamed on the Apple TV. However, a version later or equal to Android 4.0 or iOS 6.0 is necessary if one is looking to use this free application.
 
@@ -170,9 +158,17 @@ As times progress, technology is in competition with it and this article about C
 
 If you have an android device and you wish to mirror (share) the screen to your PC, this can be done using some simple steps, but to do this it depends on the android device you have and the source that you will project it to, whether a TV or PC. The recommended Chromecast to mirror your android screen to your PC is All cast, Koushik Dutta's Mirror that comes with most android devices or can be downloaded, and for persons who use Custom Roms, cyanogen Mod 11 Screencast can be used. It is very important that the PC that will mirror the android device screen has AllCast Receiver installed because this software enables all the features of mirroring to be enabled on the receiving end.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. What is Chromecast?
 
 Chromecast is a form of modern technology established and mananged by Google, which enables an individual to project or display whatever they have on their Android device screen on a secondary screen such as a PC or TV. More interestingly Chromecast is just a small device that can be plugged into a PCs HDMI port to allow for easy casting on a bigger screen. The capability is called mirroring and it is very prevalent in today's society. Chromecast is very convenient because sometimes individuals cannot be bothered with a small mobile screen if they are watching a movie for instance of playing their favourite games such as FIFA 2015. The technology of Chromecast is possible because of the chrome app for both PC and Android mobile devices to date. Chromecast allows the casting of all your favourite mobile activities straight to your PCs screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. The features of Chromecast
 
@@ -188,10 +184,6 @@ Chromecast is a form of modern technology established and mananged by Google, wh
 
 •Auto update – Chromecast automatically updates so you can have new apps and features that are compatible and available without effort or hassle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. The Steps on How to Mirror
 
 Step 1. Download and setup Chromecast on both devices from the play store, the play store is an app on your Realme 12 5G devicethat allows you to download hundreds of other apps.
@@ -199,7 +191,7 @@ Step 1. Download and setup Chromecast on both devices from the play store, the p
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2. Plug the chrome cast into the HDMI port at the side of your personal computer and follow the setup instructions that will be displayed on the screen.
@@ -211,7 +203,7 @@ Step 3. Ensure that your Chromecast and PC are on the same Wi-Fi network, this w
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/wifi.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4. Open a supported Chromecast app that you downloaded from the plays store and tap the cast button normally at the top right or left corner of the app.
@@ -221,6 +213,14 @@ Step 4. Open a supported Chromecast app that you downloaded from the plays store
 Step 5. Enjoy Chromecast.
 
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/enjoy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Supported Android Devices
 
@@ -239,7 +239,7 @@ There are a wide range of devices that are supported by Chromecast, these device
 - 11.TrekStor SurfTab xintron i 7.0
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Advanced Casting Features
@@ -264,18 +264,22 @@ Chromecast has some advance features that every user should definitely know and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-taking-igtv-viewership-to-new-peaks-5-innovative-approaches/"><u>[New] Taking IGTV Viewership to New Peaks 5 Innovative Approaches</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/expert-advice-keeping-your-epson-wf-7620-printer-up-to-date-with-new-drivers-in-windows-os/"><u>Expert Advice: Keeping Your Epson WF-7620 Printer Up to Date with New Drivers in Windows OS</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-zte-blade-a73-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your ZTE Blade A73 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/guide-converting-zumba-workouts-save-as-mp4-avi-or-mov-on-pc-and-mac/"><u>Guide: Converting Zumba Workouts - Save as MP4, AVI or MOV on PC & Mac</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-honor-x9bmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor X9bMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-a2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi A2?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-spark-10-4g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Spark 10 4G Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-c33-2023-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Device</u></a></li>
-<li><a href="https://win-forum.techidaily.com/secure-your-documents-a-step-by-step-guide-on-text-file-encryption-and-password-security/"><u>Secure Your Documents: A Step-by-Step Guide on Text File Encryption & Password Security</u></a></li>
-<li><a href="https://win-trending.techidaily.com/ultimate-tutorial-on-starting-windows-10-via-command-line-interface/"><u>Ultimate Tutorial on Starting Windows 10 via Command Line Interface</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cutting-edge-strategies-to-capture-dynamic-audio-in-video-projects/"><u>[Updated] In 2024, Cutting-Edge Strategies to Capture Dynamic Audio in Video Projects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-reno-10-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Reno 10 5G PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-a05-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy A05 PC | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efetivamente-remover-sombras-de-imagens-aprenda-como-usar-movavi-para-facilitar/"><u>Efetivamente Remover Sombras De Imagens – Aprenda Como Usar Movavi Para Facilitar!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-how-the-paperclip-maximizer-scenario-shapes-modern-ai-systems/"><u>Exploring How the Paperclip Maximizer Scenario Shapes Modern AI Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-authenticity-of-truthgpt-coin-unveiling-its-legitimacy/"><u>Exploring the Authenticity of TruthGPT Coin: Unveiling Its Legitimacy</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-nokia-g310-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Nokia G310 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-asus-rog-phone-8-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Asus ROG Phone 8 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100a-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100A to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-90-gt-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 90 GT to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-moto-g13mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola Moto G13Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v29-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V29 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/passport-selfie-maker-top-quality-instant-access-for-desktoponline-use-for-2024/"><u>Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-guide-to-concisely-editing-youtube-videos-for-2024/"><u>Quick Guide to Concisely Editing YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-ds4-isnt-working-with-windows-and-what-to-do-next/"><u>Troubleshooting: Why Your DS4 Isn't Working With Windows and What To Do Next</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-realme-narzo-60-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme Narzo 60 5G</u></a></li>
 </ul></div>
 

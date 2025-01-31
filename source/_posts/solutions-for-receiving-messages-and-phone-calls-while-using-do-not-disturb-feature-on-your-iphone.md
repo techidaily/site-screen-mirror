@@ -1,7 +1,7 @@
 ---
 title: Solutions for Receiving Messages & Phone Calls While Using Do Not Disturb Feature on Your iPhone
-date: 2025-01-19T21:37:17.342Z
-updated: 2025-01-22T22:15:05.320Z
+date: 2025-01-23T18:38:07.234Z
+updated: 2025-01-30T20:46:10.898Z
 tags:
   - iphone
   - apple
@@ -18,17 +18,9 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
  However, if you're still getting texts and calls on Do Not Disturb, it pretty much defeats the purpose of the feature. So, let's look at the steps you can take when Do Not Disturb is not working on your iPhone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Whether You Enabled the Correct Focus Mode
 
 ![do not disturb and personal mode in iphone control center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/1-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Although Apple started with Do Not Disturb, the feature has since been expanded to Focus mode. Focus includes Do Not Disturb, Personal, Work, and so on. You can [set up different Focus modes](https://www.makeuseof.com/focus-mode-ideas-to-set-up-in-ios/) and customize them for different purposes.
 
@@ -46,18 +38,18 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
 ![focus modes on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/focus-modes.JPEG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![allowed apps on do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-apps.JPEG)
 
 Close
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Time-Sensitive Notifications
@@ -68,11 +60,11 @@ Close
 
 ![disable time sensitive notifications for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/3-3.jpg)
 
- Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Alternatively, you can tap**Turn Off** for a specific app if you see its notifications pop up on your Lock Screen.
 
 ## 4\. Change Settings for Incoming Calls
 
@@ -83,6 +75,10 @@ Close
 ![do not disturb settings on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/do-not-disturb-settings.JPEG)
 
 ![call settings for do not disturb mode on iphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-favorite-calls.JPEG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![change calls allowed on iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-allowed-calls.JPEG)
 
@@ -97,7 +93,7 @@ Close
 ![turn off allow repeated calls for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn Off or Hide Your Focus Status
@@ -107,6 +103,10 @@ Close
  While it's a thoughtful feature that helps you inform others, a downside is its accompanying Notify Anyway option, which lets people override your Do Not Disturb mode. This causes text messages and calls to come through your iPhone.
 
  To stop receiving texts and calls in this manner, you can [turn off your Focus status](https://www.makeuseof.com/how-to-stop-notify-anyway-focus-mode-iphone/) or [hide your Focus status from certain iPhone contacts](https://www.makeuseof.com/how-to-hide-focus-status-from-certain-contacts-iphone/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Review Your Do Not Disturb Schedule
 
@@ -120,13 +120,13 @@ Close
 
 ![automate schedule for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-schedule-2.JPEG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![set time for iphone do not disturb mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/dnd-change-schedule.JPEG)
 
 Close
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Restart Your iPhone and Update iOS
 
@@ -157,24 +157,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ideal-ps2-emulation-software-for-ios-users/"><u>[New] 2024 Approved Ideal PS2 Emulation Software for IOS Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-decoding-off-facebook-activities-review-and-security-implications/"><u>[New] Decoding Off-Facebook Activities Review and Security Implications</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-success-the-best-tools-for-youtube-seo-and-keyword-research/"><u>[New] Unveiling Success The Best Tools for YouTube SEO and Keyword Research</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-tv-shutdown-procedure/"><u>[Updated] Instagram TV Shutdown Procedure</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-video-production-xstudio-deep-dive/"><u>[Updated] Mastering Video Production XStudio Deep Dive</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-huawei-nova-y91-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Huawei Nova Y91 to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-14-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 14 Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-edge-40-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola Edge 40 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-compliance-the-four-step-governmental-regulation-roadmap/"><u>AI Compliance: The Four-Step Governmental Regulation Roadmap</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 to iPad? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-moto-g13-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola Moto G13 Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-zte-nubia-z60-ultra-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nokia-c02-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nokia C02 to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-6-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 6 to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-nokia-c12-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Nokia C12 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-personalized-voices-on-ps-games/"><u>In 2024, Pioneering Personalized Voices on PS Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zoom-launch-your-guide-to-online-chats/"><u>Zoom Launch Your Guide to Online Chats</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-future-shooting-gear-ideal-cameras-musical-videography/"><u>[New] 2024 Approved Future Shooting Gear Ideal Cameras Musical Videography</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhance-your-content-strategy-discover-the-power-of-social-blade-and-youtube-data/"><u>[Updated] Enhance Your Content Strategy - Discover the Power of Social Blade and YouTube Data</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-the-controversial-content-of-facebook-papers/"><u>Deciphering the Controversial Content of Facebook Papers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-c53-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme C53 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-a56s-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo A56s 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-effective-interview-techniques-for-2024/"><u>Mastering Effective Interview Techniques for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-stop-risk-of-rain-2-from-crashing-on-your-pc-or-console/"><u>Step-by-Step Solution: Stop Risk of Rain 2 From Crashing on Your PC or Console</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-c32-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia C32 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-zte-axon-40-lite-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in ZTE Axon 40 Lite for Streaming | Dr.fone</u></a></li>
 </ul></div>
 

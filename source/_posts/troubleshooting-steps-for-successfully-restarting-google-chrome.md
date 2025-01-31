@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Successfully Restarting Google Chrome
-date: 2025-01-15T23:31:49.923Z
-updated: 2025-01-23T06:20:12.392Z
+date: 2025-01-28T18:22:28.268Z
+updated: 2025-01-30T16:16:01.906Z
 tags:
   - win11
   - win10
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -104,19 +104,23 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -127,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -143,7 +143,7 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -158,13 +158,13 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -188,16 +188,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-best-mac-speech-loggers-our-curated-5-pick-list/"><u>[New] Best Mac Speech Loggers Our Curated 5-Pick List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-dissecting-sharex-opinions-and-picks-for-2024/"><u>[Updated] Dissecting ShareX Opinions & Picks for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elite-insight-engine-highest-chart-tracker/"><u>[Updated] In 2024, Elite Insight Engine Highest Chart Tracker</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-arctis-7-crackling-sound-on-windows/"><u>How to Fix Arctis 7 Crackling Sound on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-reno-11f-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-s24plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy S24+ to Roku | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-gt-5-240w-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme GT 5 (240W) Phones? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-zte-nubia-flip-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing ZTE Nubia Flip 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>In 2024, The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
-<li><a href="https://extra-information.techidaily.com/toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exploring-the-lost-stories-of-facebook-tech-savvy-approach/"><u>[Updated] 2024 Approved Exploring the Lost Stories of Facebook Tech-Savvy Approach</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-visionary-leap-to-4k-the-eizo-coloredge-monitor-review/"><u>2024 Approved A Visionary Leap to 4K The EIZO ColorEdge Monitor Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-best-practices-for-filming-and-sharing-immersive-content-on-fb/"><u>2024 Approved Best Practices for Filming and Sharing Immersive Content on FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-ripper-for-mac-dvd/"><u>DVD Ripper for Mac: 無料で簡単・安全なDVDコピー - フレックスに作業が可能な最適ソリューションをご提案！</u></a></li>
+<li><a href="https://games-able.techidaily.com/dynamic-cooling-curve-design-elevates-system-stability/"><u>Dynamic Cooling Curve Design Elevates System Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-your-amd-gpu-software-not-initializing-properly/"><u>Fixing Issues with Your AMD GPU Software Not Initializing Properly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-a05mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy A05Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-v30-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo V30 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-t2x-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo T2x 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y100t-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y100t to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-12-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme 12 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-camon-20-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Camon 20 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-ditch-the-limits-installing-linux-on-your-chromebook-updated-2023/"><u>New In 2024, Ditch the Limits Installing Linux on Your Chromebook (Updated 2023)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/opting-for-local-llm-benefits-vs-limitations/"><u>Opting for Local LLM: Benefits vs Limitations</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/the-impact-of-tweaking-the-registry-on-your-pcs-health-expert-advice-by-yl-software-experts/"><u>The Impact of Tweaking the Registry on Your PC's Health - Expert Advice by YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Cast Realme 12 5G to Computer for iPhone and Android? | Dr.fone
-date: 2025-01-22T08:48:59.784Z
-updated: 2025-01-23T09:46:55.306Z
+date: 2025-01-30T00:03:28.813Z
+updated: 2025-01-30T20:30:18.264Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
 Screen Mirroring is a very common feature that is being adopted by many users as a cheap alternative to big, large screens. People have been managing to mirror their smartphone onto the screen of their PCs for viewing the content present on their phone with more detailing and precision. At times, people find the need to enjoy the contents present on their phones with their family, leading to the requirement of bigger screens. This article discusses various screencasting software providing the services to cast your Android or iPhones to PC that would help you in deciding what and how to use a specific software effortlessly.
 
 When you can't mirror phone to computer, view the guide of how to mirror Android to PC and how to mirror iPhone to PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Cast Contents of iPhone and Android to Computer with MirrorGo
 
@@ -40,12 +36,16 @@ To enable casting with an Android device, you need to tap on the Developer Optio
 ![turn on developer option and enable usb debugging](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are using an iPhone, simply locate the Screen Mirroring option. After the scan, tap on MirrorGo before proceeding to Step 3.
 
 ![connect iPhone to MirrorGo](https://images.wondershare.com/drfone/drfone/connect-iphone-to-computer-via-airplay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Cast the Phone to Computer**
 
@@ -71,9 +71,21 @@ Select the “Screen Mirroring” button present on the window after you access 
 
 ![select screen mirroring option](https://images.wondershare.com/drfone/article/2020/08/select-screen-mirroring-option1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Cast Realme 12 5G to PC by Reflector 3?
 
 Reflector 3 is another appreciable platform that provides you with screening services for both the Android and iPhone users. While understanding the basic differences in approaching the right options to cast your phone to PC, this article states the guideline for utilizing the services of Reflector 3 for both Android and iPhone separately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For Android Users
 
@@ -99,10 +111,6 @@ A screen will open in front of you, consisting of the list of devices that can b
 
 ![select your computer](https://images.wondershare.com/drfone/article/2020/08/select-your-computer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### For iOS Users
 
 Conversely, it is important to understand that with similar outcomes, there are different patterns of steps that are to be followed to screen your iPhone with the PC. For that, take a look at the guide provided as follows.
@@ -125,6 +133,10 @@ With a list of Airplay-enabled receivers on the front, you have to tap on the ri
 
 ![select your computer from the list](https://images.wondershare.com/drfone/article/2020/08/select-your-computer-from-the-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Cast Realme 12 5G to Computer by LetsView?
 
 LetsView is another compelling and attractive platform that provides you the state-of-the-art environment for screen mirroring your phone to computer. This platform is available both on Google Play Store and App Store, making it an easy option for any kind of smartphone users.
@@ -142,10 +154,6 @@ Ensure that the applications are downloaded on both applications, and both devic
 While using LetsView on your phone, you need to detect your PC where you wish to mirror your screen and select it.
 
 ![detect your pc](https://images.wondershare.com/drfone/article/2020/08/detect-your-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Select the Appropriate Option**
 
@@ -171,10 +179,6 @@ This opens up another screen where you need to select the option quoting Phone S
 
 ![select the phone screen mirroring option](https://images.wondershare.com/drfone/article/2020/08/select-the-phone-screen-mirroring-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: How to Mirror Phone to Computer with Dr.Fone Air
 
 While you have looked into some great solutions **to cast your phone to a PC,** there is another tool that provides a similar experience in mirroring the screen of your phone onto a computer screen. [Wondershare Dr.Fone Air](https://drfoneair.wondershare.com/) is a great online tool designed for mirroring the phone's screen onto the computer for free. While it is a quick solution to work with, Wondershare Dr.Fone Air features some great functionalities which make it a unique tool:
@@ -188,10 +192,6 @@ While you have looked into some great solutions **to cast your phone to a PC,** 
 You might have heard of screencasting and screen mirroring together many times. It may come as a surprise to you that these two terminologies hold considerable differences from each other. To simplify the difference, screencasting is performed with the motive of displaying the content of the screen on another output display in the same room.
 
 For screen mirroring, you display the content of the screen on another display while showing all the movements of the screen. Screen mirroring gives you the leverage to use the smartphone without any interruption.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Use Dr.Fone Air to Mirror Phone to Computer
 
@@ -218,6 +218,10 @@ This will successfully execute the process and mirror the screen of your phone w
 ### Conclusion
 
 This article has provided a diversity of solutions for screencasting your phone to the computer. With the help of these solutions, you can quickly **cast your phone to a PC** without making it difficult for you. However, if you wish to have a better experience with screen mirroring your phone to a PC, you can consider using Wondershare Dr.Fone Air for effective results. This online solution won't disappoint in providing a proper screen mirroring solution for your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Guide to Mirror Your Realme 12 5G to Other Android devices 
 
@@ -286,10 +290,6 @@ After the above steps have been done successfully, your devices will have been m
 
 While ScreenShare has been used as an example here, there are many other tools you can use to get the same experience. Most of the tools can be downloaded online for free, while others are for a fee. Some of the most popular tools include; Air Playit, Optia, MirrorOp, PeerDeviceNet. Sampling the tools and getting the best that suits the experience you desire is also a good idea, or you can look up the reviews that have been written by other users, and you can pick one or two issues you like or dislike. Most, if not all the tools, have manuals that can even help you get started as they might defer a bit from the ScreenShare example given in this article.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8 Best Apps for Screen Mirroring Realme 12 5G PC
 
 Screen Mirroring has introduced itself as a vibrant feature that allows people to share their screen onto more significant dimensions for people to watch the content thoroughly. You might encounter a situation where you cannot read a document easily on your phone's screen and zoom in to apprehend the content. Thus, it leads you to a situation where you can observe the screen in a better way by sharing it onto a larger screen. For that, Android phones can be mirrored onto PC screens with the help of different third-party applications. Android potentially does not provide a direct screen mirroring feature on their phones, which leads to the need for third-party screen mirroring applications. This article offers you a variety of screen mirroring applications and their assorted guide and overview that allow you to mirror Realme 12 5G PC.
@@ -341,6 +341,10 @@ Once you have downloaded Dr.Fone Link on your Android, you can connect it to the
 
 On successful scanning, this will connect your Realme 12 5G the PC through Dr.Fone Air.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Scrcpy (FREE)
 
 Let's look over the free platforms that provide screen mirroring features without any initial cost. Scrcpy is the most impeccable software that is an open-source platform for displaying the Android’s screen onto the PC. This program allows you to view your phone's screen and even control all the applications through the PC as if you are controlling the phone directly. Scrcpy provides a great variety of features as compared to other screen mirroring applications. Apart from mirroring Realme 12 5G PC, you can use Scrcpy to record your mirrored screen at a very high MP4 quality output. The screen can also be viewed at different horizontal and vertical angles. Furthermore, the control provided at Scrcpy is quite exquisite as compared to other platforms, which includes enhancing the video quality by managing metrics such as bitrate.
@@ -389,19 +393,11 @@ This application is a varied version of screen mirroring associated with Google 
 - It can lag for short periods.
 - As it is directly connected to Google Chrome, the browser's speed is quite important for it to function.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: Screen Recording and Mirror (FREE)
 
 Another screen mirroring platform that we can take into notice is the free Mirror Realme 12 5G Chrome application. AllCast provides you with an explicit solution for mirroring the contents from your Android Phone onto a screen that can either be your PC, another phone, or a videogame console. The diversity offered at AllCast Receiver is quite a treat for many users, with no costs. However, while using it, you need to understand the difference between AllCast and AllCast Receiver. These two applications are not the same by any means and have different dominions of installation. AllCast should be installed on the PC where you wish to mirror your screen, and AllCast Receiver should be installed on your Android phone, from where you have to share the screen onto another device. The application provides a vibrant feature set with the option of audio and video support during live streaming, along with the characteristics of photo sharing and screen sharing. This screen mirroring platform is available across all kinds of Operating Systems.
 
 ![allcast-interface](https://images.wondershare.com/drfone/article/2020/08/mirror-android-to-pc-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Pros:**
 
@@ -470,10 +466,6 @@ It is important to establish a connection between your Android with the computer
 
 ![select transfer files option](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Enable USB Debugging**
 
 You need to tap into the Settings of your Android and access “Developer Options from the System & Updates section. Then, in the following screen, enable USB Debugging to proceed.
@@ -485,6 +477,14 @@ You need to tap into the Settings of your Android and access “Developer Option
 With a prompt appearing on the screen, tap “Ok” to establish the connection of your PC with the Android phone.
 
 ![mirror android phone to pc](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -504,16 +504,18 @@ This article has provided some great options that can be used to **screen share 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-complete-checklist-for-capturing-flawless-ppts/"><u>[New] The Complete Checklist for Capturing Flawless PPTs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-resource-for-profiting-from-your-youtube-content/"><u>[New] The Ultimate Resource for Profiting From Your YouTube Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-your-phones-potential-with-ios-11-camera-tips/"><u>[Updated] Unlock Your Phone's Potential with iOS 11 Camera Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-honor-x50iplus-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Honor X50i+ PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-10t-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 10T 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-gionee-f3-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Gionee F3 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-gt-5-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme GT 5 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Oppo Find N3? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oppo-f23-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Oppo F23 5G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-learning-revolution-a-new-era-for-over-70-million-users/"><u>Mondly's Learning Revolution: A New Era for Over 70 Million Users</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/simplified-steps-for-posting-tweets-on-facebook/"><u>Simplified Steps for Posting Tweets on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-shadow-scribes-compendium-best-kept-voice-apps-iosandroid-for-2024/"><u>[New] Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-seamless-integration-connecting-your-airpods-with-quest-3-without-disturbing-others-expert-guide-by-techinsight/"><u>1. Seamless Integration: Connecting Your AirPods with Quest 3 without Disturbing Others - Expert Guide by TechInsight</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-walkthrough-to-correctly-diagnose-and-resolve-error-code-31-on-windows/"><u>Detailed Walkthrough to Correctly Diagnose and Resolve Error Code 31 on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c22-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C22 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-k70e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi K70E Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a59-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A59 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-infinix-note-30-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Infinix Note 30 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715860405019-in-2024-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>In 2024, Embedded Recorder Usage in Huawei's Mate Series and the P Lineup.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-photos-step-by-step-background-cleanup-for-canva-users/"><u>In 2024, Transform Photos Step-by-Step Background Cleanup for Canva Users</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-razr-40-ultra-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Razr 40 Ultra unlock screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-portable-cable-equipped-mouse-you-need-experience-unrivaled-precision-with-the-sabrent-mini-travel-gaming-companion/"><u>The Best Portable Cable-Equipped Mouse You Need - Experience Unrivaled Precision with the Sabrent Mini Travel Gaming Companion</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/what-if-my-tiktok-not-working-on-androidiphonechrome/"><u>What If My TikTok Not Working on Android/iPhone/Chrome?</u></a></li>
 </ul></div>
 
