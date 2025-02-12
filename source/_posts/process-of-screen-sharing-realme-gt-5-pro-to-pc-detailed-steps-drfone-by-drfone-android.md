@@ -1,7 +1,7 @@
 ---
 title: Process of Screen Sharing Realme GT 5 Pro to PC- Detailed Steps | Dr.fone
-date: 2024-12-28T20:10:59.918Z
-updated: 2025-01-04T19:13:07.903Z
+date: 2025-02-08T05:58:52.904Z
+updated: 2025-02-11T19:22:30.254Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -25,10 +25,6 @@ Read on to learn more about this software and how to screen share Android device
 
 ![screen sharing android screen to pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. What is TeamViewer?
 
 TeamViewer is a remote access management platform for companies and regular people. They use it for better team activity management, especially remote teams. They can experience better work productivity when using this software, like with the screen-sharing features.
@@ -43,10 +39,6 @@ The latter allows for screen-to-screen content broadcasting that many people fro
 - Set scheduled meetings.
 
 ![teamviewer interface](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. Key Benefits of the TeamViewer Screenshare Tool
 
@@ -64,6 +56,10 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 **Step 2:** If you do not have an account here, create a new one or log in.
 
 ![create a new account](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** On the PC (Windows/Linux/macOS), visit the login page via any preferred browser > Sign into the account that you created.
 
@@ -86,7 +82,7 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 ![teamviewer app will appear on the pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. TeamViewer Reviews - Pros & Cons & Ratings
@@ -115,6 +111,10 @@ You will see certain advantages and disadvantages of this software when you use 
 - The free plan has limited benefits.
 - Business users must pay high amounts to get a license for entire teams.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. Better Alternative for the TeamViewer Screenshare Tool
 
 TeamViewer is helpful for screen sharing, but it is slightly complex. Besides, screen mirroring is a better alternative. During this, you can better control the elements on the screen or in-person meetings. On that note, [Wondershare Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) is helpful software.
@@ -139,6 +139,10 @@ It is simple to use, and the software allows smooth wireless screen mirroring fr
 
 5. Finally, the screen mirroring process will begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 TeamViewer is one of the best solutions users can use for professional remote team collaboration. The screen-sharing functionality is helpful for broadcasting content from an Android phone to a PC. For a more effortless experience, screen mirroring with [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) software works. So, you should consider that as well.
@@ -155,14 +159,6 @@ So today, let us go through a detailed guide on **how to screen share in Realme 
 
 ![samsung devices featured image](https://images.wondershare.com/drfone/article/2022/12/how-to-share-screen-on-samsung-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Does Screen Sharing Use Bluetooth?
 
 Bluetooth is not used for screen sharing as it does not have the bandwidth required to stream heavy media. Although it is commonly used for wireless data transfer, it is not suited for screen sharing. A major reason behind this is the slowness of Bluetooth, as its maximum speed for data sharing is up to 50MB/s. That makes it unreliable for screen sharing, making Wi-Fi the default choice.
@@ -172,6 +168,10 @@ Bluetooth is not used for screen sharing as it does not have the bandwidth requi
 Samsung Smart View is a feature in Realme GT 5 Pro  devices that allows you to **screen share on Realme GT 5 Pro ** Smart TV. First introduced as an app, it is now an in-built feature of One UI.
 
 When using the Smart View feature, you can share videos, photos, documents, games, and other things on your Realme GT 5 Pro  device to your  Realme TV. The Smart View app allows you to use your Realme GT 5 Pro  device as a virtual remote to control your Smart TV.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Requirements for Smart View App
 
@@ -192,17 +192,9 @@ All the Samsung Smart TVs after 2015 are compatible with Samsung Smart View. Bel
 - 2015 J4500, J5500 and above (except J6203).
 - 2016 K4300, K5300 and above.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Samsung Devices with Smart View Feature
 
 With the introduction of One UI in Samsung devices, the Smart View was added as an in-built feature. All Samsung devices launched with One UI can use the Smart View feature to share their device's screen with  Realme TV. The Samsung devices that support the Smart View feature include Galaxy S Series, Galaxy Z Series, Galaxy Note Series, Galaxy A Series, Galaxy M Series, and Galaxy F Series.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps for Using Smart View to Share Screen
 
@@ -216,17 +208,21 @@ Ensure that your Samsung device and Smart TV are connected to the same network, 
 
 ![enable the smart view feature](https://images.wondershare.com/drfone/article/2022/12/how-to-share-screen-on-samsung-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** You can select your desired content through options like My Photos, My Videos, or My Music. When the desired content is selected, you can enjoy it on a bigger screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Share Screen From Samsung Phones to Other Smart TVs?
 
 If your Smart TV is of another brand instead of Samsung, it is still possible to share the Samsung devices screen with your TV. Multiple tools are available online that can be used to share your Samsung device with your TV, depending on the TV brand. You can use tools like AllShare Cast, Chromecast, or Amazon Firestick.
 
 Like Smart View, all wireless screen share tools require your Samsung device and Smart TV to be connected to the same network. Once connected, you will need to plug the respective tool's adapter into your Smart TV, and you should be able to share your Samsung device. If your Smart TV doesn't support Miracast, you can use AllShare Cast Wireless Hub for screen sharing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How to Share Screen From Samsung Phone to Computer Using Dr.Fone Air?
 
@@ -239,6 +235,10 @@ Dr.Fone Air is a powerful online screen mirror solution allowing **screen sharin
 - It provides great cross-platform support for screen sharing and casting. You can easily share screens from Android or iOS to Windows or Mac.
 - You don't need to give any unnecessary permissions when using Dr.Fone Air. It also doesn't require Bluetooth or NFC for screen sharing.
 - Your data during screen sharing remain protected as it doesn't require downloading or uploading your content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps of Using Dr.Fone Air for Screen Sharing
 
@@ -256,15 +256,15 @@ Sharing your Samsung phone screen with your  Realme TV using Dr.Fone Air is a si
 
 ![mirroring samsung phone to computer](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Hope everything is clear to our readers about the different methods to share the screen in Samsung. The detailed steps for screen sharing on Samsung phones to  Realme TVs and other Smart TVs make it easy for users to optimize the benefits of the big screen.
 
 Make sure to check out is using [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) for sharing screens from Samsung phones to computers directly. It is a reliable, secure, and quick method to wirelessly mirror any mobile phone screen to any web browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Facts You Need to Know about Screen Mirroring Realme GT 5 Pro 
 
@@ -314,6 +314,10 @@ Huawei is among the top brands that support the Android OS on their phones. More
 
 The app provides an intuitive interface to connect an Android or iOS device and manage its content with the computer screen. Furthermore, it is a much safer alternative to choppy or sluggish emulators.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/ "Wondershare Dr.Fone")
 
 Mirror your Realme GT 5 Pro deviceto your computer!
@@ -347,10 +351,6 @@ Access MirrorGo from the computer. You will see the contents of your Realme GT 5
 
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/control-android-phone-from-pc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Screen mirroring Realme GT 5 Pro  to TV or PC is as easy as casting your iPhone screen to any TV or PC. If you are contented with the display of your phone you can use the Mirror share built-in feature of Realme GT 5 Pro  to stream videos, music, and pictures on TV or PC. A third-party app like MirrorGo Android recorder also facilitates the mirroring of your smartphone to PC. Realme GT 5 Pro  facilitates its users to a large extent. You can apply the above-mentioned features to cast your phone screen to TV or PC.
@@ -369,17 +369,19 @@ Screen mirroring Realme GT 5 Pro  to TV or PC is as easy as casting your iPhone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-aesthetic-enhancement-font-integration-for-ae/"><u>[New] Aesthetic Enhancement Font Integration for AE</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-youtube-team-ups-finding-perfect-co-stars/"><u>[New] In 2024, Mastering YouTube Team-Ups Finding Perfect Co-Stars</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-kid-safe-games-galore-your-picks-of-the-week-for-2024/"><u>[Updated] Kid-Safe Games Galore Your Picks of the Week for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-camon-20-premier-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Camon 20 Premier 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-docx-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .docx file Document</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-moto-g14-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Moto G14 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nokia-c02-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nokia C02 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-c55-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme C55 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-macos-sierra-integration-techniques-for-2024/"><u>Seamless MacOS Sierra Integration Techniques for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-problem-of-a-malfunctioning-lenovo-image-capture-app-in-windows-10-step-by-step-fix/"><u>Solving the Problem of a Malfunctioning Lenovo Image Capture App in Windows 10: Step-by-Step Fix</u></a></li>
-<li><a href="https://some-tips.techidaily.com/zdnet-insight-evaluating-wp-engine-as-a-superior-managed-hosting-service-for-wordpress-sites/"><u>ZDNet Insight: Evaluating WP Engine as a Superior Managed Hosting Service for WordPress Sites</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-delving-deep-into-dji-inspire-2s-design/"><u>[New] Delving Deep Into DJI Inspire 2'S Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-making-the-most-of-your-ppt-on-google-meet-devices-included/"><u>[Updated] 2024 Approved Making the Most of Your PPT on Google Meet Devices Included</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/affordable-overseas-vr-headsets-china-for-2024/"><u>Affordable Overseas VR Headsets (China) for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/economical-action-camera-picks-top-6-for-budget-shoppers-under-100/"><u>Economical Action Camera Picks Top 6 for Budget Shoppers Under $100</u></a></li>
+<li><a href="https://win-answers.techidaily.com/errgfxstate-problem-on-redd2-heres-your-comprehensive-fix-guide/"><u>ERR_GFX_STATE Problem on REDD2? Here's Your Comprehensive Fix Guide!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-apples-latest-innovations-in-ai-will-amplify-the-power-of-the-new-m4-chip-within-the-ipad-pro-showcased-at-wwdc-digital-trends/"><u>How Apple's Latest Innovations in AI Will Amplify the Power of the New M4 Chip Within the iPad Pro Showcased at WWDC | Digital Trends</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-honor-90-litemirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor 90 LiteMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-ace-3-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus Ace 3 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y55s-5g-2023-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-13-ultra-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi 13 Ultra Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-s17-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo S17 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-a14-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy A14 4G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-cant-find-appropriate-hardware-drivers/"><u>System Can't Find Appropriate Hardware Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
 

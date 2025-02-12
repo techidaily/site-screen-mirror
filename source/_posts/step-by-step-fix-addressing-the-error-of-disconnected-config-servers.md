@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fix: Addressing the Error of Disconnected Config Servers"
-date: 2025-01-29T18:46:54.458Z
-updated: 2025-01-30T19:58:16.238Z
+date: 2025-02-08T06:08:55.819Z
+updated: 2025-02-12T13:05:14.910Z
 tags:
   - win11
   - win10
@@ -50,16 +50,16 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -75,13 +75,13 @@ thumbnail: https://thmb.techidaily.com/124b72dbf62c2315133422a27b4166aca8de938c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -105,21 +105,17 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -128,7 +124,7 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -136,6 +132,10 @@ Here are the system requirements for Control:
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -146,18 +146,26 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -187,6 +195,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
@@ -212,15 +224,7 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -243,14 +247,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 See if this fix works for you. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
@@ -279,19 +279,18 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-pc-clipper-guide-choose-from-the-5-best-tools-for-2024/"><u>[New] The Ultimate PC Clipper Guide - Choose From the 5 Best Tools for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>[Updated] In 2024, Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instagram-to-tik-tok-integration-strategy/"><u>[Updated] Instagram to Tik Tok Integration Strategy</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-hot-30-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Hot 30 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/comparison-of-googles-ar-embellishments-to-competitors-for-2024/"><u>Comparison of Google's AR Embellishments to Competitors for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-p55plus-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel P55+ to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-htc-u23-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring HTC U23 to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-13c-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-itel-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Itel S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/masterful-mixers-free-lut-compendium/"><u>Masterful Mixers' Free LUT Compendium</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/shadowing-snaptaking-discreet-methods-to-capture-snapchats/"><u>Shadowing SnapTaking Discreet Methods to Capture SnapChats</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/uploading-in-bulk-a-comprehensive-guide-to-multimedia-on-ig-for-2024/"><u>Uploading in Bulk A Comprehensive Guide to Multimedia on IG for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-subtracting-text-srt-to-sub-transformation-tips/"><u>[Updated] 2024 Approved Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comment-conserver-votre-partition-de-recuperation-dans-windows-astuces-detaillees-pour-wndows-111087/"><u>Comment Conserver Votre Partition De Récupération Dans Windows : Astuces Détaillées Pour Wndows 11/10/8/7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/engaging-mobile-adventures-top-apps-inspired-by-classic-titles-like-the-room-and-myst/"><u>Engaging Mobile Adventures: Top Apps Inspired by Classic Titles Like 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c67-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme C67 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-7-plus-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 7 Plus Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-c12-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia C12 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-google-pixel-8-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Google Pixel 8 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-6-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic 6 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-gionee-f3-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Gionee F3 Pro Through Google Earth?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y02t-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-skycheap-fileserver-economical-efficient-large-data/"><u>In 2024, SkyCheap Fileserver Economical, Efficient Large Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-realme-note-50-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Realme Note 50 Screen | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/step-by-step-guide-utilizing-windows-complete-pc-restore-in-server-2t08/"><u>Step-by-Step Guide: Utilizing Windows Complete PC Restore in Server 2T08</u></a></li>
 </ul></div>
 

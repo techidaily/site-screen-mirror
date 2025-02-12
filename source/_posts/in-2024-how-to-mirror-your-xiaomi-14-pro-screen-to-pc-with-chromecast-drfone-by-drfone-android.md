@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Mirror Your Xiaomi 14 Pro Screen to PC with Chromecast | Dr.fone
-date: 2024-07-26T08:47:37.839Z
-updated: 2024-07-27T08:47:37.839Z
+date: 2025-02-11T12:09:55.166Z
+updated: 2025-02-12T11:47:41.624Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -19,16 +19,14 @@ As times progress, technology is in competition with it and this article about C
 
 If you have an android device and you wish to mirror (share) the screen to your PC, this can be done using some simple steps, but to do this it depends on the android device you have and the source that you will project it to, whether a TV or PC. The recommended Chromecast to mirror your android screen to your PC is All cast, Koushik Dutta's Mirror that comes with most android devices or can be downloaded, and for persons who use Custom Roms, cyanogen Mod 11 Screencast can be used. It is very important that the PC that will mirror the android device screen has AllCast Receiver installed because this software enables all the features of mirroring to be enabled on the receiving end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 1\. What is Chromecast?
 
 Chromecast is a form of modern technology established and mananged by Google, which enables an individual to project or display whatever they have on their Android device screen on a secondary screen such as a PC or TV. More interestingly Chromecast is just a small device that can be plugged into a PCs HDMI port to allow for easy casting on a bigger screen. The capability is called mirroring and it is very prevalent in today's society. Chromecast is very convenient because sometimes individuals cannot be bothered with a small mobile screen if they are watching a movie for instance of playing their favourite games such as FIFA 2015. The technology of Chromecast is possible because of the chrome app for both PC and Android mobile devices to date. Chromecast allows the casting of all your favourite mobile activities straight to your PCs screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. The features of Chromecast
 
 •Chromecast works with a majority of apps – There is no need to worry about available applications when purchasing Chromecast and setting it up. It works with a huge amount of apps, that you will likely want to stream and mirror to your big screen. Apps such as Netflix, HBO, Google Music, Youtube, IheartRadio, and Google Play are fully capable of mirroring to your PC hassle free, because it only take a few steps to set up.
@@ -43,6 +41,10 @@ Chromecast is a form of modern technology established and mananged by Google, wh
 
 •Auto update – Chromecast automatically updates so you can have new apps and features that are compatible and available without effort or hassle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. The Steps on How to Mirror
 
 Step 1. Download and setup Chromecast on both devices from the play store, the play store is an app on your Xiaomi 14 Pro devicethat allows you to download hundreds of other apps.
@@ -55,21 +57,23 @@ Step 2. Plug the chrome cast into the HDMI port at the side of your personal com
 
 Step 3. Ensure that your Chromecast and PC are on the same Wi-Fi network, this will enable Chromecast to work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/wifi.jpg)
 
 Step 4. Open a supported Chromecast app that you downloaded from the plays store and tap the cast button normally at the top right or left corner of the app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/cast.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5. Enjoy Chromecast.
 
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/enjoy.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Supported Android Devices
 
@@ -88,8 +92,9 @@ There are a wide range of devices that are supported by Chromecast, these device
 - 11.TrekStor SurfTab xintron i 7.0
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Advanced Casting Features
 
 Chromecast has some advance features that every user should definitely know and use such as:
@@ -98,18 +103,12 @@ Chromecast has some advance features that every user should definitely know and 
 - •Chromecast is also compatible with IOS mobile devices and tablets – A lot of persons find this feature very hand since they have IOS devices. No need to worry as these devices are fully compatible with Chromecast.
 - • You can cast a website to your TV from a laptop or mobile device – Advanced features of Chromecast allows easy casting of webpages to your laptop or even a television from a mobile device.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## A Guide Xiaomi 14 Pro Wireless and Wired Screen Mirroring
 
 In simple words, screen mirroring is an approach to mirror the screens of two devices with one another. For instance, you can mirror your Android phone screen on the computer and the other way round. In this article, viewers will get to know how to mirror an Android screen on PC wirelessly or through a USB cable.
 
 Screen Mirroring is quite useful in many ways. It allows you to display the screen of your Android phone, tablet, or PC on another device through a wired or wireless connection between both devices. In today’s life, not everyone is familiar with screen mirroring technology.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Screen Mirroring?
 
 Screen Mirroring is such technology that permits you to display your content from your device to another device. In the case of screen mirroring Xiaomi 14 Pro PC, this could be done through both wireless and wired connections. At the same time, screen mirroring can be done when one device continuously sends the copy of its screen to another targeted device simultaneously.
@@ -117,8 +116,9 @@ Screen Mirroring is such technology that permits you to display your content fro
 In a meeting or presentation, screen mirroring plays an important role by facilitating team members to avoid complex setups and share their screens immediately. Moreover, screen mirroring supports the BYOD model, that is, "Bring Your Own Device." The reason for supporting this model is to lower the cost and increase efficiency.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Prerequisites for Android Screen Mirroring
 
 To successfully cast Android screen to PC, the screen mirroring apps should work properly. For this purpose, it is recommended to do some settings on your Android device. The steps of settings for enabling both developer options and USB debugging are discussed below:
@@ -137,16 +137,15 @@ To successfully cast Android screen to PC, the screen mirroring apps should work
 
 **Step 2:** Now go down and turn on the “USB Debugging” option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![enable usb debugging](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Efficient and Fast Wireless Android Screen Mirroring Tool - MirrorGo
 
 If you are looking for an advanced experience of mirroring your Android device with the PC, [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) features an intelligent solution with efficiency. Whether you are presenting your business idea across a large screen or enjoying gaming with your friends, MirrorGo presents a quick and simple solution for mirroring your device with ease.
-
-
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
@@ -182,8 +181,9 @@ Over selecting the Xiaomi 14 Pro device for connection, a mirroring platform is 
 ![select your device to connect over wifi](https://images.wondershare.com/drfone/article/2021/07/mirror-android-to-pc-with-wifi-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Ways to Screen Mirror Android with USB Cable
 
 In this part of the article, we will discuss the most efficient ways to mirror Android screen on PC via USB cable. These ways include efficient applications like Vysor and ApowerMirror. Both of these applications allow a wired USB cable connection between two devices for the purpose of screen mirroring.
@@ -208,11 +208,12 @@ Well, the advantages of this screen mirroring application include a bigger scree
 
 ![tap on ok button](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** You can now see your Android device name on your PC on the Vysor app. You just need to click on the “View” option to see your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view your android screen on pc](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-7.jpg)
 
 **3.2 Control Android Screen Using ApowerMirror**
@@ -229,19 +230,17 @@ ApowerMirror counts as one of the best screen mirroring applications among all t
 
 ![tap on start now option](https://images.wondershare.com/drfone/article/2021/07/guide-to-android-wireless-and-wired-screen-mirroring-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** At last, you can now entertain yourself on a much bigger screen by controlling your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Final Words
 
 This article covers everything about screen mirroring and its working with the need to cast Android screen to PC. We have discussed the concept of screen mirroring both by wired or wireless connection. With the help of this article, you can now share your Android screen on a laptop or PC and can share data like documents, images, games, etc.
 
 Furthermore, Wondershare introduces us to software like MirrorGo. It helps us to build a wireless connection between devices that we want to connect for screen mirroring purposes.
-
-
 
 ## How To Stream Anything From Xiaomi 14 Pro to Apple TV
 
@@ -263,20 +262,13 @@ Here are the apps you can use.
 
 4) **Apple TV AirPlay Media Player:** For the ones who have been following this list for a while, the name should be a getaway. However, the application is specifically designed to be used with Apple TV. The beauty of this app lies in its functionality which allows it to stream content based on the Android operating system and also any content that is stored on the local network to your Apple TV. It also converts your Android Device into all-in-one remote control. This enables the users to browse, search, and share content from a variety of online sources which include video podcasts, YouTube, Facebook and other media based social media networking websites. However, it is important for the users to note that they must be running Android 2.1 or later and also should have a working ZappoTV account setup if they are looking to use this app. Alongside, DLNA and UPnP connectivity is available through an internal purchase.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![stream from any Android to Apple TV-Apple TV AirPlay Media Player](https://images.wondershare.com/drfone/others/14542162549992.jpg)
 
 5) **Twonky Beam:** Here is the application that is ideal for streaming video apps. Available for both, iOS and Android platforms, it comes with dual AirPlay-DLNA capabilities, and has the functionality which makes it compatible with numerous varieties of TVs and streaming boxes, without having the users to worry about the transmission standards. Xbox 360, Apple TV, is among the few of these. Sharing content between devices on the home network in the presence of an UPnP standard that is instrumental in helping users save media from their local network to the mobile device as the content is streamed on the Apple TV. However, a version later or equal to Android 4.0 or iOS 6.0 is necessary if one is looking to use this free application.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![stream from any Android to Apple TV-Twonky Beam](https://images.wondershare.com/drfone/others/14542162742182.jpg)
 
 Thus, we have compiled a list of a few applications that can come in handy if you are looking to enjoy the functionality of your content on the Apple TV. Android users earlier used to complain about not having anything on the Apple TV for their device, but with these apps and many others that can one discover on the Google play store, things have got better. Let us know in the comment section, how was your experience of streaming content from your Android Device to your Apple TV.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -290,7 +282,22 @@ Thus, we have compiled a list of a few applications that can come in handy if yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>[New] 2024 Approved The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cost-calculations-for-your-dream-podcast-project/"><u>[New] Cost Calculations for Your Dream Podcast Project</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-inside-the-wonders-of-stardew-valley-particularly-ginger-island/"><u>[Updated] In 2024, Inside the Wonders of Stardew Valley, Particularly Ginger Island</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budget-cameras-with-bold-action-features-and-quality/"><u>Budget Cameras with Bold Action Features and Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722903106425-diy-fixes-for-when-your-vizio-tv-cant-find-a-wi-fi-signal-heres-how/"><u>DIY Fixes for When Your Vizio TV Can't Find a Wi-Fi Signal – Here’s How!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-methods-for-installing-the-correct-dell-mouse-driver-solution-inside/"><u>Effective Methods for Installing the Correct Dell Mouse Driver [Solution Inside]</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-11r-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus 11R to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-civi-3-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Civi 3 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guide-to-choosing-among-the-best-9-video-conferencing-tools-android-iphone/"><u>Guide to Choosing Among The Best 9 Video Conferencing Tools (Android, iPhone)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-v-purse-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor V Purse to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-x100-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo X100 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-11-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y78plus-t1-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y78+ (T1) Edition Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-honor-magic-6-lite-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Honor Magic 6 Lite Screen Mirroring App | Dr.fone</u></a></li>
+</ul></div>
 

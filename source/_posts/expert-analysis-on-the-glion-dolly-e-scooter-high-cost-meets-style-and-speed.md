@@ -1,7 +1,7 @@
 ---
 title: "Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
-date: 2025-01-27T00:27:55.546Z
-updated: 2025-01-30T23:51:08.702Z
+date: 2025-02-06T09:26:43.228Z
+updated: 2025-02-12T01:07:40.579Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Analysis on the Glion Dolly E-Scooter: High Cost Meets Style & Speed"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/b1e13c65cf79c8bfe0a90a1ea55d4cf4b25b6f465
 ![Escort Max 360 Laser Radar Detector with GPS](https://www.lifewire.com/thmb/bHImXEngi7QSN1OMNbWkeW9b1l8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Escort_RadarDetectors_Max360_0Herosquare-0cdd5b712ef0409cb0263171b30f3935.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Todd Braylor
@@ -40,10 +40,6 @@ Lifewire / Todd Braylor
 [View On Amazon $500](https://www.amazon.com/Escort-Max-Radar-Detector-Black/dp/B01669UNR8/?tag=lifewire-onsite-prod-20&ascsubtag=4800049%7Cn2b378d71b9024097bccefd8349c8d06115%7CB01669UNR8) [View On Walmart $500](https://www.walmart.com/ip/ESCORT-Max-360-DSP-Directional-Threat-Arrows-Connected-Laser-and-Radar-Detector-with-Live-Streaming-Alerts-from-the-Cobra-ESCORT-Driver-Network/121311330?slfpid=3) [View On Best Buy $500](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fescort-max-360-radar-detector-for-most-vehicles-black%2F4714101.p%3FskuId%3D4714101)
 
 4.2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Escort Max360 Laser Radar Detector with GPS
 
@@ -70,6 +66,10 @@ Lifewire / Todd Braylor
 
  The Escort Max360 is a top of the line radar detector with a wide range of advanced features, including GPS capabilities, 360-degree protection, and IVT filter capabilities. Let’s take a closer look at the true performance of this premiere radar detector.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Big and heavy**
 
  The Escort Max360 is the biggest and heaviest radar detector I've tested. This is probably the first thing you'll notice right out of the box. The model comes with a single suction cup windshield mount that felt secure despite the unit's weight. A magnet secures the mounting arm bracket when latched in place on the radar detector, preventing any tumbles from bumps in the road.
@@ -92,6 +92,10 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Mediocre Ka-band**
 
  The Max360 has a lot of advanced features but some work better than others. Escort’s Autolearn technology features 360 degrees of protection and can detect threats from any angle. The Max360’s display will then show you the signal’s location with directional arrows, which is a great feature and helps with quick identification.
@@ -101,6 +105,10 @@ The biggest and heaviest radar detector I've tested.
  During highway testing, a less expensive Escort model sounded an alert on Ka-band a few brief moments before the Max360 picked up the signal. In this case, the threat was a parked sheriff almost two miles down the interstate. Approximately three to four seconds difference of sensitivity with Ka-band detection is not a massive discrepancy but anyone should reasonably assume the more expensive model to have the same or better range.
 
  Lifewire / Todd Braylor
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Performance: Advanced multi-features**
 
@@ -112,10 +120,6 @@ The biggest and heaviest radar detector I've tested.
 
  Lifewire / Todd Braylor
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Too expensive**
 
  The Escort Max 360 is quite pricey at $550 MSRP. This is a quality radar detector in terms of user experience, but the overall value is subpar. I appreciate Escort's inclusion of advanced filtering capabilities but the Max360's relatively short range Ka-band detection falls short of expectations for a $500+ product.
@@ -123,7 +127,7 @@ The biggest and heaviest radar detector I've tested.
  This is a quality radar detector in terms of user experience, but the overall value is subpar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Escort Max 360 Radar Detector vs. Radenso Pro M Radar Detector**
@@ -135,10 +139,6 @@ The biggest and heaviest radar detector I've tested.
  **Advanced filtering plus and features diminished by average detection and a lofty price tag.**
 
  I really wanted the advanced features of the Escort Max360 to add up to an overall superior product but this model isn't the best value for your money. The ability to reliably filter out divergent false alerts coupled with great range is what differentiates high-end radar detectors. The Max360 only delivered top-end performance in the former category.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -169,16 +169,16 @@ The biggest and heaviest radar detector I've tested.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-capture-without-capsule-the-no-limit-story-saving-app/"><u>[New] Capture Without Capsule The No-Limit Story Saving App</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-confidence-tips-for-trending-on-youtube-for-2024/"><u>[New] Channel Confidence Tips for Trending on YouTube for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-iconic-stop-motion-animations-15-best-ever/"><u>[Updated] Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-nord-3-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast OnePlus Nord 3 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-f15-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy F15 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-m6-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco M6 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-t2-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo T2 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-f14-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy F14 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/reviving-legends-microsoft-activision-blizzard-and-old-game-classics/"><u>Reviving Legends: Microsoft, Activision Blizzard, and Old Game Classics</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-guide-to-synchronized-camscreen-capture-for-2024/"><u>Step-by-Step Guide to Synchronized Cam/Screen Capture for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/x-chair-x4-executive-chair-review-a-top-contender-for-enhanced-productivity-and-comfort-at-work/"><u>X-Chair X4 Executive Chair Review: A Top Contender for Enhanced Productivity and Comfort at Work</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transcribing-online-master-the-art-of-free-youtube-conversion/"><u>[New] Transcribing Online Master the Art of Free YouTube Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-4-sites-for-free-skype-tones/"><u>2024 Approved Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-techniques-for-masking-your-appearance-on-camera/"><u>Effortless Techniques for Masking Your Appearance on Camera</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-z-flip-5-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy Z Flip 5 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-find-n3-flip-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo Find N3 Flip to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-camon-20-premier-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Camon 20 Premier 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-s17e-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo S17e to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-v27e-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo V27e to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-alternatives-to-a-high-end-processor-save-money-and-stay-efficient/"><u>Top 5 Alternatives to a High-End Processor: Save Money and Stay Efficient</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-stutter-and-fps-drop-problems-in-counter-strike-2-for-pc-gaming/"><u>Troubleshooting Stutter & FPS Drop Problems in Counter-Strike 2 for PC Gaming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweeting-tides-the-rising-wave-of-viral-videos/"><u>Tweeting Tides The Rising Wave of Viral Videos</u></a></li>
 </ul></div>
 

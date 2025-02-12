@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice on Improving Frames Per Second (FPS) and Fixing Lag in the Video Game, Avatar: Frontiers of Pandora"
-date: 2025-01-25T16:30:14.051Z
-updated: 2025-01-31T01:36:35.384Z
+date: 2025-02-04T16:16:20.634Z
+updated: 2025-02-11T19:52:02.445Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/a5092d91210ebecc5f12f725b9ff9f61857216831
 * **Test your keyboard with another PC** if possible. If your keyboard still won’t work, then it’s likely defective and may need a repair.
 
 If you didn’t find any hardware issues, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Make sure no other devices are interfering
 
@@ -72,18 +64,22 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
 
@@ -100,13 +96,17 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -133,22 +133,16 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-deciphering-the-auto-cut-functionality-in-imovie-for-2024/"><u>[Updated] Deciphering the Auto-Cut Functionality in iMovie for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/enhanced-conversions-with-our-leading-cookiebot-enabled-tracking-solutions/"><u>Enhanced Conversions with Our Leading Cookiebot-Enabled Tracking Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-a59-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo A59 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-a70-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel A70 to Roku | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-x50iplus-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor X50i+ Unlock Without Password</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audiophiles-guide-to-the-premier-8-4k-blu-rays/"><u>In 2024, Audiophile's Guide to the Premier 8 4K Blu-Rays</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-edge-40-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Edge 40 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-a2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi A2 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-14-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi 14 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-itel-a60-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Itel A60 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y17s-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y17s Through Google Earth?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-note-30-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unleash-your-creative-brand-selecting-one-of-a-kind-channel-titles/"><u>In 2024, Unleash Your Creative Brand Selecting One-of-a-Kind Channel Titles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-xiaomi-redmi-note-12r-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Xiaomi Redmi Note 12R Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/streaming-mastery-access-all-videos-on-apple-tv-with-simple-vlc-tricks/"><u>Streaming Mastery: Access All Videos on Apple TV with Simple VLC Tricks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782200-9781620551882-the-book-of-grimoires/"><u>The Book of Grimoires | Free Book</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/the-evolution-of-mobile-and-sms-advertising-in-the-last-decade-a-comprehensive-guide-to-campaign-strategies-and-best-practices-updated/"><u>The Evolution of Mobile & SMS Advertising in the Last Decade: A Comprehensive Guide to Campaign Strategies and Best Practices (Updated)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-learn-video-editing-on-vimeo-a-budget-friendly-approach/"><u>[New] In 2024, Learn Video Editing on Vimeo A Budget-Friendly Approach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlocking-creative-potential-a-deep-dive-into-screenflow-for-mac/"><u>[Updated] 2024 Approved Unlocking Creative Potential A Deep Dive Into ScreenFlow for Mac</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-compreayers-guide-to-monetizing-videos-critical-view-figures/"><u>[Updated] A Compreayer's Guide to Monetizing Videos Critical View Figures</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-t2x-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo T2x 5G PC | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-api-for-beginners-how-to-get-started-and-build-interactive-experiences/"><u>ChatGPT API for Beginners: How to Get Started and Build Interactive Experiences</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-easytime-timer-service-for-free/"><u>Elite EasyTime Timer Service for Free</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-motorola-moto-g34-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-m14-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy M14 4G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-swift-video-transformation-with-top-8-apps/"><u>In 2024, Swift Video Transformation with Top 8 Apps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/normalizing-window-upside-down-in-w11/"><u>Normalizing Window Upside Down in W11</u></a></li>
 </ul></div>
 

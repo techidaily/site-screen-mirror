@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving 'Super Sensei' Collision Issues in Your PC"
-date: 2025-01-28T19:58:10.145Z
-updated: 2025-01-30T18:25:32.901Z
+date: 2025-02-10T12:56:45.986Z
+updated: 2025-02-12T05:10:20.186Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  Life is Strange True Colors is out. However, as many new release games, it’s not immune from bugs or issues. Many players complained Life is Strange True Colors crashes randomly and a specific low level fatal line 3946 error occurs. If you encounter the same issue, don’t worry. We’ve got a full list of working fixes for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Before getting started
 
  Before you move on to the more advanced steps, please take a look at the system requirements of Life is Strange True Colors, and make sure your computer is powerful enough to run the title.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  If your hardware is not the problem, read on to rule out other possible causes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 5 fixes for Life is Strange True Colors crash. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 4. **[Switch to DirectX 11](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Install the latest patch
 
  The game developer will keep releasing new patches to fix known bugs after the game is launched. According to[the official](https://steamcommunity.com/app/936790/discussions/1/3040481812840137942/) , the new patched DLC of Life is Strange is live now, and it should resolve the DX12+RTC outfit pack crash. This patch won’t be automatically downloaded, so if you see an update is available, install it right away to see whether that helps with your problem.
@@ -54,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
  Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -73,15 +77,7 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -109,17 +105,17 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
@@ -136,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 3. Click**Edit** next to Advanced Video.
 4. You could just set each option to**Low** or**Medium** and click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the game to test if the new settings have a significant impact on the game performance.
 
@@ -160,24 +160,21 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-gear-vr-and-mobile-devices-the-2023-compatibility-guide/"><u>[Updated] Gear VR and Mobile Devices The 2023 Compatibility Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-smoothly-blend-images-and-movies-a-guide-to-windows-photos-and-storyremix/"><u>2024 Approved Smoothly Blend Images & Movies A Guide to Windows Photos and StoryRemix</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/easy-conversion-tips-enable-playback-of-mtsm2ts-on-your-apple-ipad-lineup-pro-mini-air/"><u>Easy Conversion Tips: Enable Playback of MTS/M2TS on Your Apple iPad Lineup (Pro, Mini, Air)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-asus-rog-phone-8-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Asus ROG Phone 8 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-moto-e13mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Moto E13Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-nord-n30-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Nord N30 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-s24plus-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy S24+ Is Unlocked</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-12r-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus 12R Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-nokia-xr21-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia XR21 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-ace-3-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus Ace 3 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-ace-2-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Ace 2 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-7-plus-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 7 Plus Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>In 2024, Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-w11-printer-error-fixes-related-to-ad-ds/"><u>Mastering W11 Printer Error Fixes Related to AD DS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-update-error-0x8024800c-failure/"><u>Mending Windows Update Error 0X8024800C Failure</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-spark-10-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Spark 10 4G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-realme-narzo-60-pro-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Realme Narzo 60 Pro 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-nokia-c22-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/vendor-wisdom-avoiding-common-monitor-buying-errors/"><u>Vendor Wisdom: Avoiding Common Monitor Buying Errors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-for-mac-gif-capturing-expert-reviews/"><u>[New] In 2024, Top 10 for Mac GIF Capturing Expert Reviews</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-video-experience-best-youtube-to-avi-companions/"><u>[Updated] 2024 Approved Elevating Video Experience Best YouTube-to-AVI Companions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-art-of-retention-capturing-gifs-from-social-media/"><u>[Updated] The Art of Retention Capturing GIFs From Social Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-budget-friendly-twit-to-gif-guide/"><u>2024 Approved Budget-Friendly Twit-to-GIF Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-90-lite-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor 90 Lite to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/beginning-to-connect-a-comprehensive-facebook-setup-walkthrough/"><u>Beginning to Connect A Comprehensive Facebook Setup Walkthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-your-iphone-15-promax-a-step-by-step-guide/"><u>Disabling Your iPhone 15 Pro/Max: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-c65-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco C65 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-find-x6-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo Find X6 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-8-hd-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 8 HD to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-v27-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo V27 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-14-plus-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 14 Plus to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-realtek-lan-driver-failure-with-windows-11/"><u>Solving Realtek LAN Driver Failure with Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-amazing-benefits-that-convinced-me-to-choose-samsung-galaxy-watch-6-classic-insights-from-zdnet/"><u>Top 3 Amazing Benefits That Convinced Me to Choose Samsung Galaxy Watch 6 Classic - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-dxgi-correction-for-removed-devices/"><u>Windows 11 DXGI Correction for Removed Devices</u></a></li>
 </ul></div>
 
