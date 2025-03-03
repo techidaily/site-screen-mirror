@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside.
-date: 2025-02-06T19:56:02.505Z
-updated: 2025-02-12T13:18:00.741Z
+date: 2025-02-25T06:20:30.156Z
+updated: 2025-03-02T17:16:22.506Z
 tags:
   - win11
   - win10
@@ -72,10 +72,6 @@ To do so, first visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -89,16 +85,8 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
@@ -106,10 +94,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -120,10 +104,6 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -150,22 +130,20 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>[Updated] Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-webcam-setup-for-quick-recordings-on-chromebooks-for-2024/"><u>[Updated] Webcam Setup for Quick Recordings on Chromebooks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-inject-audio-harmony-to-premiere-pro-videos/"><u>2024 Approved Inject Audio Harmony to Premiere Pro Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a78-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A78 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-phantom-v-foldmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Phantom V FoldMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-infinix-zero-5g-2023-turbo-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Infinix Zero 5G 2023 Turbo Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-note-12t-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi Note 12T Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-camon-30-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Camon 30 Pro 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-upgrade-your-logitech-c920-webcam-driver-on-windows-11108-latest-version-available-now/"><u>How to Upgrade Your Logitech C920 Webcam Driver on Windows 11/10/8 – Latest Version Available Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-notetakers-choose-7-out-of-many-for-pcs/"><u>Ideal Notetakers: Choose 7 Out of Many For PCs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-camon-30-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Camon 30 Pro 5G PC | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-12-pro-max-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 12 Pro Max & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-discovering-the-most-engaging-facebook-vids/"><u>In 2024, Discovering the Most Engaging Facebook Vids</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-essential-choices-top-10-best-video-editing-software-free-2023/"><u>In 2024, Essential Choices Top 10 Best Video Editing Software (Free, 2023)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-hot-30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Hot 30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-hurdles-razer-barracuda-x-mic-troubleshooting-guide-for-windows-users/"><u>Overcoming Audio Hurdles: Razer Barracuda X Mic Troubleshooting Guide for Windows Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-rated-safe-platforms-for-free-pc-gaming-downloads/"><u>The Ultimate List of Top-Rated Safe Platforms for FREE PC Gaming Downloads!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-capturing-every-angle-top-choice-pro-360cameras-of-2023/"><u>[Updated] 2024 Approved Capturing Every Angle Top Choice Pro 360°Cameras of 2023</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-mastery-in-youtube-ads-thumbnails-and-banners/"><u>[Updated] 2024 Approved Mastery in YouTube Ads Thumbnails & Banners</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-elevating-your-youtube-presence-with-effective-tags/"><u>[Updated] Elevating Your YouTube Presence with Effective Tags</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-kinemaster-insider-the-art-of-seamless-video-transitions/"><u>2024 Approved Kinemaster Insider The Art of Seamless Video Transitions</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-cutter-writers-the-top-8-linux-software/"><u>2024 Approved Premium Cutter' Writers The Top 8 Linux Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-zero-5g-2023-turbo-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-reno-8t-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo Reno 8T 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-effective-strategies-to-stabilize-your-rust-applications/"><u>Crash No More: Effective Strategies to Stabilize Your Rust Applications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-huawei-nova-y91-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Huawei Nova Y91 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-spark-10-4g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Spark 10 4G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-lava-blaze-2-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Lava Blaze 2 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-gt-5-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme GT 5 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/prime-fps-range-in-leisurely-cinematic-scenes/"><u>Prime FPS Range in Leisurely Cinematic Scenes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-kensun-mini-air-compressor-for-tires-robust-build-and-convenient-transport/"><u>Top-Rated Kensun Mini Air Compressor for Tires: Robust Build & Convenient Transport</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-get-your-discord-voice-chats-running-smoothly-again/"><u>Troubleshooting Tips: Get Your Discord Voice Chats Running Smoothly Again</u></a></li>
 </ul></div>
 

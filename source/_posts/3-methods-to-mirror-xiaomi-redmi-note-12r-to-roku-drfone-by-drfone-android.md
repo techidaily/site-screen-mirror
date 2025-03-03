@@ -1,7 +1,7 @@
 ---
 title: 3 Methods to Mirror Xiaomi Redmi Note 12R to Roku | Dr.fone
-date: 2024-07-26T08:41:14.402Z
-updated: 2024-07-27T08:41:14.402Z
+date: 2025-03-01T02:39:00.560Z
+updated: 2025-03-02T22:41:42.421Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -42,18 +42,12 @@ The most genuine and reliable way is to use the Android Mirroring Feature of the
 
 - Swipe down the notification panel; here, you will find an option of "Smart View" or "Screen Mirroring". Tap on it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on smart view option](https://images.wondershare.com/drfone/article/2020/12/mirror-android-to-roku-2.jpg)
 
 - Doing so will take you to a page where the Xiaomi Redmi Note 12R device will start searching for devices nearby.
 - Tap on your Roku device to start sharing your Android screen with the Roku device.
 - You must ensure that your Android device is functioning on version 4.4.2 or above before following this method. Also, you need to make sure that your Roku and your Android device is connected to the same network.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Use Screen Mirroring App to Mirror Xiaomi Redmi Note 12R to Roku
 
 Screen Mirroring App for Roku is an easy to use application that allows sharing pictures, videos, and documents from your Android device to Roku TV. You are not required to amend any phone or wifi setting on your device. All you need to make sure is that both the Roku and your Android device is connected to the same wifi network. The data is solely captured by the application for mirroring purposes only; no information is stored.
@@ -107,14 +101,8 @@ Google Home is an excellent alternative to cast your Android to Roku; however, i
 
 - Lastly, to mirror any video to Roku TV, tap on the "cast" icon from your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on cast icon to mirror](https://images.wondershare.com/drfone/article/2020/12/mirror-android-to-roku-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Point: Mirror and Control your Android Device to PC
 
 Did you know that you could mirror your android screen to a PC and then control the Android activities via Windows? MirrorGo, an amazing software by Wondershare, has made it all possible! It is an exceptional application that comes with numerous fascinating features. The app is compatible with iOS as well as Android Devices. Here is how you can use them:
@@ -148,37 +136,12 @@ Did you know that you could mirror your android screen to a PC and then control 
 
 - Once you cast your device screen to the PC, now you can control it too. For example, if you type in "best screen mirroring app for android" using the keyboard, it would also be shown on the Android screen.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/control-android-phone-from-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The methods explained above will help you to mirror the android screen to Roku effortlessly. Each method has its cons and pros; however, if you do not own a tv and want to share your android screen on a larger screen with your friends. For this purpose, MirrorGo is the finest option as it permits users to cast an android screen to the laptop and allows users to control their android device through a keyboard and mouse attached to the computer.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## How to Mirror Your Xiaomi Redmi Note 12R Screen to PC with Chromecast
 
 As times progress, technology is in competition with it and this article about Chromecast will inform you how it works and how to mirror your Android screen to a PC with Chromecast. Chromecast is a very handy technology and it will be a huge part of the future. To learn more about Chromecast, the recommended Chromecasts, and how it works, continue reading this informative article.
@@ -189,9 +152,6 @@ If you have an android device and you wish to mirror (share) the screen to your 
 
 Chromecast is a form of modern technology established and mananged by Google, which enables an individual to project or display whatever they have on their Android device screen on a secondary screen such as a PC or TV. More interestingly Chromecast is just a small device that can be plugged into a PCs HDMI port to allow for easy casting on a bigger screen. The capability is called mirroring and it is very prevalent in today's society. Chromecast is very convenient because sometimes individuals cannot be bothered with a small mobile screen if they are watching a movie for instance of playing their favourite games such as FIFA 2015. The technology of Chromecast is possible because of the chrome app for both PC and Android mobile devices to date. Chromecast allows the casting of all your favourite mobile activities straight to your PCs screen.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. The features of Chromecast
 
 •Chromecast works with a majority of apps – There is no need to worry about available applications when purchasing Chromecast and setting it up. It works with a huge amount of apps, that you will likely want to stream and mirror to your big screen. Apps such as Netflix, HBO, Google Music, Youtube, IheartRadio, and Google Play are fully capable of mirroring to your PC hassle free, because it only take a few steps to set up.
@@ -206,9 +166,6 @@ Chromecast is a form of modern technology established and mananged by Google, wh
 
 •Auto update – Chromecast automatically updates so you can have new apps and features that are compatible and available without effort or hassle.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. The Steps on How to Mirror
 
 Step 1. Download and setup Chromecast on both devices from the play store, the play store is an app on your Xiaomi Redmi Note 12R devicethat allows you to download hundreds of other apps.
@@ -217,9 +174,6 @@ Step 1. Download and setup Chromecast on both devices from the play store, the p
 
 Step 2. Plug the chrome cast into the HDMI port at the side of your personal computer and follow the setup instructions that will be displayed on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![mirror your Android screen to PC with Chromecast](https://images.wondershare.com/drfone/others/chromecast5.jpg)
 
 Step 3. Ensure that your Chromecast and PC are on the same Wi-Fi network, this will enable Chromecast to work.
@@ -250,9 +204,6 @@ There are a wide range of devices that are supported by Chromecast, these device
 - 10.Tesco hudl2
 - 11.TrekStor SurfTab xintron i 7.0
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Advanced Casting Features
 
 Chromecast has some advance features that every user should definitely know and use such as:
@@ -261,17 +212,10 @@ Chromecast has some advance features that every user should definitely know and 
 - •Chromecast is also compatible with IOS mobile devices and tablets – A lot of persons find this feature very hand since they have IOS devices. No need to worry as these devices are fully compatible with Chromecast.
 - • You can cast a website to your TV from a laptop or mobile device – Advanced features of Chromecast allows easy casting of webpages to your laptop or even a television from a mobile device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Cast Xiaomi Redmi Note 12R Screen to PC Using WiFi
 
 Today most people are using smartphones with an android operating system which actually has become the first choice for so many people. Although you can enjoy so many brilliant and advanced features on the android platform, the thing which makes people sometimes annoyed and uneasy at the same time is an inferior visual experience on a small screen. People often miss their good experiences on large screens when they watch their favorite videos and movies even while they are making video calls to their favorite persons. But now the time has changed and so has the technology which literally allows you to enjoy the benefit of a large screen with your same small android device. This is called screen mirroring. So, let's discuss what screen mirroring and casting is actually and how to cast android screen to PC using WiFi.
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Screen Mirroring Android and Casting
 
 Today, most android devices are coming with a built-in screen mirroring feature which simply allows you to upgrade and enhance your viewing experience. With this, you can simply mirror the android screen on a PC via WiFi. And for this, all you just need is the right platform for both of your devices which means your PC, as well as your smartphone, must have some built-in cast screen or screen mirror feature or software as well.
@@ -322,14 +266,8 @@ Now you have to wait until and unless the Xiaomi Redmi Note 12R device is found.
 
 With this, you will be able to cast the screen of one device to another.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![casting android screen to pc with chromecast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: Casting Android Screen to PC with MiraCast
 
 The next method which you can possibly consider using is MiraCast for mirroring your screen over the internet.
@@ -346,9 +284,6 @@ Now when you open the 'connect' app, it will display a message regarding your sy
 
 Here you are absolutely not required to interact with any network server settings or any firewall as well. So, simply tap to open the app every time you need this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![casting android screen to pc with miracast](https://images.wondershare.com/drfone/article/2021/08/how-to-cast-android-screen-to-pc-using-wifi-3.jpg)
 
 ## Part 4: Casting Android Screen To PC with Screen Mirroring Tool - Mirror Go
@@ -381,9 +316,6 @@ As you have successfully established the same internet connection for both of yo
 
 **Step Five: Mirror And Control**: After this, simply choose the android device that you wish to cast on your PC. With this, you can see that your android screen will be mirrored on your PC. Moreover, here you can also manage and control your Xiaomi Redmi Note 12R deviceacross the personal computer.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![mirror android to pc with wifi](https://images.wondershare.com/drfone/article/2021/07/mirror-android-to-pc-with-wifi-3.jpg)
 
 ## Part 5: Mirroring Android Screen to PC with Online Screen Mirroring Tool - Dr.Fone Air
@@ -400,9 +332,6 @@ There are some prominent features of this online mirroring solution that makes i
 - The tool is completely free and does not have any ads associated with it.
 - You can adjust the mirrored screen by zooming, rotating, or taking screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is the Disadvantage of Screen Casting?
 
 Screen casting, as a process, is not better than screen mirroring. Essentially, this process does not allow you to use the mobile when it is connected to the computer. If you have connected your Android to the PC through screencasting, you will have to disconnect it to use the mobile phone.
@@ -421,25 +350,17 @@ Start by opening Wondershare Dr.Fone Air on the browser. Proceed to connect your
 
 As you connect the Xiaomi Redmi Note 12R devices, you must install Dr.Fone Link to connect the Android to the PC with this screen mirroring tool. Use the QR code or casting code shown on the screen of the browser.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connect the android device](https://images.wondershare.com/drfone/drfone/online-screen-mirror-2.jpg)
 
 **Step 3: Mirror Android to PC**
 
 On successfully scanning or entering the code, the Android will be mirrored to the PC with Dr.Fone Air.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![android device mirrored](https://images.wondershare.com/drfone/drfone/online-screen-mirror-3.jpg)
 
 ### Conclusion
 
 The provided solutions have been quite comprehensive in showing you how to **cast an Android screen to a PC.** While you can try using these solutions, Wondershare Dr.Fone Air provides you with a much better sequence of mirroring your Android to the PC with ease. While using only a Wi-Fi connection, you can enjoy watching the Android screen on your PC seamlessly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -453,7 +374,22 @@ The provided solutions have been quite comprehensive in showing you how to **cas
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-techniques-for-turning-youtube-watching-into-a-screenshot/"><u>[New] 2024 Approved Free Techniques for Turning YouTube Watching Into a Screenshot</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-iphone-screen-capturing/"><u>[Updated] 2024 Approved Step-by-Step Guide to Iphone Screen Capturing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-directly-connect-tweeting-with-videos-on-whatsapp/"><u>[Updated] In 2024, Directly Connect Tweeting with Videos on WhatsApp</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-from-filer-to-fanfare-transmitting-videos-across-services/"><u>[Updated] In 2024, From Filer to Fanfare Transmitting Videos Across Services</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-premier-nintendo-switch-brawlers-list-max-156/"><u>[Updated] In 2024, Premier Nintendo Switch Brawlers List (Max 156)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-preventive-measures-for-smooth-streaming-with-obs-for-2024/"><u>[Updated] Preventive Measures for Smooth Streaming with OBS for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-tecno-spark-10c-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Tecno Spark 10C to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-a60-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel A60 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-xiaomi-redmi-a2plus-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Xiaomi Redmi A2+ to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-m34-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy M34 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-hot-40-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Hot 40 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-infinix-note-30-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Infinix Note 30 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-lava-yuva-3-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Lava Yuva 3 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028300427-mp4/"><u>MP4フォーマット動画を最適化し、自由度高い回転・反転機能実装方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unavailable-desktop-issue-within-windows-system-profile-configuration/"><u>Troubleshooting Unavailable Desktop Issue Within Windows System Profile Configuration</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Methods to Mirror Xiaomi Redmi A2 to Roku | Dr.fone
-date: 2024-07-26T08:38:15.024Z
-updated: 2024-07-27T08:38:15.024Z
+date: 2025-02-28T23:06:56.781Z
+updated: 2025-03-03T06:15:58.375Z
 tags: 
   - screen-mirror
   - mirror-phone
@@ -19,9 +19,6 @@ Back from vacation and want your family members or friends to see your pictures 
 
 ## 3 Methods to Mirror Xiaomi Redmi A2 to Roku
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Method 1 Use Android Mirroring Feature to Mirror
 
 The most genuine and reliable way is to use the Android Mirroring Feature of the Xiaomi Redmi A2 device itself. It involves no third-party app. By following a few simple steps, you can easily stream all your Android Device movies and videos to Roku.
@@ -62,9 +59,6 @@ The only drawback of this app is that it still does not support sound; hence to 
 - Unlock your Android device and enter the Google Play Store.
 - Download the "Screen Mirroring Application" using this link: [https://play.google.com/store/apps/details?id=de.twokit.screen.mirroring.app.roku](https://play.google.com/store/apps/details?id=de.twokit.screen.mirroring.app.roku)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen mirroring for roku app](https://images.wondershare.com/drfone/article/2020/12/mirror-android-to-roku-3.jpg)
 
 **Step 2: Mirror Xiaomi Redmi A2 Device to Roku:**
@@ -84,9 +78,6 @@ The only drawback of this app is that it still does not support sound; hence to 
 - After that, tap on "Start Now" from the pop-up screen to permit the app to start capturing your Android device screen.
 - And you are done!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Method 3: Use Google Home to mirror Xiaomi Redmi A2 to Roku TV
 
 Google Home is an excellent alternative to cast your Android to Roku; however, it only supports a handful of apps.
@@ -101,9 +92,6 @@ Google Home is an excellent alternative to cast your Android to Roku; however, i
 - From there, select the option of "Set up Device". From there, tap on "have something already set up".
 - Now select your Roku device from the Xiaomi Redmi A2 devices shown on your Android screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![select your roku device](https://images.wondershare.com/drfone/article/2020/12/mirror-android-to-roku-4.jpg)
 
 - After that, you will be asked to enter the login credentials of your Roku account.
@@ -115,10 +103,6 @@ Google Home is an excellent alternative to cast your Android to Roku; however, i
 
 ![tap on cast icon to mirror](https://images.wondershare.com/drfone/article/2020/12/mirror-android-to-roku-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Bonus Point: Mirror and Control your Android Device to PC
 
 Did you know that you could mirror your android screen to a PC and then control the Android activities via Windows? MirrorGo, an amazing software by Wondershare, has made it all possible! It is an exceptional application that comes with numerous fascinating features. The app is compatible with iOS as well as Android Devices. Here is how you can use them:
@@ -133,10 +117,6 @@ Did you know that you could mirror your android screen to a PC and then control 
 - Use an authentic USB cable to connect your Android device to your PC.
 - From your Android Device, select the option of "Transfer Files" to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![connect android phone to pc 02](https://images.wondershare.com/drfone/drfone/connect-android-phone-to-pc-02.jpg)
 
 **Step 3: Enable the Feature of USB debugging:**
@@ -146,9 +126,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 - Now enter the Develops option and from here enable the feature of "USB Debugging."
 - A pop-up window will appear asking for permission to allow USB Debugging. Check the box of "Always allow from this computer" and tap on "OK" to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![enable USB debugging feature](https://images.wondershare.com/drfone/article/2022/06/connect-android-phone-to-pc-03.jpg)
 
 **Step 4: Mirror your Android Screen to PC:**
@@ -161,9 +138,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![control android phone from pc](https://images.wondershare.com/drfone/drfone/control-android-phone-from-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The methods explained above will help you to mirror the android screen to Roku effortlessly. Each method has its cons and pros; however, if you do not own a tv and want to share your android screen on a larger screen with your friends. For this purpose, MirrorGo is the finest option as it permits users to cast an android screen to the laptop and allows users to control their android device through a keyboard and mouse attached to the computer.
@@ -176,12 +150,6 @@ Yes, it is possible. Technology has made it possible that one can mirror Android
 
 The accelerated concentration on the mobile application by developers in the wake of the continuous accelerated mobile penetration has led to several applications being created. Most of them are amazing, and one only imagines the experience when emulated to a PC. Today that is now possible with several ways to run android applications on PC, the system was first used by developers to test their applications, and now everyone can enjoy the extended experience of applications taking full advantage of PC features. Several applications answer your burning question on how to use mobile apps on a PC. Here we look at some of the top-rated ones;
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/)
 
 Mirror your Xiaomi Redmi A2 deviceto your computer!
@@ -204,9 +172,6 @@ While there are many tools for android to android mirroring, this example will u
 - • A tablet running Android 2.3+
 - • A smartphone running Android 2.3+
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Part 3. How to install ScreenShare Applications
 
 Installing the browser on your android devices that you want to mirror.
@@ -216,11 +181,6 @@ Installing the browser on your android devices that you want to mirror.
 
 After the installation is successful, it then means you can use the ScreenShare connection.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Part 4.Android to android mirroring through Bluetooth
 
 1\. Start your installed ScreenShare service on the two devices you want to mirror.
@@ -231,23 +191,6 @@ ScreenShare > Menu > ScreenShare service.
 
 3\. After setting to Bluetooth, Bluetooth paired devices will be displayed on ScreenShare service.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Android to android mirroring through Bluetooth](https://images.wondershare.com/drfone/others/mirror-android-to-android-pic1.jpg)
 
 4\. If one of the Xiaomi Redmi A2 devices that you want to mirror is a tablet, start with it. Find your smartphone name in the Paired Devices list in ScreenShare service. Select your phone name, then tap OK, so that the connection starts. The connection should start from your tablet.
@@ -266,8 +209,6 @@ After the above steps have been done successfully, your devices will have been m
 
 While ScreenShare has been used as an example here, there are many other tools you can use to get the same experience. Most of the tools can be downloaded online for free, while others are for a fee. Some of the most popular tools include; Air Playit, Optia, MirrorOp, PeerDeviceNet. Sampling the tools and getting the best that suits the experience you desire is also a good idea, or you can look up the reviews that have been written by other users, and you can pick one or two issues you like or dislike. Most, if not all the tools, have manuals that can even help you get started as they might defer a bit from the ScreenShare example given in this article.
 
-
-
 ## Process of Screen Sharing Xiaomi Redmi A2 to PC- Detailed Steps
 
 Currently, there are many companies where their employees work across different locations. For these teams, managing work between all members can get complex, and having to continually send files via email to all members. This can get tiring and complex to handle long term.
@@ -278,9 +219,6 @@ In this context, you can use a capable remote access software like TeamViewer to
 
 Read on to learn more about this software and how to screen share Android devices to it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![screen sharing android screen to pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-1.jpg)
 
 ## Part 1. What is TeamViewer?
@@ -313,18 +251,12 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 
 **Step 2:** If you do not have an account here, create a new one or log in.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![create a new account](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-3.jpg)
 
 **Step 3:** On the PC (Windows/Linux/macOS), visit the login page via any preferred browser > Sign into the account that you created.
 
 **Step 4:** A list of synced devices will appear. Tap the Connect button beside the Android device you share the screen from.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![tap the connect button](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-4.jpg)
 
 **Step 5:** The "Launch the TeamViewer" prompt will appear > Press OK. Before this, download and launch the app on your PC.
@@ -341,18 +273,6 @@ To correctly share the screen to PC, TeamViewer users can access it via Android 
 
 ![teamviewer app will appear on the pc](https://images.wondershare.com/drfone/article/2022/12/guide-on-using-teamviewer-to-successfully-screen-share-android-to-pc-5.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. TeamViewer Reviews - Pros & Cons & Ratings
 
 For screen sharing to PC, many companies globally turn to TeamViewer as their primary tool. Here's the average rating of the software from users' feedback.
@@ -407,7 +327,6 @@ It is simple to use, and the software allows smooth wireless screen mirroring fr
 
 TeamViewer is one of the best solutions users can use for professional remote team collaboration. The screen-sharing functionality is helpful for broadcasting content from an Android phone to a PC. For a more effortless experience, screen mirroring with [Dr.Fone Air](https://tools.techidaily.com/wondershare/drfone/ios-screen-mirror/) software works. So, you should consider that as well.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -420,7 +339,21 @@ TeamViewer is one of the best solutions users can use for professional remote te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/0plus-catchy-cooking-channel-names-to-attract-more-audience/"><u>[New] 80+ Catchy Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-potential-in-marketing-with-strategic-use-of-hash-tags-on-facebook/"><u>[New] Unlocking Potential in Marketing with Strategic Use of Hash Tags on Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-combating-content-id-blocks-on-youtube-with-knowledge/"><u>[Updated] 2024 Approved Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-setting-up-zoom-meetings-a-comprehensible-android-methodology/"><u>[Updated] Setting Up Zoom Meetings A Comprehensible Android Methodology</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-microsoft-edge-speeding-tips-for-windows-1011/"><u>Boosting Microsoft Edge: Speeding Tips for Windows 10/11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-s17mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo S17Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-idea-to-icon-making-the-list-of-top-fb-videos/"><u>In 2024, From Idea to Icon Making the List of Top FB Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-pop-8-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Pop 8 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-s24-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy S24 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-x6-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find X6 to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pros-choice-top-10-cameras-with-advanced-stabilization/"><u>In 2024, Pro's Choice Top 10 Cameras With Advanced Stabilization</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-motorola-moto-g13-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Motorola Moto G13 Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-simplified-social-syncing-from-instagram-to-facebook/"><u>In 2024, Simplified Social Syncing From Instagram To Facebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Open | Dr.fone</u></a></li>
+</ul></div>
 
